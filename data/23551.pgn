@@ -1,0 +1,13 @@
+[Event "knight people"]
+[Site "Chess.com"]
+[Date "2011.12.10"]
+[White "1.b3 Nimzo-Larsen Attack"]
+[Black "Kings of Chess (PWN)"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.Nf3 d5 {Thematic Game - This is the starting position.} 
+ 2.b3 Nc6 3.Bb2 Bg4 4.d4 Bxf3 5.exf3 Nf6 6.f4 e6 7.g3 Bd6 8.Bg2 O-O 9.O-O Re8 10.Nd2 Nd7
+ 11.c4 Nf6 12.Nf3 Be7 13.Ne5 Nxe5 14.fxe5 Nd7 15.cxd5 exd5 16.Bxd5 c6 17.Be4 f6 18.Qd3 g6 19.Bxg6 hxg6 20.Qxg6+ Kf8
+ 21.e6 Nb6 22.Qf7# 1-0

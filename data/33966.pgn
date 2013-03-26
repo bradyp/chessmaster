@@ -1,0 +1,14 @@
+[Event "Friendly Vote For Learning 960"]
+[Site "Chess.com"]
+[Date "2012.11.09"]
+[White "TEAM EUROPE"]
+[Black "Mohsen Club"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rknbrnbq/pppppppp/8/8/8/8/PPPPPPPP/RKNBRNBQ w KQkq - 0 1"]
+
+1.e4 g5 2.f3 e5 3.Nb3 Ne6 4.Ne3 Ne7 5.c3 c6 6.Bc2 Bc7 7.h4 f6 8.O-O-O O-O-O 9.hxg5 fxg5 10.d4
+ 1-0

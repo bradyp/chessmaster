@@ -1,0 +1,17 @@
+[Event "A Passion For Chess ... Open Seek"]
+[Site "Chess.com"]
+[Date "2011.11.22"]
+[White "A Passion For Chess ..."]
+[Black "Chess Friendship"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbkqnnbr/pppppppp/8/8/8/8/PPPPPPPP/RBKQNNBR w KQkq - 0 1"]
+
+1.c3 d5 2.f4 c6 3.g3 f6 4.Nd3 Nd6 5.Bd4 Ne6 6.Nc5 Nxc5 7.Bxc5 Bc7 8.Bd3 Bb6 9.Be3 f5 10.Qc2 Be6
+ 11.O-O-O Ne4 12.Bxe4 dxe4 13.b3 Qg8 14.d3 Bd5 15.Rg1 Kc7 16.c4 exd3 17.Qxd3 Be6 18.Qc3 Bxe3+ 19.Nxe3 Qf7 20.Qe5+ Kc8
+ 21.Nd5 cxd5 22.cxd5 Bd7 23.Qc3+ Kd8 24.Qa5+ b6 25.Qa6 Rc8+ 26.Kb1 Rc7 27.d6 exd6 28.Rxd6 Re8 29.Rc1 Rxc1+ 30.Kxc1 Ke7
+ 31.Rd3 Rc8+ 32.Kb1 Rc7 33.Qa3+ Ke8 34.Re3+ Kd8 35.Qd6 Kc8 36.Re7 Qf6 37.Qxf6 gxf6 38.Rxh7 Rc6 39.h4 Re6 40.h5 Rxe2
+ 41.h6 Rh2 42.Rh8+ Kc7 43.Rh7 Rh3 0-1

@@ -1,0 +1,11 @@
+[Event "Tactical Studies challenge"]
+[Site "Chess.com"]
+[Date "2009.02.06"]
+[White "Tactical Studies"]
+[Black "aabbccdd"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 c5 4.c3 b6 5.Bc4 cxd4 6.cxd4 Bb7 7.Nc3 e6 8.Be3 d6 9.O-O a6 10.a4 Nd7
+ 11.d5 1-0

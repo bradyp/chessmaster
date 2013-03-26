@@ -1,0 +1,14 @@
+[Event "You re so far away from me"]
+[Site "Chess.com"]
+[Date "2010.05.09"]
+[White "the magnificient"]
+[Black "TURK CHESS PLAYERS"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkbbrnqn/pppppppp/8/8/8/8/PPPPPPPP/RKBBRNQN w KQkq - 0 1"]
+
+1.e4 e5 2.f3 d6 3.d3 f5 4.exf5 Bxf5 5.Nhg3 Bd7 6.d4 Nhg6 7.Ne3 exd4 8.Nc4 Rxe1 9.Qxe1 Qxc4 10.Be2 Qc5
+ 11.Nf5 Bxf5 12.Bd3 Bxd3 13.cxd3 Qf5 14.Kc2 Ne6 15.Bd2 Qe5 0-1

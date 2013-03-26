@@ -1,0 +1,13 @@
+[Event "siva saravanan vs 7thSense Chess 960"]
+[Site "Chess.com"]
+[Date "2010.12.17"]
+[White "world admins"]
+[Black "7thSense Chess 960"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnbbkqnr/pppppppp/8/8/8/8/PPPPPPPP/RNBBKQNR w KQkq - 0 1"]
+
+1.e4 e5 2.f4 exf4 3.Qxf4 Nf6 4.Nc3 Nc6 5.Nf3 d6 6.O-O 1-0

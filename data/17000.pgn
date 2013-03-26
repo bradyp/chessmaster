@@ -1,0 +1,17 @@
+[Event "Chess960 Challenge"]
+[Site "Chess.com"]
+[Date "2010.08.06"]
+[White "Chess960 Society"]
+[Black "Central Command"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnrkbrqb/pppppppp/8/8/8/8/PPPPPPPP/NNRKBRQB w KQkq - 0 1"]
+
+1.g4 d5 2.Bxd5 Nb6 3.Bxb7 g6 4.c3 Nc6 5.Bxc8 Nxc8 6.f4 Bd7 7.d4 h5 8.h3 hxg4 9.hxg4 f5 10.g5 Nd6
+ 11.Nb3 Qe6 12.Nc5 Qxa2 13.Nd3 Ne4 14.Nd2 Nxd2 15.Bxd2 Na5 16.Nc5 Qxb2 17.Nxd7 Nb3 18.Rc2 Qa1+ 19.Bc1 Kxd7 20.Qe3 Qa4
+ 21.O-O Nxd4 22.Qd3 Qxc2 23.cxd4 Qxd3 24.exd3 Bxd4+ 25.Kg2 Rh8 26.Bd2 Rb8 27.Kf3 Rb2 28.Bc1 Rb1 29.Re1 a5 30.Ke2 a4
+ 31.Kd2 a3 32.Bxa3 Bc3+ 33.Kxc3 Rxe1 34.Kd4 Ke6 35.Bb4 Re2 36.Bc3 c6 37.Ba5 Kd6 38.Bb4+ Kd7 39.Ba3 e5+ 40.fxe5 f4
+ 41.Bc5 f3 42.Kc3 f2 43.Bxf2 Rxf2 44.d4 Rf5 45.Kc4 Rxg5 46.Kc5 Rf5 47.Kc4 g5 48.Kd3 g4 0-1

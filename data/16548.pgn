@@ -1,0 +1,15 @@
+[Event "Chess 960 Rocks!"]
+[Site "Chess.com"]
+[Date "2010.07.01"]
+[White "TURK CHESS PLAYERS"]
+[Black "Chess960 Masters"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnkqnbbr/pppppppp/8/8/8/8/PPPPPPPP/RNKQNBBR w KQkq - 0 1"]
+
+1.e4 e5 2.Nd3 Nc6 3.f3 g6 4.Nc3 f5 5.Qe2 fxe4 6.Nxe4 Nd6 7.g3 b6 8.O-O-O Bc4 9.Kb1 Bg7 10.b3 Be6
+ 11.Nxd6+ cxd6 12.Nb2 Qf6 13.c3 O-O 14.Bg2 d5 15.d4 exd4 16.cxd4 Bf5+ 17.Ka1 Nb4 18.a3 Rfe8 19.Qb5 Nc2+ 20.Ka2 a6
+ 21.Qxd5+ Be6 22.f4 Bxd5 23.Bxd5+ Kh8 24.Bxa8 Rxa8 25.Rc1 Qe7 26.Rxc2 Qe4 27.Rc1 Qxh1 28.Be3 Qxh2 29.g4 Re8 0-1

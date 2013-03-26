@@ -1,0 +1,13 @@
+[Event "chess on Open Seek"]
+[Site "Chess.com"]
+[Date "2013.02.05"]
+[White "THE EMPERORS OF CHESS"]
+[Black "chess on"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnnkbrqb/pppppppp/8/8/8/8/PPPPPPPP/RNNKBRQB w KQkq - 0 1"]
+
+1.g3 c6 2.Nc3 f5 3.f4 Bf7 4.Bf2 1-0

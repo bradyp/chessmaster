@@ -1,0 +1,16 @@
+[Event "CR&Ecirc;PE 2."]
+[Site "Chess.com"]
+[Date "2012.08.17"]
+[White "Standard &amp; Fischer"]
+[Black "Team Italia"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbnrkrqn/pppppppp/8/8/8/8/PPPPPPPP/BBNRKRQN w KQkq - 0 1"]
+
+1.c4 c5 2.b3 f6 3.f4 b6 4.Ng3 Ng6 5.e3 Nh4 6.e4 e6 7.d4 g5 8.f5 exf5 9.Nxf5 Nxf5 10.exf5 Kf7
+ 11.d5 Rfe8+ 12.Ne2 g4 13.g3 Qg5 14.Rd2 Be5 15.Bxe5 Rxe5 16.Kd1 Nd6 17.Qf2 Rde8 18.Nc3 Re3 19.Bd3 Rf3 20.Qg2 Qh5
+ 21.h3 Nxf5 22.Bxf5 Qxf5 23.Rxf3 gxf3 24.Qf2 h5 25.Kc1 a6 26.Na4 h4 27.g4 Qf4 28.Qxh4 Kg7 29.Nc3 b5 30.Kc2 b4
+ 31.Na4 Re3 32.Nxc5 Bxd5 33.cxd5 Rc3+ 34.Kd1 Rxc5 35.Qf2 Qc7 36.Qxf3 Rc1+ 37.Ke2 Qe5+ 38.Qe3 Re1+ 0-1

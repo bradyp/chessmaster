@@ -1,0 +1,13 @@
+[Event "Rapid Vote Chess960 (2days/move)"]
+[Site "Chess.com"]
+[Date "2010.07.16"]
+[White "TURK CHESS PLAYERS"]
+[Black "RAPID CHESS"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqknnrbb/pppppppp/8/8/8/8/PPPPPPPP/RQKNNRBB w KQkq - 0 1"]
+
+1.g3 g6 2.f4 f5 3.Nd3 c6 4.Nc3 Bxc3 5.bxc3 Bd5 6.Bxd5 cxd5 7.Qb4 1-0

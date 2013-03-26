@@ -1,0 +1,12 @@
+[Event "Queen's Gambit"]
+[Site "Chess.com"]
+[Date "2009.05.27"]
+[White "Chess Maniacs"]
+[Black "BakuganBattleBrawlers"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 {Thematic Game - This is the starting position.} 
+ e6 3.Nc3 dxc4 4.e4 Bb4 5.Bxc4 Nc6 6.Nf3 Bxc3+ 7.bxc3 Bd7 8.Ba3 Nf6 9.e5 Ne4 10.O-O Nxc3
+ 11.Qc2 Nd5 12.Bxd5 exd5 13.Qc5 Qe7 14.Qc3 Qe6 15.Ng5 O-O-O 16.Nxe6 Bxe6 17.Rab1 b6 18.Qxc6 Bd7 19.Qa8# 1-0

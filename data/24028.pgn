@@ -1,0 +1,14 @@
+[Event "modern benoni"]
+[Site "Chess.com"]
+[Date "2012.01.12"]
+[White "The Optimum"]
+[Black "Benoni Counter-Blast"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 {Thematic Game - This is the starting position.} 
+ 7.e4 Bg7 8.h3 O-O 9.Bd3 Nbd7 10.O-O a6
+ 11.a4 b6 12.Bf4 Qe7 13.Re1 Nh5 14.Bh2 Ne5 15.Be2 Bd7 16.Nd2 Qg5 17.Bxh5 Qxh5 18.Qxh5 gxh5 19.Bxe5 Bxe5 20.Nc4 b5
+ 21.Nxe5 dxe5 22.d6 bxa4 23.Nd5 f6 24.Rec1 Rab8 25.Rxc5 Kf7 26.Rc2 Ke6 27.Rd2 Rfc8 28.Nc7+ Kf7 29.f4 exf4 30.Rf1 Rb6
+ 31.Rxf4 Rcb8 32.e5 1-0

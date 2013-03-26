@@ -1,0 +1,10 @@
+[Event "just another vote game"]
+[Site "Chess.com"]
+[Date "2011.02.09"]
+[White "Team Azerbaijan"]
+[Black "Analyzers"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Nf6 5.d4 exd4 6.Qxd4 a6 7.Bxc6+ bxc6 8.e5 dxe5 9.Qxd8+ 1-0

@@ -1,0 +1,14 @@
+[Event "The h9-square Open Seek"]
+[Site "Chess.com"]
+[Date "2012.03.29"]
+[White "The h9-square"]
+[Black "Indian Marauders"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rknqrnbb/pppppppp/8/8/8/8/PPPPPPPP/RKNQRNBB w KQkq - 0 1"]
+
+1.f4 d5 2.g3 g6 3.Nb3 f5 4.e3 e5 5.d4 e4 6.Nfd2 Nd6 7.Qe2 a5 8.Bg2 a4 9.Nc5 b6 10.Na6+ Kb7
+ 11.Nb4 c5 12.dxc5 bxc5 13.Qb5+ Nxb5 0-1

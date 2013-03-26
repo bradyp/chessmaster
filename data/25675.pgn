@@ -1,0 +1,13 @@
+[Event "Chess Rockerz Open Seek"]
+[Site "Chess.com"]
+[Date "2012.03.17"]
+[White "Chess Rockerz"]
+[Black "The Chess Players Club: Study Files"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkrnbbnq/pppppppp/8/8/8/8/PPPPPPPP/RKRNBBNQ w KQkq - 0 1"]
+
+1.g3 Nc6 2.f4 1-0

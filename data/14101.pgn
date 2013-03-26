@@ -1,0 +1,16 @@
+[Event "COOL 960"]
+[Site "Chess.com"]
+[Date "2009.12.17"]
+[White "The Cool Boys &amp; Girls Chess Group"]
+[Black "CHRISTIAN CHESS WORLD"]
+[Result "1/2-1/2"]
+[TimeControl "1 in 3 days"]
+[Termination "Game drawn by agreement"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnnbkqbr/pppppppp/8/8/8/8/PPPPPPPP/RNNBKQBR w KQkq - 0 1"]
+
+1.f3 e5 2.e4 Nc6 3.Bf2 Bg5 4.Qd3 Nb6 5.O-O O-O-O 6.a3 h5 7.Nb3 d6 8.Nc3 f6 9.Bxb6 axb6 10.a4 Bxb3
+ 11.cxb3 Nd4 12.Rc1 c5 13.Nd5 h4 14.Nxb6+ Kb8 15.Nd5 h3 16.g3 g6 17.Nb6 Qh6 18.Rf2 Kc7 19.a5 Kb8 20.Nd5 Qg7
+ 21.b4 cxb4 22.f4 Bh6 23.a6 bxa6 24.fxe5 fxe5 25.Qxa6 Qb7 26.Qxb7+ Kxb7 27.Rc7+ Ka6 28.Nxb4+ Kb5 29.Nd5 Rhf8 30.Nc3+ Kb4
+ 31.Nd5+ 1/2-1/2

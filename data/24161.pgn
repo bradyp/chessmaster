@@ -1,0 +1,14 @@
+[Event "Chess960 Society vs Angry Mob (jp)"]
+[Site "Chess.com"]
+[Date "2012.01.20"]
+[White "ANGRY MOB"]
+[Black "Chess960 Society"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rknbqrbn/pppppppp/8/8/8/8/PPPPPPPP/RKNBQRBN w KQkq - 0 1"]
+
+1.e4 c5 2.f4 d6 3.d4 cxd4 4.Bxd4 f6 5.e5 fxe5 6.fxe5 Rxf1 7.Qxf1 Qf7 8.Bf3 Ng6 9.Qb5 Bb6 10.Nb3 Nh4
+ 0-1

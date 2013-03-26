@@ -1,0 +1,13 @@
+[Event "pickup game"]
+[Site "Chess.com"]
+[Date "2012.03.10"]
+[White "Team Azerbaijan"]
+[Black "The Annihilators"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbnkbnqr/pppppppp/8/8/8/8/PPPPPPPP/RBNKBNQR w KQkq - 0 1"]
+
+1.a4 c6 2.h4 f6 3.Ne3 Nb6 4.Nd3 1-0

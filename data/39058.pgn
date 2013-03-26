@@ -1,0 +1,10 @@
+[Event "Tarrasch Talkin"]
+[Site "Chess.com"]
+[Date "2013.03.16"]
+[White "*Check Mates*"]
+[Black "Tarrasch Defense"]
+[Result "*"]
+[TimeControl "1 in 3 days"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 {Thematic Game - This is the starting position.} 
+ 4.cxd5 exd5 *

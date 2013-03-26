@@ -1,0 +1,11 @@
+[Event "Rapid Vote Chess (2days/move)"]
+[Site "Chess.com"]
+[Date "2009.08.27"]
+[White "Rapid Chess"]
+[Black "Team Borislandia"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Bc5 4.Bc4 h6 5.O-O Nf6 6.d3 O-O 7.Nh4 d6 8.h3 Ng4 9.hxg4 Qxh4 10.g3 Qh3
+ 11.Qf3 Bxg4 12.Qg2 Qh5 13.Qh2 Bh3 14.Re1 Nd4 15.Bb3 Nf3+ 16.Kh1 Nxh2 17.Kxh2 Bxf2 18.Re2 Bf1# 0-1

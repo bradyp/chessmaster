@@ -1,0 +1,11 @@
+[Event "The Warriors of Chess.com vs Its Counterday"]
+[Site "Chess.com"]
+[Date "2012.04.19"]
+[White "The Warriors of Chess.com"]
+[Black "Its Counterday"]
+[Result "1-0"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 {Thematic Game - This is the starting position.} 
+ dxc4 3.e3 e6 4.Bxc4 Bb4+ 5.Nc3 Nf6 6.Nge2 a6 7.O-O 1-0

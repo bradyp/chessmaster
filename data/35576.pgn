@@ -1,0 +1,9 @@
+[Event "Chess"]
+[Site "Chess.com"]
+[Date "2012.12.31"]
+[White "The Q Continuum"]
+[Black "A fun Chess Club with 14 day time control"]
+[Result "*"]
+[TimeControl "1 in 7 days"]
+
+1.e4 e5 2.Nf3 f6 3.Nxe5 fxe5 4.Qh5+ Ke7 5.Qxe5+ Kf7 6.Bc4+ *

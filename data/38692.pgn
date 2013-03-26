@@ -1,0 +1,12 @@
+[Event "960 Vote Match #1"]
+[Site "Chess.com"]
+[Date "2013.03.09"]
+[White "960 Mafia"]
+[Black "TURK CHESS PLAYERS"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qrknrnbb/pppppppp/8/8/8/8/PPPPPPPP/QRKNRNBB w KQkq - 0 1"]
+
+1.g3 c5 2.f4 d6 3.b4 e6 4.bxc5 *

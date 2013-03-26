@@ -1,0 +1,16 @@
+[Event "Let's Vote 960 #2"]
+[Site "Chess.com"]
+[Date "2012.11.09"]
+[White "hWtei eTma"]
+[Black "klcBa amTe"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnrbnkrq/pppppppp/8/8/8/8/PPPPPPPP/BNRBNKRQ w KQkq - 0 1"]
+
+1.b3 c5 2.g3 Nc6 3.e3 e6 4.Nd3 b6 5.Bf3 Bf6 6.Nc3 d5 7.h4 Nd6 8.g4 h6 9.g5 hxg5 10.hxg5 Qxh1
+ 11.Bxh1 Bxc3 12.Bxc3 d4 13.Bb2 Nf5 14.c3 dxe3 15.dxe3 Rd8 16.O-O-O Ke7 17.c4 Nb4 18.Nxb4 cxb4 19.Bxa8 Rxa8 20.a3 a5
+ 21.axb4 axb4 22.Be5 f6 23.gxf6+ gxf6 24.Rxg8 Rxg8 25.Bc7 Rg2 26.Bxb6 Rxf2 27.e4 Rf3 28.exf5 Rxb3 29.Bd8+ Kf7 30.Rd7+ Ke8
+ 31.fxe6 Rc3+ 32.Kb2 Rxc4 33.Bxf6 Rc8 34.Rh7 1-0

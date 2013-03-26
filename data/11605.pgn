@@ -1,0 +1,11 @@
+[Event "Rapid Vote Chess (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.08.04"]
+[White "The Sicilian Defence Fan Club"]
+[Black "Rapid Chess"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.a3 d6 5.O-O Nf6 6.d3 Bg4 7.Bg5 h6 8.Bxf6 Qxf6 9.Nc3 Nd4 10.Nd5 Qd8
+ 11.h3 Bxf3 12.gxf3 c6 13.Nc3 Qf6 14.Ne2 Nxf3+ 15.Kh1 Qh4 16.Bxf7+ Kxf7 17.c3 Qxh3# 0-1

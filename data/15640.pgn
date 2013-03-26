@@ -1,0 +1,14 @@
+[Event "Traxler Challenge"]
+[Site "Chess.com"]
+[Date "2010.04.09"]
+[White "Chess Unlimited"]
+[Black "Traxler Analysis"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 {Thematic Game - This is the starting position.} 
+ 5.Nxf7 Bxf2+ 6.Kxf2 Nxe4+ 7.Kg1 Qh4 8.g3 Nxg3 9.Nxh8 Nd4 10.Nc3 d6
+ 11.Bf7+ Kd8 12.hxg3 Qxg3+ 13.Kf1 Bh3+ 14.Rxh3 Qxh3+ 15.Kf2 Qf5+ 16.Kg3 Qf4+ 17.Kg2 Qg5+ 18.Kh3 Qf5+ 19.Qg4 Qf1+ 20.Qg2 Qf5+
+ 21.Kh2 Nf3+ 22.Kh1 Ne1 23.Qg3 Qf1+ 24.Kh2 Nf3+ 25.Qxf3 Qxf3 26.d3 Qf2+ 27.Kh1 Kd7 28.Ne4 Qxc2 29.Bb3 Qxd3 30.Nc5+ dxc5
+ 31.Nf7 Qf1+ 32.Kh2 Re8 33.Ng5 e4 34.Bd5 e3 35.b3 Qf4+ 36.Kg1 Qxg5+ 37.Bg2 Re6 38.Kh2 Qf4+ 39.Kg1 Qf2+ 0-1

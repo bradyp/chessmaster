@@ -1,0 +1,13 @@
+[Event "Andropov vs Chess960 Society"]
+[Site "Chess.com"]
+[Date "2011.01.29"]
+[White "Chess960 Society"]
+[Black "andropov"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnqbrkrn/pppppppp/8/8/8/8/PPPPPPPP/BNQBRKRN w KQkq - 0 1"]
+
+1.c4 c5 2.b3 e5 3.Bc3 1-0

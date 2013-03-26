@@ -1,0 +1,18 @@
+[Event "October's 960 Vote Chess"]
+[Site "Chess.com"]
+[Date "2011.10.09"]
+[White "Earth, Air, Fire, Water"]
+[Black "October"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brkbnrqn/pppppppp/8/8/8/8/PPPPPPPP/BRKBNRQN w KQkq - 0 1"]
+
+1.b3 b6 2.Ng3 f5 3.f4 e6 4.e3 Nf7 5.Be2 Bb7 6.Bf3 d5 7.Bb2 Bf6 8.Nd3 g5 9.fxg5 Qxg5 10.Nf4 Bxb2+
+ 11.Rxb2 Qe7 12.d4 O-O-O 13.Kb1 Ned6 14.c3 Ng5 15.Be2 Nge4 16.Rc2 Nxg3 17.hxg3 Ne4 18.Qh2 e5 19.dxe5 Qxe5 20.Rfc1 Rf7
+ 21.Bh5 Rg7 22.Ne2 Nxg3 23.Nxg3 Qxg3 24.Qxg3 Rxg3 25.Bf3 Re8 26.Re2 f4 27.Rce1 Ba6 28.Rd2 fxe3 29.Rxd5 Bb7 30.Rh5 Re7
+ 31.Bxb7+ Kxb7 32.Re2 Reg7 33.Rh2 Rf7 34.Kc2 Kc6 35.Kd3 Rd7+ 36.Kc2 Kd5 37.c4+ Ke4 38.Rh4+ Kf5 39.Rh5+ Kg4 40.Rd5 Rxd5
+ 41.cxd5 Kf4 42.Kd3 Rg5 43.Rxe3 Rxd5+ 44.Ke2 Re5 45.Rxe5 Kxe5 46.Ke3 c5 47.a3 b5 48.Kd3 h5 49.Ke3 c4 50.bxc4 bxc4
+ 51.a4 h4 52.Kf3 c3 53.Ke2 Kf4 54.Kd3 Kg3 55.Kxc3 Kxg2 56.Kc4 h3 57.Kb5 h2 58.Ka6 h1=Q 59.Kxa7 Qa1 0-1

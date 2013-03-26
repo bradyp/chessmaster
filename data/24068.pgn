@@ -1,0 +1,11 @@
+[Event "hello"]
+[Site "Chess.com"]
+[Date "2012.01.15"]
+[White "WE ARE ADMIN"]
+[Black "THE POWER OF CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.c4 e5 2.d3 Nf6 3.Nc3 Nc6 4.e4 Bc5 5.Bg5 O-O 6.Nf3 h6 7.Bxf6 Qxf6 8.Be2 d6 9.O-O Nd4 10.Nd5 Nxf3+
+ 0-1

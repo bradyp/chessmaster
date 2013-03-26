@@ -1,0 +1,15 @@
+[Event "vamos divertir"]
+[Site "Chess.com"]
+[Date "2009.08.27"]
+[White "Artistas de Portugal"]
+[Black "The Brain Strainers of Chess.com!"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbnrknrq/pppppppp/8/8/8/8/PPPPPPPP/BBNRKNRQ w KQkq - 0 1"]
+
+1.b4 b5 2.Nb3 Ne6 3.Ne3 Nb6 4.O-O-O d6 5.d4 Rc8 6.d5 Nf4 7.Rge1 Nfxd5 8.Nxd5 Nxd5 9.g3 c6 10.a3 e5
+ 11.e4 Nf6 12.Qf3 O-O 13.g4 h5 14.g5 Nd7 15.Rg1 c5 16.Qh3 d5 17.Qxd7 Bc6 18.Qh3 dxe4 19.Nxc5 Qh7 20.g6 fxg6
+ 21.Ba2+ Kh8 22.Bf7 Qh6+ 23.Kb1 Rxf7 24.Qxc8+ Kh7 25.Rd8 g5 26.Rh8+ 1-0

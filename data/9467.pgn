@@ -1,0 +1,12 @@
+[Event "bananas vs Monk"]
+[Site "Chess.com"]
+[Date "2009.04.13"]
+[White "Monk"]
+[Black "bananas"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Bc5 5.Bxc6 dxc6 6.d3 Bg4 7.Nbd2 O-O 8.Qe1 Qd7 9.Nxe5 Qe6 10.Ndf3 b5
+ 11.c3 Rab8 12.d4 Bd6 13.Ng5 Qe7 14.Nxc6 Qe8 15.Nxb8 Qxb8 16.e5 Be7 17.f3 Bf5 18.exf6 Bxf6 19.Ne4 Re8 20.Nxf6+ gxf6
+ 21.Qg3+ Bg6 22.Bh6 Re2 23.Rf2 Rxf2 24.Kxf2 f5 25.Qe5 a5 26.Qg7# 1-0

@@ -1,0 +1,11 @@
+[Event "Bent Rules"]
+[Site "Chess.com"]
+[Date "2010.09.13"]
+[White "1.b3 Nimzo-Larsen Attack"]
+[Black "Elite Chess"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.b3 {Thematic Game - This is the starting position.} 
+ e6 2.Bb2 1-0

@@ -1,0 +1,15 @@
+[Event "May The Better Team Win ! .. Chess 960"]
+[Site "Chess.com"]
+[Date "2011.05.07"]
+[White "CHRISTIAN CHESS WORLD"]
+[Black "Total Random Team"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbnkbrnq/pppppppp/8/8/8/8/PPPPPPPP/RBNKBRNQ w KQkq - 0 1"]
+
+1.e4 g5 2.c3 c5 3.g4 e6 4.Nce2 Nge7 5.f4 gxf4 6.Nxf4 e5 7.Nd5 Nxd5 8.exd5 f6 9.Bf2 d6 10.Bf5 h5
+ 11.Nf3 hxg4 12.Bxg4 f5 13.Ng5 fxg4 14.Ne6+ Ke7 15.Nxf8 Kxf8 16.Bxc5+ Bf7 17.Be3 Ne7 18.c4 Ke8 19.Qg1 Qg7 20.a4 Qh7
+ 21.O-O-O Bh5 22.Rde1 Qd3 0-1

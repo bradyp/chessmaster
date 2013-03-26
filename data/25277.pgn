@@ -1,0 +1,17 @@
+[Event "Chess 960 Moves"]
+[Site "Chess.com"]
+[Date "2012.03.09"]
+[White "Team Azerbaijan"]
+[Black "It's Your Move ..."]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnkbbqnr/pppppppp/8/8/8/8/PPPPPPPP/RNKBBQNR w KQkq - 0 1"]
+
+1.a4 e5 2.h4 d5 3.f4 e4 4.a5 a6 5.e3 Bf6 6.d3 Nc6 7.dxe4 dxe4 8.Nd2 Qc5 9.Qe2 Nb4 10.Nxe4 Qd5
+ 11.Nxf6 Nxf6 12.Bxb4 Bb5 13.Qf3 O-O-O 14.Qxd5 Nxd5 15.Bd2 Bc6 16.Nf3 Nf6 17.Ra3 Ne4 18.Nd4 Nf2 19.Nxc6 bxc6 20.Rg1 Ne4
+ 21.Rd3 Rxd3 22.cxd3 Nd6 23.Ba4 Nb5 24.b4 Kd7 25.g4 Re8 26.Bxb5 cxb5 27.e4 Re6 28.f5 Rd6 29.Rg3 g6 30.Kc2 h6
+ 31.Bxh6 gxf5 32.Bf4 Rc6+ 33.Kd2 fxe4 34.h5 exd3 35.Rxd3+ Ke7 36.h6 Rg6 37.h7 Rxg4 38.h8=Q Rxf4 39.Qe5+ Kf8 40.Rd8#
+ 1-0

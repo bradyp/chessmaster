@@ -1,0 +1,11 @@
+[Event "two teams with a lot of admins"]
+[Site "Chess.com"]
+[Date "2009.05.13"]
+[White "Jokers"]
+[Black "WE ARE ADMIN"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Qf3 f6 3.Nc3 Nc6 4.Nh3 Nh6 5.Bc4 Nd4 6.Qh5+ g6 7.d3 gxh5 8.Nd5 Nxc2+ 9.Kd1 Nxa1 10.Bxh6 Bxh6
+ 11.b3 c6 12.Ne3 d6 13.Nf5 Bxf5 14.exf5 d5 15.Ke2 dxc4 16.f3 Qxd3+ 17.Ke1 Be3 0-1

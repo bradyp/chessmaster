@@ -1,0 +1,17 @@
+[Event "A Little Change"]
+[Site "Chess.com"]
+[Date "2010.08.14"]
+[White "Galatasaray"]
+[Black "Wallyjack's Premium Members Group"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbnrqnkr/pppppppp/8/8/8/8/PPPPPPPP/BBNRQNKR w KQkq - 0 1"]
+
+1.d4 d5 2.b3 b6 3.c4 dxc4 4.bxc4 c5 5.d5 Nd6 6.Qc3 f6 7.h4 Qh5 8.Ng3 Qg4 9.Bd3 Ng6 10.Nf1 Nf4
+ 11.Ne3 Qh5 12.Bc2 e6 13.g3 Nxe2+ 14.Nxe2 Qxe2 15.h5 exd5 16.cxd5 O-O-O 17.Re1 Qb5 18.a4 Qd7 19.Rh4 Bc7 20.a5 Bb7
+ 21.Bb2 Qb5 22.axb6 axb6 23.Ba4 Qa6 24.Ra1 Qe2 25.Bd1 Qb5 26.Qc2 Nf7 27.Be2 Qe8 28.Re4 Qf8 29.Bg4+ Kb8 30.Qa4 Bd6
+ 31.Qa7+ Kc7 32.Ra6 Ra8 33.Qxb6+ Kb8 34.Rxa8+ Kxa8 35.Ra4+ Kb8 36.Qa7+ Kc7 37.Bc3 Be7 38.Ba5+ Kd6 39.Qb6+ Ke5 40.Bc3#
+ 1-0

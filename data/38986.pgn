@@ -1,0 +1,11 @@
+[Event "The Warriors vs Hangame chess"]
+[Site "Chess.com"]
+[Date "2013.03.15"]
+[White "The Warriors of Chess.com"]
+[Black "Hangame chess"]
+[Result "0-1"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 {Thematic Game - This is the starting position.} 
+ e6 3.Nc3 c6 4.cxd5 cxd5 0-1

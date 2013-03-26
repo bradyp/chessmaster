@@ -1,0 +1,15 @@
+[Event "test"]
+[Site "Chess.com"]
+[Date "2008.09.19"]
+[White "Chess Spartans"]
+[Black "Animal Lovers"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 exd4 5.O-O c6 6.Bc4 Bc5 7.Bxf7+ Kxf7 8.Qh5+ g6 9.Qxc5 Nf6 10.Qxd4 Qa5
+ 11.d3 d6 12.Qxd6 Rd8 13.Qg3 Nh5 14.Qf3+ Kg8 15.Bd2 Qb6 16.Bc3 Be6 17.Nd2 Rf8 18.Qe3 Qc7 19.Qh6 Rf7 20.Nf3 Raf8
+ 21.Ng5 Re7 22.Nxe6 Rxe6 23.Rae1 b5 24.Re3 Ree8 25.Rg3 Nxg3 26.hxg3 c5 27.d4 Rxe4 28.dxc5 b4 29.Bd2 Qxc5 30.c3 a5
+ 31.cxb4 axb4 32.Be3 Qd5 33.a3 bxa3 34.bxa3 Rc8 35.Rb1 Qh5 36.Qxh5 gxh5 37.Rb5 h4 38.gxh4 Ra4 39.Bc5 Rxh4 40.g3 Rh5
+ 41.a4 Rhxc5 42.Rb4 Rc4 43.Rxc4 Rxc4 44.a5 Ra4 45.f4 Rxa5 46.Kg2 Kf7 47.Kf3 Ra3+ 48.Kg4 Kf6 49.f5 Ra4+ 50.Kh5 Kxf5
+ 51.Kh6 Rg4 52.Kxh7 Rxg3 53.Kh6 Rg1 54.Kh7 Kf6 55.Kh8 Kf7 56.Kh7 Rh1# 0-1

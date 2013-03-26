@@ -1,0 +1,15 @@
+[Event "Chess n' Cappuccino vs Sumatran Tiger"]
+[Site "Chess.com"]
+[Date "2012.05.23"]
+[White "Sumatran Tiger"]
+[Black "Chess n' Cappuccino"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qrbbnknr/pppppppp/8/8/8/8/PPPPPPPP/QRBBNKNR w KQkq - 0 1"]
+
+1.b4 b5 2.a4 Nd6 3.Bb2 Nf6 4.Nd3 c6 5.Nc5 a5 6.Bxf6 exf6 7.Nf3 axb4 8.Rxb4 Be7 9.Rb1 Qa7 10.Nd3 g5
+ 11.Nxg5 bxa4 12.Rxb8 Qxb8 13.h4 a3 14.e3 a2 15.Nxh7+ Rxh7 16.Qxa2 Ne4 17.Ke2 d5 18.Nf4 Qb5+ 19.Ke1 Bb4 20.c3 Nxc3
+ 21.Qa8 Qa6 22.Qb8 c5 23.f3 Nxd1 24.Kxd1 Kg7 25.Rh2 Qa1+ 26.Ke2 Qb2 27.g4 Qxd2+ 28.Kf1 Ba6+ 0-1

@@ -1,0 +1,17 @@
+[Event "Rapid Vote Chess960 (1day/move,JP)"]
+[Site "Chess.com"]
+[Date "2010.03.13"]
+[White "Team Dalmatia"]
+[Black "RAPID CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkbbnnqr/pppppppp/8/8/8/8/PPPPPPPP/RKBBNNQR w KQkq - 0 1"]
+
+1.d4 d5 2.Ne3 f5 3.Nd3 Ng6 4.b3 e6 5.Bb2 Bf6 6.Nc5 b6 7.Nd3 Bb7 8.g4 Nh4 9.g5 Be7 10.Ne5 Kc8
+ 11.Qg3 Ng6 12.h4 Nxe5 13.Qxe5 Bd6 14.Nxf5 exf5 15.Qxf5+ Kb8 16.e3 g6 17.Qh3 Ng7 18.Bg4 Qe8 19.a4 a5 20.Bd7 Qe4
+ 21.Ka2 Qxc2 22.f4 Ka7 23.Rhc1 Qe4 24.Rc3 Bc8 25.Bxc8 Raxc8 26.Rac1 Nf5 27.Re1 Bb4 28.Rcc1 Bxe1 29.Rxe1 c6 30.Ba3 Ka6
+ 31.Re2 Nxd4 32.Rd2 Nf5 33.Bb2 Rhd8 34.Bf6 Re8 35.Qf1+ Ka7 36.Be5 Nxh4 37.Qe2 Nf3 38.Rd3 Nxe5 39.Rd4 Qf3 40.Qd2 Nd7
+ 41.Rd3 Nc5 42.Rc3 Ne4 0-1

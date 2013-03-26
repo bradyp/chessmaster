@@ -1,0 +1,13 @@
+[Event "&lt;&lt;&lt;&lt; Robotic Chess &gt;&gt;&gt;&gt; vs workshop"]
+[Site "Chess.com"]
+[Date "2012.03.15"]
+[White "workshop"]
+[Black "&lt;&lt;&lt;&lt; Robotic Chess &gt;&gt;&gt;&gt;"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.d4 Nf6 2.Nf3 d5 3.g3 e6 4.Bg2 Be7 5.c4 O-O 6.O-O dxc4 7.Qc2 a6 8.Qxc4 b5 9.Qc2 Bb7 10.Bd2 Be4
+ 11.Qc1 Qd5 12.Nc3 Qb7 13.Nxe4 Qxe4 14.Ng5 Qxe2 15.Bxa8 c6 16.Bf4 Nbd7 17.Bxc6 h6 18.Re1 Qd3 19.Nxe6 fxe6 20.Bxd7 Nxd7
+ 21.Qc7 Rd8 22.Rxe6 Bf6 23.Rxf6 Nxf6 24.Qxd8+ Kh7 25.Be5 Ng4 26.Bxg7 Kxg7 27.Re1 Qf3 28.Re7+ Kg6 29.Qe8+ Kg5 30.Rg7+ Kf6
+ 31.Qg6# 1-0

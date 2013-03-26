@@ -1,0 +1,15 @@
+[Event "Need More Points ... Chess 960"]
+[Site "Chess.com"]
+[Date "2011.03.26"]
+[White "A Passion For Chess ..."]
+[Black "The Killer Derivatives"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbrnqkbr/pppppppp/8/8/8/8/PPPPPPPP/NBRNQKBR w KQkq - 0 1"]
+
+1.e4 c5 2.c4 f6 3.f3 Nb6 4.d3 Bf4 5.Be3 Ne6 6.g3 Bxe3 7.Nxe3 Nd4 8.O-O e6 9.Nac2 Nxc2 10.Bxc2 d5
+ 11.Qa5 Qc6 12.cxd5 exd5 13.Bb1 d4 14.Nf5 Be6 15.Nxd4 Qd6 16.Nxe6+ Qxe6 17.Qxa7 Qc6 18.Qa5 Kf7 19.d4 c4 20.Rfd1 Rhd8
+ 21.Qb4 Nd7 22.a4 b6 23.d5 Qc7 24.Ba2 Ne5 25.f4 1-0

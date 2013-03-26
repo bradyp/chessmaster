@@ -1,0 +1,10 @@
+[Event "for the world vs Bad Bishop"]
+[Site "Chess.com"]
+[Date "2010.06.18"]
+[White "for the world"]
+[Black "Bad Bishop"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.d4 d5 2.c4 c5 3.cxd5 Qxd5 4.Nc3 Qxd4 5.Qxd4 cxd4 6.Nb5 Nc6 7.Nc7+ Kd8 8.Nxa8 Bf5 9.Nf3 1-0

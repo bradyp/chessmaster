@@ -1,0 +1,15 @@
+[Event "Gruenfeld Defense"]
+[Site "Chess.com"]
+[Date "2012.09.10"]
+[White "Learning with Fun"]
+[Black "FIVE for FIGHTING"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 {Thematic Game - This is the starting position.} 
+ 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 O-O 8.Be2 c5 9.O-O Nc6 10.d5 Ne5
+ 11.Nxe5 Bxe5 12.Bh6 Re8 13.Rc1 Qd6 14.f4 Bh8 15.e5 Qb6 16.c4 Bf5 17.Bf3 Rad8 18.e6 Bxe6 19.dxe6 Rxd1 20.exf7+ Kxf7
+ 21.Rcxd1 Bd4+ 22.Kh1 Qa6 23.f5 Kg8 24.Bd5+ Kh8 25.Bf7 Rd8 26.fxg6 hxg6 27.Rd3 Qxa2 28.Rh3 Qe2 29.Bf8+ Qh5 30.Rxh5+ gxh5
+ 31.Bxe7 Ra8 32.Bxh5 Bg7 33.Bxc5 b6 34.Ba3 Rd8 35.Rd1 Rc8 36.Bf7 Rc7 37.Be6 Rc6 38.Rd8+ Kh7 39.Bf5+ Kh6 40.Bc1+ Kh5
+ 41.Rd3 Rxc4 42.Rh3+ Rh4 43.g4# 1-0

@@ -1,0 +1,15 @@
+[Event "World-Team 54 960!!!"]
+[Site "Chess.com"]
+[Date "2010.10.20"]
+[White "world chess players"]
+[Black "Team 54"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqbnknrb/pppppppp/8/8/8/8/PPPPPPPP/RQBNKNRB w KQkq - 0 1"]
+
+1.e4 Nfe6 2.Nfe3 O-O 3.g3 g6 4.c3 Bg7 5.d4 c6 6.d5 cxd5 7.exd5 Nc5 8.O-O d6 9.f4 b5 10.Bd2 a6
+ 11.b4 Nd7 12.a4 Bb7 13.axb5 axb5 14.Nf2 Nb6 15.Qd3 Na4 16.f5 Bc8 17.fxg6 fxg6 18.Be4 Nf7 19.Rab1 Ne5 20.Qc2 Nf3+
+ 21.Kg2 Nxd2 22.Qxd2 Nxc3 23.Rbc1 Rxf2+ 24.Qxf2 Nxe4 25.Qf7+ Kh8 26.Qe8+ 1-0

@@ -1,0 +1,13 @@
+[Event "Tactic tricky chess"]
+[Site "Chess.com"]
+[Date "2013.01.20"]
+[White "Chess960 Players Group"]
+[Black "Team Romania"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnrbbqkr/pppppppp/8/8/8/8/PPPPPPPP/NNRBBQKR w KQkq - 0 1"]
+
+1.e4 e5 2.d3 Bg5 3.Bd2 Qe7 4.Nb3 Nc6 5.f4 exf4 6.Bxf4 Nb6 7.Bg4 h5 8.Be2 d6 9.Nc3 Bd7 10.Qf2 Bxf4
+ 11.Qxf4 Qe5 12.O-O Be6 13.Rcd1 Qxf4 14.Rxf4 g5 15.Rf2 O-O-O 16.d4 *

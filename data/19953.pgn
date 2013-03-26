@@ -1,0 +1,11 @@
+[Event "The Sicilian 1"]
+[Site "Chess.com"]
+[Date "2011.03.23"]
+[White "Anti-Sicilians"]
+[Black "* The Dream Team *"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 c5 {Thematic Game - This is the starting position.} 
+ 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Nb3 Bb4 0-1

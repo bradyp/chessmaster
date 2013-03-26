@@ -1,0 +1,13 @@
+[Event "Traxler Challenge"]
+[Site "Chess.com"]
+[Date "2010.01.18"]
+[White "Kairav's Chess Masters"]
+[Black "Traxler Analysis"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 {Thematic Game - This is the starting position.} 
+ 5.Nxf7 Bxf2+ 6.Kf1 Qe7 7.Nxh8 d5 8.exd5 Nd4 9.Kxf2 Bg4 10.Qf1 Ne4+
+ 11.Ke3 Qg5+ 12.Kxe4 Bf5+ 13.Kxe5 O-O-O 14.Kxd4 Qf6+ 15.Ke3 Re8+ 16.Kf2 Bd3+ 17.Kg3 Qg5+ 18.Kh3 h5 19.Qf3 Bf5+ 20.Qxf5+ Qxf5+
+ 21.Kg3 h4+ 22.Kxh4 g5+ 23.Kg3 Qf4+ 24.Kh3 Rxh8# 0-1

@@ -1,0 +1,14 @@
+[Event "Gonzaga Open Seek"]
+[Site "Chess.com"]
+[Date "2012.12.11"]
+[White "Chess Team Holland"]
+[Black "Gonzaga"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnrkrbqn/pppppppp/8/8/8/8/PPPPPPPP/BNRKRBQN w KQkq - 0 1"]
+
+1.Ng3 b6 2.e4 Ng6 3.b3 d5 4.Bd3 e6 5.exd5 Bxd5 6.Nc3 Ba3 7.Rb1 Nf4 8.Be4 O-O-O 9.Bb2 Bxb2 10.Rxb2 Qf8
+ 11.Nb5 Nc6 12.f3 Qb4 13.Nc3 Qa3 14.Kc1 a5 15.Nge2 Nxe2+ 16.Rxe2 Bxe4 17.Rxe4 Qd6 18.d3 f5 19.Re1 Nd4 20.Nd1 e5
+ 21.Ne3 g6 22.Nc4 Qc5 23.c3 Ne6 24.Rd2 Qxg1 25.Rxg1 Nf4 *

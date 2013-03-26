@@ -1,0 +1,11 @@
+[Event "Powered by Ponziani"]
+[Site "Chess.com"]
+[Date "2013.01.20"]
+[White "Ponziani Power"]
+[Black "The Others"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+
+1.e4 e5 2.Nf3 Nc6 3.c3 {Thematic Game - This is the starting position.} 
+ f5 4.d4 fxe4 5.Nxe5 Nf6 6.Bg5 d6 7.Nxc6 bxc6 8.Nd2 d5 9.f3 Be7 10.fxe4 O-O
+ 11.e5 Rb8 12.Nf3 Ng4 13.Bc1 c5 14.Bd3 cxd4 15.cxd4 c5 16.O-O cxd4 17.Qe2 Qb6 18.Bg5 Re8 *

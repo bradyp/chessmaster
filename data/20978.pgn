@@ -1,0 +1,14 @@
+[Event "Chess Master vs Chess Destination"]
+[Site "Chess.com"]
+[Date "2011.06.20"]
+[White "Chess Master"]
+[Black "Chess Destination"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 O-O 7.h3 a6 8.Bg5 h6 9.Bh4 g5 10.Nxg5 hxg5
+ 11.Bxg5 Kg7 12.Qf3 Ba7 13.Qg3 Nh5 14.Qh4 f6 15.Nd2 fxg5 16.Qxh5 Qf6 17.Nf3 g4 18.hxg4 Rh8 19.Qg5+ Qxg5 20.Nxg5 Bxg4
+ 21.Ne6+ Bxe6 22.Bxe6 Rh6 23.Bh3 Rf8 24.Bf5 Ne7 25.Bh3 Ng6 26.Bf5 Rfh8 27.g3 Ne7 28.g4 Nxf5 29.gxf5 Kf6 30.Kg2 Rg8+
+ 31.Kf3 Rh3+ 32.Ke2 Rh2 33.Rad1 Rgg2 34.d4 exd4 35.cxd4 c5 36.Kf3 cxd4 37.Rd3 Rh3+ 38.Ke2 Re3+ 39.Kd2 Rxe4 40.Rf3 Re3
+ 41.Rxe3 dxe3+ 42.Kd3 exf2 43.Ke2 Rg1 44.Rxf2 Bxf2 45.Kxf2 Rb1 0-1

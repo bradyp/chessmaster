@@ -1,0 +1,12 @@
+[Event "Chess960 RandomChess vs Powerful Pawns (jp)"]
+[Site "Chess.com"]
+[Date "2013.03.03"]
+[White "Chess960 RandomChess"]
+[Black "Powerful Pawns"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqnbknbr/pppppppp/8/8/8/8/PPPPPPPP/RQNBKNBR w KQkq - 0 1"]
+
+1.d4 c6 2.Nd3 d5 3.h3 Bc7 4.Bh2 Ne6 5.e3 Nd6 *

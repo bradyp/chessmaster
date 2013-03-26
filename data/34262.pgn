@@ -1,0 +1,15 @@
+[Event "BHARAT 960 Style-ii 2d/m"]
+[Site "Chess.com"]
+[Date "2012.11.19"]
+[White "Chess School"]
+[Black "भारत/ BHARAT"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brkbrnqn/pppppppp/8/8/8/8/PPPPPPPP/BRKBRNQN w KQkq - 0 1"]
+
+1.Nhg3 e5 2.e4 Ne6 3.b3 Ng6 4.Ne3 b6 5.Nc4 f6 6.Nf5 d5 7.exd5 Bxd5 8.Nce3 Bc6 9.d4 exd4 10.Bxd4 Ne7
+ 11.Bg4 Kb7 12.Bb2 Nxf5 13.Nxf5 Nf4 14.O-O-O g6 15.Ne3 f5 16.g3 fxg4 17.gxf4 h5 18.Nc4 Rxe1 19.Qxe1 Bh4 20.Ne5 Qe6
+ 21.Rd2 Re8 22.Qe3 Qf5 23.Qd4 Bg2 24.Nd3 Be4 25.Re2 c5 26.Qc3 Rd8 27.Rd2 Bxd3 28.cxd3 Qxf4 29.Qg7+ Ka6 30.Be5 Qf5
+ 31.f4 *

@@ -1,0 +1,11 @@
+[Event "FSVL 3 (TCP vs. Checkmate!)"]
+[Site "Chess.com"]
+[Date "2010.07.24"]
+[White "TURK CHESS PLAYERS"]
+[Black "Checkmate!"]
+[Result "1-0"]
+[TimeControl "1 in 0.0069444444444444 days"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 Be6
+ 11.O-O Qa5 12.Rab1 1-0

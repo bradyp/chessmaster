@@ -1,0 +1,13 @@
+[Event "Galactic Empire 960 Vote Chess Challenge"]
+[Site "Chess.com"]
+[Date "2012.07.31"]
+[White "PHILIPPINES' FINEST Chess Club"]
+[Black "Galactic Empire"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrkbbnrq/pppppppp/8/8/8/8/PPPPPPPP/NRKBBNRQ w KQkq - 0 1"]
+
+1.g4 e5 2.Nb3 Bf6 3.g5 Be7 4.Ne3 Ne6 5.h4 Nb6 6.c4 d6 7.Nf5 1-0

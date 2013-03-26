@@ -1,0 +1,13 @@
+[Event "960 democracy"]
+[Site "Chess.com"]
+[Date "2012.06.09"]
+[White "Black Wolf and Green Falcon"]
+[Black "Carpe Diem"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbbknrqn/pppppppp/8/8/8/8/PPPPPPPP/RBBKNRQN w KQkq - 0 1"]
+
+1.c4 c5 2.Nd3 b6 3.Ng3 g6 4.b3 f6 5.Bb2 f5 6.f4 Bb7 7.Nf2 Bxf4 8.e3 Bxg3 9.hxg3 Qe6 0-1

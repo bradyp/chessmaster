@@ -1,0 +1,13 @@
+[Event "Chess Bay960 Group Attack"]
+[Site "Chess.com"]
+[Date "2010.09.25"]
+[White "Chess Bay960"]
+[Black "CHESS SOCIETY"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrbbqkrn/pppppppp/8/8/8/8/PPPPPPPP/NRBBQKRN w KQkq - 0 1"]
+
+1.d4 e5 2.Qa5 a6 3.Qc5+ d6 4.Qa7 Bf5 5.Qxb8 1-0

@@ -1,0 +1,14 @@
+[Event "prepare to duo 960 style"]
+[Site "Chess.com"]
+[Date "2012.10.11"]
+[White "Second Amendment Rights"]
+[Black "Chess Bay"]
+[Result "*"]
+[TimeControl "1 in 3 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrqknrbb/pppppppp/8/8/8/8/PPPPPPPP/NRQKNRBB w KQkq - 0 1"]
+
+1.f4 Nb6 2.g4 f5 3.Nb3 fxg4 4.Nd3 g5 5.Be3 e5 6.fxe5 Rxf1+ 7.Ne1 Bxe5 8.Bg2 Rf8 9.Bxg5+ Bf6 10.Bxf6+ Nxf6
+ 11.d3 d6 12.Qe3 Re8 13.Qg5 Qe6 14.Nd4 Qe5 15.Qxe5 Rxe5 16.h3 h5 17.hxg4 hxg4 18.O-O-O O-O-O 19.c4 c5 20.Nb5 Rxe2
+ 21.Nxa7+ Kb8 22.Nb5 d5 23.Nc3 Rf2 24.cxd5 Nbxd5 25.d4 Ne3 26.Rd2 Rxd2 27.Kxd2 Nxg2 *

@@ -1,0 +1,15 @@
+[Event "Sci-Fi/Punk Scramble"]
+[Site "Chess.com"]
+[Date "2011.06.19"]
+[White "BORG Collective"]
+[Black "Punk Rock Chess Players"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qbrknrbn/pppppppp/8/8/8/8/PPPPPPPP/QBRKNRBN w KQkq - 0 1"]
+
+1.c4 c5 2.Ng3 a5 3.f4 f6 4.Be3 Nd6 5.b3 Nhf7 6.Nf3 Nh6 7.h3 b6 8.d4 e6 9.O-O g6 10.Qc3 f5
+ 11.dxc5 Ne8 12.cxb6 Nf6 13.Bd4 Ke7 14.Ng5 Ne8 15.e4 Nd6 16.Bg7 Ndf7 17.Qf6+ Ke8 18.exf5 Bd6 19.fxe6 Qc6 20.exf7+ Rxf7
+ 21.Rce1+ Be7 22.Rxe7+ Kd8 23.Re6+ Rxf6 24.Bxf6# 1-0

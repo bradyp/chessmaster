@@ -1,0 +1,12 @@
+[Event "FEUP"]
+[Site "Chess.com"]
+[Date "2010.04.13"]
+[White "The  best  moves"]
+[Black "FEUP"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qc4 Nf6 5.Bg5 Qb6 6.b3 Ne5 7.Qc3 Nxe4 8.Qe3 Qa5+ 9.c3 Nxg5 10.Qxg5 Nd3+
+ 11.Bxd3 Qxg5 12.g3 Qc1+ 13.Ke2 Qb2+ 14.Ke3 Qxa1 15.a3 e5 16.Ne2 Bxa3 17.Rg1 Bc5+ 18.Kf3 O-O 19.b4 Bb6 20.Nd2 Qa2
+ 21.Ne4 Qd5 22.h4 Qxd3+ 23.Kg2 Qxe4+ 24.Kf1 d6 25.g4 Bxg4 26.Ng3 Qf3 27.h5 Qxf2# 0-1

@@ -1,0 +1,14 @@
+[Event "Christmas 960"]
+[Site "Chess.com"]
+[Date "2012.12.09"]
+[White "Chess School"]
+[Black "India 960"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrnkqrbb/pppppppp/8/8/8/8/PPPPPPPP/NRNKQRBB w KQkq - 0 1"]
+
+1.f4 Nab6 2.g3 f5 3.Nab3 Bd5 4.Bxd5 Nxd5 5.Nd3 d6 6.Nd4 e5 7.fxe5 g6 8.e4 dxe5 9.exd5 exd4 10.Nc5 Qxe1+
+ 11.Rxe1 Re8 12.Rxe8+ Kxe8 13.Ne6 Nb6 14.Nxc7+ Kd7 15.Nb5 Nxd5 16.Nxd4 1-0

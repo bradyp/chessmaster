@@ -1,0 +1,12 @@
+[Event "chess 101 rules"]
+[Site "Chess.com"]
+[Date "2011.08.04"]
+[White "chess 101"]
+[Black "Queens and Kings"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 Nf6 2.c4 c5 3.d5 e5 4.Nc3 d6 5.e4 Be7 6.Bd3 O-O 7.h3 a6 8.Nf3 Nbd7 9.Be3 b6 10.a4 h6
+ 11.O-O Nh5 12.Qd2 Ndf6 13.a5 bxa5 14.Ne2 Rb8 15.Ra2 Bd7 16.Rb1 a4 17.Bc2 Rb4 18.Qc3 a5 19.Nh2 Nh7 20.g4 N5f6
+ 21.f4 exf4 22.Bxf4 Ne8 23.e5 dxe5 24.Qd3 f5 25.Bxe5 Ng5 26.Rf1 fxg4 27.Nxg4 Rxf1+ 28.Kxf1 Nc7 29.Nxh6+ 1-0

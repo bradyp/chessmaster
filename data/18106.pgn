@@ -1,0 +1,13 @@
+[Event "alekhine defense (you play white)"]
+[Site "Chess.com"]
+[Date "2010.11.05"]
+[White "Yellow-Blue Squad"]
+[Black "Galatasaray"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 Nf6 {Thematic Game - This is the starting position.} 
+ 2.Nc3 e5 3.Nh3 Nc6 4.d3 Bb4 5.Bd2 O-O 6.a3 Bxc3 7.Bxc3 d5 8.exd5 Nxd5 9.Qd2 Re8 10.O-O-O Nxc3
+ 11.Qxc3 Nd4 12.Qd2 Bxh3 13.gxh3 Qd5 14.Rg1 Nf3 15.Bg2 Qa2 16.c4 Nxd2 17.Kxd2 Qxb2+ 18.Ke1 e4 19.dxe4 Rad8 20.Bf3 Rxd1+
+ 21.Bxd1 Qc3+ 22.Kf1 Qxh3+ 23.Ke1 Rxe4+ 24.Be2 Qf3 25.Kf1 Rxe2 26.Rg2 Rc2 27.h4 Qd1# 0-1

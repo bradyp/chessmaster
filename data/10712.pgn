@@ -1,0 +1,13 @@
+[Event "FVCL"]
+[Site "Chess.com"]
+[Date "2009.06.30"]
+[White "Fast Players Group"]
+[Black "Chess Warriors"]
+[Result "0-1"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nxc6 bxc6 6.Nc3 Bb4 7.a3 Bxc3+ 8.bxc3 d5 9.f3 Be6 10.exd5 cxd5
+ 11.Bb5+ Kf8 12.O-O Qb6+ 13.Kh1 Qxb5 14.a4 Qc4 15.Ba3+ Ne7 16.Qb1 Qc7 17.Qe1 f6 18.f4 e4 19.f5 Bd7 20.c4 Qxc4
+ 21.Qb4 Qxb4 22.Bxb4 Kf7 23.g4 Nc6 24.Bd2 Ne5 25.h3 d4 26.Rab1 Rab8 27.Bf4 Rhc8 28.Rxb8 Rxb8 29.Rd1 e3 30.Rxd4 Rb1+
+ 31.Kg2 Bc6+ 32.Kg3 Rg1+ 33.Kh4 Nf3+ 34.Kh5 g6+ 35.fxg6+ hxg6+ 36.Kh6 Rh1 37.Kh7 Rxh3+ 38.Bh6 Ng5+ 39.Kh8 Rxh6# 0-1

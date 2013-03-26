@@ -1,0 +1,15 @@
+[Event "MOUSSE"]
+[Site "Chess.com"]
+[Date "2011.09.20"]
+[White "The King and Castle"]
+[Black "KingFischer"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkbqnbrn/pppppppp/8/8/8/8/PPPPPPPP/RKBQNBRN w KQkq - 0 1"]
+
+1.d4 d5 2.g4 g5 3.h3 Nd6 4.Nd3 h6 5.Bg2 e6 6.Ng3 Ng6 7.e3 b6 8.Bd2 Nc4 9.Be1 Bb7 10.Qe2 Qd7
+ 11.e4 Nf4 12.Nxf4 gxf4 13.exd5 exd5 14.Bc3 fxg3 15.fxg3 Bd6 16.O-O Bxg3 17.Rf3 Bh4 18.Raf1 Nd6 19.Bd2 h5 20.Rf4 Bg5
+ 0-1

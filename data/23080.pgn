@@ -1,0 +1,13 @@
+[Event "Can we be beaten?"]
+[Site "Chess.com"]
+[Date "2011.11.12"]
+[White "Chess School"]
+[Black "The Pirate Crew"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2 9.Rb1 Qa3 10.f5 Nc6
+ 11.fxe6 fxe6 12.Nxc6 bxc6 13.Be2 Be7 14.O-O O-O 15.Rb3 Qc5+ 16.Be3 Qe5 17.Bd4 Qa5 18.Bb6 Qe5 19.Bd4 Qa5 20.Be3 Qc7
+ 21.Bf3 e5 22.Rfb1 Be6 23.Rb7 Qd8 24.Qd3 Nd7 25.h3 Bg5 26.Bxg5 Qxg5 27.h4 Qxh4 28.Qxd6 Qh6 29.Re1 Rad8 30.Qxc6 Rxf3
+ 31.gxf3 Nb8 32.Qc7 Qg5+ 33.Kf2 Qh4+ 34.Kg2 Qh3+ 35.Kf2 Qh2+ 36.Ke3 Qd2# 0-1

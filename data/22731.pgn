@@ -1,0 +1,12 @@
+[Event "Mandelbrot game"]
+[Site "Chess.com"]
+[Date "2011.10.22"]
+[White "The Killer Derivatives"]
+[Black "Black Stallion"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 c6 3.Nc3 e6 4.e3 Nf6 5.Nf3 Bb4 6.Bd3 h6 7.O-O O-O 8.Qc2 dxc4 9.Bxc4 b5 10.Bd3 Bb7
+ 11.a3 Be7 12.Bd2 a6 13.b4 Nbd7 14.e4 Qc7 15.e5 Nd5 16.Nxd5 exd5 17.Bf5 Nb6 18.e6 fxe6 19.Bxe6+ Kh8 20.Ne5 Bf6
+ 21.Ng6+ 1-0

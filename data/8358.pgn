@@ -1,0 +1,10 @@
+[Event "TEENZ Open Seek"]
+[Site "Chess.com"]
+[Date "2009.02.06"]
+[White "TEENZ"]
+[Black "aabbccdd"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.f4 c5 2.e4 e6 3.Nf3 a6 4.d4 cxd4 5.Nxd4 Bc5 6.Nc3 Qb6 0-1

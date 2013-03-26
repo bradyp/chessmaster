@@ -1,0 +1,12 @@
+[Event "Fermat's Little Game"]
+[Site "Chess.com"]
+[Date "2012.09.10"]
+[White "Alekhine's Chess Club"]
+[Black "The Killer Derivatives"]
+[Result "*"]
+[TimeControl "1 in 3 days"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.Be3 Be6 10.f4 Qc7
+ 11.f5 Bc4 12.a4 Nbd7 13.a5 b5 14.axb6 Nxb6 15.Kh1 Rfc8 16.Ra2 d5 17.Bxb6 Qxb6 18.exd5 Bb4 19.Bxc4 Rxc4 20.Qe2 Rf4
+ 21.Rfa1 h5 22.h3 Qf2 23.Qxf2 Rxf2 24.Rxa6 Rxa6 25.Rxa6 Rxc2 26.Rb6 Bxc3 27.bxc3 Nxd5 28.Rb5 Nf4 29.Rxe5 Rxg2 30.Re3 Rf2
+ 31.c4 Rc2 32.c5 Nd5 *

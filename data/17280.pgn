@@ -1,0 +1,14 @@
+[Event "Random Chess.2"]
+[Site "Chess.com"]
+[Date "2010.08.27"]
+[White "CHRISTIAN CHESS WORLD"]
+[Black "caramel chess"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brnknbrq/pppppppp/8/8/8/8/PPPPPPPP/BRNKNBRQ w KQkq - 0 1"]
+
+1.e4 b5 2.g4 g6 3.b3 Ncd6 4.Bxh8 Rxh8 5.Ncd3 h5 6.Bg2 Nf6 7.e5 Bxg2 8.Qxg2 hxg4 9.exf6 exf6 10.Qxg4 Be7
+ 11.Nf3 f5 12.Qd4 Rh3 13.Rg3 Rxg3 14.fxg3 Ne4 15.Qh8+ 1-0

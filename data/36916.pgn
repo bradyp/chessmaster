@@ -1,0 +1,11 @@
+[Event "Elephant gambit"]
+[Site "Chess.com"]
+[Date "2013.01.27"]
+[White "Team Minnesota"]
+[Black "King's Gambit Research"]
+[Result "*"]
+[TimeControl "1 in 3 days"]
+
+1.e4 e5 2.Nf3 d5 {Thematic Game - This is the starting position.} 
+ 3.exd5 Bd6 4.d4 Nf6 5.dxe5 Qe7 6.Qe2 Bxe5 7.Qxe5 Qxe5+ 8.Nxe5 Nxd5 9.Bd3 O-O 10.O-O Be6
+ 11.Bd2 f6 *

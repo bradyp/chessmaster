@@ -1,0 +1,13 @@
+[Event "faster"]
+[Site "Chess.com"]
+[Date "2009.02.21"]
+[White "The Chess Champions!"]
+[Black "Fast Players Group"]
+[Result "1-0"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Qe2 Nxc4 7.Qxc4 Nxd5 8.Nc3 c6 9.d3 Be7 10.Nf3 Nb4
+ 11.Ne4 Be6 12.Qc3 f6 13.O-O O-O 14.Nc5 Bxc5 15.Qxc5 Na6 16.Qc3 Bd5 17.Ne1 Nc7 18.Be3 Nb5 19.Qd2 Qd7 20.c4 Bxc4
+ 21.dxc4 Nd4 22.Bxd4 exd4 23.Rd1 c5 24.Nd3 b6 25.b4 Rae8 26.bxc5 bxc5 27.Nxc5 Qd6 28.Qxd4 Qc6 29.Qd5+ Qxd5 30.cxd5 Re2
+ 31.d6 Rxa2 32.d7 Rd8 33.Ne6 Rxd7 34.Rxd7 h6 35.Rxg7+ Kh8 36.Rd1 Re2 37.Rd8# 1-0

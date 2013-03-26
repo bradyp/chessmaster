@@ -1,0 +1,12 @@
+[Event "Rapid Vote Chess (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.10.15"]
+[White "Rapid Chess"]
+[Black "Hypermodern Hangout"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Bc4 Nf6 5.Nc3 O-O 6.O-O Nc6 7.d5 Nb8 8.Bg5 c6 9.dxc6 Nxc6 10.Re1 Bg4
+ 11.h3 Bxf3 12.Qxf3 Rc8 13.Rad1 Ne5 14.Bxf7+ Rxf7 15.Qe3 Qa5 16.a3 Nc4 17.Qc1 Nxb2 18.Qxb2 Qxg5 19.Qxb7 Rxc3 20.Qxa7 Rxc2
+ 21.Qa4 Qc5 22.Re3 Rxf2 23.Kxf2 Ng4+ 24.Kg3 Qxe3+ 25.Kxg4 Qf4# 0-1

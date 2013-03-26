@@ -1,0 +1,15 @@
+[Event "960"]
+[Site "Chess.com"]
+[Date "2010.08.01"]
+[White "Vote Chess Assassins"]
+[Black "&lt;&lt;&lt;&lt; Robotic Chess &gt;&gt;&gt;&gt;"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qbrnbnkr/pppppppp/8/8/8/8/PPPPPPPP/QBRNBNKR w KQkq - 0 1"]
+
+1.c4 c5 2.b3 f6 3.e3 b6 4.d4 Nfe6 5.d5 Ng5 6.Nc3 Bg6 7.Bxg6 hxg6 8.Qb1 Nb7 9.Qxg6 Be5 10.f4 Bxc3
+ 11.Bxc3 Rh6 12.Qf5 Nd6 13.Qxd7 Rg6 14.fxg5 Rxg5 15.Ng3 Re8 16.O-O Rd8 17.Qxe7 Kh7 18.Bxf6 Qb7 19.Bxg5 Qc8 20.Qxd8 Qg4
+ 21.Rf4 Qxf4 22.Bxf4 Nb7 23.Qe7 Na5 24.Be5 Kg6 25.Qxg7# 1-0

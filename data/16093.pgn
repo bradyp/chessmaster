@@ -1,0 +1,12 @@
+[Event "Breitenschach (Vote Chess 4)"]
+[Site "Chess.com"]
+[Date "2010.05.17"]
+[White "Breitenschach"]
+[Black "Team Russia"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 Nf6 3.Bc4 Nxe4 4.Ne5 e6 5.d4 Qa5+ 6.c3 cxd4 7.Qxd4 d5 8.b4 Qc7 9.Bb5+ Nc6 10.Bf4 Nd6
+ 11.Bxc6+ bxc6 12.O-O Nf5 13.Qd1 Bd6 14.Re1 g5 15.Nxf7 Qxf7 16.Bxg5 Rg8 17.Be3 Qg6 18.g3 Nxg3 19.fxg3 Bxg3 20.hxg3 Qxg3+
+ 21.Kf1 Qg2# 0-1

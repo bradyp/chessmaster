@@ -1,0 +1,14 @@
+[Event "Rapid Vote Chess (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.08.26"]
+[White "ELECTRONIC TEAM"]
+[Black "Rapid Chess"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.Nc3 e6 5.e3 Bb4 6.Bxc4 O-O 7.O-O Nc6 8.a3 Bxc3 9.bxc3 Ne4 10.Qc2 f5
+ 11.Qb3 Na5 12.Bxe6+ Bxe6 13.Qxe6+ Kh8 14.Ne5 Rf6 15.Nf7+ Rxf7 16.Qxf7 Ng5 17.Qxf5 Nb3 18.Rb1 Nxc1 19.Rfxc1 g6 20.Qe5+ Kg8
+ 21.Rxb7 Nf7 22.Qxc7 Qxc7 23.Rxc7 a5 24.Rb1 h5 25.Rbb7 Rf8 26.Rxf7 Rxf7 27.Rxf7 Kxf7 28.c4 Ke6 29.e4 a4 30.f4 Kd6
+ 31.Kf2 Kc6 32.f5 gxf5 33.e5 Kd7 34.d5 h4 35.Kf3 Ke7 36.Kf4 h3 37.g3 Kd7 38.Kxf5 Kd8 39.e6 Ke7 40.c5 Kd8
+ 41.d6 Ke8 42.c6 Kd8 43.Kf6 Kc8 44.e7 Kb8 45.e8=Q+ Ka7 46.c7 Kb6 47.c8=Q Ka7 48.Qa8+ Kb6 49.Qec6# 1-0

@@ -1,0 +1,14 @@
+[Event "Team Mexico Open Seek"]
+[Site "Chess.com"]
+[Date "2011.06.17"]
+[White "Team Mexico"]
+[Black "The Killer Derivatives"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qnrnbbkr/pppppppp/8/8/8/8/PPPPPPPP/QNRNBBKR w KQkq - 0 1"]
+
+1.d4 c5 2.dxc5 Rxc5 3.Bb4 Rc8 4.b3 Na6 5.Bc3 d5 6.g3 f6 7.e4 Nc7 8.exd5 Nxd5 9.Bc4 Bf7 10.Ne3 Nxe3
+ 11.Bxf7+ Nxf7 12.fxe3 e5 13.Kf2 b6 14.a4 Ng5 15.Nd2 Nh3+ 16.Kf1 Qxh1+ 17.Ke2 Qg2+ 18.Kd3 Rd8+ 19.Kc4 Qe2# 0-1

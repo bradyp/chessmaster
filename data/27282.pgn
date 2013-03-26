@@ -1,0 +1,15 @@
+[Event "960"]
+[Site "Chess.com"]
+[Date "2012.05.01"]
+[White "Chubby's 4 Corners"]
+[Black "Chess School"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnnkbbqr/pppppppp/8/8/8/8/PPPPPPPP/RNNKBBQR w KQkq - 0 1"]
+
+1.f3 Nc6 2.Nc3 f5 3.Bg3 Nb6 4.e4 fxe4 5.Nxe4 O-O-O 6.Nc3 e5 7.Nd3 d6 8.Bh4 g5 9.Bf2 Bg6 10.Nb4 Nxb4
+ 11.d3 d5 12.Bxb6 axb6 13.O-O-O d4 14.Ne4 Nxa2+ 15.Kd2 Bb4+ 16.Ke2 Bxe4 17.fxe4 Qg6 18.g4 Rhf8 19.Ra1 Qc6 20.c4 Qa4
+ 0-1

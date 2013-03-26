@@ -1,0 +1,13 @@
+[Event "Premier of All Chess960 Open Seek"]
+[Site "Chess.com"]
+[Date "2009.08.01"]
+[White "THE PREMIER OF ALL"]
+[Black "Cleveland Cavaliers Fans"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnkbbnqr/pppppppp/8/8/8/8/PPPPPPPP/RNKBBNQR w KQkq - 0 1"]
+
+1.e4 e5 2.Nc3 Ng6 3.Ne3 Bg5 4.g3 Bxe3 5.fxe3 f6 6.d4 1-0

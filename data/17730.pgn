@@ -1,0 +1,16 @@
+[Event "TVC RANDOM CUP 2010 R1"]
+[Site "Chess.com"]
+[Date "2010.09.30"]
+[White "Chess960 Players Group"]
+[Black "&iexcl;Creature Squad!"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qbrnbnkr/pppppppp/8/8/8/8/PPPPPPPP/QBRNBNKR w KQkq - 0 1"]
+
+1.d4 d5 2.Nfe3 e6 3.c4 dxc4 4.Nxc4 c5 5.b3 b5 6.Ne5 Bxe5 7.dxe5 Nd7 8.f3 Nc6 9.Bg3 Nd4 10.Bd3 a6
+ 11.O-O O-O 12.e3 Nc6 13.Nf2 Nb4 14.Be4 Qa7 15.Qb1 h6 16.Rfd1 Nb6 17.Ng4 Bc6 18.Bh7+ Kh8 19.a3 N4d5 20.Rxc5 Nc4
+ 21.Rcxd5 Nxa3 22.Qd3 Bxd5 23.Be4 Rfd8 24.Nf2 Bxe4 25.Qxe4 Rxd1+ 26.Nxd1 Qd7 27.h4 Qxd1+ 28.Kh2 Qd5 29.Qb4 Nc2 30.Qf4 Qd2
+ 0-1

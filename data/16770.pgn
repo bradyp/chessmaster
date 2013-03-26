@@ -1,0 +1,12 @@
+[Event "Hyperactive chess Open Seek"]
+[Site "Chess.com"]
+[Date "2010.07.19"]
+[White "Kings of checkmate"]
+[Black "Hyperactive chess"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.Nc3 e6 5.O-O a6 6.Qe2 b5 7.e5 dxe5 8.Bd3 Bd6 9.Nxe5 Qc7 10.f4 Nbd7
+ 11.Bxb5 axb5 12.Nxb5 Qb6 13.Nxd6+ Qxd6 14.d4 Ba6 15.Nc4 Qxd4+ 16.Be3 Qxc4 17.Qf3 Qd5 18.Qf2 Bxf1 19.Qxf1 O-O 20.b3 Qe4
+ 21.Qe2 Nd5 22.Re1 Rxa2 0-1

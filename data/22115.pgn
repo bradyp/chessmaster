@@ -1,0 +1,12 @@
+[Event "Chess Bay Group Attack"]
+[Site "Chess.com"]
+[Date "2011.09.04"]
+[White "The Knights of Chess.com"]
+[Black "Chess BayTVC"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Bg5 c5 6.Nf3 cxd4 7.Nxd4 Nc6 8.Nf3 h6 9.Bh4 g5 10.Nxg5 hxg5
+ 11.Bxg5 d5 12.O-O-O Bxc3 13.Qxc3 Ne4 14.Bxd8 Nxc3 15.bxc3 Rxd8 16.cxd5 exd5 17.e3 Be6 18.h4 Rac8 19.c4 dxc4 20.Rxd8+ Rxd8
+ 21.Be2 Nb4 22.a3 Na2+ 23.Kb2 Rd2+ 24.Ka1 Nc3 0-1

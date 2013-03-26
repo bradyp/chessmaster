@@ -1,0 +1,11 @@
+[Event "There can only be one Black"]
+[Site "Chess.com"]
+[Date "2011.05.23"]
+[White "Black Stallion"]
+[Black "Black Shield Assassins Guard"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.Bc4 Be7 5.O-O O-O 6.d4 exd4 7.Nxd4 Nxd4 8.Qxd4 b6 9.Bf4 Bb7 10.Bd3 c5
+ 11.Qe3 Ng4 12.Qh3 Nf6 13.e5 Nd5 14.Qxh7# 1-0

@@ -1,0 +1,13 @@
+[Event "Chess960 mini match game 2"]
+[Site "Chess.com"]
+[Date "2012.12.14"]
+[White "Chess960 RandomChess"]
+[Black "FREE   IRAN"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrbqnbkr/pppppppp/8/8/8/8/PPPPPPPP/NRBQNBKR w KQkq - 0 1"]
+
+1.e4 e5 2.Nf3 d5 3.exd5 Qxd5 4.c4 Qd6 5.Bd3 Qxd3 6.b4 Qxb1 7.d4 Qxa1 8.dxe5 Bg4 9.Ng5 Bxd1 0-1

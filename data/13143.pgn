@@ -1,0 +1,13 @@
+[Event "960"]
+[Site "Chess.com"]
+[Date "2009.10.11"]
+[White "All For One &amp; One For All"]
+[Black "The Cool Boys &amp; Girls Chess Group"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nqrkbbnr/pppppppp/8/8/8/8/PPPPPPPP/NQRKBBNR w KQkq - 0 1"]
+
+1.d4 d5 2.Bb4 Nf6 3.c3 Ne4 4.Nh3 Bd7 5.f3 Bxh3 6.fxe4 Be6 7.exd5 Bxd5 8.Nc2 1-0

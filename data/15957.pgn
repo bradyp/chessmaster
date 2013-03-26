@@ -1,0 +1,16 @@
+[Event "Rapid Vote Chess960 (1day/move,JP)"]
+[Site "Chess.com"]
+[Date "2010.05.04"]
+[White "RAPID CHESS"]
+[Black "Wolf Pack&reg;"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkrbnqbn/pppppppp/8/8/8/8/PPPPPPPP/RKRBNQBN w KQkq - 0 1"]
+
+1.e4 e5 2.f3 Nf6 3.d3 Ng6 4.h3 Qb4 5.c3 Qd6 6.a3 c5 7.c4 a6 8.Be3 h6 9.Bb3 Bh7 10.Qf2 Nf4
+ 11.Bxf4 exf4 12.Rc2 Ba5 13.Ka2 Qe5 14.Qe2 g5 15.g4 Bg6 16.a4 h5 17.Ng2 hxg4 18.hxg4 Ne8 19.Nf2 Nc7 20.Rh1 b5
+ 21.cxb5 Ne6 22.Bd5 Ra7 23.bxa6 Nd4 24.Qd1 Nxc2 25.Qxc2 Rxa6 26.Qc4 Rb6 27.Rb1 Rc7 28.Nd1 Rb4 29.Qa6 Ra7 30.Qxg6 fxg6
+ 31.Bb3 Qd4 32.Bc2 c4 33.dxc4 Qxc4+ 34.Ka3 Qxc2 35.Nc3 Qb3# 0-1

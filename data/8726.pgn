@@ -1,0 +1,11 @@
+[Event "Fast Players Group Open Seek"]
+[Site "Chess.com"]
+[Date "2009.02.28"]
+[White "pawn power"]
+[Black "Fast Players Group"]
+[Result "0-1"]
+[TimeControl "1 in 0.25 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Bd2 Nxd4 7.f3 O-O 8.Bd3 d6 9.a3 Ba5 10.Nd5 Bxd2+
+ 11.Qxd2 Nxd5 12.exd5 Re8+ 13.Kf2 Nf5 14.Bxf5 Bxf5 15.Rhe1 Qh4+ 16.g3 Qxh2+ 17.Kf1 Bh3+ 18.Qg2 Qxg2# 0-1

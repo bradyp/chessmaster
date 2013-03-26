@@ -1,0 +1,15 @@
+[Event "Rapid Vote Chess960 (2days/move,JP)"]
+[Site "Chess.com"]
+[Date "2010.05.01"]
+[White "King Checkers"]
+[Black "RAPID CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brnbknrq/pppppppp/8/8/8/8/PPPPPPPP/BRNBKNRQ w KQkq - 0 1"]
+
+1.e4 b6 2.d3 g5 3.g4 d5 4.Ng3 e6 5.b3 f6 6.Bf3 Bc6 7.exd5 exd5 8.Bxd5 Bxd5 9.Qxd5 Nd6 10.O-O Rg7
+ 11.Nf5 Rd7 12.Re1+ Be7 13.Nxd6+ Rxd6 14.Qe4 Qg7 15.Qa4+ b5 16.Qxa7 Rc8 17.Qb7 Kd8 18.Qxb5 Re6 19.Rxe6 Nxe6 20.Qd5+ Ke8
+ 21.Qxe6 Rd8 22.Qc6+ Kf8 23.Qxc7 Ke8 24.Ne2 Qf7 0-1

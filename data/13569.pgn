@@ -1,0 +1,15 @@
+[Event "Jas 960"]
+[Site "Chess.com"]
+[Date "2009.11.11"]
+[White "Jas CHESS"]
+[Black "THE POWER OF CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnknrqbb/pppppppp/8/8/8/8/PPPPPPPP/RNKNRQBB w KQkq - 0 1"]
+
+1.d4 g6 2.e3 f5 3.g3 e5 4.f4 e4 5.Nbc3 d5 6.Qb5 c6 7.Qa5 b6 8.Qa4 Nb7 9.Nf2 Be6 10.h3 b5
+ 11.Qb3 Na5 12.Qa3 Qxa3 13.bxa3 Nc4 14.a4 b4 15.Ne2 Nxe3 16.Nd1 Nc4 17.Nb2 Nxb2 18.Kxb2 c5 19.Red1 cxd4 20.Bxd4 Nc6
+ 21.Bxh8 Rxh8 22.Nd4 Nxd4 23.Rxd4 a5 24.Rc1 Kb7 0-1

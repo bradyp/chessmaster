@@ -1,0 +1,14 @@
+[Event "Company 960"]
+[Site "Chess.com"]
+[Date "2009.11.15"]
+[White "Chess Company"]
+[Black "Turkish coffee"]
+[Result "1/2-1/2"]
+[TimeControl "1 in 7 days"]
+[Termination "Game drawn by agreement"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbrnkqrn/pppppppp/8/8/8/8/PPPPPPPP/BBRNKQRN w KQkq - 0 1"]
+
+1.Ng3 c5 2.e3 b6 3.c4 Ng6 4.b3 Nc6 5.Bc3 e6 6.f4 Qe7 7.Qe2 O-O 8.O-O e5 9.f5 Nd8 10.e4 Nf4
+ 11.Qf2 Qg5 12.Ne3 1/2-1/2

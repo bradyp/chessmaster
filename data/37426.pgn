@@ -1,0 +1,13 @@
+[Event "Whatever 4"]
+[Site "Chess.com"]
+[Date "2013.02.06"]
+[White "FIVE for FIGHTING"]
+[Black "Team Aalto"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnbrkqrb/pppppppp/8/8/8/8/PPPPPPPP/NNBRKQRB w KQkq - 0 1"]
+
+1.e4 g6 2.d4 e5 3.d5 Qb4+ 4.Nc3 Nb6 5.a3 Qc4 6.Qxc4 Nxc4 7.b3 Nb6 8.Nb5 O-O 9.c4 d6 10.Nxa7 Bd7
+ 11.Bh6 Bg7 *

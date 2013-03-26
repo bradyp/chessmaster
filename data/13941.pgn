@@ -1,0 +1,13 @@
+[Event "Rapid Vote Chess960 (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.12.02"]
+[White "Kairav's Chess Masters"]
+[Black "RAPID CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnbknbrq/pppppppp/8/8/8/8/PPPPPPPP/RNBKNBRQ w KQkq - 0 1"]
+
+ 0-1

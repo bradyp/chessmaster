@@ -1,0 +1,13 @@
+[Event "Chess960 challenge from  777"]
+[Site "Chess.com"]
+[Date "2010.10.27"]
+[White "Team Cyprus"]
+[Black "777"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqkrnbbn/pppppppp/8/8/8/8/PPPPPPPP/RQKRNBBN w KQkq - 0 1"]
+
+1.Nf3 f5 2.c3 1-0

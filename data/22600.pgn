@@ -1,0 +1,15 @@
+[Event "960 Golden Bullets"]
+[Site "Chess.com"]
+[Date "2011.10.14"]
+[White "Bullet Chess Masters"]
+[Black "The Knights of Chess.com"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnrbknqr/pppppppp/8/8/8/8/PPPPPPPP/BNRBKNQR w KQkq - 0 1"]
+
+1.b4 b5 2.Na3 a6 3.c4 bxc4 4.Nxc4 Ne6 5.Nb6 cxb6 6.Rxc8 Bd5 7.Rxb8 Bxa2 8.f3 h6 9.Qxb6 f6 10.Qxa6 Bd5
+ 11.Ne3 Bc6 12.Bb3 Kf7 13.Bxe6+ dxe6 14.Qxc6 Qh7 15.O-O Qg8 16.Rc1 Qe8 17.Qa8 Qd7 18.Rcc8 Qxd2 19.Kf2 h5 20.Rxd8 Rxd8
+ 21.Rxd8 f5 22.Rxd2 1-0

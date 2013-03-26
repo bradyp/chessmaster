@@ -1,0 +1,9 @@
+[Event "3.14..."]
+[Site "Chess.com"]
+[Date "2013.02.22"]
+[White "The c4 club"]
+[Black "Quick Moves"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+
+1.c4 Nf6 2.Nc3 e6 3.g3 Bb4 4.Bg2 O-O 5.Nf3 d5 6.cxd5 exd5 7.d4 Nc6 *

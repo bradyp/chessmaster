@@ -1,0 +1,15 @@
+[Event "here we go"]
+[Site "Chess.com"]
+[Date "2011.09.10"]
+[White "GRATEFUL CHESS PLAYERS"]
+[Black "League of Chess"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnbrqkrb/pppppppp/8/8/8/8/PPPPPPPP/NNBRQKRB w KQkq - 0 1"]
+
+1.Nc3 e5 2.d4 Nc6 3.Ne4 exd4 4.Ng5 g6 5.Nxh7+ Kg7 6.Ng5 f6 7.Nf3 Qe4 8.Nb3 d6 9.Nbxd4 Nxd4 10.Nxd4 c6
+ 11.b3 Kf7 12.g3 Bh3+ 13.Bg2 Bxg2+ 14.Rxg2 f5 15.h4 Bxd4 16.f3 Qe6 17.Rxd4 c5 18.Rd3 Nb6 19.Bb2 d5 20.Qa5 a6
+ 21.Qxc5 Rc8 0-1

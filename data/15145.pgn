@@ -1,0 +1,12 @@
+[Event "Vote Chess"]
+[Site "Chess.com"]
+[Date "2010.02.23"]
+[White "Babel"]
+[Black "Play in a day"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.d4 Nf6 2.c4 c6 3.Nc3 e6 4.Bg5 Be7 5.Nf3 O-O 6.e4 d6 7.Be2 Nbd7 8.O-O Qb6 9.e5 dxe5 10.Nxe5 Re8
+ 11.b3 Qc7 12.Bxf6 Bxf6 13.Ne4 Bxe5 14.dxe5 Qxe5 15.Nd6 Re7 16.Qd2 Nf6 17.f4 Qc5+ 18.Kh1 Rd7 19.Rfd1 Ne4 20.Nxe4 Qe7
+ 21.Qe3 Rxd1+ 22.Rxd1 Bd7 23.Nc5 Be8 24.Qd4 Kf8 25.Qd6 b6 26.Nd7+ Kg8 27.Qxe7 1-0

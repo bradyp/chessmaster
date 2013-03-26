@@ -1,0 +1,14 @@
+[Event "Bring it."]
+[Site "Chess.com"]
+[Date "2010.03.24"]
+[White "Unlimited Chess960"]
+[Black "*Results May Vary"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrnkrqbb/pppppppp/8/8/8/8/PPPPPPPP/NRNKRQBB w KQkq - 0 1"]
+
+1.f4 f5 2.g3 Nab6 3.Nab3 g6 4.Nc5 Nd6 5.d3 Bd5 6.e4 fxe4 7.dxe4 Bc4 8.N1d3 Bxa2 9.Ra1 Bc4 10.Rxa7
+ 1-0

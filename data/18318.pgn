@@ -1,0 +1,15 @@
+[Event "Strong Together Vote Chess Game Challenge"]
+[Site "Chess.com"]
+[Date "2010.11.22"]
+[White "STRONG  TOGETHER"]
+[Black "Playboy Chess Warriors"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nqbrkrnb/pppppppp/8/8/8/8/PPPPPPPP/NQBRKRNB w KQkq - 0 1"]
+
+1.g3 d5 2.c4 dxc4 3.Qxh7 Nf6 4.Qc2 Nb6 5.Nf3 Bh3 6.Rg1 g6 7.b3 Bf5 8.d3 cxd3 9.exd3 Nfd5 10.Bb2 Nb4
+ 11.Qb1 Nxd3+ 12.Kf1 Nxb2 13.Rxd8+ Qxd8 14.Qe1 Bh3+ 15.Bg2 Qd3+ 16.Qe2 Bxg2+ 17.Rxg2 Qb1+ 18.Qe1 Nd1 19.Ke2 Nc3+ 20.Kd2 Qxa2+
+ 21.Nc2 Nb1+ 22.Kc1 Bb2+ 23.Kd1 Qxb3 24.Nd2 Nc3# 0-1

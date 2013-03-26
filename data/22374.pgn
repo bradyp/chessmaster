@@ -1,0 +1,15 @@
+[Event "odin"]
+[Site "Chess.com"]
+[Date "2011.09.27"]
+[White "world chess players"]
+[Black "specter"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Qb6 5.Nc3 Bc5 6.Na4 Qa5+ 7.c3 Bxd4 8.Qxd4 Nf6 9.Nc5 Nc6 10.Qe3 O-O
+ 11.Nb3 Qc7 12.Be2 b6 13.O-O Bb7 14.f4 d6 15.Bd3 e5 16.f5 d5 17.exd5 Nxd5 18.Qg3 f6 19.Bh6 Kh8 20.Bd2 Rad8
+ 21.Be4 Nde7 22.Qh4 Na5 23.Nxa5 Qc5+ 24.Kh1 bxa5 25.Bxb7 Rxd2 26.Rab1 Rb8 27.Be4 Qc4 28.b3 Qxc3 29.Rf3 Qd4 30.h3 Nd5
+ 31.Qe1 Nc3 32.Rxc3 Qxc3 33.Rd1 Rbd8 34.Rxd2 Qxd2 35.Qxd2 Rxd2 36.a4 Re2 37.Bf3 Re1+ 38.Kh2 e4 39.Bg4 Rb1 40.Be2 Rxb3
+ 41.Bc4 Rb4 42.Bb5 Rxb5 43.axb5 a4 44.Kg3 a3 45.Kf4 a2 46.Kxe4 a1=Q 47.g4 Qe5+ 48.Kd3 Qxb5+ 49.Ke4 a5 50.h4 a4
+ 51.g5 a3 52.gxf6 gxf6 53.h5 a2 54.h6 a1=Q 55.Kf4 Qaa4+ 56.Ke3 Qbb3+ 57.Ke2 Qaa2+ 58.Ke1 Qbb1# 0-1

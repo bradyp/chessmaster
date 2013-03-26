@@ -1,0 +1,13 @@
+[Event "Chess960"]
+[Site "Chess.com"]
+[Date "2009.10.05"]
+[White "1,500  www.Chess.com Games!"]
+[Black "Chess960"]
+[Result "1-0"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbnrkqrn/pppppppp/8/8/8/8/PPPPPPPP/BBNRKQRN w KQkq - 0 1"]
+
+1.e4 1-0

@@ -1,0 +1,13 @@
+[Event "Company 960"]
+[Site "Chess.com"]
+[Date "2010.01.23"]
+[White "Power of the Attack"]
+[Black "Chess Company"]
+[Result "0-1"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrbqkrnb/pppppppp/8/8/8/8/PPPPPPPP/NRBQKRNB w KQkq - 0 1"]
+
+1.e4 c5 2.Nf3 d6 3.O-O Bd7 4.Nb3 Nb6 5.d4 c4 6.Nbd2 g6 7.Qe2 Qc7 0-1

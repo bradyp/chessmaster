@@ -1,0 +1,15 @@
+[Event "Rapid Vote Chess960 Challange (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.10.26"]
+[White "Chess960 Players Group"]
+[Black "RAPID CHESS"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnrknbqr/pppppppp/8/8/8/8/PPPPPPPP/BNRKNBQR w KQkq - 0 1"]
+
+1.f4 f5 2.Qxa7 Nc6 3.Qa4 Nd6 4.Nc3 g6 5.e3 Bg7 6.b3 Qe6 7.Nf3 O-O 8.Ng5 Qf6 9.Nb5 Nxb5 10.Bxf6 Bxf6
+ 11.Bxb5 Bxg5 12.fxg5 Rcd8 13.h4 e6 14.h5 Ne5 15.hxg6 Nxg6 16.Bxd7 e5 17.Be6+ Kg7 18.Qc4 c6 19.Qe2 Rd6 20.Rxh7+ Kxh7
+ 21.Qh5+ Kg7 22.Qh6# 1-0

@@ -1,0 +1,11 @@
+[Event "chess champs vs sicilian kings"]
+[Site "Chess.com"]
+[Date "2013.02.11"]
+[White "Chess Champ"]
+[Black "Sicilian Dragon Players"]
+[Result "*"]
+[TimeControl "1 in 1 day"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nxd4 6.Qxd4 d6 7.Bb5+ Bd7 8.O-O a6 9.Bc4 e5 10.Qd1 Rc8
+ 11.Bb3 d5 12.exd5 Bb5 13.Nxb5 axb5 14.Bg5 h6 15.Bxf6 Qxf6 16.Qe2 Bd6 17.Qxb5+ Ke7 18.Qxb7+ Rc7 19.Qb5 Rhc8 20.Rae1 Rc5
+ *

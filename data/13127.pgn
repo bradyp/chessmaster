@@ -1,0 +1,14 @@
+[Event "960"]
+[Site "Chess.com"]
+[Date "2009.10.10"]
+[White "THE POWER OF CHESS"]
+[Black "The Cool Boys &amp; Girls Chess Group"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brknrbqn/pppppppp/8/8/8/8/PPPPPPPP/BRKNRBQN w KQkq - 0 1"]
+
+1.f3 b6 2.e4 e5 3.Ng3 f5 4.Nxf5 g6 5.Nfe3 Qxa2 6.Nc3 Qa5 7.Nb5 Ne6 8.Nd5 a6 9.Nf6 Re7 10.Nc3 Nd4
+ 11.b3 1-0

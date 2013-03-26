@@ -1,0 +1,13 @@
+[Event "QG TM 1"]
+[Site "Chess.com"]
+[Date "2009.11.15"]
+[White "Queen's Gambit Gurus"]
+[Black "Luminous Minds"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 {Thematic Game - This is the starting position.} 
+ dxc4 3.e4 e6 4.Nc3 Bb4 5.Bxc4 Nf6 6.Qd3 Nc6 7.Nf3 O-O 8.a3 Bxc3+ 9.bxc3 Re8 10.e5 Nd5
+ 11.Ng5 g6 12.Ne4 a6 13.Bg5 f6 14.exf6 Kf7 15.Qh3 h5 16.Bh4 e5 17.Qf3 exd4 18.O-O Ne5 19.Bxd5+ Be6 20.Ng5+ Kf8
+ 21.Nxe6+ Rxe6 22.Qe4 Qd6 23.Bxe6 Qxe6 24.cxd4 Re8 25.dxe5 Qxe5 26.Qxg6 1-0

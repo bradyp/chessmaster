@@ -1,0 +1,17 @@
+[Event "FTG 960 SERIOUS - B"]
+[Site "Chess.com"]
+[Date "2011.11.11"]
+[White "Courageous Few"]
+[Black "Fast Thinkers Group"]
+[Result "1/2-1/2"]
+[TimeControl "1 in 2 days"]
+[Termination "Game drawn by agreement"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnnbrqkr/pppppppp/8/8/8/8/PPPPPPPP/BNNBRQKR w KQkq - 0 1"]
+
+1.b3 e5 2.e4 b6 3.Nd3 d6 4.Bg4 Bg5 5.h4 Bh6 6.Qe2 Ne7 7.Nc3 a6 8.O-O-O Nbc6 9.Rh3 Nd4 10.Qf1 f5
+ 11.exf5 Nexf5 12.Nb4 a5 13.Qc4+ Qf7 14.Qxf7+ Kxf7 15.Nbd5 Rc8 16.Ne3 g6 17.h5 Bxe3 18.fxe3 Ne6 19.hxg6+ hxg6 20.Rxh8 Rxh8
+ 21.e4 Ng3 22.d3 Bc6 23.a4 Rh2 24.Bxe6+ Kxe6 25.Rg1 d5 26.exd5+ Bxd5 27.Re1 Rxg2 28.Nxd5 Kxd5 29.Rxe5+ Kd6 30.Re1 Nf5
+ 31.Be5+ Kd7 32.Rh1 Ne3 33.Rh7+ Ke6 34.Bxc7 Rxc2+ 35.Kb1 Rc6 36.d4 Nd5 37.Be5 Kf5 38.Rd7 Nf6 39.Rf7 Re6 40.Kc2 g5
+ 41.Kd3 Kg6 42.Rc7 g4 1/2-1/2

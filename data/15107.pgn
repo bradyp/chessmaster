@@ -1,0 +1,16 @@
+[Event "Rapid Vote Chess960 (2days/move)"]
+[Site "Chess.com"]
+[Date "2010.02.20"]
+[White "RAPID CHESS"]
+[Black "Avril's International Team"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrnkrbbq/pppppppp/8/8/8/8/PPPPPPPP/NRNKRBBQ w KQkq - 0 1"]
+
+1.e4 e5 2.Nab3 Nab6 3.g3 c6 4.c4 c5 5.Nxc5 Bxc5 6.Nb3 d6 7.d3 Bb4 8.Re2 Nd7 9.d4 exd4 10.Nxd4 f6
+ 11.a3 Bc5 12.Nb5 Bxc4 13.Re1 Bb3+ 14.Kd2 Bb6 15.f4 Ba5+ 16.Nc3 Qg8 17.Bd3 Nc5 18.Bc2 Bxc2 19.Kxc2 Qb3+ 20.Kc1 Nd3+
+ 21.Kd2 Nxe1 22.Kxe1 Bxc3+ 23.Kf1 Qc2 24.Ra1 Qd3+ 25.Kf2 Bd4+ 26.Ke1 Rxe4+ 27.Qxe4 Qxe4+ 28.Kf1 Qf3+ 29.Ke1 Bxg1 30.Kd2 Qf2+
+ 31.Kc3 Nb6 32.Rd1 Rc8+ 33.Kb4 Qc5+ 34.Kb3 Qc4# 0-1

@@ -1,0 +1,13 @@
+[Event "It's Chess Time vs Crazy Cats"]
+[Site "Chess.com"]
+[Date "2012.07.01"]
+[White "It's Chess Time"]
+[Black "Crazy Cats"]
+[Result "1-0"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 {Thematic Game - This is the starting position.} 
+ e6 3.cxd5 exd5 4.Nc3 Nc6 5.Nf3 Bg4 6.Bf4 Bd6 7.Bg5 Nf6 8.e3 h6 9.Bh4 g5 10.Bg3 Ne4
+ 11.Bxd6 Qxd6 12.Qc2 Bxf3 13.gxf3 Nb4 14.Qa4+ Qc6 15.Bb5 Qxb5 16.Nxb5 Kd8 17.Qxb4 Nd6 18.Nxd6 cxd6 19.Qxd6+ Kc8 20.Rc1#
+ 1-0

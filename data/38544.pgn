@@ -1,0 +1,12 @@
+[Event "960 : ✮ Master Catur Indonesia ✮ vs Chess School"]
+[Site "Chess.com"]
+[Date "2013.03.06"]
+[White "✮ Master Catur Indonesia ✮"]
+[Black "Chess School"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnrqbbkr/pppppppp/8/8/8/8/PPPPPPPP/NNRQBBKR w KQkq - 0 1"]
+
+1.e4 e5 2.Ba6 Nxa6 3.c3 d5 4.exd5 Qxd5 *

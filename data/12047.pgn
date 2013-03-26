@@ -1,0 +1,13 @@
+[Event "Vote 960 Chess !! THAILAND TEAM"]
+[Site "Chess.com"]
+[Date "2009.08.21"]
+[White "THAILAND TEAM"]
+[Black "Team  USA"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkrbbnnq/pppppppp/8/8/8/8/PPPPPPPP/RKRBBNNQ w KQkq - 0 1"]
+
+1.d4 d5 2.g3 e6 3.e3 c6 4.Bb4 Nf6 5.Nd2 Bc7 6.Ngf3 N8d7 7.Be2 1-0

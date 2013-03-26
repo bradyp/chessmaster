@@ -1,0 +1,13 @@
+[Event "The Counter Challenge."]
+[Site "Chess.com"]
+[Date "2012.11.29"]
+[White "✮THE G@MBIT PL@YERS✮"]
+[Black "☻☺ Chess Comedians &amp; Philosophers ☺☻"]
+[Result "*"]
+[TimeControl "1 in 3 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rknnqbbr/pppppppp/8/8/8/8/PPPPPPPP/RKNNQBBR w KQkq - 0 1"]
+
+1.e4 e5 2.Nc3 f6 3.f3 Nc6 4.Nb3 N8e7 5.Be3 d5 6.exd5 Nxd5 7.Nxd5 Bxd5 8.Bb5 a6 9.Bd3 Nb4 10.Qe2 Nxd3
+ 11.Qxd3 O-O-O 12.O-O Qe6 13.Qc3 g5 14.Rae1 h5 15.d4 Bd6 16.Nc5 Qf5 17.Ne4 g4 18.Nxd6+ Rxd6 19.dxe5 Re6 *

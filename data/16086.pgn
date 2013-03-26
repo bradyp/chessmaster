@@ -1,0 +1,11 @@
+[Event "Bishop's gambit!"]
+[Site "Chess.com"]
+[Date "2010.05.16"]
+[White "King's Gambit Players"]
+[Black "China attack"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.f4 exf4 3.Bc4 {Thematic Game - This is the starting position.} 
+ Qg5 4.Nf3 Qxg2 5.Bxf7+ Kxf7 6.Rg1 Qh3 7.Ng5+ 1-0

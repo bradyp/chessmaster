@@ -1,0 +1,13 @@
+[Event "Fischer Random Open Seek"]
+[Site "Chess.com"]
+[Date "2009.11.15"]
+[White "Team Liberia"]
+[Black "Fischer Random"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qbbrkrnn/pppppppp/8/8/8/8/PPPPPPPP/QBBRKRNN w KQkq - 0 1"]
+
+ 0-1

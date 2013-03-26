@@ -1,0 +1,13 @@
+[Event "Gambit practice"]
+[Site "Chess.com"]
+[Date "2011.12.30"]
+[White "World Friendship"]
+[Black "Budapest Gambiteers"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.d4 Nf6 2.c4 e5 {Thematic Game - This is the starting position.} 
+ 3.dxe5 Ng4 4.Nf3 Nc6 5.Bf4 Bb4+ 6.Nc3 Bxc3+ 7.bxc3 Qe7 8.Qd5 f6 9.exf6 Nxf6 10.Qd3 d6
+ 11.O-O-O Ne4 12.Be3 Bf5 13.Qd5 Bg6 14.Kb2 Bf7 15.Qb5 O-O 16.Qxb7 Rfb8 17.Qxb8+ Rxb8+ 18.Kc2 Bxc4 19.a3 Bb3+ 20.Kc1 d5
+ 0-1

@@ -1,0 +1,13 @@
+[Event "Nimzo - Larsen Attack"]
+[Site "Chess.com"]
+[Date "2009.09.10"]
+[White "Fast Players Group"]
+[Black "Master  Strategist"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.b3 d5 {Thematic Game - This is the starting position.} 
+ 2.Bb2 Nf6 3.Bxf6 exf6 4.Nf3 c5 5.d4 cxd4 6.Qxd4 Nc6 7.Qd1 Bd6 8.g3 Ne5 9.Qxd5 Bb4+ 10.c3 Qxd5
+ 11.Bg2 Qe4 12.cxb4 Nxf3+ 13.Bxf3 Qd4 14.O-O Qxa1 15.a3 Qb2 16.Bd5 Bh3 17.Re1 Rc8 18.Bc4 Be6 19.Bxe6 fxe6 20.h4 Rc1
+ 21.Rxc1 Qxc1+ 22.Kg2 Qxb1 0-1

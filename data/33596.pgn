@@ -1,0 +1,11 @@
+[Event "Queen's Pawn Game"]
+[Site "Chess.com"]
+[Date "2012.10.28"]
+[White "U.S.S. Voyager"]
+[Black "Petroff Defence"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.d4 d5 {Thematic Game - This is the starting position.} 
+ 2.c4 e6 3.Nc3 dxc4 4.e4 Nf6 5.Bxc4 Bb4 6.Bg5 c5 7.Nf3 cxd4 8.Nxd4 1-0

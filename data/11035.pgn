@@ -1,0 +1,11 @@
+[Event "Team Pok'emon Open Seek"]
+[Site "Chess.com"]
+[Date "2009.07.11"]
+[White "Chess Empire"]
+[Black "Team Pok'emon"]
+[Result "1-0"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+
+1.a4 e5 2.h4 {Thematic Game - This is the starting position.} 
+ d5 3.d4 exd4 4.Qxd4 c5 5.Qd1 Nf6 6.g3 Ne4 7.Bg2 Nc6 8.Nf3 1-0

@@ -1,0 +1,14 @@
+[Event "&lt;..BHARAT 960 CHESS..&gt;"]
+[Site "Chess.com"]
+[Date "2012.12.17"]
+[White "भारत/ BHARAT"]
+[Black "Modern_chess"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qbrnknbr/pppppppp/8/8/8/8/PPPPPPPP/QBRNKNBR w KQkq - 0 1"]
+
+1.e4 e5 2.b3 c5 3.Nde3 Nfe6 4.h3 b5 5.Ng3 Ng5 6.c4 b4 7.Ngf5 Nde6 8.f3 g6 9.Nh6 Nf4 10.Bh2 f6
+ 11.Bxf4 exf4 12.Qxf6 fxe3 13.Qxh8 exd2+ 14.Kxd2 Bf4+ 15.Kd1 Ke7 16.e5 Rf8 17.Qg7+ Ke6 18.Nxg8 Nxf3 19.Qe7# 1-0

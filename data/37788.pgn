@@ -1,0 +1,11 @@
+[Event "Computer Aided -- Center Game"]
+[Site "Chess.com"]
+[Date "2013.02.13"]
+[White "Computer Aided Vote Chess"]
+[Black "Chess Champ"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 {Thematic Game - This is the starting position.} 
+ 4.Qc4 Ne5 5.Qe2 Nf6 0-1

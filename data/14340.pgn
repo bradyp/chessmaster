@@ -1,0 +1,13 @@
+[Event "Rapid Vote Chess960 (1day/move)"]
+[Site "Chess.com"]
+[Date "2010.01.05"]
+[White "RAPID CHESS"]
+[Black "Agressive Players"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brnknqrb/pppppppp/8/8/8/8/PPPPPPPP/BRNKNQRB w KQkq - 0 1"]
+
+1.e4 g5 2.g4 b6 3.c3 Qh6 4.h3 Bb7 5.Qc4 c5 6.Bg2 1-0

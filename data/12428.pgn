@@ -1,0 +1,10 @@
+[Event "Rapid Vote Chess (2days/move)"]
+[Site "Chess.com"]
+[Date "2009.09.02"]
+[White "Team Liberia"]
+[Black "Rapid Chess"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 dxc4 3.e4 b5 4.a4 b4 5.Bxc4 a5 0-1

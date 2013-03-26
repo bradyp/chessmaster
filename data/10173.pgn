@@ -1,0 +1,10 @@
+[Event "Ping Pong"]
+[Site "Chess.com"]
+[Date "2009.06.03"]
+[White "Chessaholics Anonymous"]
+[Black "Pingpong Players"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 Nf6 6.N1c3 a6 7.Nd6+ 1-0

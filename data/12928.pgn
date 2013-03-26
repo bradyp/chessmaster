@@ -1,0 +1,13 @@
+[Event "ISLAM vs The &quot;G&quot; Group"]
+[Site "Chess.com"]
+[Date "2009.10.01"]
+[White "The &quot;G&quot; Group"]
+[Black "ISLAM"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbnrbkqr/pppppppp/8/8/8/8/PPPPPPPP/NBNRBKQR w KQkq - 0 1"]
+
+1.d4 f5 2.f3 g5 3.g4 fxg4 4.Qxg4 Nab6 0-1

@@ -1,0 +1,11 @@
+[Event "&lt;=30 Open Seek"]
+[Site "Chess.com"]
+[Date "2008.11.04"]
+[White "&lt;=30"]
+[Black "Tomb Raiders Clan"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nge7 5.O-O d6 6.c3 Bd7 7.Re1 Ng6 8.d4 exd4 9.cxd4 d5 10.exd5+ Nce7
+ 11.Nc3 Nf4 12.Bxd7+ Qxd7 13.Bxf4 O-O-O 14.Qb3 Nxd5 15.Nxd5 c6 16.Nb6# 1-0

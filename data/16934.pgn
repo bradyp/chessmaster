@@ -1,0 +1,15 @@
+[Event "Chess960 Vote Challenge"]
+[Site "Chess.com"]
+[Date "2010.08.01"]
+[White "Chess960 Society"]
+[Black "CHRISTIAN CHESS WORLD"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbqnrknr/pppppppp/8/8/8/8/PPPPPPPP/BBQNRKNR w KQkq - 0 1"]
+
+1.b3 e5 2.Qa3+ c5 3.c4 d6 4.e4 Nf6 5.f3 O-O 6.Ne2 b6 7.Ne3 Ne6 8.g3 Nd4 9.Nxd4 Qh3+ 10.Ke2 exd4
+ 11.Reg1 dxe3 12.Kxe3 d5 13.cxd5 Nxd5+ 14.Kf2 Qe6 15.Re1 Nf6 16.d3 a5 17.h3 Nh5 18.f4 Bd6 19.Rh2 Qg6 20.Bc3 Qxg3+
+ 21.Kf1 Qxh2 22.Qb2 Ng3# 0-1

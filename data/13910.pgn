@@ -1,0 +1,14 @@
+[Event "King's &amp; Thing's 960"]
+[Site "Chess.com"]
+[Date "2009.11.30"]
+[White "King's &amp; Thing's"]
+[Black "Powerful Chess"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqnkbrnb/pppppppp/8/8/8/8/PPPPPPPP/RQNKBRNB w KQkq - 0 1"]
+
+1.c4 c5 2.Qxh7 Qxh2 3.Qxh2 Nf6 4.d3 d6 5.e4 Ng4 6.Qf4 Ne5 7.Bc3 g6 8.Qh6 Nxd3 9.Bxh8 Nxb2+ 10.Bxb2
+ 1-0

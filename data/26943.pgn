@@ -1,0 +1,13 @@
+[Event "TO CREATE 19.0"]
+[Site "Chess.com"]
+[Date "2012.04.21"]
+[White "TO BE MORPHY"]
+[Black "♔Kings of Chess (PWN)♔"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnrbkqnr/pppppppp/8/8/8/8/PPPPPPPP/BNRBKQNR w KQkq - 0 1"]
+
+1.Nf3 Nc6 2.b3 f6 3.Na3 e5 4.Nc4 d5 5.Ne3 Qa3 6.Rb1 Qxa2 7.Rc1 Be7 8.d4 e4 0-1

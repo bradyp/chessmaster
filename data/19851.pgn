@@ -1,0 +1,15 @@
+[Event "premier"]
+[Site "Chess.com"]
+[Date "2011.03.16"]
+[White "Srbija tim"]
+[Black "TheTeamMatch&amp;VoteChessLovers"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbbknrnq/pppppppp/8/8/8/8/PPPPPPPP/RBBKNRNQ w KQkq - 0 1"]
+
+1.d4 Ngf6 2.c4 c6 3.e4 e5 4.dxe5 Bxe5 5.f4 Bc7 6.e5 Ng8 7.c5 b6 8.Be3 Ba6 9.Bd3 Bxd3 10.Nxd3 f6
+ 11.Nf3 O-O-O 12.Qg1 Ne7 13.cxb6 Nd5 14.bxc7 Ndxc7 15.Bxa7 d6 16.O-O-O Qg8 17.Qb6 Qc4+ 18.Kb1 d5 19.Nd4 Kd7 20.Nc5+ Ke7
+ 21.Nxc6+ Kf7 22.Nxd8+ Kg8 23.Nce6 Nxe6 24.Qxe6+ 1-0

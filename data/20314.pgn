@@ -1,0 +1,13 @@
+[Event "Payback"]
+[Site "Chess.com"]
+[Date "2011.04.22"]
+[White "King's Gambit Players"]
+[Black "SuperTroopers"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.f4 {Thematic Game - This is the starting position.} 
+ exf4 3.Bc4 Nf6 4.Nc3 c6 5.Bb3 d5 6.exd5 cxd5 7.d4 Bd6 8.Nge2 O-O 9.O-O g5 10.h4 h6
+ 11.Nxd5 Nc6 12.Qd3 Nxd5 13.Bxd5 Qf6 14.c3 Bf5 15.Qf3 Ne7 16.hxg5 hxg5 17.Be4 Rae8 18.Ng3 g4 19.Qd3 fxg3 20.Bf4 Bxf4
+ 21.Rxf4 Qh4 22.Rd1 Qh2+ 23.Kf1 Nd5 0-1

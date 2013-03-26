@@ -1,0 +1,17 @@
+[Event "960 Rematch"]
+[Site "Chess.com"]
+[Date "2012.12.12"]
+[White "THE EMPERORS OF CHESS"]
+[Black "International 10 Minute Vote Chess Group"]
+[Result "1-0"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnkrbbqn/pppppppp/8/8/8/8/PPPPPPPP/RNKRBBQN w KQkq - 0 1"]
+
+1.d4 d5 2.f3 f5 3.e3 Nc6 4.Bd3 Qf7 5.a3 e5 6.Bh4 Rd6 7.Ng3 Bd7 8.Ne2 h6 9.Bg3 Ng6 10.Bb5 O-O-O
+ 11.Bxc6 Rxc6 12.dxe5 Bc5 13.Nbc3 Be6 14.Nd4 Bxd4 15.exd4 f4 16.Be1 Ne7 17.Qf2 Nf5 18.Bd2 g5 19.Re1 Rc4 20.b3 Rc6
+ 21.Kb2 a6 22.g3 fxg3 23.hxg3 Rf8 24.Rh1 Qg6 25.Rh2 Bf7 26.g4 Ne7 27.f4 gxf4 28.Qxf4 Rg8 29.Rf1 Be8 30.Rxh6 Qxh6
+ 31.Qxh6 Rxh6 32.Bxh6 Rxg4 33.Rf6 Ng8 34.Rf8 Nxh6 35.Nxd5 Rxd4 36.Rxe8+ Kd7 37.Nf6+ Kc6 38.Re6+ Kc5 39.b4+ Kb5 40.Kb3 c6
+ 41.Nd5 a5 42.Nc3+ Ka6 43.Rxh6 axb4 44.axb4 1-0

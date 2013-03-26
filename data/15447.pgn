@@ -1,0 +1,13 @@
+[Event "7 day per move"]
+[Site "Chess.com"]
+[Date "2010.03.26"]
+[White "Chess960 Players Group"]
+[Black "The Africa"]
+[Result "1-0"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rknrbbqn/pppppppp/8/8/8/8/PPPPPPPP/RKNRBBQN w KQkq - 0 1"]
+
+1.f4 Ng6 2.f5 Ne5 3.d4 Nc4 4.e4 N8b6 5.Bxc4 Nxc4 6.Bg3 1-0

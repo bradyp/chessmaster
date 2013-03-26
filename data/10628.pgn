@@ -1,0 +1,10 @@
+[Event "Rapid Vote Chess (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.06.27"]
+[White "King's Own Gambit Appreciation Society"]
+[Black "Rapid Chess"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.f4 exf4 3.d4 Qh4+ 4.g3 fxg3 0-1

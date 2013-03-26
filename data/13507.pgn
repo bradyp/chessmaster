@@ -1,0 +1,11 @@
+[Event "VC 001"]
+[Site "Chess.com"]
+[Date "2009.11.06"]
+[White "The Future Of Chess"]
+[Black "Crown Jewels Team"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 c6 2.Be2 d5 3.d3 e5 4.Nf3 Bd6 5.O-O Nf6 6.Bg5 O-O 7.exd5 cxd5 8.Bxf6 Qxf6 9.c3 Nc6 10.Nbd2 Re8
+ 11.Re1 Bf5 12.d4 e4 13.Ne5 Nxe5 14.dxe5 Qxe5 15.g3 Bd7 16.f4 Bc5+ 17.Kf1 Bh3# 0-1

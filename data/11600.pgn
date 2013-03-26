@@ -1,0 +1,11 @@
+[Event "king's gambit rules!!!"]
+[Site "Chess.com"]
+[Date "2009.08.04"]
+[White "The Brain Strainers of Chess.com!"]
+[Black "King's Gambit learners"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.f4 {Thematic Game - This is the starting position.} 
+ exf4 3.Nf3 Be7 4.Bc4 Bh4+ 5.Kf1 d6 6.d4 Bg4 7.Bxf4 1-0

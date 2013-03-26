@@ -1,0 +1,14 @@
+[Event "Apple vs. Penguins"]
+[Site "Chess.com"]
+[Date "2009.07.01"]
+[White "Apple"]
+[Black "Linux Users Group"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bd2 O-O 5.Qb3 c5 6.dxc5 Bxc5 7.e3 Nc6 8.Nf3 b6 9.Bd3 Bb7 10.O-O Nb4
+ 11.Be2 d5 12.a3 dxc4 13.Bxc4 Nc6 14.Na4 Na5 15.Bxa5 Bxf3 16.gxf3 Rb8 17.Nxc5 bxa5 18.Qc2 Rc8 19.b4 axb4 20.axb4 a5
+ 21.Rxa5 Nd5 22.Rd1 Qg5+ 23.Kh1 Nxb4 24.Qb3 Rxc5 25.Rxc5 Qxc5 26.Rd7 h6 27.Rb7 Nc6 28.Rc7 Qf5 29.e4 Qc5 30.Bb5 Rb8
+ 31.Rxc6 Qxc6 32.Bxc6 Rxb3 33.e5 g5 34.Be4 Kg7 35.Kg2 Rb5 36.Kg3 Rxe5 37.Kg4 f5+ 38.Bxf5 exf5+ 39.Kh5 Re1 40.h4 Rh1
+ 41.f4 Rxh4# 0-1

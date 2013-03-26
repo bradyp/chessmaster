@@ -1,0 +1,15 @@
+[Event "960 chess game for fun!"]
+[Site "Chess.com"]
+[Date "2011.11.13"]
+[White "Sacred Pawn Legion"]
+[Black "Judit Polgar"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brkrnnqb/pppppppp/8/8/8/8/PPPPPPPP/BRKRNNQB w KQkq - 0 1"]
+
+1.f4 b6 2.b3 Ne6 3.g3 Bxh1 4.Qxh1 g6 5.Bc3 Bxc3 6.dxc3 Qg7 7.Qf3 f5 8.c4 Nd6 9.Nd2 Nc5 10.Nd3 Nde4
+ 11.Ne5 d6 12.Nc6 Nc3 13.Nxa7+ Kd7 14.Qc6+ Ke6 15.Re1 Nxa2+ 16.Kd1 Nb4 17.Qf3 d5 18.c3 dxc4 19.bxc4 Ne4 20.Rxb4 Rxd2+
+ 21.Kc1 Ra2 22.Nb5 Ra1+ 23.Rb1 Rxb1+ 0-1

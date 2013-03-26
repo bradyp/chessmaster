@@ -1,0 +1,14 @@
+[Event "Rapid Vote Chess960 (2days/move,JP)"]
+[Site "Chess.com"]
+[Date "2010.03.05"]
+[White "RAPID CHESS"]
+[Black "Unlimited Chess960"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnbbqrkr/pppppppp/8/8/8/8/PPPPPPPP/NNBBQRKR w KQkq - 0 1"]
+
+1.d4 d5 2.Nc3 Nb6 3.b3 Nc6 4.e3 e5 5.f3 exd4 6.Nb5 dxe3 7.Bxe3 Bf6 8.c3 Qd8 9.Nc2 Re8 10.Qd2 a6
+ 11.Nbd4 1-0

@@ -1,0 +1,13 @@
+[Event "UCF vs. Brain Strainers"]
+[Site "Chess.com"]
+[Date "2011.04.29"]
+[White "United Chess Friends"]
+[Black "The Brain Strainers of Chess.com!"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnrnkrqb/pppppppp/8/8/8/8/PPPPPPPP/BNRNKRQB w KQkq - 0 1"]
+
+1.e4 Nbc6 2.Nbc3 g6 0-1

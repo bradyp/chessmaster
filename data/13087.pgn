@@ -1,0 +1,12 @@
+[Event "Endgame Experts vs Opening Experts"]
+[Site "Chess.com"]
+[Date "2009.10.12"]
+[White "Endgame Experts"]
+[Black "Opening Experts"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 Nf6 6.Re1 O-O 7.d4 cxd4 8.cxd4 d5 9.e5 Ne4 10.Bxc6 bxc6
+ 11.Nbd2 Bf5 12.Nh4 e6 13.Nxf5 exf5 14.Nb3 f6 15.f3 Ng5 16.Bxg5 fxg5 17.Rc1 Qb6 18.Re3 f4 19.Rec3 Rac8 20.Nc5 Qxb2
+ 21.Rb3 Qxa2 22.Ra1 Qxb3 23.Qxb3 1-0

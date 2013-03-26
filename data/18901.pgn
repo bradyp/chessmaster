@@ -1,0 +1,12 @@
+[Event "Chess Bay Group Attack"]
+[Site "Chess.com"]
+[Date "2011.01.05"]
+[White "Chess BayTVC"]
+[Black "Mikhail Tal Fans"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7 9.O-O-O Nc6 10.Nxc6 bxc6
+ 11.e5 Nd5 12.Bxe7 Qxe7 13.Ne4 dxe5 14.fxe5 O-O 15.c4 Nb4 16.a3 a5 17.axb4 axb4 18.Bd3 b3 19.Nf6+ Kh8 20.Qe4 g6
+ 21.Qh4 h5 22.Qg5 Ra1+ 23.Bb1 Qa7 24.Qh6# 1-0

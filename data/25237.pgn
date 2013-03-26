@@ -1,0 +1,15 @@
+[Event "Chess960 Society vs Chess Universe (jp)"]
+[Site "Chess.com"]
+[Date "2012.03.08"]
+[White "Chess960 Society"]
+[Black "Chess Universe"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bqnbrkrn/pppppppp/8/8/8/8/PPPPPPPP/BQNBRKRN w KQkq - 0 1"]
+
+1.b4 Nd6 2.e4 Ng6 3.Ng3 e6 4.Bc3 Bg5 5.Re2 Nf4 6.Re1 b6 7.Be5 Nc4 8.Bc3 d5 9.d3 Nd6 10.e5 Nb5
+ 11.Bd2 c5 12.bxc5 bxc5 13.Nb3 Nd4 14.Bxf4 Bxf4 15.Qa1 Nxb3 16.axb3 d4 17.c4 Bd2 18.Re2 Bc3 19.Qa3 Bb4 20.Qa6 Bb7
+ 21.Qa1 O-O 22.Qc1 f6 23.exf6 1-0

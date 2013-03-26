@@ -1,0 +1,10 @@
+[Event "&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;"]
+[Site "Chess.com"]
+[Date "2010.07.11"]
+[White "Indian Emperors"]
+[Black "The AI Team"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 0-1

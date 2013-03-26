@@ -1,0 +1,13 @@
+[Event "960 fire on the board"]
+[Site "Chess.com"]
+[Date "2013.01.08"]
+[White "Sicilian Dragon and his systems"]
+[Black "THE NOBLE KNIGHTS!"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrbkrnqb/pppppppp/8/8/8/8/PPPPPPPP/NRBKRNQB w KQkq - 0 1"]
+
+1.e4 c6 2.g3 Nb6 3.d4 f6 4.Nb3 e5 0-1

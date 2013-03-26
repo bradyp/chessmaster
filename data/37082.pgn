@@ -1,0 +1,12 @@
+[Event "VoteChess"]
+[Site "Chess.com"]
+[Date "2013.01.30"]
+[White "Hecate's Warriors"]
+[Black "Anand's Group"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qe6+ 4.Be2 Nf6 5.Nf3 Nc6 6.O-O Bd7 7.d4 Nd5 8.Nxd5 Qxd5 9.c4 Qf5 10.Re1 e6
+ 11.d5 Nb4 12.Nd4 Qg6 13.a3 Na6 14.dxe6 Bxe6 15.Nxe6 fxe6 16.Bh5 Bd6 17.Rxe6+ Kd7 18.Rxg6 hxg6 19.Bg4+ Kc6 20.Qd5+ Kb6
+ 21.Qb5# 1-0

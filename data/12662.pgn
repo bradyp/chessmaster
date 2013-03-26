@@ -1,0 +1,13 @@
+[Event "Rapid Vote Chess960 (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.09.15"]
+[White "online chess tournaments"]
+[Black "Rapid Chess"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brqbnnkr/pppppppp/8/8/8/8/PPPPPPPP/BRQBNNKR w KQkq - 0 1"]
+
+ 0-1

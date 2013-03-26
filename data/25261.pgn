@@ -1,0 +1,15 @@
+[Event "A Chess 960 Duel in Spring 2012 !"]
+[Site "Chess.com"]
+[Date "2012.03.08"]
+[White "Team Azerbaijan"]
+[Black "Total Random Team"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnqrkbnr/pppppppp/8/8/8/8/PPPPPPPP/BNQRKBNR w KQkq - 0 1"]
+
+1.e4 b5 2.d3 e6 3.Nf3 c5 4.b3 Nc6 5.Be2 d5 6.c4 Nf6 7.O-O bxc4 8.Bxf6 gxf6 9.exd5 Rxd5 10.dxc4 Rh5
+ 11.Nc3 Nd4 12.Nxd4 Bh6 13.Qc2 cxd4 14.Bxh5 dxc3 15.Qxc3 e5 16.Bf3 O-O 17.Bxa8 Qxa8 18.a4 Kh8 19.Rfe1 Rg8 20.Qh3 Bf8
+ 21.f3 Bc5+ 22.Kh1 Qb7 23.Rd7 Qb4 24.Qh4 Rg6 25.Rxf7 Qxb3 26.Qxh7# 1-0

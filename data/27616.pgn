@@ -1,0 +1,13 @@
+[Event "It's Chess 960 !"]
+[Site "Chess.com"]
+[Date "2012.05.08"]
+[White "Yay ... We Love Tourneys !!!"]
+[Black "L for J &amp; FRIENDS"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkqbbrnn/pppppppp/8/8/8/8/PPPPPPPP/RKQBBRNN w KQkq - 0 1"]
+
+1.d4 Nf6 2.Ng3 d5 3.f3 Qe6 4.e4 dxe4 5.fxe4 Qa6 0-1

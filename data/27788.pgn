@@ -1,0 +1,13 @@
+[Event "Lounge 960 Challenge"]
+[Site "Chess.com"]
+[Date "2012.05.12"]
+[White "CHESS Lounge"]
+[Black "Courageous Few"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqbkrbnn/pppppppp/8/8/8/8/PPPPPPPP/RQBKRBNN w KQkq - 0 1"]
+
+1.e4 c5 2.Ng3 Nf6 3.h3 Ng6 4.Nf3 d6 5.Bb5 Bd7 6.Bxd7 Nxd7 7.Ng5 1-0

@@ -1,0 +1,13 @@
+[Event "Company 960"]
+[Site "Chess.com"]
+[Date "2009.11.12"]
+[White "Chess Company"]
+[Black "Supreme Pawns"]
+[Result "0-1"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbrnbkqr/pppppppp/8/8/8/8/PPPPPPPP/NBRNBKQR w KQkq - 0 1"]
+
+1.f4 c6 2.Bg3 g5 3.Qf2 gxf4 0-1

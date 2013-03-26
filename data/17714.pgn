@@ -1,0 +1,16 @@
+[Event "TVC RANDOM CUP 2010 R1"]
+[Site "Chess.com"]
+[Date "2010.09.30"]
+[White "The Ancient of Days"]
+[Black "Smiling Assassins"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrkbbnqr/pppppppp/8/8/8/8/PPPPPPPP/NRKBBNQR w KQkq - 0 1"]
+
+1.e4 e5 2.Nb3 Ne6 3.g3 c6 4.Ne3 b5 5.Be2 Bb6 6.d3 g6 7.Bd2 Nac7 8.Qg2 f6 9.O-O Nd4 10.Nxd4 exd4
+ 11.Ng4 Qe6 12.f4 h5 13.Nf2 Qxa2 14.Rfc1 Qe6 15.c3 dxc3 16.Bxc3 a5 17.Kf1 b4 18.Bd2 Nb5 19.Nd1 Nd4 20.Rc4 Nxe2
+ 21.Qxe2 Qh3+ 22.Qg2 Qxg2+ 23.Kxg2 Kb7 24.Be3 d5 25.Rc2 d4 26.Bf2 Bf7 27.b3 Ra8 28.Be1 c5 29.e5 Bd5+ 30.Kg1 fxe5
+ 31.fxe5 Rae8 32.Re2 Bc7 33.Nf2 Rxe5 34.Rxe5 Bxe5 35.Bd2 h4 36.Bf4 hxg3 37.Bxe5 gxf2+ 38.Kxf2 Rf8+ 39.Kg1 Rf3 0-1

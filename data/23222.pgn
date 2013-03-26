@@ -1,0 +1,13 @@
+[Event "~&hearts;~&hearts;~"]
+[Site "Chess.com"]
+[Date "2011.11.20"]
+[White "~~~ Cocktail Club ~~~"]
+[Black "Red's Angels"]
+[Result "0-1"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brknnbrq/pppppppp/8/8/8/8/PPPPPPPP/BRKNNBRQ w KQkq - 0 1"]
+
+1.b3 Nf6 2.Nc3 e6 3.Bb2 b5 4.Nd3 d5 5.e3 Bd6 0-1

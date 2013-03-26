@@ -1,0 +1,11 @@
+[Event "Perfect chess vs. fast players group"]
+[Site "Chess.com"]
+[Date "2009.05.16"]
+[White "Perfect chess"]
+[Black "Fast Players Group"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.c3 Nf6 6.Re1 a6 7.Ba4 b5 8.Bb3 Be7 9.d4 exd4 10.Nxd4 Nxd4
+ 11.cxd4 O-O 12.e5 dxe5 13.dxe5 Ne8 14.Nc3 Bb4 0-1

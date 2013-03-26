@@ -1,0 +1,12 @@
+[Event "123456"]
+[Site "Chess.com"]
+[Date "2010.07.21"]
+[White "Bangor Wannabees"]
+[Black "TheBlindTigers"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 e6 6.Bd3 Bc5 7.O-O Nge7 8.Qe2 O-O 9.e5 Ng6 10.Bxg6 fxg6
+ 11.Bg5 Qa5 12.Qb5 Qxb5 13.Nxb5 a6 14.Nc7 Ra7 15.Rac1 b6 16.a3 Rxc7 17.b4 Rxf3 18.gxf3 Nxe5 19.bxc5 Nxf3+ 20.Kg2 Nxg5
+ 21.cxb6 Bb7+ 22.Kg1 Nh3# 0-1

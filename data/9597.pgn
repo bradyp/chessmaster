@@ -1,0 +1,12 @@
+[Event "Rapid Vote Chess"]
+[Site "Chess.com"]
+[Date "2009.04.26"]
+[White "The Terminator"]
+[Black "Rapid Chess"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.e5 Nxe5 6.Nxe5 d5 7.Qxd4 c6 8.O-O Be6 9.Bd3 Bd6 10.Re1 O-O
+ 11.Bg5 Be7 12.Qe3 d4 13.Qf3 h6 14.Bxf6 Bxf6 15.Qe4 g6 16.Nxg6 fxg6 17.Qxg6+ Bg7 18.Qxe6+ Kh8 19.Qg6 Kg8 20.Qh7+ Kf7
+ 21.Bg6+ Kf6 22.Bh5 Qd5 23.Qg6# 1-0

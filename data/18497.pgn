@@ -1,0 +1,12 @@
+[Event "Chess Society Challenge (2days/move)"]
+[Site "Chess.com"]
+[Date "2010.12.04"]
+[White "CHESS SOCIETY"]
+[Black "Chess Unlimited"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.Qf3 Nbd7 8.Bd3 Be7 9.Bxf6 Bxf6 10.Nde2 O-O
+ 11.Ng3 Qb6 12.O-O-O Bxc3 13.bxc3 Qa5 14.Bc4 Ne5 15.Qe2 Qxc3 16.Kb1 Nxc4 17.Qxc4 Qxc4 18.Rd3 Bd7 19.Rb3 Ba4 20.Kb2 Bxb3
+ 21.axb3 Qd4+ 22.Kb1 Rfc8 23.f3 Rxc2 24.Kxc2 Rc8+ 25.Kb1 Qd3+ 26.Ka2 Rc2+ 27.Ka3 Qc3 28.Rb1 Qa5# 0-1

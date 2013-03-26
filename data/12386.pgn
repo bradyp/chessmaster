@@ -1,0 +1,14 @@
+[Event "Fast Players Group Open Seek"]
+[Site "Chess.com"]
+[Date "2009.09.01"]
+[White "Chess960 Players Group"]
+[Black "Fast Players Group"]
+[Result "0-1"]
+[TimeControl "1 in 0.0069444444444444 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qnbbnrkr/pppppppp/8/8/8/8/PPPPPPPP/QNBBNRKR w KQkq - 0 1"]
+
+1.b4 e6 2.Bb2 Bf6 3.Bxf6 Nxf6 4.a3 b6 5.Nf3 Bb7 6.e3 Nc6 7.Nc3 h5 8.d4 h4 9.Ne5 Nxe5 10.dxe5 Bxg2
+ 11.exf6 Bxf1 12.Ne2 Qg2# 0-1

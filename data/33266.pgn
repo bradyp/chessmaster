@@ -1,0 +1,11 @@
+[Event "Have fun!!! vs Chess School"]
+[Site "Chess.com"]
+[Date "2012.10.21"]
+[White "Chess School"]
+[Black "Have fun!!!"]
+[Result "1-0"]
+[TimeControl "1 in 0.0069444444444444 days"]
+[Termination ""]
+
+1.e4 e5 2.f4 exf4 {Thematic Game - This is the starting position.} 
+ 3.d4 d5 4.exd5 Qh4+ 5.Kd2 Nf6 6.Qe2+ Kd8 7.Nf3 Qh5 8.a3 1-0

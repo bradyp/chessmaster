@@ -1,0 +1,12 @@
+[Event "FVCL"]
+[Site "Chess.com"]
+[Date "2009.06.30"]
+[White "Chess Unlimited"]
+[Black "Fast Players Group"]
+[Result "0-1"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.d3 Be7 7.Ne4 O-O 8.Bxd5 Qxd5 9.Nbc3 Qd8 10.O-O f5
+ 11.Ng3 f4 12.Nge4 f3 13.gxf3 Bh3 14.Re1 Nd4 15.Be3 Nxf3+ 16.Kh1 Nxe1 17.Qxe1 Bh4 18.Ng3 Qf6 19.Nce4 Qf3+ 20.Kg1 Qg2#
+ 0-1

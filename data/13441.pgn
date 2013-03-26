@@ -1,0 +1,15 @@
+[Event "Rapid Vote Chess960 (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.10.31"]
+[White "A Doctor, a Writer, and a Mechanic walk into a bar . . ."]
+[Black "RAPID CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqnbnkbr/pppppppp/8/8/8/8/PPPPPPPP/RQNBNKBR w KQkq - 0 1"]
+
+1.c4 f6 2.b3 c5 3.e3 Bc7 4.Bf3 Be5 5.Be4 Bxa1 6.Qxa1 Ned6 7.Bf3 e5 8.e4 Be6 9.Nc2 O-O 10.Nd3 b6
+ 11.h3 Ne7 12.Bh2 a5 13.O-O Ng6 14.Ne3 a4 15.b4 cxb4 16.Nxb4 Nxc4 17.Nf5 Nxd2 18.Rd1 Nxf3+ 19.gxf3 b5 20.Nd5 b4
+ 0-1

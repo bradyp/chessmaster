@@ -1,0 +1,17 @@
+[Event "Chess960 Vote Challenge (2days/move)"]
+[Site "Chess.com"]
+[Date "2010.07.21"]
+[White "Chess960 Society"]
+[Black "D` CHESSBOMB"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qrkbnrbn/pppppppp/8/8/8/8/PPPPPPPP/QRKBNRBN w KQkq - 0 1"]
+
+1.b4 Nf6 2.f3 b6 3.Bd4 Ng6 4.e3 Qd5 5.Nf2 e5 6.Bb2 Qb5 7.d3 d6 8.c3 Nh4 9.g3 Nf5 10.Ng4 Nxg4
+ 11.fxg4 Nxe3 12.Rf2 Bg5 13.Kd2 Nxg4+ 14.Ke2 Nxf2 15.Kxf2 Bd2 16.Ba3 Bxe1+ 17.Kxe1 Qxd3 18.Be2 Qe4 19.Rc1 Qh1+ 20.Kd2 Qxh2
+ 21.g4 f6 22.Re1 Be6 23.Rh1 Qf4+ 24.Kd1 Qe4 25.Kd2 h6 26.Re1 Qd5+ 27.Kc2 Qxa2+ 28.Bb2 Qd5 29.Qa3 Qe4+ 30.Kc1 Qf4+
+ 31.Kd1 Bxg4 32.Qa6+ Rb7 33.Qd3 Bxe2+ 34.Rxe2 Qg4 35.Kc2 h5 36.c4 h4 37.Re4 Qh5 38.Kb3 g5 39.Bc3 h3 40.Qg3 h2
+ 41.Re1 h1=Q 42.Rxh1 Qxh1 43.Qg4+ Kd8 0-1

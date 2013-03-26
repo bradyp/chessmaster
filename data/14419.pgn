@@ -1,0 +1,17 @@
+[Event "Rapid Vote Chess960 (2days/move, JP)"]
+[Site "Chess.com"]
+[Date "2010.01.11"]
+[White "RAPID CHESS"]
+[Black "TURK CHESS PLAYERS"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nqrnkrbb/pppppppp/8/8/8/8/PPPPPPPP/NQRNKRBB w KQkq - 0 1"]
+
+1.g4 c6 2.f4 f5 3.g5 g6 4.c4 e5 5.e3 Ne6 6.Nc3 exf4 7.exf4 Nxf4 8.Be3 Ne6 9.h4 Nb6 10.Bxb6 axb6
+ 11.Qd3 Qe5+ 12.Kd1 Nc5 13.Qc2 Bxc4 14.Re1 Bd3 15.Rxe5+ Bxe5 16.Qb3 Nxb3 17.Nxb3 Bg3 18.Ra1 Bxh4 19.Nd4 Bxg5 20.Nf3 Bf6
+ 21.Ne1 Bc4 22.d3 Be6 23.Na4 b5 24.Nb6 Rd8 25.Kc2 Bd4 26.Nxd7 Rxd7 27.Nf3 Bf6 28.a4 b4 29.Rb1 b3+ 30.Kd2 O-O
+ 31.Ne1 Rfd8 32.Bf3 g5 33.a5 g4 34.Be2 f4 35.Kc1 f3 36.Bf1 Bg5+ 37.Kd1 g3 38.Nxf3 Bg4 39.Be2 Bxf3 40.Bxf3 Re7
+ 41.Bg2 Rxd3# 0-1

@@ -1,0 +1,15 @@
+[Event "Chess960 Society Challenge (jp)"]
+[Site "Chess.com"]
+[Date "2012.01.23"]
+[White "The Chess Ninjas"]
+[Black "Chess960 Society"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbrnkqrn/pppppppp/8/8/8/8/PPPPPPPP/BBRNKQRN w KQkq - 0 1"]
+
+1.d4 c5 2.b3 Bxh2 3.c4 Bxg1 4.Qxg1 g6 5.d5 Qh6 6.Ne3 d6 7.Ng3 f5 8.Bxh8 Rxh8 9.Bd3 Nf7 10.f3 f4
+ 11.Ng4 Qh4 12.Qh2 Qxg3+ 13.Qxg3 fxg3 14.Kd2 h5 15.Ne3 Ne5 16.Bb1 h4 17.f4 Nd7 18.Bxg6+ Kd8 19.Nf5 Rg8 20.Bh5 Rh8
+ 21.Ng7 Nf8 22.Bg4 Rb8 23.e4 b5 24.Ne6+ Nxe6 25.Bxe6 bxc4 26.bxc4 Rb2+ 27.Rc2 Rxc2+ 28.Kxc2 h3 0-1

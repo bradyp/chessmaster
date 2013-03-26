@@ -1,0 +1,16 @@
+[Event "TVC RANDOM CUP 2010 R1"]
+[Site "Chess.com"]
+[Date "2010.09.30"]
+[White "Chess Bay960"]
+[Black "Mad About Vote Chess"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bqnnrkrb/pppppppp/8/8/8/8/PPPPPPPP/BQNNRKRB w KQkq - 0 1"]
+
+1.c4 g6 2.b3 Bxa1 3.Qxa1 O-O 4.d4 b5 5.e4 bxc4 6.bxc4 Nd6 7.d5 Nxc4 8.Qd4 Qb4 9.Nb3 e6 10.Ne3 Nxe3+
+ 11.Rxe3 Qxd4 12.Nxd4 exd5 13.Nb5 Ne6 14.Nxa7 dxe4 15.Nb5 Rb8 16.a4 c6 17.Nd6 Rb1+ 18.Re1 Rxe1+ 19.Kxe1 Rb8 20.Kd2 Rb4
+ 21.Ke3 Rb3+ 22.Ke2 Nf4+ 23.Kd2 Rd3+ 24.Kc2 Rxd6 25.g3 Nh3 26.Rf1 c5 27.Bg2 Ng5 28.Re1 Rf6 29.Re2 Ra6 30.h4 Ne6
+ 31.Bxe4 Nd4+ 0-1

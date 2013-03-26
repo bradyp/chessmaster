@@ -1,0 +1,14 @@
+[Event "Company 960"]
+[Site "Chess.com"]
+[Date "2009.11.09"]
+[White "Chess Company"]
+[Black "Chess960 Players Group"]
+[Result "0-1"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqbbnknr/pppppppp/8/8/8/8/PPPPPPPP/RQBBNKNR w KQkq - 0 1"]
+
+1.e4 c5 2.b3 Ngf6 3.c4 e5 4.Ngf3 d6 5.O-O Nc7 6.Kh1 O-O 7.d3 b5 8.b4 Ne6 9.bxc5 bxc4 10.cxd6 Qxd6
+ 0-1

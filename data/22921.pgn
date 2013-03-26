@@ -1,0 +1,17 @@
+[Event "FTG 960 for FUN - W"]
+[Site "Chess.com"]
+[Date "2011.11.04"]
+[White "Fast Thinkers Group"]
+[Black "The Brain Strainers of Chess.com!"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rknbbqrn/pppppppp/8/8/8/8/PPPPPPPP/RKNBBQRN w KQkq - 0 1"]
+
+1.d4 d5 2.Ng3 Bd7 3.e4 e6 4.Bf3 c6 5.Nd3 Nd6 6.Bb4 Be7 7.Nc5 Bc8 8.e5 Nb5 9.c3 a5 10.Ba3 Nxa3+
+ 11.bxa3 Bxc5 12.dxc5 Qxc5 13.Qd3 Ng6 14.Qd4 Qxd4 15.cxd4 f5 16.Kc2 Rd8 17.Rab1 Kc7 18.Nh5 Rd7 19.g3 a4 20.Nf4 Nxf4
+ 21.gxf4 b6 22.Kd2 Ba6 23.h4 Bc4 24.Kc3 Bxa2 25.Rb2 Bb3 26.Bd1 Bxd1 27.Rxd1 g6 28.Rdb1 b5 29.f3 h6 30.Rg2 Rg7
+ 31.Rbg1 Rag8 32.Kb4 Kb6 33.h5 g5 34.fxg5 hxg5 35.h6 Rh7 36.Rxg5 Rxg5 37.Rxg5 Rxh6 38.Rg8 Rh3 39.Rb8+ Kc7 40.Re8 Kd7
+ 41.Ra8 Rxf3 42.Ra7+ Kc8 43.Kc5 Rxa3 44.Kxc6 Rc3+ 45.Kd6 f4 46.Kxe6 f3 47.Rf7 a3 0-1

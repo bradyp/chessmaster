@@ -1,0 +1,13 @@
+[Event "Chess Society vs Chess Unlimited"]
+[Site "Chess.com"]
+[Date "2009.08.20"]
+[White "Chess Society"]
+[Black "Chess Unlimited"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 Nf6 6.Bg5 Be7 7.Bc4 O-O 8.e5 Ng4 9.Bxe7 Qxe7 10.Qxg4 Qxe5+
+ 11.Kd2 d5 12.Qe2 Qd4+ 13.Bd3 Qxb2 14.Nc3 d4 15.Ne4 Qb4+ 16.Kc1 Qa3+ 17.Kd1 Qb2 18.Rc1 Qxa2 19.Qh5 Qe6 20.Qxh7+ Kxh7
+ 21.Ng5+ Kg8 22.h4 Qg4+ 23.Be2 Qxg2 24.Rf1 Bg4 25.f3 Rfe8 26.Bd3 Bh5 27.c4 Re3 28.Bh7+ Kf8 29.Re1 Bxf3+ 30.Re2 Qxe2#
+ 0-1

@@ -1,0 +1,12 @@
+[Event "960 a go go"]
+[Site "Chess.com"]
+[Date "2013.02.16"]
+[White "Carpe Diem"]
+[Black "Team Zimbabwe"]
+[Result "*"]
+[TimeControl "1 in 7 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rknrbbqn/pppppppp/8/8/8/8/PPPPPPPP/RKNRBBQN w KQkq - 0 1"]
+
+1.g4 f5 2.gxf5 Nd6 3.Ng3 *

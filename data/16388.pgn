@@ -1,0 +1,13 @@
+[Event "Overclockers UK Open Seek"]
+[Site "Chess.com"]
+[Date "2010.06.16"]
+[White "for the world"]
+[Black "Overclockers UK"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnbrqbkr/pppppppp/8/8/8/8/PPPPPPPP/NNBRQBKR w KQkq - 0 1"]
+
+1.e4 e5 2.Nc3 c6 3.Qe3 Nb6 4.d3 d5 5.Qg3 d4 0-1

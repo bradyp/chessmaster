@@ -1,0 +1,13 @@
+[Event "Tally-ho! Dutch Vote Chess"]
+[Site "Chess.com"]
+[Date "2008.12.09"]
+[White "Tally Team Non-Users"]
+[Black "Dynamic Dutch Defense"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 f5 {Thematic Game - This is the starting position.} 
+ 2.c4 Nf6 3.Nc3 e6 4.g3 Be7 5.Bg2 O-O 6.Nf3 d6 7.O-O Qe8 8.b3 Ne4 9.Bb2 Nxc3 10.Bxc3 Nd7
+ 11.Qd2 Nf6 12.Rfe1 Ne4 13.Qc2 Nxc3 14.Qxc3 Bf6 15.e4 fxe4 16.Rxe4 Qf7 17.Rae1 b6 18.Bh3 e5 19.Bxc8 exd4 20.Nxd4 Raxc8
+ 21.Qe3 Bxd4 22.Qxd4 Rce8 23.f4 Rxe4 24.Qxe4 a5 25.Qe6 Qxe6 26.Rxe6 Kf7 27.f5 g6 0-1

@@ -1,0 +1,13 @@
+[Event "Lounge 960 Invitation #3"]
+[Site "Chess.com"]
+[Date "2013.01.24"]
+[White "Young Bloods"]
+[Black "CHESS Lounge"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnbbqkrn/pppppppp/8/8/8/8/PPPPPPPP/RNBBQKRN w KQkq - 0 1"]
+
+1.d4 d5 2.c4 dxc4 3.a4 Ng6 4.Qb4 O-O 5.Qxc4 b6 6.O-O 1-0

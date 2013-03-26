@@ -1,0 +1,11 @@
+[Event "chess on Open Seek"]
+[Site "Chess.com"]
+[Date "2013.02.02"]
+[White "THE EMPERORS OF CHESS"]
+[Black "chess on"]
+[Result "0-1"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+
+1.e4 d5 2.exd5 e6 3.dxe6 Bxe6 4.Nf3 Bc5 5.d4 Bb6 6.Nc3 c6 7.Ne4 Nf6 8.Bg5 Nbd7 9.Be2 O-O 10.c3 h6
+ 11.Bh4 Qe7 12.Ne5 g5 13.Nxf6+ Nxf6 14.Bg3 Nh7 15.O-O Bd5 16.Bd3 f5 17.Ng6 Qd7 18.Nxf8 Nxf8 19.Qh5 f4 0-1

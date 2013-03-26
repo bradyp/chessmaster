@@ -1,0 +1,11 @@
+[Event "friendly match"]
+[Site "Chess.com"]
+[Date "2010.06.23"]
+[White "&Pi;&Alpha;&Omicron;&Kappa;"]
+[Black "Team Antarctica"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Nxc6 bxc6 7.Bd3 O-O 8.O-O Bxc3 9.bxc3 Bb7 10.Bg5 h6
+ 11.Bh4 g5 12.Bg3 c5 13.e5 Nd5 14.Qf3 Rb8 15.Qf5 Nxc3 16.Qh7# 1-0

@@ -1,0 +1,13 @@
+[Event "Spartan Warriors vs Videochess Club"]
+[Site "Chess.com"]
+[Date "2012.04.07"]
+[White "Spartan Warriors"]
+[Black "Videochess Club"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbrkrnnq/pppppppp/8/8/8/8/PPPPPPPP/BBRKRNNQ w KQkq - 0 1"]
+
+1.b4 Nf6 2.Nf3 b5 3.c4 bxc4 4.Rxc4 Bd5 5.Rc1 Ne6 6.Ne3 Bb7 7.g3 h5 8.Ne5 Bxh1 9.Nxf7# 1-0

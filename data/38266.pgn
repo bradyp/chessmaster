@@ -1,0 +1,10 @@
+[Event "The original King"]
+[Site "Chess.com"]
+[Date "2013.02.26"]
+[White "King's Gambit Research"]
+[Black "ShoreView Chess"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+
+1.e4 e5 2.f4 {Thematic Game - This is the starting position.} 
+ exf4 3.Nf3 d6 4.Bc4 Nf6 5.Nc3 Nc6 6.d4 Bg4 7.O-O Be7 8.Bxf4 *

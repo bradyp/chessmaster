@@ -1,0 +1,12 @@
+[Event "The No-Bullying Association Open Seek"]
+[Site "Chess.com"]
+[Date "2013.03.06"]
+[White "The No-Bullying Association"]
+[Black "Fast Movers Group"]
+[Result "*"]
+[TimeControl "1 in 1 day"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbnrknqr/pppppppp/8/8/8/8/PPPPPPPP/BBNRKNQR w KQkq - 0 1"]
+
+1.d4 b6 2.e3 Ng6 3.Nd3 d5 4.f3 Nd6 5.e4 dxe4 6.fxe4 Nxe4 7.Qe3 Nh4 8.Qxe4 Bxe4 *

@@ -1,0 +1,15 @@
+[Event "Ancients 960 Vote Challenge"]
+[Site "Chess.com"]
+[Date "2009.07.30"]
+[White "The Ancient of Days"]
+[Black "Fast And Furious"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnrkrbnq/pppppppp/8/8/8/8/PPPPPPPP/BNRKRBNQ w KQkq - 0 1"]
+
+1.g3 Nc6 2.Nc3 b6 3.Bg2 O-O-O 4.O-O-O e6 5.b3 Ba3+ 6.Bb2 Bxb2+ 7.Kxb2 d5 8.d4 Nge7 9.Nf3 g6 10.e3 Nf5
+ 11.g4 Nd6 12.a4 f5 13.gxf5 exf5 14.Nd2 Ne4 15.Ndxe4 dxe4 16.Bf1 Nb4 17.Bc4 Bd5 18.Nxd5 Nxd5 19.c3 Ne7 20.f3 Nd5
+ 21.f4 Re7 22.Qf1 Rg7 23.Bb5 Rd6 24.Ra1 a5 0-1

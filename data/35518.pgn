@@ -1,0 +1,11 @@
+[Event "Hop Scotch pt.2"]
+[Site "Chess.com"]
+[Date "2012.12.29"]
+[White "The Untouchables"]
+[Black "The Scotch Fans Team"]
+[Result "*"]
+[TimeControl "1 in 3 days"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bb4+ {Thematic Game - This is the starting position.} 
+ 5.c3 Bc5 6.Be3 Bb6 7.Bc4 Nf6 8.Nd2 O-O 9.O-O Nxd4 10.Bxd4 Bxd4
+ 11.cxd4 d5 12.exd5 Nxd5 13.Qb3 Nb6 14.Nf3 Nxc4 15.Qxc4 Be6 16.Qc3 Rc8 17.Qxc7 Rxc7 18.Ne5 *

@@ -1,0 +1,17 @@
+[Event "Spartan Warriors vs Kairav's Chess Masters"]
+[Site "Chess.com"]
+[Date "2010.12.07"]
+[White "Spartan Warriors"]
+[Black "Kairav's Chess Masters"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnqkbbnr/pppppppp/8/8/8/8/PPPPPPPP/RNQKBBNR w KQkq - 0 1"]
+
+1.d4 d5 2.Nf3 Nc6 3.e3 g6 4.c4 e6 5.Nc3 Nf6 6.Bd2 Bg7 7.Be2 Bd7 8.Qc2 O-O 9.O-O a6 10.Ne5 Ne7
+ 11.e4 dxc4 12.Bxc4 c5 13.Nxd7 Nxd7 14.d5 exd5 15.Nxd5 Nxd5 16.Bxd5 Rb8 17.Bf4 Ne5 18.Qc3 Nd7 19.Qb3 Be5 20.Qg3 Qc7
+ 21.Bxe5 Qxe5 22.Qa3 Rfe8 23.Rad1 Re7 24.f4 Qc7 25.Rc1 b6 26.Qxa6 Nf6 27.Qc4 Nxd5 28.exd5 Rd7 29.b4 Qa7 30.bxc5 bxc5
+ 31.Qxc5 Qxa2 32.d6 Kg7 33.Qd4+ Kg8 34.Rc7 Qe6 35.f5 Qe8 36.Qf6 Rb6 37.fxg6 hxg6 38.Rxd7 Qxd7 39.Ra1 Rb8 40.Re1 Rd8
+ 41.Re7 Qf5 42.Qd4 Qb1+ 43.Kf2 Qf5+ 44.Ke2 1-0

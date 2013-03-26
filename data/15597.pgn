@@ -1,0 +1,18 @@
+[Event "Chess 960 Vote Chess League Round 1"]
+[Site "Chess.com"]
+[Date "2010.04.07"]
+[White "Chess Empire"]
+[Black "Team Europe"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbrqbknr/pppppppp/8/8/8/8/PPPPPPPP/NBRQBKNR w KQkq - 0 1"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.c5 Bf4 5.e3 Bh6 6.O-O O-O 7.b4 Nc7 8.Ne5 e6 9.f4 Ne4 10.Ng4 Kh8
+ 11.Nxh6 gxh6 12.Qh5 Qf6 13.f5 Qg5 14.Qh4 Qxe3+ 15.Bf2 Qg5 16.Bxe4 dxe4 17.Qxe4 exf5 18.Qf3 Nd5 19.Bg3 Bd7 20.Nc2 Rfe8
+ 21.b5 Re4 22.bxc6 Bxc6 23.Qxf5 Qxf5 24.Rxf5 f6 25.Re1 Rce8 26.Rxe4 Rxe4 27.Rf2 Kg7 28.Rd2 Kg6 29.Kf2 h5 30.h4 f5
+ 31.Re2 Rxe2+ 32.Kxe2 Nc3+ 33.Ke3 Bxg2 34.Nb4 a5 35.Nd3 Kf7 36.Nf4 Be4 37.Be1 Nxa2 38.Bxa5 Nc1 39.d5 Nb3 40.Bb6 Ke7
+ 41.d6+ Kd7 42.Nxh5 Bc6 43.Nf6+ Ke6 44.Nxh7 Kd5 45.Nf8 Nxc5 46.Bxc5 Kxc5 47.d7 Bxd7 48.Nxd7+ Kd6 49.h5 Ke7 50.Kf4 Kxd7
+ 51.h6 1-0

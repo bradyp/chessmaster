@@ -1,0 +1,17 @@
+[Event "Crazy summer # 2"]
+[Site "Chess.com"]
+[Date "2012.07.06"]
+[White "CHRISTIAN CHESS WORLD"]
+[Black "Le Chat Noir"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bqrnkbrn/pppppppp/8/8/8/8/PPPPPPPP/BQRNKBRN w KQkq - 0 1"]
+
+1.c4 g6 2.b4 c5 3.g3 b6 4.bxc5 bxc5 5.Nc3 f5 6.Nd5 Ne6 7.Bg2 Nf7 8.f4 Nd6 9.Qd3 Bxd5 10.Bxd5 Bg7
+ 11.Bxg7 Rxg7 12.Rb1 Qc7 13.Nf2 Rb8 14.O-O Rxb1 15.Rxb1 g5 16.Bxe6 dxe6 17.fxg5 Rxg5 18.Qe3 Rg6 19.d3 Nf7 20.Qf3 a6
+ 21.Qa8+ Nd8 22.Qxa6 h5 23.Qb6 Qe5 24.Qb5+ Kf7 25.Qb8 Qxb8 26.Rxb8 Nc6 27.Rc8 e5 28.a4 h4 29.Kg2 hxg3 30.hxg3 f4
+ 31.g4 Nd4 32.Rxc5 Ke6 33.a5 Rg8 34.a6 Ra8 35.Ra5 Nxe2 36.Kf3 Nd4+ 37.Ke4 Nc6 38.Ra4 Nb8 39.a7 Nc6 40.Ra6 Kd6
+ 41.g5 Kc7 42.g6 Kb7 43.Ra1 Nxa7 44.Ng4 Rg8 45.Nxe5 Nc6 46.Nxc6 Kxc6 47.Kxf4 Kc5 48.Kg5 1-0

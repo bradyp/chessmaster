@@ -1,0 +1,13 @@
+[Event "Great chess"]
+[Site "Chess.com"]
+[Date "2009.12.02"]
+[White "Great Chess Group"]
+[Black "Kairav's Chess Masters"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnrnkbqr/pppppppp/8/8/8/8/PPPPPPPP/BNRNKBQR w KQkq - 0 1"]
+
+1.e4 1-0

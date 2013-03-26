@@ -1,0 +1,12 @@
+[Event "Traxler Challenge 2"]
+[Site "Chess.com"]
+[Date "2010.04.09"]
+[White "Chess Raiders"]
+[Black "Traxler Analysis"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 {Thematic Game - This is the starting position.} 
+ 5.Nxf7 Bxf2+ 6.Kxf2 Nxe4+ 7.Kg1 Qh4 8.g3 Nxg3 9.Nxh8 Nd4 10.Kg2 Ne4
+ 11.Rf1 d5 12.Rf8+ Kxf8 13.Qf1+ Bf5 14.Bxd5 Qh3+ 15.Kg1 Nf3+ 16.Qxf3 Qxf3 0-1

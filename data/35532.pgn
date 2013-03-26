@@ -1,0 +1,13 @@
+[Event "TU960 VC #1 - 2013"]
+[Site "Chess.com"]
+[Date "2012.12.30"]
+[White "Chess University"]
+[Black "Unlimited Chess960"]
+[Result "*"]
+[TimeControl "1 in 3 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnqrknrb/pppppppp/8/8/8/8/PPPPPPPP/BNQRKNRB w KQkq - 0 1"]
+
+1.e4 e5 2.Ne3 b6 3.g3 Ne6 4.b3 g6 5.O-O O-O 6.Ng4 h5 7.Ne3 d6 8.d3 Nc6 9.Nd5 Qd7 10.Nbc3 Ncd4
+ 11.Qd2 c6 12.Ne3 f5 13.exf5 Nxf5 14.Nxf5 *

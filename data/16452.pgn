@@ -1,0 +1,12 @@
+[Event "123  64  chess"]
+[Site "Chess.com"]
+[Date "2010.06.22"]
+[White "The  best  moves"]
+[Black "ChessGuitar"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.O-O Be7 7.c3 O-O 8.h3 b5 9.Bb3 a5 10.a3 Be6
+ 11.Bxe6 fxe6 12.Qb3 Qd7 13.Ng5 d5 14.exd5 exd5 15.Qxb5 a4 16.d4 Nxd4 17.Qxd7 Ne2+ 18.Kh1 Nxd7 19.Ne6 Ng3+ 20.Kg1 Nxf1
+ 21.Nxf8 Rxf8 22.Kxf1 Nc5 23.Nd2 e4 24.Ke2 Nd3 25.b3 Rxf2+ 26.Ke3 Bc5# 0-1

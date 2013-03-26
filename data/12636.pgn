@@ -1,0 +1,10 @@
+[Event "chess game"]
+[Site "Chess.com"]
+[Date "2009.09.13"]
+[White "Fast Players Group"]
+[Black "aabbccdd"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 f5 3.d3 Nc6 4.Nc3 Bb4 5.Bd2 fxe4 6.Nxe4 1-0

@@ -1,0 +1,15 @@
+[Event "Team Work 8 .. Chess 960"]
+[Site "Chess.com"]
+[Date "2011.03.23"]
+[White "Total Random Team"]
+[Black "Chess BayTVC"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brkbrqnn/pppppppp/8/8/8/8/PPPPPPPP/BRKBRQNN w KQkq - 0 1"]
+
+1.e4 e5 2.b3 Ng6 3.Bg4 Nf6 4.Bh3 b6 5.f3 Nf4 6.g3 Nxh3 7.Nxh3 Be7 8.Bxe5 d5 9.N1f2 Ba3+ 10.Bb2 Bxb2+
+ 11.Kxb2 dxe4 12.fxe4 Nxe4 13.Nxe4 Bxe4 14.Ng5 Bg6 15.Nxh7 Bxh7 16.Qh3+ f5 17.Rf1 Qf6+ 18.c3 O-O 19.Rbe1 Rbd8 20.Rf2 Rd3
+ 21.Qg2 Rfd8 22.Re3 Rxe3 23.dxe3 Rd3 24.e4 Qxc3+ 25.Ka3 Qc1+ 26.Rb2 Qc5+ 27.Ka4 Qa5# 0-1

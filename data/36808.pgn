@@ -1,0 +1,11 @@
+[Event "Philidor Reborn!"]
+[Site "Chess.com"]
+[Date "2013.01.25"]
+[White "Wallyjack's Wonderful Wizards Of Oz"]
+[Black "Philidor Defense"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+
+1.e4 e5 2.Nf3 d6 3.d4 {Thematic Game - This is the starting position.} 
+ exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.Bf4 O-O 7.Qd2 c6 8.Bd3 Nbd7 9.Nf5 Nc5 10.Nxe7+ Qxe7
+ 11.O-O Re8 12.f3 Nxd3 13.Qxd3 Rd8 14.Rad1 d5 15.Bg5 Qc5+ 16.Qd4 Qd6 17.e5 *

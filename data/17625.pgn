@@ -1,0 +1,14 @@
+[Event "Chess Bay960 Group Attack"]
+[Site "Chess.com"]
+[Date "2010.09.24"]
+[White "Chess Bay960"]
+[Black "CHRISTIAN CHESS WORLD"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkbqnrnb/pppppppp/8/8/8/8/PPPPPPPP/RKBQNRNB w KQkq - 0 1"]
+
+1.d4 d5 2.Nd3 g6 3.Nf3 Nd6 4.c3 Bf5 5.Bf4 Ne4 6.Qb3 f6 7.O-O Qd7 8.Rac1 b6 9.c4 e6 10.c5 g5
+ 11.cxb6 axb6 12.Qxb6+ Kc8 13.Rxc7+ Qxc7 14.Qxc7# 1-0

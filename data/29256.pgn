@@ -1,0 +1,15 @@
+[Event "960 united"]
+[Site "Chess.com"]
+[Date "2012.06.30"]
+[White "Second Amendment Rights"]
+[Black "THE POWER OF CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brkbnrnq/pppppppp/8/8/8/8/PPPPPPPP/BRKBNRNQ w KQkq - 0 1"]
+
+1.b3 b6 2.Nd3 Ngf6 3.Nf3 Nd6 4.e3 e6 5.Be2 Be7 6.Bc3 Bb7 7.Nfe5 Nfe4 8.f3 Nxc3 9.dxc3 Bf6 10.f4 Ne4
+ 11.Bf3 Nxc3 12.Bxb7+ Rxb7 13.Rb2 d6 14.Kd2 dxe5 15.e4 Nxe4+ 16.Kc1 exf4 17.Rb1 g5 18.Re1 Nc3 19.Rb2 Nd5 20.Ne5 Bxe5
+ 21.Rb1 Nc3 22.Rb2 Ne2+ 23.Rxe2 Bxb2+ 24.Kd1 Qc3 0-1

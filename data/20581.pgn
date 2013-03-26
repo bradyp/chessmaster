@@ -1,0 +1,16 @@
+[Event "The Glory of Chess Open Seek"]
+[Site "Chess.com"]
+[Date "2011.05.18"]
+[White "Abhi Raj"]
+[Black "The Glory of Chess"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnrqbkrb/pppppppp/8/8/8/8/PPPPPPPP/NNRQBKRB w KQkq - 0 1"]
+
+1.d4 d5 2.Nc3 Nb6 3.Nb3 Nc4 4.Rb1 b6 5.g3 Bc6 6.Nd2 g6 7.b3 Na3 8.Rc1 Bxd4 9.Nf3 Bg7 10.Bd2 d4
+ 11.Nb1 Nb5 12.O-O O-O 13.a4 Nd6 14.c3 Bxf3 15.Bxf3 c5 16.cxd4 Bxd4 17.Nc3 e6 18.Bf4 Nc6 19.Nb5 Nxb5 20.axb5 Ne5
+ 21.Bg2 Qe7 22.e3 Bb2 23.Rc2 Rfd8 24.Qe2 Nd3 25.Rxb2 Nxb2 26.Qxb2 f6 27.e4 e5 28.Be3 Rd3 29.Qc2 Rcd8 30.Re1 Qf7
+ 31.Bf1 Qd7 32.Bxd3 Qxd3 33.Qc4+ Kg7 34.Ra1 Qd7 35.Qa4 Ra8 0-1

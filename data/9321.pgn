@@ -1,0 +1,11 @@
+[Event "The Grob"]
+[Site "Chess.com"]
+[Date "2009.04.02"]
+[White "Chess Warriors"]
+[Black "Vote chess and fun group"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.g4 {Thematic Game - This is the starting position.} 
+ d5 2.Bg2 Bxg4 3.c4 c6 4.cxd5 Nf6 5.Qb3 Qd7 6.Nc3 e6 7.e4 1-0

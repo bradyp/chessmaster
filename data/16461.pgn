@@ -1,0 +1,14 @@
+[Event "Lions #2 - 960"]
+[Site "Chess.com"]
+[Date "2010.06.22"]
+[White "Admins Team"]
+[Black "Galatasaray"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnnkbqrb/pppppppp/8/8/8/8/PPPPPPPP/RNNKBQRB w KQkq - 0 1"]
+
+1.d4 g5 2.e3 f5 3.g3 Nc6 4.Nb3 Bh5+ 5.f3 Nb6 6.Nc3 O-O-O 7.O-O-O Bf7 8.Bd2 e5 9.Ne2 Nc4 10.c3 d5
+ 0-1

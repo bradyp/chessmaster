@@ -1,0 +1,14 @@
+[Event "Attack vs. Defense"]
+[Site "Chess.com"]
+[Date "2008.08.25"]
+[White "Attack"]
+[Black "Defense"]
+[Result "1-0"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 Ne7 7.Nf4 c5 8.dxc5 Nec6 9.h4 Qc7 10.h5 Qxe5+
+ 11.Nfe2 Be4 12.Bf4 Qf6 13.g5 Qe7 14.Nxe4 dxe4 15.Nc3 Qxc5 16.Qd2 Nd4 17.O-O-O Nbc6 18.Kb1 O-O-O 19.Nxe4 Qb6 20.c3 Nf5
+ 21.Bd3 Be7 22.Qe2 Rd7 23.Bc4 Rxd1+ 24.Rxd1 Na5 25.Bb5 Nc6 26.Bd3 Rd8 27.Nd2 g6 28.Nc4 Qc5 29.b4 Qd5 30.h6 Nh4
+ 31.Bc2 Qf3 32.Qxf3 Nxf3 33.b5 e5 34.Be3 Nb8 35.b6 a6 36.Rxd8+ Kxd8 37.Be4 Nxg5 38.Bxb7 f6 39.Bd5 Kd7 40.b7 Bd6
+ 41.Nxd6 Kxd6 42.Bg8 Kc7 43.Bxg5 fxg5 44.Bxh7 Nd7 45.Bxg6 Nf8 46.Be4 g4 47.Kc2 a5 48.Kb3 1-0

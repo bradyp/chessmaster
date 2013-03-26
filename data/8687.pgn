@@ -1,0 +1,14 @@
+[Event "Ruy Lopez Game White"]
+[Site "Chess.com"]
+[Date "2009.02.27"]
+[White "Chess Group!"]
+[Black "Fast Players Group"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 {Thematic Game - This is the starting position.} 
+ Nf6 4.O-O Nd4 5.Nxd4 exd4 6.d3 c6 7.Bc4 b5 8.Bb3 Be7 9.e5 Nd5 10.Bxd5 cxd5
+ 11.Qg4 g6 12.Qxd4 Bb7 13.Nc3 O-O 14.Bh6 Re8 15.Nxb5 a6 16.Nd6 Bxd6 17.exd6 f6 18.Rfe1 Re6 19.Bf4 Kf7 20.c4 dxc4
+ 21.dxc4 g5 22.Bd2 Qf8 23.Rxe6 Kxe6 24.Re1+ Kf7 25.Re7+ Kg8 26.Qd3 Qh6 27.Rxd7 Bc6 28.Rc7 Be8 29.d7 Qg6 30.Qd5+ Bf7
+ 31.Qxa8+ Kg7 32.h3 Qb1+ 33.Kh2 Qxb2 34.d8=Q 1-0

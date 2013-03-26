@@ -1,0 +1,13 @@
+[Event "First Blood."]
+[Site "Chess.com"]
+[Date "2011.07.04"]
+[White "Standard &amp; Fischer"]
+[Black "The Chess Mentors"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnrkbbrq/pppppppp/8/8/8/8/PPPPPPPP/NNRKBBRQ w KQkq - 0 1"]
+
+1.d4 g6 2.Nb3 Bg7 3.Bc3 d6 4.g3 Ba4 5.N1d2 Bxb3 6.Nxb3 Nc6 7.e3 e5 8.O-O-O O-O-O 9.Bg2 1-0

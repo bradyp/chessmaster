@@ -1,0 +1,12 @@
+[Event "Hemisphere Challenge"]
+[Site "Chess.com"]
+[Date "2008.03.18"]
+[White "Below the Equator"]
+[Black "Above the Equator"]
+[Result "0-1"]
+[TimeControl "1 in 0.25 days"]
+[Termination ""]
+
+1.e4 Nc6 2.d4 d5 3.e5 f6 4.f4 Nh6 5.c3 Bf5 6.Nd2 e6 7.Bb5 fxe5 8.fxe5 Qg5 9.Ngf3 Qxg2 10.Rg1 Qh3
+ 11.Nf1 a6 12.Rg3 Qh5 13.Be2 O-O-O 14.Bg5 Ne7 15.Nh4 Qe8 16.Bxh6 gxh6 17.Ne3 Be4 18.Bd3 c5 19.Bxe4 dxe4 20.Rg4 Qc6
+ 21.Nc2 h5 22.Rg5 Qb6 23.b3 cxd4 24.Nxd4 Nc6 25.Qc2 Rxd4 26.cxd4 Qxd4 27.Qc1 Bb4+ 28.Ke2 Rf8 29.Rg2 Qd3# 0-1

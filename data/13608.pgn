@@ -1,0 +1,14 @@
+[Event "Jas 960"]
+[Site "Chess.com"]
+[Date "2009.11.13"]
+[White "Jas CHESS"]
+[Black "The  best  moves"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbbnrqkr/pppppppp/8/8/8/8/PPPPPPPP/NBBNRQKR w KQkq - 0 1"]
+
+1.Nb3 c6 2.g3 e5 3.e4 d5 4.d4 f5 5.exd5 cxd5 6.dxe5 Qb4 7.c3 Qb6 8.Be3 Qc6 9.f4 b6 10.Nd4 Qg6
+ 11.Qb5 Bb7 12.Bxf5 Qf7 13.Qd7 Qxd7 14.Bxd7 Re7 15.e6 Nc7 16.Nf5 Rxd7 17.exd7 1-0

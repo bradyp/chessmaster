@@ -1,0 +1,13 @@
+[Event "960 challenge"]
+[Site "Chess.com"]
+[Date "2012.05.19"]
+[White "LionHearts United"]
+[Black "Team  10"]
+[Result "1-0"]
+[TimeControl "1 in 0.25 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbrnknrq/pppppppp/8/8/8/8/PPPPPPPP/BBRNKNRQ w KQkq - 0 1"]
+
+1.e4 e5 2.b3 g6 3.f4 c6 4.Nde3 Nde6 5.g3 1-0

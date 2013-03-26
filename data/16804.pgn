@@ -1,0 +1,14 @@
+[Event "Endgame Experts vs Opening Experts"]
+[Site "Chess.com"]
+[Date "2010.07.24"]
+[White "Endgame Experts"]
+[Black "Opening Experts"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.O-O-O d5 10.exd5 Nxd5
+ 11.Nxc6 bxc6 12.Nxd5 cxd5 13.Qxd5 Qc7 14.Qc5 Qb7 15.Qa3 Bf5 16.Bd3 Rab8 17.b3 Rfc8 18.Bxf5 gxf5 19.Rd3 Qc6 20.c4 Qg6
+ 21.Rhd1 Qxg2 22.Bd2 Qxh2 23.Qxe7 Re8 24.Qg5 h6 25.Qg1 Qxg1 26.Rxg1 Kh7 27.Rd7 Rf8 28.Be3 Rbd8 29.Rxa7 Rd3 30.Bc5 Bd4
+ 31.Bxf8 Bxa7 32.Rg7+ Kh8 33.Rxf7 Be3+ 34.Kc2 Rd2+ 35.Kc3 Rxa2 36.c5 Ra1 37.Rxf5 Rc1+ 38.Kd3 Bg5 39.f4 Rf1 40.Ke2 Rxf4
+ 41.Rxf4 Bxf4 42.Bd6 Bg5 43.b4 Kg8 44.b5 1-0

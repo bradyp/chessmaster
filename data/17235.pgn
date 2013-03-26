@@ -1,0 +1,14 @@
+[Event "Random Chess.1"]
+[Site "Chess.com"]
+[Date "2010.08.22"]
+[White "CHRISTIAN CHESS WORLD"]
+[Black "Wolf Team&reg;"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qrbknbrn/pppppppp/8/8/8/8/PPPPPPPP/QRBKNBRN w KQkq - 0 1"]
+
+1.d4 d5 2.b4 Bf5 3.Bf4 Bd7 4.e3 a6 5.O-O-O b5 6.Qc3 Rc8 7.Bd3 g5 8.Bg3 Qc6 9.Qxc6 Bxc6 10.Bxh7 Rg7
+ 11.Bf5 Bd7 12.Bxd7 Kxd7 13.Nd3 e6 14.Nc5+ Kc6 15.Be5 Rg8 16.Ng3 f6 17.Bf4 gxf4 18.exf4 Ng7 0-1

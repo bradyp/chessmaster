@@ -1,0 +1,14 @@
+[Event "960 VC Game"]
+[Site "Chess.com"]
+[Date "2011.12.06"]
+[White "&lt;&lt;&lt;&lt; Robotic Chess &gt;&gt;&gt;&gt;"]
+[Black "Chess People"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqnkbbnr/pppppppp/8/8/8/8/PPPPPPPP/RQNKBBNR w KQkq - 0 1"]
+
+1.f4 Nf6 2.Nd3 d5 3.Nf3 g6 4.Bf2 Ne4 5.Bd4 f6 6.b4 Ncd6 7.Ng5 Qc8 8.Nc5 Nxg5 9.fxg5 fxg5 10.Bxh8
+ 1-0

@@ -1,0 +1,11 @@
+[Event "Bogo-Nimzo-Scandinavian"]
+[Site "Chess.com"]
+[Date "2011.05.31"]
+[White "Wilmington Turners Club"]
+[Black "Bogolyubov Variations"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 Nc6 2.d4 d5 3.Nc3 {Thematic Game - This is the starting position.} 
+ dxe4 4.d5 Ne5 5.Bf4 Ng6 6.Bg3 a6 7.Nxe4 e5 8.Nf3 f5 9.Neg5 f4 0-1

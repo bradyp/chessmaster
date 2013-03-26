@@ -1,0 +1,12 @@
+[Event "Terminators vs Warriors"]
+[Site "Chess.com"]
+[Date "2010.02.11"]
+[White "The Terminator"]
+[Black "Chess Warriors"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 d6 4.d3 e5 5.Nd5 Nge7 6.Nec3 Nxd5 7.Nxd5 Be6 8.Be2 Be7 9.O-O O-O 10.c3 f5
+ 11.f4 Rf7 12.Bf3 Bf8 13.exf5 Bxf5 14.Ne3 Be6 15.f5 Bd7 16.Bd5 Qe7 17.Qh5 Be8 18.Rf3 Kh8 19.Rh3 g6 20.Qxg6 Bh6
+ 21.Rxh6 Rg7 22.Rxh7+ Rxh7 23.Qg8# 1-0

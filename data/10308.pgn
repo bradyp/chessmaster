@@ -1,0 +1,11 @@
+[Event "Indian Defense"]
+[Site "Chess.com"]
+[Date "2009.06.12"]
+[White "1.d4 Nf6: Indian Defenses"]
+[Black "The Dark Knights"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.d4 Nf6 {Thematic Game - This is the starting position.} 
+ 2.d5 e6 3.dxe6 fxe6 4.Nf3 Nc6 5.Nc3 d5 6.Bg5 Be7 7.g3 O-O 8.Bg2 d4 0-1

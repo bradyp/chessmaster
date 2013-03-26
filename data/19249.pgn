@@ -1,0 +1,13 @@
+[Event "La mitad + 1"]
+[Site "Chess.com"]
+[Date "2011.02.02"]
+[White "Team Mexico"]
+[Black "Team 54"]
+[Result "0-1"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.e3 Bb4+ 5.Bd2 dxe3 {Thematic Game - This is the starting position.} 
+ 6.fxe3 Qh4+ 7.g3 Qe4 8.Qf3 Bxd2+ 9.Nxd2 Qxe5 10.Qe4 Nc6
+ 11.Ngf3 Qxe4 12.Nxe4 Bf5 13.Nc5 O-O-O 14.Bg2 Nf6 15.O-O Rhe8 16.Nd4 Nxd4 17.Bxb7+ Kb8 18.exd4 Bd3 19.Nxd3 Kxb7 20.Rad1 Re2
+ 21.Rf2 Rxf2 22.Nxf2 Re8 23.Kf1 Ne4 24.Nd3 g6 25.b4 Re6 26.d5 Rf6+ 27.Ke2 Nc3+ 28.Kd2 Nxd1 29.Kxd1 Rf1+ 0-1

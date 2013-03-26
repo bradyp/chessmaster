@@ -1,0 +1,12 @@
+[Event "chess on Open Seek"]
+[Site "Chess.com"]
+[Date "2013.02.05"]
+[White "THE EMPERORS OF CHESS"]
+[Black "chess on"]
+[Result "1-0"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+
+1.f4 d5 2.g4 {Thematic Game - This is the starting position.} 
+ e5 3.Nf3 e4 4.Ng5 h6 5.Nh3 Bxg4 6.Nf2 Qh4 7.c4 d4 8.Bg2 e3 9.dxe3 dxe3 10.Bxe3 Bb4+
+ 11.Kf1 1-0

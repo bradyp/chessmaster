@@ -1,0 +1,13 @@
+[Event "Yoi Gemu !"]
+[Site "Chess.com"]
+[Date "2012.02.29"]
+[White "TURK CHESS PLAYERS"]
+[Black "&gt;&gt; Utsukushii Sakura &lt;&lt;"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnkbbqrn/pppppppp/8/8/8/8/PPPPPPPP/RNKBBQRN w KQkq - 0 1"]
+
+1.f4 f5 2.e3 e6 3.Nc3 d5 4.g4 1-0

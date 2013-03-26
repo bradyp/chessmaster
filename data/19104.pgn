@@ -1,0 +1,15 @@
+[Event "Chess960 Society Challenge"]
+[Site "Chess.com"]
+[Date "2011.01.22"]
+[White "Chess960 Society"]
+[Black "Chess School"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrkbrnbq/pppppppp/8/8/8/8/PPPPPPPP/NRKBRNBQ w KQkq - 0 1"]
+
+1.g3 f6 2.Ne3 Bxa2 3.b3 Bxb1 4.Kxb1 e6 5.Qf3 d5 6.Ng2 Nd7 7.Qc3 Qf8 8.Ne3 Be7 9.Qd4 Nab6 10.Qh4 h6
+ 11.Qg4 c5 12.c3 f5 13.Qf3 c4 14.b4 Ne5 15.Qf4 Bd6 16.Qd4 Nc6 17.Qh4 g5 18.Qh3 d4 19.Nf1 dxc3 20.d3 c2+
+ 21.Bxc2 Bxb4 22.Rd1 Bc3 23.Nd2 Qa3 24.Nab3 Qb2# 0-1

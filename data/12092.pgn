@@ -1,0 +1,15 @@
+[Event "960 Battle Royale"]
+[Site "Chess.com"]
+[Date "2009.08.22"]
+[White "Chess960 Players Group"]
+[Black "Chess Association"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqbknbnr/pppppppp/8/8/8/8/PPPPPPPP/RQBKNBNR w KQkq - 0 1"]
+
+1.Ngf3 d5 2.d4 Nd6 3.Nd3 Bf5 4.Bf4 e6 5.e3 f6 6.Be2 g5 7.Bg3 h5 8.h4 g4 9.Nd2 Bg6 10.Nf4 Bf7
+ 11.c4 Ne7 12.c5 Ndf5 13.O-O Bg7 14.a4 e5 15.dxe5 Nxg3 16.fxg3 fxe5 17.Nd3 Bg6 18.Qa2 c6 19.Rac1 Bxd3 20.Bxd3 e4
+ 21.Be2 Qxg3 22.Qb3 Be5 23.Nxe4 dxe4 24.Rfd1+ Ke8 25.Qxb7 Qh2+ 26.Kf1 Qh1+ 0-1

@@ -1,0 +1,11 @@
+[Event "Daily Vote Chess (12hrs/move,CL)"]
+[Site "Chess.com"]
+[Date "2010.02.15"]
+[White "THE POWER OF CHESS"]
+[Black "RAPID CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Bg4 6.h3 h5 7.d3 Qf6 8.hxg4 hxg4 9.Bg5 Qg6 10.Nxe5 Qh7
+ 11.f4 g3 12.Rf3 Qh1# 0-1

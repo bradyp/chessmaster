@@ -1,0 +1,14 @@
+[Event "Team 54 vs ANGRY MOB"]
+[Site "Chess.com"]
+[Date "2010.11.02"]
+[White "Team 54"]
+[Black "ANGRY MOB"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqknbrnb/pppppppp/8/8/8/8/PPPPPPPP/RQKNBRNB w KQkq - 0 1"]
+
+1.c4 Ne6 2.Qxh7 Nf6 3.Qc2 c5 4.g3 Nd4 5.Qc3 Ng4 6.f4 Nxh2 7.Rf2 Ng4 8.Rg2 f5 9.e3 Nc6 10.Nf2 g6
+ 11.Qa3 1-0

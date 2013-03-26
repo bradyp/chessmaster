@@ -1,0 +1,13 @@
+[Event "Attack vs Counterattack"]
+[Site "Chess.com"]
+[Date "2010.08.25"]
+[White "Attack"]
+[Black "Counterattack"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 O-O 8.Bd3 Nbc6 9.Nf3 f5 10.exf6 Rxf6
+ 11.Bg5 e5 12.Qh4 e4 13.Bxf6 gxf6 14.Qxf6 exd3 15.cxd3 cxd4 16.Nxd4 Nxd4 17.Qxd4 Nc6 18.Qe3 d4 19.Qg3+ Kh8 20.O-O dxc3
+ 21.Rac1 Qd4 22.Rfe1 Bf5 23.Re3 c2 24.Rce1 Bg6 25.Qg5 Qc3 26.Re6 Nd4 27.Qf6+ Kg8 28.Re7 Ne2+ 29.R7xe2 Qxf6 30.Rxc2 Re8
+ 0-1

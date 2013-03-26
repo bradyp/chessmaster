@@ -1,0 +1,13 @@
+[Event "Devil's creation Open Seek"]
+[Site "Chess.com"]
+[Date "2013.02.04"]
+[White "Devil's creation"]
+[Black "Chess School"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnbkqnrb/pppppppp/8/8/8/8/PPPPPPPP/RNBKQNRB w KQkq - 0 1"]
+
+1.d4 d5 2.Nc3 e6 0-1

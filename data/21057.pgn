@@ -1,0 +1,12 @@
+[Event "Study:VC1"]
+[Site "Chess.com"]
+[Date "2011.06.25"]
+[White "Team Bihar"]
+[Black "Study"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 {Thematic Game - This is the starting position.} 
+ e6 3.cxd5 exd5 4.Nf3 Nf6 5.Nc3 Be7 6.Bf4 O-O 7.e3 Nh5 8.h3 Nxf4 9.exf4 Re8 10.Be2 c6
+ 11.O-O Bd6 12.Qd2 Bf5 13.Bd3 Bxd3 14.Qxd3 Bxf4 15.Rae1 Rxe1 16.Rxe1 Nd7 17.Qf5 1-0

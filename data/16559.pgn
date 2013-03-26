@@ -1,0 +1,17 @@
+[Event "TVC RANDOM CUP 2010 ROUND 1"]
+[Site "Chess.com"]
+[Date "2010.07.01"]
+[White "Team Indonesia"]
+[Black "Chess960 RandomChess"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnkbnqbr/pppppppp/8/8/8/8/PPPPPPPP/RNKBNQBR w KQkq - 0 1"]
+
+1.e4 e5 2.f4 Nc6 3.fxe5 Nxe5 4.Nc3 Bg5 5.h4 Bh6 6.g4 g6 7.g5 Bg7 8.d4 Nc6 9.e5 h6 10.Bf3 hxg5
+ 11.hxg5 Rxh1 12.Bxh1 O-O-O 13.O-O-O Qe7 14.Be3 Kb8 15.Qe2 Na5 16.Nd3 c6 17.d5 Nc4 18.Bf4 Nb6 19.d6 Qe6 20.a4 Qc4
+ 21.a5 Na4 22.Qe4 Nxb2 23.Kxb2 Nxd6 24.Qxc4 Nxc4+ 25.Kb3 Nxa5+ 26.Kb4 b6 27.Ne4 Bf8+ 28.Kc3 Kc8 29.Nd6+ Bxd6 30.exd6 Re8
+ 31.Ne5 Re6 32.Ng4 f5 33.gxf6 Nb7 34.Bxc6 dxc6 35.d7+ Kd8 36.Bg5 Kc7 37.d8=Q+ Nxd8 38.Rxd8 Bf7 39.Rf8 Be8 40.f7 Bxf7
+ 41.Rxf7+ Kb8 42.Bf4+ Ka8 43.Bg3 Re4 44.Ne5 1-0

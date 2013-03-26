@@ -1,0 +1,14 @@
+[Event "fire"]
+[Site "Chess.com"]
+[Date "2012.04.07"]
+[White "Justice"]
+[Black "1...g6 Sniper"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 c5 4.c4 cxd4 5.Nxd4 Qb6 6.Nb3 Nc6 7.Be3 Qc7 8.Nc3 Bxc3+ 9.bxc3 Nf6 10.Bd3 Ne5
+ 11.c5 b6 12.Rc1 Nfg4 13.Bd4 Nxd3+ 14.Qxd3 e5 15.Be3 Nxe3 16.Qxe3 Ba6 17.cxb6 axb6 18.Nd2 O-O 19.c4 b5 20.O-O bxc4
+ 21.Rc3 Qa7 22.Qxa7 Rxa7 23.Rfc1 Rc8 24.Kf1 Kf8 25.Ke2 Ke7 26.Ke3 Ke6 27.g4 f5 28.gxf5+ gxf5 29.f3 f4+ 30.Ke2 Rg8
+ 31.Kf2 d6 32.Nxc4 Rag7 33.Ke2 Rg2+ 34.Kd3 Rf2 35.R1c2 Rxf3+ 36.Kd2 Rxc3 37.Kxc3 Bxc4 38.Kxc4 Rc8+ 39.Kd3 Rxc2 40.Kxc2 f3
+ 41.Kd2 d5 42.exd5+ Kxd5 43.Ke3 e4 44.h4 Kc4 0-1

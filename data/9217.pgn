@@ -1,0 +1,11 @@
+[Event "Chessbomb explosion"]
+[Site "Chess.com"]
+[Date "2009.03.27"]
+[White "The &quot;G&quot; Group"]
+[Black "D` CHESSBOMB"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.O-O Be7 8.Bg5 O-O 9.Re1 b5 10.Bd3 Bb7
+ 11.f4 Qb6 12.e5 Qxd4+ 13.Kh1 dxe5 14.fxe5 Qf2 15.Re2 Bxg2# 0-1

@@ -1,0 +1,13 @@
+[Event "Traxler Challenge"]
+[Site "Chess.com"]
+[Date "2012.07.24"]
+[White "Out to destroy bad openings! (mainly the parham)"]
+[Black "Traxler Analysis"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 {Thematic Game - This is the starting position.} 
+ 5.Bxf7+ Ke7 6.Bb3 Qe8 7.d3 d6 8.O-O Bg4 9.Nf3 Nd4 10.Nbd2 Qh5
+ 11.c3 Nxf3+ 12.Nxf3 Raf8 13.d4 Bb6 14.Qd3 Bxf3 15.gxf3 Qh3 16.Bc4 Nh5 17.f4 Qxd3 18.Bxd3 Nxf4 19.Bxf4 Rxf4 20.dxe5 dxe5
+ 21.Kg2 Rd8 22.Rad1 Rd6 23.f3 Rh4 24.Rh1 Rg6+ 25.Kf1 Rg3 26.Be2 Rxh2 0-1

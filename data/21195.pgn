@@ -1,0 +1,13 @@
+[Event "Chess 960 Acid Test"]
+[Site "Chess.com"]
+[Date "2011.07.04"]
+[White "International Rotary Chess Club"]
+[Black "The Killer Derivatives"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brqnknrb/pppppppp/8/8/8/8/PPPPPPPP/BRQNKNRB w KQkq - 0 1"]
+
+1.g3 g6 2.Nc3 Nc6 3.Ne3 b6 4.b3 Ne6 5.Bg2 O-O 6.O-O Ncd4 7.Qd1 Bxg2 8.Kxg2 c5 9.Ncd5 Re8 0-1

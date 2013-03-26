@@ -1,0 +1,14 @@
+[Event "Overclockers UK Open Seek"]
+[Site "Chess.com"]
+[Date "2010.06.28"]
+[White "BobbyFishersInternational"]
+[Black "Overclockers UK"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnqnbkrb/pppppppp/8/8/8/8/PPPPPPPP/RNQNBKRB w KQkq - 0 1"]
+
+1.d3 d5 2.g4 d4 3.g5 Bc6 4.e4 dxe3 5.Bxc6 exf2 6.Nxf2 Nbxc6 7.Bc3 Qf5 8.Qe3 g6 9.Bxh8 Rxh8 10.Ke2 Ne6
+ 11.c3 Rd8 12.Nd2 Nf4+ 13.Kd1 Nxd3 14.Nfe4 Nxb2+ 15.Kc2 Na4 16.Raf1 Qe6 17.Re1 Qxa2+ 18.Kd1 Nb2+ 19.Ke2 1-0

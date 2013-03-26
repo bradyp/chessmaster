@@ -1,0 +1,11 @@
+[Event "Chess Society vs Chess Destination"]
+[Site "Chess.com"]
+[Date "2011.07.31"]
+[White "Chess Destination"]
+[Black "CHESS SOCIETY"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4 e6 7.O-O Be7 8.Qe2 Nf6 9.Rd1 O-O 10.e5 Ne8
+ 11.exd6 Nxd6 12.Bf4 Qd7 13.Ne4 e5 14.Nxe5 Qf5 15.Nxc6 bxc6 16.Bxd6 Bxd6 17.Nxd6 Qf6 18.Nxf7 Rxf7 19.Qe8# 1-0

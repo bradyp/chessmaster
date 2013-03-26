@@ -1,0 +1,16 @@
+[Event "Chess960 Players Group vs Crown Jewels Team (JP)"]
+[Site "Chess.com"]
+[Date "2011.11.14"]
+[White "Chess960 Players Group"]
+[Black "Crown Jewels Team"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqnbbkrn/pppppppp/8/8/8/8/PPPPPPPP/RQNBBKRN w KQkq - 0 1"]
+
+1.c4 Ng6 2.Ng3 c5 3.Nb3 Qc7 4.d3 e6 5.Bc3 d5 6.cxd5 exd5 7.e3 b6 8.Qc2 Nd6 9.Bf3 Bc6 10.d4 c4
+ 11.Nd2 O-O 12.O-O Nh4 13.Bh5 b5 14.Nf3 a5 15.b4 g6 16.Bg4 f5 17.Nxh4 Bxh4 18.Bf3 axb4 19.Bxb4 Be7 20.Ne2 Ne4
+ 21.Bxe7 Qxe7 22.Nc3 b4 23.Nxe4 fxe4 24.Be2 Ra3 25.f3 exf3 26.Bxf3 Qxe3+ 27.Qf2 Qxf2+ 28.Rxf2 b3 29.Rb2 Rfa8 30.Kf2 Rxa2
+ 31.Rbxa2 Rxa2+ 0-1

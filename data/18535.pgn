@@ -1,0 +1,16 @@
+[Event "7thSense Chess 960 Open Seek"]
+[Site "Chess.com"]
+[Date "2010.12.06"]
+[White "Team Maharashtra"]
+[Black "7thSense Chess 960"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrbnkrqb/pppppppp/8/8/8/8/PPPPPPPP/NRBNKRQB w KQkq - 0 1"]
+
+1.e4 e5 2.f4 exf4 3.Rxf4 Ne6 4.Qxa7 Nxf4 5.Qxb8 Nb6 6.Qxc7 f5 7.Qxf4 g5 8.Qe3 Qe6 9.exf5 Qxe3+ 10.Nxe3 d6
+ 11.g4 O-O 12.Nd5 Re8+ 13.Kd1 Nxd5 14.Bxd5+ Kf8 15.d3 Be5 16.h3 h6 17.Nb3 Ke7 18.Bd2 Kf6 19.d4 Bg3 20.c4 b6
+ 21.Kc2 Kg7 22.c5 dxc5 23.dxc5 bxc5 24.Nxc5 Rd8 25.Be6 Bxe6 26.Nxe6+ Kf6 27.Nxd8 Bc7 28.Bc3+ Ke7 29.Ne6 Bb6 30.Bg7
+ 1-0

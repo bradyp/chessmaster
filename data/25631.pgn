@@ -1,0 +1,14 @@
+[Event "WCoCO round1"]
+[Site "Chess.com"]
+[Date "2012.03.16"]
+[White "Traxler Analysis"]
+[Black "1...g6 Modern Defence"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 g6 2.d4 Bg7 {Thematic Game - This is the starting position.} 
+ 3.Nc3 d6 4.f4 a6 5.Nf3 b5 6.Bd3 Nd7 7.e5 c5 8.Be3 Bb7 9.Be4 Bxe4 10.Nxe4 Nh6
+ 11.dxc5 Ng4 12.Qe2 dxe5 13.O-O-O Qc7 14.fxe5 Ngxe5 15.Bf4 Nd3+ 16.Rxd3 Qxf4+ 17.Kb1 Ne5 18.Rd4 O-O 19.Nc3 Qf5 20.Rd5 f6
+ 21.Nxe5 fxe5 22.Rhd1 Qe6 23.Ne4 Qc6 24.g3 Rf5 25.Rd7 Bf8 26.b4 Re8 27.Qd3 Bh6 28.Kb2 Rf7 29.Qd5 Rc8 30.c3 Qxd5
+ 31.R1xd5 Bg7 32.Ra7 Rc6 33.Rdd7 Bf6 34.Rdb7 Rf8 35.Rb6 Rxb6 36.cxb6 Rb8 37.b7 Kf7 38.Nc5 1-0

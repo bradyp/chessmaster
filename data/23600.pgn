@@ -1,0 +1,12 @@
+[Event "Light Force Daylight"]
+[Site "Chess.com"]
+[Date "2011.12.15"]
+[White "We Chat Global"]
+[Black "Light Force"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O O-O 6.Bg5 h6 7.Bh4 d5 8.exd5 Nb4 9.Nxe5 c6 10.dxc6 bxc6
+ 11.c3 Bd6 12.Nxf7 Rxf7 13.Bxf7+ Kxf7 14.cxb4 Bxb4 15.Qb3+ Kg6 16.Qxb4 Qxd3 17.Nc3 Bd7 18.Rad1 Qc2 19.Bxf6 Kxf6 20.Rxd7 Kg6
+ 21.Qg4+ Kh7 22.Qxg7# 1-0

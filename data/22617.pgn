@@ -1,0 +1,12 @@
+[Event "Chess Bay Group Attack"]
+[Site "Chess.com"]
+[Date "2011.10.15"]
+[White "Team Scandinavia"]
+[Black "Chess BayTVC"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Bc4 Bg4 6.f3 Bf5 7.Bd2 Qb6 8.g4 Bd7 9.g5 Qxd4 10.gxf6 Qh4+
+ 11.Kf1 Qxc4+ 12.Nge2 Nc6 13.b3 Bh3+ 14.Kf2 Qh4+ 15.Ng3 O-O-O 16.fxe7 Bxe7 17.Qe2 Rxd2 18.Qxd2 Bc5+ 19.Ke2 Rd8 20.Qe1 Nd4+
+ 21.Kd1 Nxb3+ 22.Ke2 Qc4# 0-1

@@ -1,0 +1,13 @@
+[Event "Chess team. vs Check Mates"]
+[Site "Chess.com"]
+[Date "2012.05.31"]
+[White "Check Mates"]
+[Black "Chess team."]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqknnbbr/pppppppp/8/8/8/8/PPPPPPPP/RQKNNBBR w KQkq - 0 1"]
+
+1.f4 f6 2.e4 e5 3.c4 Nd6 4.fxe5 fxe5 5.Nf3 1-0

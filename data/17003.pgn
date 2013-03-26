@@ -1,0 +1,13 @@
+[Event "Lets Play!!!!!"]
+[Site "Chess.com"]
+[Date "2010.08.06"]
+[White "The Flaming Pawns"]
+[Black "Central Command"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbrkrnbq/pppppppp/8/8/8/8/PPPPPPPP/NBRKRNBQ w KQkq - 0 1"]
+
+1.h3 d5 2.c3 Nb6 3.g3 e5 4.f4 e4 5.Nb3 c6 6.d3 exd3 7.Bxd3 1-0

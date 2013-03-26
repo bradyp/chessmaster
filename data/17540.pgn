@@ -1,0 +1,12 @@
+[Event "TM Grunfeld 03"]
+[Site "Chess.com"]
+[Date "2010.09.17"]
+[White "Chess Bay"]
+[Black "1.d4 Nf6 Indians"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 {Thematic Game - This is the starting position.} 
+ 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 O-O 9.Be2 Qa5 10.O-O cxd4
+ 11.cxd4 Qxa2 12.Be3 Qa5 13.Qb3 1-0

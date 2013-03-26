@@ -1,0 +1,16 @@
+[Event "Lets Play!"]
+[Site "Chess.com"]
+[Date "2010.04.19"]
+[White "Central Command"]
+[Black "Team Spain"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnqrbkrb/pppppppp/8/8/8/8/PPPPPPPP/NNQRBKRB w KQkq - 0 1"]
+
+1.f4 d5 2.d4 Bb5 3.Nc3 Ba6 4.g3 Nc6 5.Nb3 Qg4 6.Qe3 Nb6 7.Qf3 Qf5 8.Nc5 Qxc2 9.Rd2 Qf5 10.g4 Qf6
+ 11.f5 Nxd4 12.Qf2 Nc6 13.Nxd5 Nxd5 14.Bxd5 Nb4 15.g5 Qe5 16.Bxf7 Kxf7 17.g6+ Ke8 18.gxh7 Rf8 19.Rxd8+ Kxd8 20.Ne6+ Qxe6
+ 21.fxe6 Rxf2+ 22.Bxf2 Nd5 23.Bd4 Nf6 24.Bxf6 exf6 25.Rg4 Ke7 26.Re4 Bb5 27.Rd4 c5 28.Re4 Bc6 29.Re3 Bd5 30.Ra3 a6
+ 31.Ra5 Kxe6 32.Rxc5 Bc6 33.e4 Kf7 34.e5 fxe5 35.Rxe5 g6 36.h4 Bxe5 0-1

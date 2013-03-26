@@ -1,0 +1,15 @@
+[Event "hyves chess team vs Sumatran Tiger"]
+[Site "Chess.com"]
+[Date "2012.05.23"]
+[White "Sumatran Tiger"]
+[Black "hyves chess team"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbrknqbr/pppppppp/8/8/8/8/PPPPPPPP/NBRKNQBR w KQkq - 0 1"]
+
+1.c4 c5 2.f3 Be5 3.Nd3 Bd6 4.b4 cxb4 5.Bxa7 Nec7 6.c5 Nb5 7.Qf2 Bc7 8.c6 bxc6 9.Nxb4 Nxa7 10.Qxa7 e6
+ 11.Qd4 Bb6 12.Qh4+ f6 13.a3 Nc7 14.Be4 g5 15.Qg3 Bc5 16.Nac2 Nb5 17.e3 Nxa3 18.Nxa3 Bxb4 19.Nc4 d5 20.Nb6 Bd6
+ 21.Qg4 Rb8 22.Rxc6 dxe4 23.Qxe4 Ke7 24.O-O Qd8 25.Nd5+ Kf7 26.Nc3 h5 0-1

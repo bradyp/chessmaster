@@ -1,0 +1,16 @@
+[Event "Red Army vs The Premier of All (Chess 960)"]
+[Site "Chess.com"]
+[Date "2009.12.23"]
+[White "Red Army"]
+[Black "THE PREMIER OF ALL"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbbnkrnq/pppppppp/8/8/8/8/PPPPPPPP/RBBNKRNQ w KQkq - 0 1"]
+
+1.c4 e5 2.Nf3 c6 3.b3 d5 4.Bb2 f6 5.Ne3 Ne7 6.d3 Qg8 7.cxd5 cxd5 8.g3 Bh3 9.Ng2 Bd6 10.O-O Rc8
+ 11.Rc1 Qe6 12.a3 Rxc1+ 13.Bxc1 O-O 14.Ne3 a5 15.Ba2 Kh8 16.Nd2 Ndc6 17.Bb2 Nd4 18.Re1 Rc8 19.Nf3 Nc2 20.Rc1 Nxe3
+ 21.fxe3 Rxc1+ 22.Bxc1 Qc8 23.Kf2 Qc2 24.Qe1 Qxa2 25.Qxa5 Qb1 26.Qe1 Qxb3 27.Qd2 Bxa3 28.Bxa3 Qxa3 29.Qc2 b5 30.Qc7 Ng8
+ 31.Nh4 b4 32.Qb6 b3 0-1

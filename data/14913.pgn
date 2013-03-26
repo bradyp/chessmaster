@@ -1,0 +1,13 @@
+[Event "Dragon's Warmup"]
+[Site "Chess.com"]
+[Date "2010.02.09"]
+[White "Learning with Fun"]
+[Black "Dragon Chaos"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 {Thematic Game - This is the starting position.} 
+ 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.O-O-O Rc8
+ 11.Bb3 Ne5 12.Kb1 Nc4 13.Bxc4 Rxc4 14.g4 Qa5 15.Nb3 Qa6 16.e5 Nxg4 17.fxg4 Bxg4 18.exd6 Bxc3 19.bxc3 Bxd1 20.dxe7 Bxc2+
+ 21.Qxc2 Re8 22.Rd1 Rxe7 23.Rd8+ Kg7 24.Qd2 Qe6 25.Bh6+ Kf6 26.Qg5# 1-0

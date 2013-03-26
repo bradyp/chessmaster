@@ -1,0 +1,12 @@
+[Event "SnowWhite Open Seek"]
+[Site "Chess.com"]
+[Date "2009.03.26"]
+[White "WE ARE ADMIN"]
+[Black "SnowWhite"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.f4 h6 2.Nf3 g5 {Thematic Game - This is the starting position.} 
+ 3.fxg5 hxg5 4.Nxg5 e5 5.d4 Bh6 6.Nf3 e4 7.Ng1 f5 8.Nc3 e3 9.Qd3 f4 10.Qg6+ Kf8
+ 11.Nf3 Qf6 12.Ne5 Qe7 13.Nd5 1-0

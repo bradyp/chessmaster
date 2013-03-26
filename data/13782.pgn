@@ -1,0 +1,14 @@
+[Event "King's &amp; Thing's 960"]
+[Site "Chess.com"]
+[Date "2009.11.23"]
+[White "King's &amp; Thing's"]
+[Black "Karpov's Karpathions"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbbrqnkr/pppppppp/8/8/8/8/PPPPPPPP/NBBRQNKR w KQkq - 0 1"]
+
+1.d4 d5 2.e4 dxe4 3.Qxe4 Qd7 4.c4 Ng6 5.Be3 Qg4 6.Bc2 O-O 7.Qxg4 Bxg4 8.f3 Bd7 9.Ng3 c6 10.O-O-O Nb6
+ 11.b3 1-0

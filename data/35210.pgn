@@ -1,0 +1,17 @@
+[Event "960 Delight"]
+[Site "Chess.com"]
+[Date "2012.12.19"]
+[White "LionHearts United"]
+[Black "VANDE MATRAM"]
+[Result "1/2-1/2"]
+[TimeControl "1 in 1 day"]
+[Termination "Game drawn by repetition"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrbkrbnq/pppppppp/8/8/8/8/PPPPPPPP/NRBKRBNQ w KQkq - 0 1"]
+
+1.e4 e5 2.Bc4 Nb6 3.Bxf7 Re7 4.Bb3 Nf6 5.d3 d6 6.f4 exf4 7.Bxf4 Bg4+ 8.Nf3 Bxf3+ 9.gxf3 Nh5 10.Bg5 Nf6
+ 11.f4 h6 12.Bxf6 gxf6 13.f5 Qg7 14.Rg1 Qh7 15.O-O-O Rg7 16.Be6 Na4 17.Nb3 Nc5 18.Nxc5 dxc5 19.d4 cxd4 20.Rxd4+ Ke8
+ 21.Rgd1 Bd6 22.Qf3 h5 23.Kb1 a6 24.Qd3 h4 25.c4 Rg2 26.c5 Be7 27.Rd7 c6 28.Rc7 Kf8 29.Qd7 a5 30.Rxb7 Rxb7
+ 31.Qxb7 Qh5 32.Qc8+ Qe8 33.Qc7 a4 34.Bd7 Qh5 35.Re1 a3 36.bxa3 Qf3 37.Qb8+ Kg7 38.Qb3 Qf2 39.Rd1 Qxc5 40.Be8 Rg1
+ 41.Qf7+ Kh6 42.Qh5+ Kg7 43.Qf7+ Kh6 44.Qh5+ Kg7 45.Qf7+ Kh6 1/2-1/2

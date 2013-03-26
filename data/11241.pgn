@@ -1,0 +1,11 @@
+[Event "War and Piece vs Burning Pawns"]
+[Site "Chess.com"]
+[Date "2009.07.20"]
+[White "War and Piece"]
+[Black "Burning Pawns"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 b6 4.d5 Nb4 5.a3 Na6 6.Nc3 d6 7.Bb5+ Bd7 8.Bxa6 h5 9.Ng5 f6 10.Ne6 Bxe6
+ 11.dxe6 Qb8 12.Qd5 g5 13.Qc6+ Kd8 14.Qd7# 1-0

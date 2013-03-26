@@ -1,0 +1,13 @@
+[Event "Rapid Vote Chess960 (2days/move,JP)"]
+[Site "Chess.com"]
+[Date "2010.01.29"]
+[White "RAPID CHESS"]
+[Black "pawnpushers"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbbnqknr/pppppppp/8/8/8/8/PPPPPPPP/RBBNQKNR w KQkq - 0 1"]
+
+1.d4 Nf6 2.c4 O-O 3.f3 b6 4.e4 d6 5.Ne2 e5 6.Ndc3 exd4 7.Nxd4 c5 8.Ndb5 a6 9.Na3 1-0

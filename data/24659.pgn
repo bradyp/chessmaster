@@ -1,0 +1,14 @@
+[Event "Chess960 Players Group vs The Dark Knights (jp)"]
+[Site "Chess.com"]
+[Date "2012.02.19"]
+[White "The Dark Knights"]
+[Black "Chess960 Players Group"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbrnnkrq/pppppppp/8/8/8/8/PPPPPPPP/BBRNNKRQ w KQkq - 0 1"]
+
+1.c4 e5 2.b3 c6 3.Nd3 d6 4.c5 f6 5.Ne3 d5 6.g3 g6 7.h4 Nf7 8.O-O O-O 9.f4 Qg7 10.fxe5 fxe5
+ 11.Nf4 Nc7 12.h5 d4 13.hxg6 hxg6 14.Nxg6 dxe3 15.Ne7# 1-0

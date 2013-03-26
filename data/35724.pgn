@@ -1,0 +1,16 @@
+[Event "Game VC January.#0"]
+[Site "Chess.com"]
+[Date "2013.01.03"]
+[White "International 10 Minute Vote Chess Group"]
+[Black "✮ Club Catur Indonesia ✮"]
+[Result "1/2-1/2"]
+[TimeControl "1 in 1 day"]
+[Termination "Game drawn by agreement"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkbbnnrq/pppppppp/8/8/8/8/PPPPPPPP/RKBBNNRQ w KQkq - 0 1"]
+
+1.d4 d5 2.g4 c6 3.Bf4+ Nd6 4.f3 h5 5.e4 Ne6 6.Bxd6+ exd6 7.exd5 Nxd4 8.dxc6 Nxc6 9.Nd3 Bb6 10.Rg2 Be6
+ 11.Nd2 hxg4 12.fxg4 O-O-O 13.Bf3 g5 14.Nb3 Kc7 15.O-O-O a5 16.a4 Be3+ 17.Kb1 Rge8 18.Re2 Bf4 19.Nxf4 gxf4 20.Bxc6 bxc6
+ 21.Nxa5 d5 22.Qf3 Qf6 23.Rf2 Ra8 24.Nb3 Rxa4 25.Nc5 Rc4 26.Qa3 Qe7 27.Qa7+ Kc8 28.Qa6+ Kc7 29.Qa5+ Kd6 30.Nxe6 fxe6
+ 31.Qa3+ Kc7 32.Qa7+ Kd6 33.Qa3+ Kc7 34.Qa7+ 1/2-1/2

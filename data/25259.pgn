@@ -1,0 +1,15 @@
+[Event "A Chess 960 Game in Paradise !"]
+[Site "Chess.com"]
+[Date "2012.03.08"]
+[White "Chesu No Rakuen  ...  Chess Paradise"]
+[Black "Bishop's opining"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrbnqkrb/pppppppp/8/8/8/8/PPPPPPPP/NRBNQKRB w KQkq - 0 1"]
+
+1.d4 Ne6 2.Nb3 d5 3.g3 Nb6 4.Nc3 Na4 5.Bxd5 Nb6 6.Bg2 g6 7.Bh6+ Bg7 8.Bxg7+ Nxg7 9.e4 a6 10.Qe2 e5
+ 11.Nd5 Nxd5 12.exd5 exd4 13.Qxe8+ Nxe8 14.Nxd4 Nd6 15.O-O-O Bd7 16.Rge1 Kg7 17.Nb3 b6 18.Re7 Rbd8 19.Nd4 Rge8 20.Rde1 Rf8
+ 21.Ne6+ Bxe6 22.dxe6 Kh6 23.Rxc7 fxe6 24.Rxe6 Rxf2 25.Bh3 Nb5 26.Rc4 Kg7 27.Re7+ Kh8 28.Rc8 Rf1+ 29.Bxf1 1-0

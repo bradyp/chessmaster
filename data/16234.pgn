@@ -1,0 +1,15 @@
+[Event "960 Challenge"]
+[Site "Chess.com"]
+[Date "2010.06.01"]
+[White "THE POWER OF CHESS"]
+[Black "SuperTroopers"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqbnkbrn/pppppppp/8/8/8/8/PPPPPPPP/RQBNKBRN w KQkq - 0 1"]
+
+1.e4 c5 2.Ng3 Ng6 3.b4 e6 4.a3 b6 5.b5 h5 6.Ne3 Bb7 7.f3 Bd6 8.Nxh5 Bxh2 9.Rh1 Rh8 10.Nxg7+ Kf8
+ 11.Nxe6+ dxe6 12.Kd1 Rh4 13.Ng4 Bg3 14.Rxh4 Bxh4 15.d3 f5 16.Bh6+ Ke8 17.Qb2 Qg3 18.Kd2 fxg4 19.Qg7 gxf3 20.gxf3 Nf7
+ 21.Be2 Nxh6 22.Qxb7 Rd8 23.Qxa7 Bg5+ 24.Kc3 Qe5+ 0-1

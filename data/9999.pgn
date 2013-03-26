@@ -1,0 +1,11 @@
+[Event "Friendly game, 2 days/move"]
+[Site "Chess.com"]
+[Date "2009.05.22"]
+[White "Chess Mate"]
+[Black "Chess Warriors"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Qf3 Qxg5 7.Bxd5 Qg6 8.Nc3 Nd4 9.Bc6+ bxc6 10.Qd3 Nxc2+
+ 11.Ke2 Nd4+ 12.Kd1 Qxd3 13.Re1 Qc2# 0-1

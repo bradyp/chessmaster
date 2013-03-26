@@ -1,0 +1,12 @@
+[Event "HC Chess960 Vote Challenge"]
+[Site "Chess.com"]
+[Date "2013.03.20"]
+[White "PHILIPPINES' FINEST Chess Club"]
+[Black "Hungarian Community - Magyar Sakkegylet"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnnbkqbr/pppppppp/8/8/8/8/PPPPPPPP/RNNBKQBR w KQkq - 0 1"]
+
+1.e4 *

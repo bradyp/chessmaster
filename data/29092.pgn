@@ -1,0 +1,13 @@
+[Event "Speed Thinking #1"]
+[Site "Chess.com"]
+[Date "2012.06.24"]
+[White "Speedchessmaster"]
+[Black "Scarlet Dreams"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkbqrbnn/pppppppp/8/8/8/8/PPPPPPPP/RKBQRBNN w KQkq - 0 1"]
+
+1.e4 e5 2.d4 Ng6 0-1

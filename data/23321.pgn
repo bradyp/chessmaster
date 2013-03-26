@@ -1,0 +1,15 @@
+[Event "Brazil 960 Livre - W"]
+[Site "Chess.com"]
+[Date "2011.11.24"]
+[White "Team Brazil"]
+[Black "Aspiring Champions"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbrkbnqr/pppppppp/8/8/8/8/PPPPPPPP/NBRKBNQR w KQkq - 0 1"]
+
+1.f3 f6 2.e4 e5 3.d4 exd4 4.Qxd4 c5 5.Qd2 Ne6 6.Bf2 Be5 7.c3 Nb6 8.Ne3 Bg6 9.O-O O-O-O 10.Rfd1 Be8
+ 11.b4 c4 12.Bc2 g5 13.Nf5 Qf8 14.a4 Bf4 15.Be3 h5 16.Bxf4 Nxf4 17.a5 Na8 18.Nd6+ Kb8 19.g3 Nh3+ 20.Kg2 Bf7
+ 21.Kxh3 g4+ 22.Kg2 gxf3+ 23.Kxf3 Be6 24.Kg2 h4 25.Nf5 d5 26.Qf4+ Nc7 27.Rd4 Kc8 28.Rcd1 1-0

@@ -1,0 +1,13 @@
+[Event "RANDOM CHESS"]
+[Site "Chess.com"]
+[Date "2010.12.20"]
+[White "The Greatest"]
+[Black "Chess960 Players Group"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrnkbbrq/pppppppp/8/8/8/8/PPPPPPPP/NRNKBBRQ w KQkq - 0 1"]
+
+1.Nab3 d5 2.d4 Nab6 3.Nd3 e6 4.e3 Nd6 5.g4 O-O-O 0-1

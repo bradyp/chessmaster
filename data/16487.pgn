@@ -1,0 +1,16 @@
+[Event "Rapid Vote Chess960 (2days/move)"]
+[Site "Chess.com"]
+[Date "2010.06.25"]
+[White "&iexcl;Creature Squad!"]
+[Black "RAPID CHESS"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qnbbrknr/pppppppp/8/8/8/8/PPPPPPPP/QNBBRKNR w KQkq - 0 1"]
+
+1.d3 b5 2.e4 Bb7 3.Nf3 e5 4.O-O Nf6 5.b3 d6 6.Bd2 O-O 7.a4 bxa4 8.bxa4 c5 9.c4 Nc6 10.Nc3 Nd4
+ 11.a5 a6 12.Nd5 Bxd5 13.exd5 Qc8 14.Nxd4 cxd4 15.Ba4 Re7 16.f4 Qg4 17.fxe5 Rxe5 18.Rxe5 dxe5 19.Bb4 Nh5 20.Bxf8 Kxf8
+ 21.Qa3+ Kg8 22.Qd6 h6 23.Qxd8+ Kh7 24.Bd1 Qg6 25.Bxh5 Qxh5 26.Qd7 f6 27.Qf5+ Qg6 28.d6 Qxf5 29.Rxf5 Kg6 30.d7
+ 1-0

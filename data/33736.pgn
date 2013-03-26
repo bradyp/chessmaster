@@ -1,0 +1,15 @@
+[Event "Whatever 3"]
+[Site "Chess.com"]
+[Date "2012.11.01"]
+[White "Chess Worms"]
+[Black "Team Aalto"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nqbnrbkr/pppppppp/8/8/8/8/PPPPPPPP/NQBNRBKR w KQkq - 0 1"]
+
+1.e4 e5 2.Ne3 Ne6 3.Nb3 b6 4.g3 c5 5.Bg2 Nac7 6.d3 Be7 7.c4 Nd4 8.Nxd4 cxd4 9.Nd5 O-O 10.Nxe7+ Rxe7
+ 11.f4 d6 12.fxe5 dxe5 13.b3 Re6 14.O-O Rg6 15.h4 Rxg3 16.Bg5 h6 17.Bd2 Bh3 18.Kh2 Rxg2+ 19.Kxh3 Rxd2 20.Qc1 Rxd3+
+ 21.Kh2 Qd8 22.Qxh6 gxh6 23.Rg1+ Kh7 24.b4 Qxh4+ 25.Kg2 Qg3+ 26.Kf1 Qf3# 0-1

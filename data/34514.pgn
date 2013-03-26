@@ -1,0 +1,14 @@
+[Event "CH960SOC vs SAR 960style"]
+[Site "Chess.com"]
+[Date "2012.11.25"]
+[White "CHESS960 SOCIETY"]
+[Black "Second Amendment Rights"]
+[Result "*"]
+[TimeControl "1 in 3 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnrkbrqb/pppppppp/8/8/8/8/PPPPPPPP/NNRKBRQB w KQkq - 0 1"]
+
+1.g3 c6 2.f4 g5 3.Nc3 b6 4.O-O-O Nc7 5.Bf2 gxf4 6.gxf4 f5 7.e4 Bxc3 8.dxc3 Qxa2 9.Nb3 Bf7 10.Qg7 O-O-O
+ 11.Qxh7 Bxb3 12.cxb3 fxe4 13.Bxe4 Qxb3 14.Qxe7 Rfe8 15.Qb4 Qxb4 16.cxb4 Rxe4 17.Bh4 Rh8 18.Bg3 Nba6 19.f5 Nxb4 20.f6
+ *

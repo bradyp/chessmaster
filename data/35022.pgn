@@ -1,0 +1,11 @@
+[Event "We want the dungeon"]
+[Site "Chess.com"]
+[Date "2012.12.11"]
+[White "Gonzaga"]
+[Black "The c4 club"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+
+1.e4 c6 2.d4 d5 3.f3 dxe4 4.fxe4 e5 5.Nf3 exd4 6.Qxd4 Qxd4 7.Nxd4 Nf6 8.Bd3 Bc5 9.Be3 Ng4 10.Bg1 O-O
+ 11.Nd2 Nd7 12.O-O-O Nde5 13.h3 Nxd3+ 14.cxd3 Ne5 15.N2f3 Nxf3 16.Nxf3 Bxg1 17.Rhxg1 Be6 18.b3 f5 19.Nd4 Bd7 20.exf5 Bxf5
+ 21.Nxf5 Rxf5 22.Rd2 Raf8 23.Kc2 Rf2 24.Rgd1 R8f5 25.d4 Kf7 *

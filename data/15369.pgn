@@ -1,0 +1,14 @@
+[Event "Learning more about gambits"]
+[Site "Chess.com"]
+[Date "2010.03.18"]
+[White "Learning with Fun"]
+[Black "Chess Unlimited"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 {Thematic Game - This is the starting position.} 
+ 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3 Bg4 10.Bb5 Bxf3
+ 11.Qxf3 Bxd4 12.Rd1 Qf6 13.Qxf6 Bxf6 14.Bd2 Nge7 15.Rab1 O-O-O 16.Nd5 Nxd5 17.Bxc6 bxc6 18.exd5 cxd5 19.Ba5 Kd7 20.Rb7 Rc8
+ 21.Rxa7 d4 22.Kf1 Rhe8 23.a4 Kc6 24.Bxc7 Ra8 25.Rc1+ Kd5 26.Rxa8 Rxa8 27.a5 Rc8 28.a6 d3 29.a7 Bd4 30.Rd1 Bxa7
+ 31.Ba5 Kd4 32.Bd2 Bc5 0-1

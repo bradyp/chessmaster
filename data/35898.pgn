@@ -1,0 +1,15 @@
+[Event "Game VC January.#12"]
+[Site "Chess.com"]
+[Date "2013.01.06"]
+[White "✮ Club Catur Indonesia ✮"]
+[Black "BLACK KNIGHT CHESS"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brkbqnrn/pppppppp/8/8/8/8/PPPPPPPP/BRKBQNRN w KQkq - 0 1"]
+
+1.e4 e5 2.b3 b6 3.Nhg3 g6 4.Ne3 h5 5.f3 Bh4 6.Qf1 d6 7.Ne2 Ne6 8.g3 Bg5 9.f4 exf4 10.gxf4 Bh6
+ 11.Nd5 Bxd5 12.exd5 Nc5 13.Nd4 Kb7 14.b4 Nd7 15.Be2 f5 16.Ba6+ Ka8 17.Qc4 Nf6 18.Ne6 Rc8 19.Bxc8 Qxc8 20.Bxf6 Nf7
+ 21.Qxc7 Qxc7 22.Nxc7+ Kb7 23.Ne6 Kc8 24.Rb3 Kb7 25.Rc3 Rc8 26.Rxc8 Kxc8 27.Rxg6 1-0

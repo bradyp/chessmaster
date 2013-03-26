@@ -1,0 +1,14 @@
+[Event "asTedyMor HEbbEtMor vErsioN 960.002"]
+[Site "Chess.com"]
+[Date "2011.12.30"]
+[White "Golden Vortex"]
+[Black "Chess960 Players Group"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qnnrkbbr/pppppppp/8/8/8/8/PPPPPPPP/QNNRKBBR w KQkq - 0 1"]
+
+1.e4 e5 2.Nc3 Nc6 3.N1e2 f6 4.O-O-O Nb6 5.d3 d5 6.f3 d4 7.Nb1 Qc8 8.g3 Be6 9.c3 dxc3 10.bxc3 Be7
+ 11.Be3 O-O 12.f4 f5 13.Nd2 Rxd3 14.Bf2 Rfd8 15.Be1 Ba3+ 0-1

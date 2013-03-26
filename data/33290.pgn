@@ -1,0 +1,16 @@
+[Event "960 Chess: BHARAT Vs TURK CHESS PLAYERS -2d/m"]
+[Site "Chess.com"]
+[Date "2012.10.22"]
+[White "भारत/ BHARAT"]
+[Black "TURK CHESS PLAYERS"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbbrnqkr/pppppppp/8/8/8/8/PPPPPPPP/NBBRNQKR w KQkq - 0 1"]
+
+1.d4 c6 2.c4 Nf6 3.e4 d6 4.Nb3 Bc7 5.Nf3 Bg4 6.Qd3 Nb6 7.Nbd2 e5 8.d5 Bh5 9.b3 Nbd7 10.Re1 Nc5
+ 11.Qc2 cxd5 12.cxd5 Ba5 13.Qb2 Bxf3 14.b4 Bxe4 15.Nxe4 Ncxe4 16.Bxe4 Bb6 17.Bf3 Qe7 18.Bg5 h6 19.Bh4 g5 20.Bg3 e4
+ 21.Qb1 Re8 22.h3 O-O 23.O-O Bd4 24.a3 Kg7 25.Re2 Be5 26.Bxe5 exf3 27.Bxf6+ Qxf6 28.Rxe8 Rxe8 29.g3 Rc8 30.Rc1 Rxc1+
+ 31.Qxc1 Qd4 32.Qe1 Qxd5 33.Qc3+ Kg6 34.g4 Qe4 35.Qe3 f5 36.gxf5+ Qxf5 0-1

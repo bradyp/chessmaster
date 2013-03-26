@@ -1,0 +1,17 @@
+[Event "Rapid Vote Chess960 (2days/move)"]
+[Site "Chess.com"]
+[Date "2010.01.12"]
+[White "RAPID CHESS"]
+[Black "FORBIDDEN"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bqrbnkrn/pppppppp/8/8/8/8/PPPPPPPP/BQRBNKRN w KQkq - 0 1"]
+
+1.c4 c5 2.b4 cxb4 3.Qxb4 Qf4 4.Nd3 Qxh2 5.Ng3 b6 6.e4 Qh6 7.Nf5 Qe6 8.f3 Ng6 9.Nd4 Qd6 10.Qxd6 Nxd6
+ 11.Bb3 e6 12.e5 Nf5 13.Nxf5 exf5 14.f4 Be4 15.Rc3 O-O 16.g3 b5 17.c5 Bxd3+ 18.Rxd3 Rxc5 19.Rxd7 Bb6 20.e6 Rc1+
+ 21.Kg2 Rxg1+ 22.Kf3 Rxa1 23.exf7+ Kh8 24.Be6 b4 25.d4 Rd8 26.Bxf5 Nf8 27.Re7 Rxa2 28.Re8 Rd2 29.d5 R2xd5 30.Be4 R5d7
+ 31.Bc6 Rxf7 32.g4 Rxe8 33.Bxe8 Re7 34.Ba4 Re3+ 35.Kg2 b3 36.f5 b2 37.Bc2 Re2+ 38.Kf3 Rxc2 39.Kf4 b1=Q 40.Kg5 Be3+
+ 0-1

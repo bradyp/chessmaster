@@ -1,0 +1,14 @@
+[Event "Rapid Vote Chess960 (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.10.10"]
+[White "THE POWER OF CHESS"]
+[Black "Rapid Chess"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnkbbnrq/pppppppp/8/8/8/8/PPPPPPPP/RNKBBNRQ w KQkq - 0 1"]
+
+1.Nc3 Nc6 2.g4 g5 3.e3 e5 4.Ng3 d6 5.Bf3 Bd7 6.b4 Nxb4 7.Bxb7+ Kb8 8.Bxa8 c6 9.Rb1 a5 10.Bxc6 Bxc6
+ 11.Qxc6 Bc7 12.a3 Ne6 13.axb4 Nd8 14.Qb5+ Kc8 15.Nd5 Nb7 16.Ne7+ Kb8 17.bxa5 Bxa5 18.Qxb7# 1-0

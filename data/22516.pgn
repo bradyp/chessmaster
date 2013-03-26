@@ -1,0 +1,13 @@
+[Event "Aircraft Engineers Open Seek"]
+[Site "Chess.com"]
+[Date "2011.10.09"]
+[White "Team 54"]
+[Black "Aircraft Engineers"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnqrbkrb/pppppppp/8/8/8/8/PPPPPPPP/NNQRBKRB w KQkq - 0 1"]
+
+1.d4 c5 2.d5 g6 3.Bc3 Bxc3 4.Nxc3 d6 5.O-O 1-0

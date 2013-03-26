@@ -1,0 +1,13 @@
+[Event "Random Insanity"]
+[Site "Chess.com"]
+[Date "2012.11.01"]
+[White "Amicizie Senzafine"]
+[Black "B.J.K."]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkbrnqnb/pppppppp/8/8/8/8/PPPPPPPP/RKBRNQNB w KQkq - 0 1"]
+
+1.d4 d5 2.g3 g6 3.Ngf3 Ngf6 4.e3 Bf5 0-1

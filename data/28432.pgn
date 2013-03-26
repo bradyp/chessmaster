@@ -1,0 +1,13 @@
+[Event "Chess960 RandomChess vs Indonesian Chessmates (jp)"]
+[Site "Chess.com"]
+[Date "2012.06.01"]
+[White "Indonesian Chessmates"]
+[Black "Chess960 RandomChess"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqbbnnkr/pppppppp/8/8/8/8/PPPPPPPP/RQBBNNKR w KQkq - 0 1"]
+
+1.d4 1-0

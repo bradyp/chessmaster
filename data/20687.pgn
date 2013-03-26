@@ -1,0 +1,13 @@
+[Event "1.st 960 vote chess"]
+[Site "Chess.com"]
+[Date "2011.05.27"]
+[White "Balkan Chess Unity"]
+[Black "The Filipino-American World Team"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbbnqkrn/pppppppp/8/8/8/8/PPPPPPPP/RBBNQKRN w KQkq - 0 1"]
+
+1.c4 1-0

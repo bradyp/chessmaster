@@ -1,0 +1,13 @@
+[Event "Company 960"]
+[Site "Chess.com"]
+[Date "2010.02.24"]
+[White "LOVERS OF CHESS"]
+[Black "Chess Company"]
+[Result "1/2-1/2"]
+[TimeControl "1 in 7 days"]
+[Termination "Game drawn by agreement"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbnkrqbn/pppppppp/8/8/8/8/PPPPPPPP/RBNKRQBN w KQkq - 0 1"]
+
+1.e4 e5 2.d4 exd4 3.f3 c5 4.b4 Bd6 5.bxc5 Bxc5 6.a4 a6 7.Nd3 Ba7 1/2-1/2

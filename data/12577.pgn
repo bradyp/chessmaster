@@ -1,0 +1,13 @@
+[Event "Rapid Vote Chess960 (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.09.09"]
+[White "Rapid Chess"]
+[Black "BakuganBattleBrawlers"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrbnkrqb/pppppppp/8/8/8/8/PPPPPPPP/NRBNKRQB w KQkq - 0 1"]
+
+1.e4 f5 2.e5 Qe6 3.f4 d6 4.Qe3 O-O 5.d4 1-0

@@ -1,0 +1,10 @@
+[Event "Rapid Vote Chess (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.08.17"]
+[White "Rapid Chess"]
+[Black "Animal House"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7 4.d4 Nb4 5.Nxe5 Nh6 6.Bxh6 gxh6 7.Nxf7 Rg8 8.Nxd8 Rxg2 9.Nf7 1-0

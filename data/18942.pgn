@@ -1,0 +1,17 @@
+[Event "Monster Match"]
+[Site "Chess.com"]
+[Date "2011.01.08"]
+[White "Total Random Team"]
+[Black "Chess960 Masters"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrknqbbr/pppppppp/8/8/8/8/PPPPPPPP/NRKNQBBR w KQkq - 0 1"]
+
+1.f4 Nb6 2.Bxb6 axb6 3.e4 f6 4.Nb3 e5 5.fxe5 Qxe5 6.Nc3 Ra8 7.O-O-O Bxb3 8.cxb3 Ne6 9.Bc4 Nd4 10.a4 c6
+ 11.Qg3 Qxg3 12.hxg3 b5 13.Bf7 b4 14.Nb1 Ra5 15.Rde1 Bd6 16.Re3 Bxg3 17.Rh5 Be5 18.g4 Rc5+ 19.Nc3 Ne6 20.Bxe6 dxe6
+ 21.Kd1 bxc3 22.bxc3 Bd6 23.d4 Rxh5 24.gxh5 g5 25.Ke2 g4 26.Kf2 e5 27.Re1 exd4 28.cxd4 Kd7 29.e5 Bb4 30.Rc1 f5
+ 31.Kg3 Ke6 32.Rc4 Bd2 33.Kf2 f4 34.Ke2 Be3 35.Rb4 b5 36.axb5 cxb5 37.Rxb5 Bxd4 38.Rb4 f3+ 39.Kf1 Kxe5 40.Rb5+ Ke4
+ 41.Rg5 Rc8 42.Rxg4+ Ke3 43.Kg1 Rc1+ 44.Kh2 Be5+ 45.Kh3 Rh1# 0-1

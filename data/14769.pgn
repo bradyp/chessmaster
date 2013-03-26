@@ -1,0 +1,16 @@
+[Event "this time..........."]
+[Site "Chess.com"]
+[Date "2010.02.01"]
+[White "Group of Minnesota"]
+[Black "CHRISTIAN CHESS WORLD"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrbkrnqb/pppppppp/8/8/8/8/PPPPPPPP/NRBKRNQB w KQkq - 0 1"]
+
+1.f4 b6 2.g4 f6 3.b3 e5 4.f5 d5 5.Ne3 Bb7 6.Qg2 d4 7.Qxb7 Rxb7 8.Bd5 Re6 9.fxe6 Kc8 10.Nf5 Ng6
+ 11.e7 Qe8 12.Bxb7+ Kxb7 13.Ba3 Kc8 14.e3 dxe3 15.Rxe3 Nf4 16.Rc3 Nd5 17.Nd6+ Kd7 18.Nxe8 Kxe8 19.Rc6 Nxe7 20.Bxe7 Kxe7
+ 21.O-O-O g5 22.b4 Bg7 23.b5 Kd7 24.Re1 a6 25.a4 axb5 26.axb5 Bf8 27.Rxf6 Bd6 28.Rf7+ Ke6 29.Rxh7 Ba3+ 30.Kb1 Be7
+ 31.Rh8 Bd6 32.Rxa8 Kd5 33.c4+ Ke6 34.Rf1 e4 35.Nc2 Bxh2 36.Re8+ Kd6 37.Rxe4 c6 38.Rf6+ Kc5 39.Rxc6# 1-0

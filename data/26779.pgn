@@ -1,0 +1,13 @@
+[Event "PFCC VOTE CHESS 960 - 1day"]
+[Site "Chess.com"]
+[Date "2012.04.16"]
+[White "PHILIPPINES' FINEST Chess Club"]
+[Black "The Premium Group"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rknqbbnr/pppppppp/8/8/8/8/PPPPPPPP/RKNQBBNR w KQkq - 0 1"]
+
+1.e4 1-0

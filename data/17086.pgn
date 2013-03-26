@@ -1,0 +1,13 @@
+[Event "Wallyjack's Wonderful Wizards Of Oz Open Seek"]
+[Site "Chess.com"]
+[Date "2010.08.14"]
+[White "The Colorado Chess Team"]
+[Black "Wallyjack's Wonderful Wizards Of Oz"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbnqnrkr/pppppppp/8/8/8/8/PPPPPPPP/BBNQNRKR w KQkq - 0 1"]
+
+1.b3 e6 2.e3 b6 0-1

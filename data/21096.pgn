@@ -1,0 +1,14 @@
+[Event "The Poisoned Pawns Open Seek"]
+[Site "Chess.com"]
+[Date "2011.06.28"]
+[White "Abhi Raj"]
+[Black "The Poisoned Pawns"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rknbbrqn/pppppppp/8/8/8/8/PPPPPPPP/RKNBBRQN w KQkq - 0 1"]
+
+1.f4 f5 2.d4 Nb6 3.Nd3 d6 4.e3 Bb5 5.g4 g6 6.Bf3 e6 7.Nhf2 Qg7 8.O-O-O Re8 9.Bc3 d5 10.g5 Nf7
+ 11.b3 Be7 12.a4 Bxa4 13.bxa4 Nxa4 14.Ba1 Nd6 15.Ne5 Nc4 16.Nxc4 dxc4 17.Kd2 O-O-O 18.Qg2 c6 19.Bxc6 1-0

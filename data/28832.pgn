@@ -1,0 +1,17 @@
+[Event "Random Tactics"]
+[Site "Chess.com"]
+[Date "2012.06.15"]
+[White "Team Philippines United"]
+[Black "Romeo and Juliet"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nqrnbbkr/pppppppp/8/8/8/8/PPPPPPPP/NQRNBBKR w KQkq - 0 1"]
+
+1.e4 c5 2.d3 g6 3.Ne3 Bg7 4.c4 Nc6 5.Nac2 d6 6.b4 cxb4 7.Nxb4 Nd4 8.Nbd5 Nc6 9.Bc3 Bd7 10.Qb2 e5
+ 11.Be2 O-O 12.f4 f6 13.O-O Nc7 14.Nb4 Ne6 15.Ned5 Rce8 16.a3 Ncd4 17.Bd1 a5 18.Nb6 axb4 19.axb4 Qc7 20.Nd5 Qd8
+ 21.f5 Nc7 22.Nxc7 Qxc7 23.Bxd4 exd4 24.Qxd4 Bh6 25.Bb3 Bxc1 26.Rxc1 Kg7 27.fxg6 hxg6 28.h3 Ra8 29.c5 dxc5 30.Rxc5 Qd8
+ 31.Rd5 Rf7 32.Rd6 Ra6 33.Rxa6 bxa6 34.Bxf7 Kxf7 35.Qc4+ Be6 36.Qxa6 Qd4+ 37.Kh2 Qxb4 38.Qa7+ Kg8 39.d4 Qd6+ 40.g3 Bd7
+ 41.Kg2 Qe6 42.Qa8+ Kg7 43.g4 Bc6 44.Qa7+ Kh6 45.Kf2 Qxe4 46.Qc5 Qf3+ 47.Ke1 Qe3+ 48.Kd1 Ba4+ 0-1

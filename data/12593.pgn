@@ -1,0 +1,13 @@
+[Event "Philidor Defense"]
+[Site "Chess.com"]
+[Date "2009.09.10"]
+[White "Fast Players Group"]
+[Black "Master  Strategist"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 d6 3.d4 {Thematic Game - This is the starting position.} 
+ exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.Bd3 O-O 7.O-O Nc6 8.Nxc6 bxc6 9.Bg5 h6 10.Bh4 Re8
+ 11.Re1 Rb8 12.b3 Ng4 13.Bxe7 Qxe7 14.f3 Qe5 15.Qd2 Qxh2+ 16.Kf1 Qh1+ 17.Ke2 Qxg2+ 18.Kd1 Qxf3+ 19.Be2 Qf6 20.Rf1 Qe5
+ 21.Bd3 Nh2 22.Rg1 Nf3 23.Qg2 Nxg1 24.Qxg1 Qxc3 25.Qe3 Bg4+ 0-1

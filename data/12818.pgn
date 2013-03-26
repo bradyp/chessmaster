@@ -1,0 +1,15 @@
+[Event "Rapid Vote Chess (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.09.25"]
+[White "Rapid Chess"]
+[Black "Ecuador"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 f5 2.exf5 d5 3.g4 Nc6 4.d4 e6 5.fxe6 Bxe6 6.g5 Be7 7.h4 Qd7 8.Bh3 O-O-O 9.Be3 Bxh3 10.Nxh3 Re8
+ 11.Nd2 h6 12.Qf3 hxg5 13.hxg5 Bxg5 14.O-O-O Bf6 15.c3 Nge7 16.a3 Rh4 17.Rdg1 Reh8 18.Nf4 Rxh1 19.Rxh1 Rxh1+ 20.Qxh1 Nd8
+ 21.Nh5 b6 22.b3 a5 23.a4 Qc6 24.Kb2 b5 25.Qh3+ Kb7 26.Nxf6 gxf6 27.Qh8 Nf7 28.Qg7 Qe6 29.axb5 Nf5 30.Qg4 N7d6
+ 31.c4 dxc4 32.Qf3+ Kb8 33.d5 c3+ 34.Kxc3 Nxb5+ 35.Kb2 Qe5+ 36.Ka2 Nxe3 37.Qxe3 Nc3+ 38.Ka3 Qd6+ 39.Kb2 Nd1+ 40.Kc2 Nxe3+
+ 41.fxe3 Qxd5 42.e4 Qc6+ 43.Kd3 a4 44.b4 a3 45.Nb3 a2 46.Kd4 Qc2 47.Nc5 a1=Q+ 48.Kd5 Qe5+ 49.Kc6 Qc4 50.b5 Qd6#
+ 0-1

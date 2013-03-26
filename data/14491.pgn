@@ -1,0 +1,12 @@
+[Event "we play 3...Bc5 vs. the Spanish"]
+[Site "Chess.com"]
+[Date "2010.01.15"]
+[White "Chess Logic"]
+[Black "Spanish Subversion"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 {Thematic Game - This is the starting position.} 
+ 4.c3 d5 5.Nxe5 Qg5 6.O-O Bh3 7.Qf3 Qxe5 8.exd5 Bd6 9.Qxh3 Qxd5 10.Na3 Bxa3
+ 11.c4 Qd6 12.Re1+ Nge7 13.bxa3 O-O 14.Bb2 Qxd2 15.Rab1 Rfe8 0-1

@@ -1,0 +1,12 @@
+[Event "5552"]
+[Site "Chess.com"]
+[Date "2013.02.21"]
+[White "Saint Germain 2012"]
+[Black "Kids/Teens Chess Team"]
+[Result "*"]
+[TimeControl "1 in 7 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnbnkbrq/pppppppp/8/8/8/8/PPPPPPPP/RNBNKBRQ w KQkq - 0 1"]
+
+1.e4 e5 2.Bc4 Nbc6 *

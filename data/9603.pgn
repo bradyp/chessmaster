@@ -1,0 +1,11 @@
+[Event "Russia vs. U.S.A"]
+[Site "Chess.com"]
+[Date "2009.04.26"]
+[White "Team U.S.A"]
+[Black "Team Russia"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 c5 2.Bc4 e6 3.Nc3 Nc6 4.Nf3 a6 5.O-O b5 6.Bxb5 axb5 7.Nxb5 Ba6 8.Nc3 Bxf1 9.Qxf1 Nf6 10.d3 Be7
+ 11.Bf4 O-O 12.Ng5 Nh5 13.Nh3 Nxf4 14.Nxf4 Nd4 15.Qd1 Qb8 16.Qg4 Qxb2 17.Re1 Qxc3 18.a4 Qxe1# 0-1

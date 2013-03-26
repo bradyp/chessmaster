@@ -1,0 +1,15 @@
+[Event "Great Minds Think Alike ... Chess 960"]
+[Site "Chess.com"]
+[Date "2010.08.06"]
+[White "Where Great Minds Meet ..."]
+[Black "Central Command"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nqrkbrnb/pppppppp/8/8/8/8/PPPPPPPP/NQRKBRNB w KQkq - 0 1"]
+
+1.d4 d5 2.g3 Nb6 3.c3 g6 4.e4 dxe4 5.Bxe4 f5 6.Bd3 c6 7.f4 Nf6 8.h3 Qd6 9.Nf3 O-O-O 10.Nb3 Bf7
+ 11.Nc5 Qd5 12.c4 Qd6 13.Bf2 Nfd7 14.b4 h6 15.a4 Bxc4 16.Bxc4 Nxc4 17.Rxc4 Bf6 18.Nd3 g5 19.Nde5 Bxe5 20.Nxe5
+ 1-0

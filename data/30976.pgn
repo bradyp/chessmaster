@@ -1,0 +1,13 @@
+[Event "Chess Intelligence Quotient Open Seek"]
+[Site "Chess.com"]
+[Date "2012.08.18"]
+[White "Chess Intelligence Quotient"]
+[Black "MirkoBabic"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 d5 3.exd5 Qxd5 4.Nc3 Qd4 5.Nxd4 cxd4 6.Nb5 Na6 7.Nxd4 Nf6 8.Bc4 e6 9.O-O Bd6 10.Nb5 Nb4
+ 11.Nxd6+ Ke7 12.Nxc8+ Raxc8 13.Bb3 Rhd8 14.d3 h6 15.Qf3 Nc6 16.Be3 b6 17.Rfe1 Rd7 18.Ba4 Rdc7 19.Bxc6 Rxc6 20.c3 Nd5
+ 21.Bd4 Nf6 22.Bxf6+ gxf6 23.d4 f5 24.Qxf5 Kf8 25.b4 Rxc3 26.Rxe6 Rc1+ 27.Re1 Rxa1 28.Qxc8+ Kg7 29.Rxa1 h5 30.Re1 a5
+ 31.bxa5 bxa5 32.Re8 Kf6 33.Qd8+ Kg7 34.Qg5+ Kh7 35.Rg8 f6 36.Qg6# 1-0

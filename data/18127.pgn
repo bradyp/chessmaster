@@ -1,0 +1,16 @@
+[Event "All Star Random Chess"]
+[Site "Chess.com"]
+[Date "2010.11.07"]
+[White "Galatasaray"]
+[Black "The Indonesian All Stars"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bqrbknnr/pppppppp/8/8/8/8/PPPPPPPP/BQRBKNNR w KQkq - 0 1"]
+
+1.b4 Nf6 2.Nf3 Ng6 3.Ne3 e6 4.h4 b5 5.h5 Nf4 6.h6 Rg8 7.c4 g5 8.Bxf6 Bxf6 9.Qxh7 Ke7 10.Qb1 g4
+ 11.Nh4 bxc4 12.h7 Rh8 13.Rxc4 c5 14.Kf1 d5 15.Rc1 d4 16.Nxg4 Bxh4 17.Rxh4 Bxg2+ 18.Kg1 f5 19.Nh6 Be4 20.d3 Ba8
+ 21.Qb2 Qe5 22.Rxc5 Rxc5 23.bxc5 Qg7+ 24.Kf1 Qg2+ 25.Ke1 Qg1+ 26.Kd2 Qxf2 27.Qa3 Kf6 28.Qxa7 Qe3+ 29.Kc2 Nxe2 30.Qf7+ Ke5
+ 31.Ng4+ fxg4 32.Rh5+ 1-0

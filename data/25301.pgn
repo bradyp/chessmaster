@@ -1,0 +1,12 @@
+[Event "Scotch Gambiteers Open Seek"]
+[Site "Chess.com"]
+[Date "2012.03.09"]
+[White "Scotch Gambiteers"]
+[Black "Check Mates"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 {Thematic Game - This is the starting position.} 
+ Nf6 5.e5 Ng4 6.Qe2 Qe7 7.Bf4 d6 8.exd6 Qxe2+ 9.Kxe2 Bxd6 10.Bxd6 cxd6
+ 11.Nbd2 Nb4 12.Bb3 O-O 13.Rhe1 1-0

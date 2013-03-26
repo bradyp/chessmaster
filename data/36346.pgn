@@ -1,0 +1,12 @@
+[Event "Chess &amp; Beer Open Seek"]
+[Site "Chess.com"]
+[Date "2013.01.17"]
+[White "Chess &amp; Beer"]
+[Black "PHILIPPINES' FINEST Chess Club"]
+[Result "*"]
+[TimeControl "1 in 7 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkrqbbnn/pppppppp/8/8/8/8/PPPPPPPP/RKRQBBNN w KQkq - 0 1"]
+
+1.c4 c5 2.e4 e5 3.d3 Ng6 4.Nf3 d6 5.a4 *

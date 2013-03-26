@@ -1,0 +1,12 @@
+[Event "If you have more then 3 members, aborted"]
+[Site "Chess.com"]
+[Date "2010.08.30"]
+[White "The Flaming Three!"]
+[Black "CHRISTIAN CHESS WORLD"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.dxc5 Bxc5 5.Nc3 Nc6 6.Nf3 Qb6 7.Qe2 Nge7 8.Be3 Bxe3 9.Qxe3 Qxe3+ 10.fxe3 a6
+ 11.O-O-O Ng6 12.Na4 b5 13.Nb6 Rb8 14.Nxc8 Rxc8 15.a3 Ncxe5 16.Nxe5 Nxe5 17.b3 Ke7 18.h3 h5 19.b4 Rc3 20.Kb2 Rxe3
+ 21.Bd3 Nxd3+ 22.cxd3 Re2+ 23.Kc3 Rc8+ 24.Kb3 Rxg2 25.a4 e5 26.axb5 axb5 27.h4 Rgc2 28.Rhe1 R8c3# 0-1

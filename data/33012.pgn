@@ -1,0 +1,13 @@
+[Event "&cent;&delta;&cap;⌠&micro;&sect;&uarr;&delta;&cap; / Confusion"]
+[Site "Chess.com"]
+[Date "2012.10.14"]
+[White "Operation Pawnstorm"]
+[Black "Strategizers &amp; Speedsters"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbbknqnr/pppppppp/8/8/8/8/PPPPPPPP/RBBKNQNR w KQkq - 0 1"]
+
+1.Ngf3 Ngf6 2.d3 d5 3.Bf4 Nh5 4.Bg3 Nxg3 0-1

@@ -1,0 +1,16 @@
+[Event "Adults Unlimited 960"]
+[Site "Chess.com"]
+[Date "2010.08.26"]
+[White "Unlimited Chess960"]
+[Black "Adult only group"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rknnqrbb/pppppppp/8/8/8/8/PPPPPPPP/RKNNQRBB w KQkq - 0 1"]
+
+1.f4 f5 2.g3 g6 3.e4 fxe4 4.Bxe4 Nd6 5.d3 Nxe4 6.Qxe4 d5 7.Qb4 Nc6 8.Qa4 d4 9.Nb3 b6 10.Nf2 O-O-O
+ 11.Ne4 Bd5 12.O-O-O e5 13.fxe5 Rxf1 14.Rxf1 Qxe5 15.Qa6+ Kb8 16.Nec5 Qg5+ 17.Kb1 bxc5 18.Nxc5 Bxa2+ 19.Qxa2 Qxc5 20.Qb3+ Qb4
+ 21.Qe6 Ne5 22.Rf4 Qe1+ 23.Ka2 Qxg1 24.Qe7 Rd6 25.Rf8+ Kb7 26.Qe8 Ra6+ 27.Kb3 Nc6 28.Qa8+ Kb6 29.Rxh8 Na5+ 30.Kb4 c5+
+ 31.Ka3 Qa1# 0-1

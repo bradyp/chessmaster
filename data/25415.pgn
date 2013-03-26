@@ -1,0 +1,11 @@
+[Event "Test"]
+[Site "Chess.com"]
+[Date "2012.03.11"]
+[White "America Chess Club"]
+[Black "Rubinstein's Academy"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Bb5 Qb6 6.Bxc6+ bxc6 7.Nf3 Ba6 8.Qc2 Nh6 9.Bxh6 gxh6 10.Na3 cxd4
+ 11.Nxd4 Bc5 12.b4 Bxd4 13.cxd4 Qxb4+ 14.Kd1 1-0

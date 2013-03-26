@@ -1,0 +1,13 @@
+[Event "Rapid Vote Chess (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.09.01"]
+[White "Fast Players Group"]
+[Black "Rapid Chess"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Nc3 Bb4 7.Bd3 O-O 8.Bd2 d6 9.O-O Bg4 10.f3 Be6
+ 11.a3 Ba5 12.Ne2 Bxd2 13.Qxd2 c5 14.Nf4 c6 15.c4 Rb8 16.Rfb1 Bh3 17.Nxh3 h6 18.b4 Nd7 19.b5 cxb5 20.cxb5 Qf6
+ 21.a4 Qd4+ 22.Kh1 Ne5 23.Nf2 a6 24.b6 Rb7 25.Qb2 Qe3 26.Bxa6 Rbb8 27.a5 Rfe8 28.Bf1 Nxf3 29.gxf3 Qxf3+ 30.Bg2 Qf4
+ 31.a6 Re7 32.a7 Ra8 33.b7 Rd8 34.b8=Q Rxb8 35.axb8=Q+ Kh7 36.Qf8 Re6 37.Qbxg7# 1-0

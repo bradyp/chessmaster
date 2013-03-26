@@ -1,0 +1,16 @@
+[Event "Rapid Vote Chess960 (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.12.07"]
+[White "RAPID CHESS"]
+[Black "Fischer Random"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrqkrnbb/pppppppp/8/8/8/8/PPPPPPPP/NRQKRNBB w KQkq - 0 1"]
+
+1.g4 f5 2.gxf5 Bxa2 3.Nb3 Bxb1 4.Qxb1 g6 5.e4 d6 6.Ng3 Nb6 7.c3 e5 8.f3 Qd7 9.Bg2 Qa4 10.Qc2 O-O-O
+ 11.Bxb6 axb6 12.Ke2 Nd7 13.Ra1 Qc4+ 14.d3 Qf7 15.fxg6 hxg6 16.Ra8+ Nb8 17.Bh3+ Rd7 18.Nd2 Qh7 19.Bxd7+ Kxd7 20.Ndf1 Nc6
+ 21.Rxe8 Kxe8 22.Qa4 Qh3 23.Qa8+ Nd8 24.Qa4+ Ke7 25.Kf2 Ne6 26.Qa8 Nf4 27.Ke3 Bf6 28.Qxb7 Kd7 29.b4 Bg5 30.b5 Qg2
+ 31.Qc6+ Kd8 32.Qa8+ Ke7 33.Qc8 Nd5# 0-1

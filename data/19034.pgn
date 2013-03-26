@@ -1,0 +1,17 @@
+[Event "960 Slam #2"]
+[Site "Chess.com"]
+[Date "2011.01.17"]
+[White "Team India"]
+[Black "Chess960 Masters"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnbnkbqr/pppppppp/8/8/8/8/PPPPPPPP/RNBNKBQR w KQkq - 0 1"]
+
+1.e4 e5 2.Nbc3 Ne6 3.Bc4 Nc6 4.Ne3 Ned4 5.Ncd5 Bd6 6.c3 Ne6 7.Nf5 Qf8 8.Qf1 g6 9.Nf6+ Kd8 10.Nxd6 Qxd6
+ 11.d4 exd4 12.Qe2 Ne5 13.Bxe6 d3 14.Qd1 Qxe6 15.Nd5 f6 16.O-O c6 17.Nb4 Re8 18.Re1 Qc4 19.Bf4 a5 20.Bxe5 Rxe5
+ 21.Nxd3 Rxe4 22.a3 Rxe1+ 23.Nxe1 d5 24.Nc2 Bg4 25.Qd2 Qe2 26.Qh6 Rc8 27.Qf8+ Kc7 28.Qxf6 Qxc2 29.Qf4+ Kb6 30.Qxg4 Qxb2
+ 31.Rd1 Re8 32.Qd7 Re2 33.Qxh7 Qxc3 34.Rb1+ Rb2 35.Qxg6 Qxa3 36.Rf1 Qb4 37.g4 a4 38.Kg2 a3 39.Qf5 a2 40.Ra1 Qb3
+ 41.Qf3 Qc2 42.Qe3+ Kb5 43.h4 Rb1 44.Rxa2 Qxa2 0-1

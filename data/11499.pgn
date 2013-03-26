@@ -1,0 +1,15 @@
+[Event "our first 960 Match as a team"]
+[Site "Chess.com"]
+[Date "2009.07.30"]
+[White "Fischer Random (Chess960)"]
+[Black "Wizards Of Oz"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbknrnbq/pppppppp/8/8/8/8/PPPPPPPP/RBKNRNBQ w KQkq - 0 1"]
+
+1.e4 e5 2.g3 g6 3.f4 Nc6 4.c3 exf4 5.gxf4 f5 6.Ng3 fxe4 7.Nxe4 Bf7 8.Bf2 Ne6 9.Qf3 Ne7 10.Ne3 c6
+ 11.Bg3 d5 12.Ng5 Nxg5 13.fxg5 Bxg3 14.Qxg3 O-O 15.Ng4 Nf5 16.Bxf5 gxf5 17.Nh6+ Kg7 18.Qe5+ Kg6 19.Qxf5+ Kh5 20.Re3
+ 1-0

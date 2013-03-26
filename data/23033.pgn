@@ -1,0 +1,12 @@
+[Event "Common koel"]
+[Site "Chess.com"]
+[Date "2011.11.11"]
+[White "Bird's Opening Lovers"]
+[Black "The Dogs"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.f4 d5 2.c4 {Thematic Game - This is the starting position.} 
+ e6 3.Nf3 Nf6 4.e3 c5 5.cxd5 exd5 6.Bb5+ Nc6 7.O-O Bg4 8.Qa4 Bxf3 9.Bxc6+ bxc6 10.Qxc6+ Nd7
+ 11.Rxf3 Be7 12.Qxd5 O-O 13.Nc3 1-0

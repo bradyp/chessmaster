@@ -1,0 +1,14 @@
+[Event "Crab"]
+[Site "Chess.com"]
+[Date "2012.04.03"]
+[White "Under 1400"]
+[Black "✮Chess-0-Matic✮"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.a4 e5 2.h4 {Thematic Game - This is the starting position.} 
+ d5 3.d4 Nc6 4.e3 e4 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Ne2 Nf6 8.O-O Bd6 9.Nbc3 O-O 10.Bd2 Ng4
+ 11.g3 Qf6 12.Nf4 Bxf4 13.exf4 Rfe8 14.Qxg4 Qxd4 15.Rad1 Rad8 16.Be3 Qb4 17.Bxa7 Qxb2 18.Bd4 g6 19.Rd2 Bd7 20.Qe2 Qa3
+ 21.Rdd1 Qb4 22.Rb1 Qxd4 23.Nd1 Bxa4 24.Rxb7 c6 25.c3 Qd3 26.Qxd3 exd3 27.Nb2 Bb5 28.Rd1 Re2 29.Nxd3 Bxd3 30.Rxd3 c5
+ 31.Rc7 c4 32.Rd4 Rc2 33.Rc5 Rxc3 34.Rdxd5 Rxd5 35.Rxd5 Rc1+ 36.Kg2 Kg7 0-1

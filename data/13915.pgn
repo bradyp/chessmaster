@@ -1,0 +1,13 @@
+[Event "Delhi 960"]
+[Site "Chess.com"]
+[Date "2009.12.01"]
+[White "The Hindu"]
+[Black "Team Delhi and NCR"]
+[Result "1-0"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbnqbrkr/pppppppp/8/8/8/8/PPPPPPPP/NBNQBRKR w KQkq - 0 1"]
+
+1.c4 f6 2.d4 Bf7 3.d5 Nab6 4.b3 c6 5.e4 cxd5 6.exd5 Be5 7.Nc2 1-0

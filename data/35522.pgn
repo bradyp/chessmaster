@@ -1,0 +1,15 @@
+[Event "Powerful 960 match!"]
+[Site "Chess.com"]
+[Date "2012.12.29"]
+[White "Powerful Pawns"]
+[Black "Chess School"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrqbknbr/pppppppp/8/8/8/8/PPPPPPPP/NRQBKNBR w KQkq - 0 1"]
+
+1.e4 e5 2.d3 Ng6 3.Ng3 Nf4 4.Bf3 Nb6 5.Nf5 g6 6.Ng7+ Kf8 7.g3 Nxd3+ 8.cxd3 Kxg7 9.h4 f5 10.exf5 gxf5
+ 11.Nc2 d6 12.d4 Bxa2 13.Ra1 Qe6 14.Bh2 exd4+ 15.Kf1 c5 16.Kg2 Nd7 17.Re1 Ne5 18.b4 d3 19.Na3 Bd5 20.Bxd5 Qxd5+
+ 21.Kh3 d2 22.Qb2 dxe1=Q 23.Rxe1 Bf6 24.f4 Nd3 25.Qd2 Qf3 26.Bg1 Nxe1 27.Qxe1 Qh1+ 0-1

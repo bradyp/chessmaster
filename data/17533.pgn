@@ -1,0 +1,14 @@
+[Event "TM Bogo 01"]
+[Site "Chess.com"]
+[Date "2010.09.16"]
+[White "Chess in the City"]
+[Black "1.d4 Nf6 Indians"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ {Thematic Game - This is the starting position.} 
+ 4.Bd2 Qe7 5.g3 Nc6 6.Nc3 Bxc3 7.Bxc3 Ne4 8.Rc1 O-O 9.Bg2 d6 10.O-O a5
+ 11.Be1 f5 12.d5 Nd8 13.Nd2 Nc5 14.Nb3 Nxb3 15.Qxb3 e5 16.c5 Nf7 17.Qe3 Re8 18.Bd2 Nh8 19.cxd6 cxd6 20.Qb6 Ra6
+ 21.Qc7 Ng6 22.Rc2 b6 23.Rfc1 Bb7 24.Bg5 Qxg5 25.Qxb7 Raa8 26.Rc7 Ne7 27.Qxb6 Qh6 28.R1c2 Reb8 29.Rb7 Re8 30.Rcc7 Nc8
+ 31.Qc6 Qg6 32.Rxg7+ Qxg7 33.Rxg7+ 1-0

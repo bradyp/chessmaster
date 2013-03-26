@@ -1,0 +1,13 @@
+[Event "King's &amp; Thing's 960"]
+[Site "Chess.com"]
+[Date "2009.11.22"]
+[White "King's &amp; Thing's"]
+[Black "The Gaussian Eliminators"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qrkbnnbr/pppppppp/8/8/8/8/PPPPPPPP/QRKBNNBR w KQkq - 0 1"]
+
+1.d4 f5 2.Nd3 Ng6 3.e3 Bd5 4.f3 Nd6 5.b3 b5 6.Nd2 a5 7.Be2 e6 8.Bf2 Nf7 9.O-O Bf6 0-1

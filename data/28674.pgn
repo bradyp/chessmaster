@@ -1,0 +1,16 @@
+[Event "Just a 960 kinda day"]
+[Site "Chess.com"]
+[Date "2012.06.10"]
+[White "Chess960 Players Group"]
+[Black "Team USA 960 Chess"]
+[Result "*"]
+[TimeControl "1 in 3 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rknnbbrq/pppppppp/8/8/8/8/PPPPPPPP/RKNNBBRQ w KQkq - 0 1"]
+
+1.e4 Nc6 2.Ne3 e5 3.g3 g6 4.Nb3 Nb6 5.Bh3 f6 6.d3 Bf7 7.Bc3 Qg7 8.Qf3 Be7 9.O-O h5 10.a4 Be6
+ 11.Bxe6 dxe6 12.a5 Nd7 13.a6 b6 14.d4 exd4 15.Nxd4 Nxd4 16.Bxd4 e5 17.Bc3 c6 18.Rfd1 Kc7 19.Qe2 Nc5 20.Qc4 Rad8
+ 21.f3 Rd6 22.Rxd6 Bxd6 23.b4 b5 24.Qa2 Na4 25.Be1 Rd8 26.c4 Bf8 27.cxb5 cxb5 28.Rc1+ Kb8 29.Qe2 Qd7 30.Rd1 Bd6
+ 31.Rd5 Nb6 32.Rxb5 Ka8 33.Nd5 Nxd5 34.Rxd5 Qc7 35.Qd3 Be7 36.Rxd8+ Bxd8 37.b5 Kb8 38.Qd5 Qc8 39.Bf2 g5 40.Qd6+ Ka8
+ 41.Qc6+ Qxc6 42.bxc6 Kb8 43.Kf1 Ba5 44.Ke2 g4 45.fxg4 hxg4 46.Kd3 Kc7 47.Bxa7 Kxc6 48.Bc5 *

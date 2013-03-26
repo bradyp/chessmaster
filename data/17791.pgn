@@ -1,0 +1,11 @@
+[Event "be happy"]
+[Site "Chess.com"]
+[Date "2010.10.06"]
+[White "House Of Happiness"]
+[Black "The Dark Knights"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.Nc3 axb5 6.e4 b4 7.Nb5 d6 8.Bf4 g5 9.e5 gxf4 10.exf6 Nd7
+ 11.fxe7 Qxe7+ 12.Be2 Ne5 0-1

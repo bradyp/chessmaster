@@ -1,0 +1,11 @@
+[Event "Latvian Gambit game 2"]
+[Site "Chess.com"]
+[Date "2013.02.18"]
+[White "The Q Continuum"]
+[Black "International 10 Minute Vote Chess Group"]
+[Result "*"]
+[TimeControl "1 in 1 day"]
+
+1.e4 e5 2.Nf3 f5 {Thematic Game - This is the starting position.} 
+ 3.Nxe5 Qf6 4.Nc4 fxe4 5.Nc3 Qf7 6.Ne3 c6 7.d3 exd3 8.Bxd3 d5 9.O-O Bc5 10.Nexd5 cxd5
+ 11.Nxd5 Nc6 12.Bf4 Kf8 13.Nc7 Qxf4 14.Nxa8 Nf6 15.Re1 Bxf2+ 16.Kh1 Bxe1 17.Qxe1 Qb8 18.Rd1 Bg4 *

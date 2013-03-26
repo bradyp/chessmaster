@@ -1,0 +1,13 @@
+[Event "The World Champs take on Team infinity"]
+[Site "Chess.com"]
+[Date "2011.05.14"]
+[White "World Champions Ultimate"]
+[Black "Team Infinity"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brnbqkrn/pppppppp/8/8/8/8/PPPPPPPP/BRNBQKRN w KQkq - 0 1"]
+
+1.e4 e5 0-1

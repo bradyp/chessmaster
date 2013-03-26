@@ -1,0 +1,10 @@
+[Event "Modigliani"]
+[Site "Chess.com"]
+[Date "2012.10.12"]
+[White "ULTIMATE!"]
+[Black "1...g6 Modern Defence"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.d5 c6 5.dxc6 Nxc6 6.Bf4 Bxb2 7.Nbd2 Bxa1 0-1

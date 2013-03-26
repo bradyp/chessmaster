@@ -1,0 +1,13 @@
+[Event "THE POWER OF CHESS 2 Open Seek"]
+[Site "Chess.com"]
+[Date "2011.01.30"]
+[White "THE POWER OF CHESS 2"]
+[Black "team 55"]
+[Result "0-1"]
+[TimeControl "1 in 0.0069444444444444 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkbbnnrq/pppppppp/8/8/8/8/PPPPPPPP/RKBBNNRQ w KQkq - 0 1"]
+
+1.e4 g5 0-1

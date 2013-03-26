@@ -1,0 +1,12 @@
+[Event "10,000 Pawns Open Seek"]
+[Site "Chess.com"]
+[Date "2011.10.11"]
+[White "Chess School"]
+[Black "10,000 Pawns"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 c5 7.O-O O-O 8.d5 exd5 9.cxd5 d6 10.e4 Nbd7
+ 11.e5 Ne8 12.e6 fxe6 13.dxe6 Ndf6 14.Re1 Nc7 15.Ng5 Bxg2 16.Kxg2 Nfd5 17.Nxd5 Nxd5 18.Qxd5 Qc7 19.Ne4 h6 20.Bf4 Rad8
+ 21.Rad1 1-0

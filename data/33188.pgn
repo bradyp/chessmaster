@@ -1,0 +1,13 @@
+[Event "Coin Chess Open Seek"]
+[Site "Chess.com"]
+[Date "2012.10.19"]
+[White "Coin Chess"]
+[Black "The Awesome Peeps"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 {Thematic Game - This is the starting position.} 
+ 4.e5 Bxc3+ 5.bxc3 Ne7 6.Nf3 O-O 7.Bd3 Nf5 8.O-O f6 9.exf6 Rxf6 10.Bg5 Qf8
+ 11.Bxf6 Qxf6 12.Ne5 Nc6 13.f4 Ne3 14.Ng4 Nxd1 15.Nxf6+ gxf6 16.Raxd1 e5 17.fxe5 fxe5 18.dxe5 Nxe5 19.Rde1 Nxd3 20.Re8+ Kg7
+ 21.cxd3 Bh3 22.Rxa8 Bc8 23.Rxc8 1-0

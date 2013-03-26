@@ -1,0 +1,13 @@
+[Event "Chess960 Test 3"]
+[Site "Chess.com"]
+[Date "2011.11.23"]
+[White "White"]
+[Black "Black"]
+[Result "0-1"]
+[TimeControl "1 in 0.00069444444444444 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN ""]
+
+ 0-1

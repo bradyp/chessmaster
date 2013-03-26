@@ -1,0 +1,14 @@
+[Event "TEC opening : (D06)Queen's Gambit (Black)"]
+[Site "Chess.com"]
+[Date "2012.06.25"]
+[White "ELECTRONIC TEAM"]
+[Black "THE EMPERORS OF CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 {Thematic Game - This is the starting position.} 
+ c6 3.Nc3 Nf6 4.e3 e6 5.a3 Bd6 6.c5 Bc7 7.Nf3 Nbd7 8.e4 Nxe4 9.Bd3 Nxc3 10.bxc3 e5
+ 11.dxe5 Nxe5 12.Nxe5 Bxe5 13.Rb1 Bxc3+ 14.Bd2 Qa5 15.Rb3 Bxd2+ 16.Qxd2 Qxc5 17.O-O O-O 18.Kh1 b6 19.Rc1 Qd6 20.Qc2 g6
+ 21.h4 c5 22.h5 c4 23.Bxg6 cxb3 24.Bxh7+ Kg7 25.f3 bxc2 26.Rxc2 Qh6 27.Bd3 Qe3 28.Rd2 Qxd2 29.Bb5 Rh8 30.g4 Rxh5+
+ 31.gxh5 Bh3 32.h6+ Kxh6 33.Bc6 Qg2# 0-1

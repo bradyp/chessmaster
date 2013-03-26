@@ -1,0 +1,13 @@
+[Event "TO CREATE 28.1"]
+[Site "Chess.com"]
+[Date "2012.04.28"]
+[White "Check Mates"]
+[Black "TO BE MORPHY"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkbrnqnb/pppppppp/8/8/8/8/PPPPPPPP/RKBRNQNB w KQkq - 0 1"]
+
+1.d4 d5 2.Nd3 g6 3.e3 Nd6 4.g3 Bg4 5.Ne2 1-0

@@ -1,0 +1,14 @@
+[Event "Chess 960"]
+[Site "Chess.com"]
+[Date "2009.10.09"]
+[White "D` CHESSBOMB"]
+[Black "Chess960 Players Group"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nqnrkbbr/pppppppp/8/8/8/8/PPPPPPPP/NQNRKBBR w KQkq - 0 1"]
+
+1.c4 f6 2.e3 d5 3.c5 e5 4.d4 c6 5.e4 exd4 6.Rxd4 Bxc5 7.Rd1 Bb4+ 8.Ke2 Qf4 9.a3 Ba5 10.f3 dxe4
+ 11.Rxd8+ Kxd8 12.Be3 exf3+ 13.gxf3 Bc4+ 14.Nd3 Re8 15.Nc2 Bxd3+ 16.Kxd3 Qxf3 17.Be2 Qe4# 0-1

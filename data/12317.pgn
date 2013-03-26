@@ -1,0 +1,11 @@
+[Event "Rapid Vote Chess (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.08.30"]
+[White "fast pawn"]
+[Black "Rapid Chess"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.d4 d5 2.c4 dxc4 3.e4 b5 4.a4 c6 5.axb5 cxb5 6.Nc3 b4 7.Qa4+ Bd7 8.Qxb4 e5 9.Qxc4 Be6 10.d5 Bd7
+ 11.Nb5 Bxb5 12.Qxb5+ Nd7 13.Nf3 Ngf6 14.Nxe5 Nxe4 15.Ra4 Nd6 16.Qxd7+ Qxd7 17.Nxd7 Kxd7 0-1

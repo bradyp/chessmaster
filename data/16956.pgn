@@ -1,0 +1,16 @@
+[Event "Animal Lovers vs Spartan warriors &lt;&gt; 960"]
+[Site "Chess.com"]
+[Date "2010.08.03"]
+[White "Spartan Warriors"]
+[Black "Animal Lovers"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qrkrnnbb/pppppppp/8/8/8/8/PPPPPPPP/QRKRNNBB w KQkq - 0 1"]
+
+1.g3 g5 2.d4 d5 3.Ne3 e6 4.Nf3 h6 5.Ng4 Bg7 6.h4 h5 7.Nge5 f6 8.Nd3 g4 9.Nd2 Bh6 10.f4 Bh7
+ 11.a4 a5 12.Qa3 Nd6 13.Qc3 Nd7 14.Nc5 Nf8 15.Bf2 b6 16.Nd3 Re8 17.Re1 O-O-O 18.b4 axb4 19.Nxb4 Kd7 20.Ra1 Qb7
+ 21.e4 dxe4 22.a5 bxa5 23.Rxa5 Ra8 24.Rxh5 Bxf4 25.gxf4 f5 26.Rg5 Re7 27.Nb3 Ke8 28.Nc5 Nb5 29.Qb2 Qb6 30.d5 Nd6
+ 31.Nxe4 Qa5 32.Nf6+ Kf7 33.dxe6+ Rxe6 34.Rg7+ Kxg7 35.Nh5+ Kf7 36.Qg7+ Ke8 37.Rxe6+ Nxe6 38.Nf6+ Kd8 39.Qd7# 1-0

@@ -1,0 +1,11 @@
+[Event "KID Game"]
+[Site "Chess.com"]
+[Date "2013.01.31"]
+[White "THE EMPERORS OF CHESS"]
+[Black "*Check Mates*"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 {Thematic Game - This is the starting position.} 
+ Bg7 4.Nc3 b6 5.g3 Nc6 6.e4 Bb7 7.Bd3 Nb4 8.a3 Nxd3+ 9.Qxd3 d6 10.h3 O-O
+ 11.Bg5 e5 12.dxe5 dxe5 13.Nd5 Bxd5 14.cxd5 Qd6 15.Rc1 c5 *

@@ -1,0 +1,11 @@
+[Event "Gambitters Open Seek"]
+[Site "Chess.com"]
+[Date "2011.12.30"]
+[White "Gambitters"]
+[Black "Chess Champ"]
+[Result "0-1"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+
+1.e4 e5 2.f4 exf4 {Thematic Game - This is the starting position.} 
+ 3.e5 Qh4+ 4.Ke2 Nc6 5.Nf3 Qg4 6.h3 Qf5 7.Kf2 f6 0-1

@@ -1,0 +1,13 @@
+[Event "Game VC January.#8"]
+[Site "Chess.com"]
+[Date "2013.01.06"]
+[White "✮ Club Catur Indonesia ✮"]
+[Black "Team China 中国队"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bqrnkbnr/pppppppp/8/8/8/8/PPPPPPPP/BQRNKBNR w KQkq - 0 1"]
+
+1.b4 e5 2.Bxe5 Ne6 3.e4 1-0

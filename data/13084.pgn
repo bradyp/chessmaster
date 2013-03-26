@@ -1,0 +1,13 @@
+[Event "It is Jas Chess :)"]
+[Site "Chess.com"]
+[Date "2009.10.09"]
+[White "Jas CHESS"]
+[Black "Kairav's Chess Masters"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqknbbrn/pppppppp/8/8/8/8/PPPPPPPP/RQKNBBRN w KQkq - 0 1"]
+
+1.c4 Ng6 2.Ng3 e5 3.e3 Ne6 4.Nc3 Bc5 5.h4 Rh8 6.h5 Ne7 7.b4 Bd6 8.c5 1-0

@@ -1,0 +1,13 @@
+[Event "Ruy_X"]
+[Site "Chess.com"]
+[Date "2009.12.09"]
+[White "The Radical Ruy Lopez"]
+[Black "The  best  moves"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 {Thematic Game - This is the starting position.} 
+ f6 5.Bd5 c6 6.Bxg8 Rxg8 7.d4 exd4 8.Qxd4 Qc7 9.O-O b5 10.e5 fxe5
+ 11.Qxe5+ Qxe5 12.Nxe5 Bd6 13.Re1 Bxe5 14.Rxe5+ Kd8 15.Bg5+ Kc7 16.Nc3 d5 17.Ne2 Bb7 18.Re7+ Kb6 19.Be3+ c5 20.b4 Bc8
+ 21.Bxc5+ Kc6 22.Nd4# 1-0

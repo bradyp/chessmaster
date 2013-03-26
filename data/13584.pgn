@@ -1,0 +1,13 @@
+[Event "Company 960"]
+[Site "Chess.com"]
+[Date "2009.11.12"]
+[White "The Emperor's Newest Minds"]
+[Black "Chess Company"]
+[Result "0-1"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnbnqbkr/pppppppp/8/8/8/8/PPPPPPPP/RNBNQBKR w KQkq - 0 1"]
+
+1.e4 Nbc6 2.Nbc3 e5 3.Bc4 Nd4 4.Ne3 d6 5.O-O b5 6.Bb3 Be6 0-1

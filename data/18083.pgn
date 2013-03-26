@@ -1,0 +1,17 @@
+[Event "Team 54 Open Seek"]
+[Site "Chess.com"]
+[Date "2010.11.03"]
+[White "Team 54"]
+[Black "TURK CHESS PLAYERS"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrknbbrq/pppppppp/8/8/8/8/PPPPPPPP/NRKNBBRQ w KQkq - 0 1"]
+
+1.g4 g5 2.Nc3 Nb6 3.Bg2 Nc6 4.Nb3 d6 5.d3 Bg7 6.h4 h5 7.gxh5 Qxh5 8.hxg5 Qxg5+ 9.Bd2 Qf6 10.Ne4 Qe6
+ 11.Ng3 Rh8 12.Nh5 f5 13.Bf3 Bxh5 14.Rxg7 Qf6 15.Rg1 Bxf3 16.Qxf3 O-O-O 17.O-O-O Rdg8 18.Bc3 e5 19.d4 Rxg1 20.Rxg1 exd4
+ 21.Bd2 Ne5 22.Qf4 c5 23.c3 Nd5 24.Qg3 dxc3 25.Bxc3 f4 26.Qg5 Qxg5 27.Rxg5 Nxc3 28.bxc3 b6 29.Rf5 f3 30.exf3 Rh2
+ 31.Nd2 Rxf2 32.f4 Rxf4 33.Rh5 Kd7 34.Rh7+ Rf7 35.Rxf7+ Nxf7 36.Kc2 d5 37.Kd3 Ne5+ 38.Kc2 Kc6 39.a3 Nc4 40.Nxc4 dxc4
+ 41.a4 a6 42.Kb2 b5 43.axb5+ axb5 44.Ka3 Kb6 45.Kb2 Ka5 46.Ka3 b4+ 47.cxb4+ cxb4+ 48.Kb2 Ka4 0-1

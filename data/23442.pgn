@@ -1,0 +1,11 @@
+[Event "Move like Steinitz"]
+[Site "Chess.com"]
+[Date "2011.12.03"]
+[White "Team Match Dominators"]
+[Black "Gambit fans!"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4 Qh4+ 5.Ke2 {Thematic Game - This is the starting position.} 
+ d5 6.exd5 Bg4+ 7.Nf3 Bxf3+ 8.gxf3 1-0

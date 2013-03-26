@@ -1,0 +1,10 @@
+[Event "Our First Vote Chess"]
+[Site "Chess.com"]
+[Date "2011.01.09"]
+[White "Programmers"]
+[Black "Chess Unlimited"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 0-1

@@ -1,0 +1,16 @@
+[Event "Rapid Vote Chess960 (2days/move)"]
+[Site "Chess.com"]
+[Date "2010.06.15"]
+[White "RAPID CHESS"]
+[Black "Glorius Chess"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bqrknrnb/pppppppp/8/8/8/8/PPPPPPPP/BQRKNRNB w KQkq - 0 1"]
+
+1.b3 d6 2.g3 b6 3.Bxa8 Qxa8 4.f3 Ngf6 5.Nd3 e5 6.e4 Nd7 7.c4 g6 8.Bc3 f5 9.Nb4 fxe4 10.Kc2 exf3
+ 11.Nd5 c6 12.Ne3 e4 13.Bxh8 Rxh8 14.Qb2 Nef6 15.g4 O-O-O 16.g5 Nh5 17.Kb1 Nf4 18.Qd4 f2 19.Rxf2 Nd3 20.Qxe4 Nxf2
+ 21.Qf3 Rhf8 22.Qg2 Rde8 23.Rc3 Ne4 24.Rd3 Rf2 25.Qg4 Rxd2 26.Rxd2 Nxd2+ 27.Kc2 Nxb3 28.axb3 Rxe3 29.Qf4 Re1 30.Qg3 Rxg1
+ 31.Qxg1 c5 32.Qe3 Qg2+ 33.Kc3 Ne5 34.h4 Qf3 35.Qxf3 Nxf3 0-1

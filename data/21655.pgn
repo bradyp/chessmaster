@@ -1,0 +1,13 @@
+[Event "The Glory of Chess Open Seek"]
+[Site "Chess.com"]
+[Date "2011.08.05"]
+[White "The Glory of Chess"]
+[Black "Masters of Chess"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbknnrbq/pppppppp/8/8/8/8/PPPPPPPP/RBKNNRBQ w KQkq - 0 1"]
+
+1.f4 Nc6 2.Nd3 e6 3.a3 f5 4.Ba2 1-0

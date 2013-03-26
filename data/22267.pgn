@@ -1,0 +1,12 @@
+[Event "The Upstarts Open Seek"]
+[Site "Chess.com"]
+[Date "2011.09.17"]
+[White "Chess School"]
+[Black "The Upstarts"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.d4 d5 2.c4 dxc4 3.e4 b5 4.a4 bxa4 5.Qxa4+ Bd7 6.Qxc4 e6 7.Bd3 Nc6 8.Nf3 h6 9.O-O g6 10.d5 Nce7
+ 11.Bf4 Bg7 12.Bxc7 Qc8 13.d6 Nc6 14.Nc3 Qb7 15.Qb5 Qc8 16.Qc5 Rb8 17.Ba6 Qd8 18.Bxd8 Rxd8 19.Bb7 Nb8 20.Rxa7 Nf6
+ 21.e5 Nh7 22.h4 g5 23.hxg5 hxg5 24.Ne4 f6 25.exf6 Bxf6 26.Nxf6+ Nxf6 27.Qxg5 Nh7 28.Qe7# 1-0

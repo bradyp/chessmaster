@@ -1,0 +1,10 @@
+[Event "Dogs  VS  Cats"]
+[Site "Chess.com"]
+[Date "2012.01.02"]
+[White "The Dogs"]
+[Black "Pride of Lions"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.d3 Nc6 5.c3 g6 6.O-O Bg7 7.Nbd2 O-O 8.Rb1 Na5 0-1

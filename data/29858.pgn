@@ -1,0 +1,15 @@
+[Event "Lounge 960 Invitation"]
+[Site "Chess.com"]
+[Date "2012.07.17"]
+[White "GRATEFUL CHESS PLAYERS"]
+[Black "CHESS Lounge"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbqnrkbr/pppppppp/8/8/8/8/PPPPPPPP/NBQNRKBR w KQkq - 0 1"]
+
+1.f4 c5 2.d4 Ne6 3.dxc5 Bxf4 4.e3 Be5 5.Bf2 Qxc5 6.O-O Qc7 7.h3 f6 8.c3 Nc5 9.Re2 Bc4 10.Qd2 O-O
+ 11.b3 Bxe2 12.Qxe2 g6 13.Nc2 Ne4 14.Nd4 Nxc3 15.Nxc3 Qxc3 16.Be1 Qc5 17.Qg4 f5 18.Bxf5 e6 19.Bxg6 Rxf1+ 20.Kxf1 Rf8+
+ 21.Bf2 hxg6 22.Qxg6+ Bg7 23.Kg1 Qc1+ 24.Kh2 Rxf2 25.Qe8+ Rf8 26.Qxd7 Be5+ 27.g3 Rf2# 0-1

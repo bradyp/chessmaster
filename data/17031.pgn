@@ -1,0 +1,15 @@
+[Event "Don't forget to Vote ! .. Chess 960"]
+[Site "Chess.com"]
+[Date "2010.08.08"]
+[White "Yay ... We Love Tourneys !!!"]
+[Black "TURK CHESS PLAYERS"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnkbbrqn/pppppppp/8/8/8/8/PPPPPPPP/RNKBBRQN w KQkq - 0 1"]
+
+1.g4 e5 2.Ng3 Nc6 3.f4 f6 4.Nc3 exf4 5.Rxf4 Ng6 6.Ra4 d6 7.e3 Nce5 8.d4 Bxa4 9.dxe5 fxe5 10.Nxa4 Qf7
+ 11.Nf5 Ne7 12.Bg3 Nxf5 13.gxf5 Qxf5 14.Qe1 h5 15.Kb1 Qf1 16.Qe2 h4 17.Qxf1 Rxf1 18.Kc1 hxg3 19.hxg3 Bg5 20.b3 Bxe3+
+ 21.Kb2 Kd8 22.Nc3 Bd4 23.a4 a5 24.Rb1 Ke7 25.g4 Rh8 26.Be2 Bxc3+ 27.Ka2 Rxb1 28.Kxb1 Rh1+ 29.Ka2 Ra1# 0-1

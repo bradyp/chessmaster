@@ -1,0 +1,17 @@
+[Event "Online Chess School Open Seek"]
+[Site "Chess.com"]
+[Date "2011.11.28"]
+[White "Chess School"]
+[Black "Online Chess School"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnnkbbrq/pppppppp/8/8/8/8/PPPPPPPP/RNNKBBRQ w KQkq - 0 1"]
+
+1.d4 g5 2.e3 d5 3.Nc3 e6 4.Nb3 Nd6 5.O-O-O Nc6 6.Nc5 O-O-O 7.g4 Bg7 8.h4 h6 9.hxg5 hxg5 10.Qg2 Qh6
+ 11.Rh1 Qf6 12.Bd3 Nb4 13.Be2 Bc6 14.a3 Na6 15.Nxa6 bxa6 16.Bxa6+ Kd7 17.f3 Rb8 18.Bg3 Rb6 19.Bxd6 cxd6 20.Bd3 Rgb8
+ 21.b4 e5 22.Bf5+ Kc7 23.dxe5 dxe5 24.Nxd5+ Bxd5 25.Rxd5 Rd6 26.Rxd6 Qxd6 27.Rd1 Qe7 28.Rd7+ Qxd7 29.Bxd7 Kxd7 30.Qd2+ Ke6
+ 31.e4 f6 32.Qd5+ Ke7 33.Qc5+ Kd8 34.Qxa7 Rc8 35.Qxg7 Rc6 36.b5 Rb6 37.a4 Rd6 38.c4 Rd4 39.Qxf6+ Kc8 40.Qe6+
+ 1-0

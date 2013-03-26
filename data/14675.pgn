@@ -1,0 +1,14 @@
+[Event "Rapid Vote Chess960 (2days/move)"]
+[Site "Chess.com"]
+[Date "2010.01.27"]
+[White "CHRISTIAN CHESS WORLD"]
+[Black "RAPID CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qnrkbnrb/pppppppp/8/8/8/8/PPPPPPPP/QNRKBNRB w KQkq - 0 1"]
+
+1.g4 Nc6 2.f4 g6 3.e4 e5 4.Bg3 exf4 5.Bxf4 Ne6 6.Bg3 d6 7.Ne3 a5 8.Bf3 Ncd4 9.Bg2 Qa6 10.b3 Qe2#
+ 0-1

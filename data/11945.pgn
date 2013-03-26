@@ -1,0 +1,11 @@
+[Event "Rapid Vote Chess (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.08.18"]
+[White "Rapid Chess"]
+[Black "Burning Pawns &lt;2000"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 e5 5.Nf3 f5 6.exf5 Bxf5 7.Bb5+ Ke7 8.Bg5+ Nf6 9.O-O h6 10.Bh4 g5
+ 11.Bg3 a6 12.Bd3 Bg4 13.h3 Bxf3 14.Qxf3 Nc6 15.Nc3 Nb4 16.Qxb7+ Ke8 17.Bg6# 1-0

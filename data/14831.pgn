@@ -1,0 +1,12 @@
+[Event "Penguins Vs. Antarctica"]
+[Site "Chess.com"]
+[Date "2010.02.04"]
+[White "Linux Users Group"]
+[Black "Team Antarctica"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4+ 5.Kf1 d6 6.d4 Bg4 7.Bxf4 Qf6 8.g3 Bxf3 9.Qxf3 Qxd4 10.Bxf7+ Ke7
+ 11.Nc3 Bf6 12.Rd1 Qb6 13.Nd5+ Kxf7 14.Nxb6 axb6 15.e5 dxe5 16.Bxe5 c6 17.Rd8 Ke7 18.Bxf6+ gxf6 19.Rc8 Kf7 20.Qh5+ Ke6
+ 21.Re8+ Kd7 22.Qf7+ Kd6 23.Re6+ Kc5 24.Qh5+ Kd4 25.c3+ Kd3 26.Qe2# 1-0

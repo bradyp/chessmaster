@@ -1,0 +1,13 @@
+[Event "960 challenge of the awesome Tentacles"]
+[Site "Chess.com"]
+[Date "2012.03.21"]
+[White "Tentacles"]
+[Black "Chess Champ"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnqrbbkr/pppppppp/8/8/8/8/PPPPPPPP/NNQRBBKR w KQkq - 0 1"]
+
+1.d4 d5 0-1

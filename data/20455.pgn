@@ -1,0 +1,14 @@
+[Event "Chess n' Paradise .. Chess 960"]
+[Site "Chess.com"]
+[Date "2011.05.06"]
+[White "Chesu No Rakuen  ...  Chess Paradise"]
+[Black "CHRISTIAN CHESS WORLD"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkbnrbnq/pppppppp/8/8/8/8/PPPPPPPP/RKBNRBNQ w KQkq - 0 1"]
+
+1.f4 e5 2.d3 d5 3.g3 Nf6 4.e4 d4 5.fxe5 Rxe5 6.Bf4 Rb5 7.c4 Bb4 8.cxb5 Bxe1 9.Nf3 Bg4 10.Be2 Bxf3
+ 11.Bxf3 Ba5 12.e5 Nd7 13.Bd5 h6 14.a3 g5 15.b4 1-0

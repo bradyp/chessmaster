@@ -1,0 +1,10 @@
+[Event "Rapid Vote Chess (2days/move)"]
+[Site "Chess.com"]
+[Date "2009.10.21"]
+[White "ninjas rule"]
+[Black "Rapid Chess"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O Nd4 0-1

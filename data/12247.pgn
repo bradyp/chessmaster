@@ -1,0 +1,15 @@
+[Event "Unorthodox Openings Open Seek"]
+[Site "Chess.com"]
+[Date "2009.08.27"]
+[White "Unorthodox Openings"]
+[Black "UABC CHESS TEAM"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkrbnnbq/pppppppp/8/8/8/8/PPPPPPPP/RKRBNNBQ w KQkq - 0 1"]
+
+1.b3 g6 2.f4 Ne6 3.e3 Nd6 4.d4 c6 5.Nd3 Bb6 6.c4 c5 7.d5 Nc7 8.g4 e6 9.e4 exd5 10.exd5 f5
+ 11.Nd2 Na6 12.Be3 Ne8 13.Ne5 d6 14.Nd7+ Kc7 15.Nxb6 axb6 16.a4 Nb4 17.Qf1 Nf6 18.g5 Re8 19.Rc3 Ng4 20.Bxg4 Qxc3
+ 0-1

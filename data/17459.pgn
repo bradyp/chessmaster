@@ -1,0 +1,12 @@
+[Event "C25: Vienna Gambit"]
+[Site "Chess.com"]
+[Date "2010.09.10"]
+[White "The Galley"]
+[Black "Team India"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nc3 Nc6 3.f4 {Thematic Game - This is the starting position.} 
+ exf4 4.Nf3 g5 5.d4 g4 6.Bc4 gxf3 7.Qxf3 Qh4+ 8.g3 Nxd4 9.Qf2 Qf6 10.Nd5 Qe5
+ 11.Bxf4 Qxe4+ 12.Kd2 Qxc2+ 13.Ke1 Qxc4 14.Nxc7+ Kd8 15.Nxa8 Bb4+ 16.Kd1 Qd3+ 17.Kc1 Ne2+ 0-1

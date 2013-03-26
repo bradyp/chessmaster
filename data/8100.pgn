@@ -1,0 +1,12 @@
+[Event "Win or Lose on your own vs AWARDCHESS"]
+[Site "Chess.com"]
+[Date "2009.01.03"]
+[White "AWARDCHESS"]
+[Black "Win or Lose on your own"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Bxc6 dxc6 6.Re1 Nd6 7.Nxe5 Be6 8.d4 f6 9.Nf3 Qe7 10.d5 cxd5
+ 11.Nd4 Ne4 12.f3 Ng5 13.Bxg5 fxg5 14.Rxe6 O-O-O 15.Rxe7 Bxe7 16.Ne6 Rd6 17.Nxg7 Bf6 18.Nf5 Rb6 19.Nc3 Rxb2 20.Nxd5 Rd8
+ 21.Nde7+ Bxe7 22.Nxe7+ Kb8 23.Qxd8# 1-0

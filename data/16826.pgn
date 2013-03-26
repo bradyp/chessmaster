@@ -1,0 +1,15 @@
+[Event "Common Ground Chess Chapel Open Seek"]
+[Site "Chess.com"]
+[Date "2010.07.24"]
+[White "Common Ground Chess Chapel"]
+[Black "EAGLES"]
+[Result "1-0"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqnkbnrb/pppppppp/8/8/8/8/PPPPPPPP/RQNKBNRB w KQkq - 0 1"]
+
+1.Nb3 Nd6 2.c4 Nxc4 3.d3 Nxb2+ 4.Qxb2 b6 5.Rc1 c6 6.Bc3 Qb7 7.Nfd2 O-O-O 8.g3 Ne6 9.e3 f6 10.Nd4 Nxd4
+ 11.Bxd4 e5 12.Bc3 Bg6 13.Nc4 b5 14.Nd6+ Kc7 15.Nxb7 Kxb7 16.Ba5 Rde8 17.Bxc6+ dxc6 18.d4 exd4 19.Qxd4 Rd8 20.Bxd8 a5
+ 21.Qb6+ Ka8 22.Qxc6+ Kb8 23.Qb6+ Ka8 24.Rc8# 1-0

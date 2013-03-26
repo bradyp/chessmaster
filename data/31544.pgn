@@ -1,0 +1,10 @@
+[Event "Slow Time Controls Open Seek"]
+[Site "Chess.com"]
+[Date "2012.09.02"]
+[White "Slow Time Controls"]
+[Black "THE EMPERORS OF CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd8 0-1

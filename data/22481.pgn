@@ -1,0 +1,13 @@
+[Event "Black Stallion 960 Vote Chess"]
+[Site "Chess.com"]
+[Date "2011.10.06"]
+[White "Black Stallion"]
+[Black "Team vt"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrkbnqbr/pppppppp/8/8/8/8/PPPPPPPP/NRKBNQBR w KQkq - 0 1"]
+
+1.e4 f6 2.c4 1-0

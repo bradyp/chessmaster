@@ -1,0 +1,12 @@
+[Event "King Checkers vs Penguins HQ"]
+[Site "Chess.com"]
+[Date "2010.03.26"]
+[White "Penguins HQ"]
+[Black "King Checkers"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 Nc6 7.Be3 e6 8.Nxc6 bxc6 9.Be2 Be7 10.O-O O-O
+ 11.Na4 c5 12.Rb1 Bd7 13.Qd2 Qc7 14.b3 Bxa4 15.bxa4 d5 16.exd5 Nxd5 17.Bd3 c4 18.Be4 Nxe3 19.Qxe3 Bc5 20.Rfe1 Bxe3+
+ 21.Rxe3 Rab8 0-1

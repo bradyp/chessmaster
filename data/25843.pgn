@@ -1,0 +1,11 @@
+[Event "Albin Counter Gambit"]
+[Site "Chess.com"]
+[Date "2012.03.20"]
+[White "TURK CHESS PLAYERS"]
+[Black "THE EUROPEAN CHESS PLAYERS TEAM"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.d4 d5 2.c4 e5 {Thematic Game - This is the starting position.} 
+ 3.dxe5 c6 4.e3 Ne7 5.Nf3 g6 6.Nc3 dxc4 7.Qxd8+ Kxd8 8.Bxc4 1-0

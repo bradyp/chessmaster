@@ -1,0 +1,13 @@
+[Event "GAMBIT EARS Open Seek"]
+[Site "Chess.com"]
+[Date "2011.10.29"]
+[White "Team Dalmatia"]
+[Black "GAMBIT EARS"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 {Thematic Game - This is the starting position.} 
+ Bxa6 6.Nc3 g6 7.e4 Bxf1 8.Kxf1 d6 9.Nf3 Bg7 10.h3 Nbd7
+ 11.Kg1 O-O 12.Kh2 Qc7 13.Re1 Rfb8 14.Rb1 Ng4+ 15.hxg4 Bxc3 16.Bd2 Bxd2 17.Qxd2 Rxa2 18.Re2 Rb4 19.Qf4 Nf6 20.Nd2 Rbxb2
+ 21.Rxb2 Rxb2 22.f3 c4 0-1

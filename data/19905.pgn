@@ -1,0 +1,14 @@
+[Event "Universal 960 challenge"]
+[Site "Chess.com"]
+[Date "2011.03.20"]
+[White "TheWinningCombinations"]
+[Black "Chess Universe"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qbbnnrkr/pppppppp/8/8/8/8/PPPPPPPP/QBBNNRKR w KQkq - 0 1"]
+
+1.b3 Nf6 2.Bb2 c5 3.c4 b6 4.d4 cxd4 5.Bxd4 Ne6 6.Bb2 Qc6 7.Nd3 Bb7 8.f3 d5 9.Ne3 Nh5 10.cxd5 Qd6
+ 11.dxe6 Qxe6 12.Bd4 1-0

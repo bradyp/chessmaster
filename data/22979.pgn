@@ -1,0 +1,13 @@
+[Event "Double Grob"]
+[Site "Chess.com"]
+[Date "2011.11.07"]
+[White "Dreamers"]
+[Black "Kalashnikov Assault"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.g4 g5 {Thematic Game - This is the starting position.} 
+ 2.d4 Bg7 3.Nf3 d5 4.h3 h6 5.Bg2 Nf6 6.c3 Nc6 7.b4 a6 8.Nbd2 Na7 9.a4 e6 10.O-O Nc6
+ 11.Re1 Bd7 12.Qc2 b5 13.a5 h5 14.e4 hxg4 15.hxg4 e5 16.dxe5 Nxg4 17.exd5 Ne7 18.e6 fxe6 19.Nxg5 e5 20.d6 cxd6
+ 21.Bxa8 Qxa8 22.f3 Qa7+ 23.Kg2 Qf2# 0-1

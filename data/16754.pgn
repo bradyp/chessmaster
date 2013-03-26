@@ -1,0 +1,14 @@
+[Event "RANDOM CHESS"]
+[Site "Chess.com"]
+[Date "2010.07.18"]
+[White "Mikhail Tal Fans"]
+[Black "Chess960 Players Group"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bqnrnkrb/pppppppp/8/8/8/8/PPPPPPPP/BQNRNKRB w KQkq - 0 1"]
+
+1.c4 g6 2.b4 Bxa1 3.Qxa1 b6 4.Nb3 d5 5.d3 dxc4 6.dxc4 Ncd6 7.Qd4 Nf6 8.Nc2 O-O 9.O-O Nde4 10.Qe5 Rxd1
+ 11.Rxd1 Nxf2 12.Kf1 Nxd1 13.Ke1 Qd8 14.Nd2 Nf2 15.Kxf2 Ng4+ 0-1

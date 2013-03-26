@@ -1,0 +1,14 @@
+[Event "chess 101 rules"]
+[Site "Chess.com"]
+[Date "2011.12.31"]
+[White "Chess Champ"]
+[Black "Chess 101"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Bg5 Be7 5.Bxf6 Bxf6 6.e3 dxc4 7.Bxc4 c5 8.Nc3 cxd4 9.Nxd4 O-O 10.O-O Bd7
+ 11.Qc2 Nc6 12.Nxc6 Bxc6 13.Bd3 g6 14.Be4 Qc7 15.Bxc6 Qxc6 16.Rac1 Rac8 17.Rfd1 Rc7 18.Qb3 Rfc8 19.Ne2 Qa6 20.Rxc7 Rxc7
+ 21.Nc3 Bxc3 22.bxc3 Qe2 23.Qa4 Rc4 24.Qb3 Kg7 25.Rc1 Qd2 26.Rd1 Qxc3 27.Qxb7 Ra4 28.Qb3 Qxb3 29.axb3 Rb4 30.g3 Rxb3
+ 31.Ra1 Rb7 32.e4 Kf6 33.Ra5 Ke7 34.f4 Kd6 35.e5+ Kc7 36.Kg2 Kb6 37.Ra3 a5 38.Kf3 Kb5 39.Rb3+ Ka6 40.Ra3 Rb2
+ 41.h4 Kb5 42.Rd3 a4 43.Rd7 a3 44.Rxf7 Kb6 45.Rf8 Ka7 46.Rc8 a2 47.Rc1 Rb1 0-1

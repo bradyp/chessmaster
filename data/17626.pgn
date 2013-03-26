@@ -1,0 +1,17 @@
+[Event "Chess Bay960 Group Attack"]
+[Site "Chess.com"]
+[Date "2010.09.24"]
+[White "The Learning Group"]
+[Black "Chess Bay960"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brkbnqnr/pppppppp/8/8/8/8/PPPPPPPP/BRKBNQNR w KQkq - 0 1"]
+
+1.e4 e5 2.b3 f6 3.Nd3 b6 4.f3 Ne7 5.Ne2 d5 6.exd5 Nxd5 7.Nc3 Nd6 8.Nxd5 Bxd5 9.Nb4 Bb7 10.Be2 a5
+ 11.Nd3 Be7 12.Bb2 O-O-O 13.O-O-O Nf5 14.g4 Nd4 15.Bxd4 Rxd4 16.c3 Ba3+ 17.Nb2 Qd6 18.Kb1 Rd5 19.Nc4 Qe7 20.Ne3 Rd7
+ 21.Ba6 Rhd8 22.Bxb7+ Kxb7 23.Nc4 Rd3 24.Qe2 Bc5 25.Kc2 Qd7 26.a3 Qc6 27.Rhf1 a4 28.b4 Bxb4 29.Nb2 Rxd2+ 30.Rxd2 Qxc3+
+ 31.Kb1 Rxd2 32.Qe4+ Ka6 33.Qxb4 Qc2+ 34.Ka1 b5 35.Rb1 Rd4 36.Qe7 Qc3 37.Ka2 Qb3+ 38.Ka1 b4 39.Rc1 Qxa3+ 40.Kb1 Rd6
+ 41.Qxc7 b3 42.Qc8+ Kb5 43.Qb7+ Rb6 44.Qxb6+ Kxb6 45.Nc4+ Kb5 46.Nxa3+ Kb4 47.Kb2 1-0

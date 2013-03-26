@@ -1,0 +1,13 @@
+[Event "Chess960 Society Open Vote Seek (jp)"]
+[Site "Chess.com"]
+[Date "2013.02.24"]
+[White "CHESS960 SOCIETY"]
+[Black "Group Littleshifu"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbknbrnq/pppppppp/8/8/8/8/PPPPPPPP/RBKNBRNQ w KQkq - 0 1"]
+
+1.g3 g6 2.c3 1-0

@@ -1,0 +1,14 @@
+[Event "World Friendship Open Seek"]
+[Site "Chess.com"]
+[Date "2012.07.10"]
+[White "World Friendship"]
+[Black "Unlimited Chess960"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbbnkrnq/pppppppp/8/8/8/8/PPPPPPPP/RBBNKRNQ w KQkq - 0 1"]
+
+1.c4 e5 2.Nc3 g6 3.Nf3 a6 4.d3 Ne6 5.h4 Ba7 6.Bd2 d6 7.Bc2 f5 8.Ng5 Nf6 9.O-O-O Bd7 10.Nd5 Nxd5
+ 11.cxd5 Nd4 12.e4 O-O-O 13.Rde1 1-0

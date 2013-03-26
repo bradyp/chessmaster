@@ -1,0 +1,12 @@
+[Event "bag a' raw lads"]
+[Site "Chess.com"]
+[Date "2009.12.03"]
+[White "1.b3 Nimzo-Larsen Attack"]
+[Black "Hutsers"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.b3 {Thematic Game - This is the starting position.} 
+ e6 2.Bb2 Bc5 3.Bxg7 Bd4 4.Bxd4 f6 5.e4 e5 6.Qh5+ Ke7 7.Bxe5 fxe5 8.Qxe5+ Kf7 9.Qxh8 Qe7 10.Bc4+ d5
+ 11.Bxd5+ Kf8 12.Qxg8# 1-0

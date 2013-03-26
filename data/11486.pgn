@@ -1,0 +1,14 @@
+[Event "United Chess.com Open Seek"]
+[Site "Chess.com"]
+[Date "2009.07.30"]
+[White "United Chess.com"]
+[Black "Team USA South Central"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnnkbrqb/pppppppp/8/8/8/8/PPPPPPPP/RNNKBRQB w KQkq - 0 1"]
+
+1.e4 f5 2.Nc3 fxe4 3.Nxe4 Bg6 4.g3 d5 5.Nc3 c6 6.N1e2 Nd6 7.O-O-O e5 8.a3 d4 9.Nb1 Bxc2 10.Kxc2 Qc4+
+ 11.Nbc3 d3+ 12.Kb1 dxe2 13.Bg2 exd1=Q+ 14.Nxd1 Qd3+ 15.Ka1 Qb3 16.Nc3 Nc4 17.Nd1 Qxd1+ 18.Ka2 Qc2 0-1

@@ -1,0 +1,12 @@
+[Event "KING GAMBIT ACCEPTED.1"]
+[Site "Chess.com"]
+[Date "2010.08.22"]
+[White "CHRISTIAN CHESS WORLD"]
+[Black "King's Gambit Players"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 e5 2.f4 exf4 {Thematic Game - This is the starting position.} 
+ 3.Nf3 g5 4.Bc4 g4 5.O-O gxf3 6.Qxf3 Qf6 7.Nc3 Qd4+ 8.Kh1 Qxc4 9.Qxf4 Bd6 10.Qf3 Nc6
+ 11.d3 Qe6 12.Be3 Ne5 13.Qe2 Ne7 14.h3 b6 15.Rf2 h5 16.Raf1 Ng4 17.Rxf7 Nxe3 18.Qxe3 Qe5 19.Qf3 Qh2# 0-1

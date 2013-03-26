@@ -1,0 +1,13 @@
+[Event "TVC Cup Challenge"]
+[Site "Chess.com"]
+[Date "2010.10.06"]
+[White "The &quot;G&quot; Group"]
+[Black "Chess.com's Europe Group"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brknrnqb/pppppppp/8/8/8/8/PPPPPPPP/BRKNRNQB w KQkq - 0 1"]
+
+1.g4 g5 2.Ng3 Ng6 3.Nc3 Nc6 0-1

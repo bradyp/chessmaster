@@ -1,0 +1,15 @@
+[Event "Red Army for Chaos"]
+[Site "Chess.com"]
+[Date "2012.06.24"]
+[White "Red Army"]
+[Black "Standard &amp; Fischer"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qnbrnkrb/pppppppp/8/8/8/8/PPPPPPPP/QNBRNKRB w KQkq - 0 1"]
+
+1.Nf3 Nc6 2.d4 d5 3.Bf4 Bf5 4.c3 h6 5.Na3 g5 6.Bd2 Nd6 7.h4 g4 8.Bxh6+ Bg7 9.Bxg7+ Rxg7 10.Nd2 g3
+ 11.f3 e5 12.dxe5 Nxe5 13.Nb3 Nec4 14.Nxc4 Nxc4 15.Qc1 Re8 16.Nd4 Ne3+ 17.Ke1 Bh7 18.Rd2 Qd8 19.b3 Qxh4 20.Rb2 Qh2
+ 21.Kd2 Qh6 22.Ke1 Nxg2+ 23.Kd1 Ne3+ 24.Ke1 g2 25.Bxg2 Nxg2+ 26.Kf2 Qh4+ 27.Kf1 Ne3+ 0-1

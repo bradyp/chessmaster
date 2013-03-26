@@ -1,0 +1,16 @@
+[Event "Rapid Vote Chess960 (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.11.14"]
+[White "icelandic group"]
+[Black "RAPID CHESS"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbbknnqr/pppppppp/8/8/8/8/PPPPPPPP/RBBKNNQR w KQkq - 0 1"]
+
+1.c4 f6 2.b3 b6 3.Be4 c6 4.d4 Nd6 5.Bf3 Bb7 6.e4 Nxc4 7.bxc4 Qxc4 8.Nc2 Ne6 9.Nd2 Qa4 10.Nb3 c5
+ 11.d5 Nd4 12.Ncxd4 cxd4 13.Bb2 Be5 14.Qf1 Rc8 15.Qd3 Ba6 16.Qd2 O-O 17.Bxd4 Bxd4 18.Qxd4 Qxd4+ 19.Nxd4 Rc4 20.Nc2 Rfc8
+ 21.Ne3 Rd4+ 22.Ke1 d6 23.Nf5 Rdc4 24.Nxe7+ Kf7 25.Nxc8 Bxc8 26.Kd2 Ba6 27.Be2 Ra4 28.Bxa6 Rxa6 29.a4 Ra5 30.Kd3 Rc5
+ 31.Rhc1 Rxc1 32.Rxc1 a5 33.Rc6 1-0

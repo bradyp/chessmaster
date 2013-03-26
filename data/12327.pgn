@@ -1,0 +1,12 @@
+[Event "Queen's Gambit"]
+[Site "Chess.com"]
+[Date "2009.08.30"]
+[White "Team Catalonia"]
+[Black "The Chess Legends"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 {Thematic Game - This is the starting position.} 
+ e6 3.Nf3 c6 4.Nc3 Nf6 5.Bg5 dxc4 6.e4 Bb4 7.e5 Bxc3+ 8.bxc3 h6 9.exf6 hxg5 10.fxg7 Rg8
+ 11.h4 gxh4 12.Rxh4 Qf6 13.Bxc4 1-0

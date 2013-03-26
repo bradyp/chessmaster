@@ -1,0 +1,16 @@
+[Event "Global 960 Open Seek"]
+[Site "Chess.com"]
+[Date "2009.07.29"]
+[White "Global 960"]
+[Black "Chessaholics Anonymous"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqknbbrn/pppppppp/8/8/8/8/PPPPPPPP/RQKNBBRN w KQkq - 0 1"]
+
+1.Ng3 e5 2.e4 Ng6 3.Ne3 Bc5 4.b4 Bd4 5.c3 Bxe3 6.fxe3 d6 7.Nf5 Bd7 8.Bc4 Be6 9.Bxe6+ fxe6 10.Qd3 exf5
+ 11.exf5 Nf8 12.Bh4 a6 13.f6 g6 14.Qd5 Nde6 15.f7 Rg7 16.Rf1 c6 17.Qc4 Qc7 18.a4 Rxf7 19.Rxf7 Qxf7 20.Kb2 g5
+ 21.Bxg5 Nxg5 22.Qg4+ Nfe6 23.Rc1 h5 24.Qc4 d5 25.Qe2 O-O-O 26.Rf1 Qg6 27.d3 Rf8 28.b5 Rxf1 29.Qxf1 axb5 30.axb5 cxb5
+ 31.Qa1 Qxd3 32.Qa8+ Kc7 33.Qa5+ Kc6 34.Kb3 Nc5+ 35.Kb4 Qc4+ 36.Ka3 Qb3# 0-1

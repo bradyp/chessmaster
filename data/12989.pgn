@@ -1,0 +1,13 @@
+[Event "Chess960"]
+[Site "Chess.com"]
+[Date "2009.10.05"]
+[White "CHESS STUDY, PROBLEMS, PUZZLES  and CHESS COMPOSERS GROUP"]
+[Black "Chess960"]
+[Result "0-1"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qnbbrnkr/pppppppp/8/8/8/8/PPPPPPPP/QNBBRNKR w KQkq - 0 1"]
+
+ 0-1

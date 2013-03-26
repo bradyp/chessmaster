@@ -1,0 +1,13 @@
+[Event "finding the square route"]
+[Site "Chess.com"]
+[Date "2011.06.21"]
+[White "1.b3 Nimzo-Larsen Attack"]
+[Black "LEGION"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.b3 e5 2.Bb2 Nc6 3.e3 Nf6 4.Nf3 e4 5.Nd4 Nxd4 6.Bxd4 d5 7.c4 dxc4 8.Bxc4 Bd6 9.Nc3 Bf5 10.f3 O-O
+ 11.O-O Bg6 12.fxe4 Nxe4 13.Nxe4 Bxe4 14.Qg4 Bg6 15.Bc3 c5 16.Rf5 b5 17.Bd5 Qc7 18.Raf1 Bxh2+ 19.Kh1 Qg3 20.Qe4 Rad8
+ 21.Qe7 Bxf5 22.Rxf5 Rxd5 23.Rxd5 f6 24.Qe6+ Kh8 25.Qe4 b4 26.Bb2 a5 27.Rxc5 h6 28.Rh5 Qd6 29.Rxh2 Qxd2 30.g4 Qe1+
+ 31.Kg2 Qe2+ 32.Kg3 Qe1+ 33.Kh3 Qf1+ 34.Qg2 Qd3 35.Qf3 Re8 36.Bd4 Qe4 37.Qxe4 Rxe4 38.Kg3 Kh7 39.Rc2 1-0

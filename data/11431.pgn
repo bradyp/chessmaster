@@ -1,0 +1,16 @@
+[Event "Chess Association - Oceania vs Fischer Random"]
+[Site "Chess.com"]
+[Date "2009.07.29"]
+[White "Chess Association - Oceania"]
+[Black "Fischer Random"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbbnrkrq/pppppppp/8/8/8/8/PPPPPPPP/NBBNRKRQ w KQkq - 0 1"]
+
+1.Nc3 c5 2.Ne4 Ne6 3.c4 g6 4.Nb3 b6 5.g3 Bb7 6.d3 f5 7.Bh6+ Ng7 8.Qf3 Be5 9.g4 O-O-O 10.gxf5 gxf5
+ 11.Bxg7 Rxg7 12.Qxf5 Rdg8 13.Rh1 Bxb2 14.Rd1 Rf8 15.Qh3 Rgf7 16.f3 Nc7 17.d4 cxd4 18.Ng5 Rf4 19.Rg1 h6 20.Nh7 Bxf3
+ 21.Qxf3 Rxf3+ 22.exf3 Rxf3+ 23.Ke2 Re3+ 24.Kd2 Qe5 25.Rg2 Bc3+ 26.Kc1 Re2 27.Rxe2 Qxe2 28.Bc2 Qxc4 29.Nf8 Qb4 30.Rxd4 Bxd4
+ 31.Nxd4 Qxd4 32.Nh7 Nd5 33.Nf8 Ne3 34.Bb3 Qc3+ 35.Bc2 Qxc2# 0-1

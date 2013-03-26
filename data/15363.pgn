@@ -1,0 +1,13 @@
+[Event "960 Chess Raiders Open Seek"]
+[Site "Chess.com"]
+[Date "2010.03.17"]
+[White "Chess Worldwide"]
+[Black "960 Chess Raiders"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnrkbqrb/pppppppp/8/8/8/8/PPPPPPPP/NNRKBQRB w KQkq - 0 1"]
+
+1.e4 1-0

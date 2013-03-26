@@ -1,0 +1,12 @@
+[Event "borg to assimilate the checkmate queen"]
+[Site "Chess.com"]
+[Date "2010.03.23"]
+[White "Checkmate with the queen"]
+[Black "BORG Collective"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Bc4 d5 6.Bb3 Nc6 7.d3 Nc5 8.Nc3 Nxb3 9.axb3 Bb4 10.Bg5 f6
+ 11.Qe2+ Kf7 12.Bh4 Re8 13.O-O Rxe2 14.Nxe2 Bg4 15.Ned4 Nxd4 16.Nxd4 c5 17.c3 Bxc3 18.bxc3 cxd4 19.cxd4 Qb6 20.f3 Bf5
+ 21.Rfd1 Rc8 22.Bf2 a6 23.Rab1 Rc3 24.b4 Bxd3 25.Rb2 Rc2 26.Rxc2 Bxc2 27.Rc1 Qxb4 0-1

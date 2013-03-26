@@ -1,0 +1,14 @@
+[Event "The Blunderbus"]
+[Site "Chess.com"]
+[Date "2012.03.22"]
+[White "Gambit Fans!"]
+[Black "The Blunderers"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkrbbqnn/pppppppp/8/8/8/8/PPPPPPPP/RKRBBQNN w KQkq - 0 1"]
+
+1.e4 e5 2.Nf3 Ng6 3.Ng3 N8e7 4.d4 d6 5.c4 f5 6.exf5 Nxf5 7.Qd3 Nf4 8.Qf1 Nxd4 9.Bc2 Nxc2 10.Kxc2 Bg6+
+ 11.Kd2 Nd3 12.Rcb1 Qf4+ 13.Kc2 Nxe1+ 0-1

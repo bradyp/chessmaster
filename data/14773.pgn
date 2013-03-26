@@ -1,0 +1,14 @@
+[Event "Chess960 Open Seek"]
+[Site "Chess.com"]
+[Date "2010.02.01"]
+[White "HOT CHESS HEARTS"]
+[Black "Chess960"]
+[Result "0-1"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnrbqnkr/pppppppp/8/8/8/8/PPPPPPPP/BNRBQNKR w KQkq - 0 1"]
+
+1.e4 b5 2.d4 e5 3.d5 d6 4.Ne3 Ng6 5.b3 Na6 6.c4 Bg5 7.O-O Nb4 8.Qxb4 a6 9.Nc3 O-O 10.Bg4 Rb8
+ 11.Bb2 Rb6 12.cxb5 axb5 13.Ra1 Nf4 14.Rad1 g6 15.Rfe1 h5 16.Be2 Nxe2+ 17.Rxe2 Qe7 0-1

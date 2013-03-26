@@ -1,0 +1,14 @@
+[Event "7thSense Chess 960 Open Seek"]
+[Site "Chess.com"]
+[Date "2010.12.07"]
+[White "7thSense Chess 960"]
+[Black "#1 Vote chess"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkqrnbbn/pppppppp/8/8/8/8/PPPPPPPP/RKQRNBBN w KQkq - 0 1"]
+
+1.d4 d5 2.Ng3 Ng6 3.c3 h5 4.e3 h4 5.Ne2 e5 6.dxe5 Nxe5 7.f4 Bh7+ 8.Nc2 Nc4 9.Bf2 Be7 10.Ned4 Ned6
+ 11.Bxc4 Nxc4 12.h3 Be4 13.Rg1 Rd6 14.g4 hxg3 15.Bxg3 Rb6 0-1

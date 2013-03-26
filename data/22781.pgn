@@ -1,0 +1,12 @@
+[Event "Geometric Game"]
+[Site "Chess.com"]
+[Date "2011.10.24"]
+[White "The Killer Derivatives"]
+[Black "Kings of Chess (PWN)"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+ 7.Qxd2 O-O 8.Nc3 d5 9.Ne5 Nc6 10.O-O Qd6
+ 11.Nb5 Qd8 12.cxd5 exd5 13.Rac1 Qe8 14.Nxc7 Qd8 15.Nxa8 Qxa8 16.Nxc6 Bxc6 17.Rc2 Ne4 18.Bxe4 dxe4 19.Rfc1 Bb7 20.Rc7 Re8
+ 21.Qf4 f6 22.Qg4 g6 23.Qd7 e3 24.Qg7# 1-0

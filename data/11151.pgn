@@ -1,0 +1,13 @@
+[Event "Chess Society vs Chess Association"]
+[Site "Chess.com"]
+[Date "2009.07.16"]
+[White "Chess Society"]
+[Black "Chess Association"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nxe5 Qd4 6.Nf3 Qxe4+ 7.Qe2 Qxe2+ 8.Kxe2 Bg4 9.Re1 O-O-O 10.d3 Bd6
+ 11.h3 Re8+ 12.Be3 Bh5 13.g4 Bg6 14.Kf1 Nf6 15.Nc3 Nd5 16.Nxd5 cxd5 17.Bd4 f6 18.Rxe8+ Rxe8 19.Be3 c5 20.Rd1 d4
+ 21.Bd2 Bf7 22.b3 g5 23.Re1 Rh8 24.c3 Bd5 25.Ng1 h5 26.gxh5 Rxh5 27.c4 Bc6 28.Re6 Be5 29.Re7 Kd8 30.Rg7 Ke8
+ 31.Rg8+ Kf7 32.Rc8 Bh2 33.Rc7+ Bxc7 34.a3 Bh2 35.Ne2 Rxh3 36.Nc1 Bf3 37.b4 Bf4 38.Bxf4 Rh1# 0-1

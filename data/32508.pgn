@@ -1,0 +1,13 @@
+[Event "Something to do Open Seek"]
+[Site "Chess.com"]
+[Date "2012.09.29"]
+[White "Team Universe Fighters"]
+[Black "Something to do"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbrknrqn/pppppppp/8/8/8/8/PPPPPPPP/BBRKNRQN w KQkq - 0 1"]
+
+1.b3 d5 2.Bd4 c5 3.Be3 Nd6 4.c4 dxc4 0-1

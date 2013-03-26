@@ -1,0 +1,13 @@
+[Event "Caro-Kahn Defense"]
+[Site "Chess.com"]
+[Date "2012.05.21"]
+[White "The  kings  of  chess!"]
+[Black "A player"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 c6 {Thematic Game - This is the starting position.} 
+ 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Nc5 b6 6.Nb3 e6 7.Nf3 Bd6 8.c4 Nd7 9.Be2 Ngf6 10.O-O Qc7
+ 11.h3 h6 12.Bd3 Bxd3 13.Qxd3 O-O-O 14.c5 bxc5 15.dxc5 Nxc5 16.Nxc5 Bxc5 17.Qa6+ Kb8 18.a3 Ne4 19.b4 Bb6 20.Be3 f6
+ 21.Rac1 Rd6 22.b5 Bxe3 23.fxe3 1-0

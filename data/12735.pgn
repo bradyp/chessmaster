@@ -1,0 +1,12 @@
+[Event "Rapid Vote Chess (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.09.20"]
+[White "Rapid Chess"]
+[Black "THE POWER OF CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Bg5 Bg7 7.Bxf6 Bxf6 8.Bc4 O-O 9.O-O Nc6 10.Nxc6 bxc6
+ 11.Qf3 Qc7 12.Rab1 a5 13.Nd1 Be6 14.Bxe6 fxe6 15.Ne3 Bxb2 16.Qg4 Rab8 17.Qxe6+ Kg7 18.Nc4 Bd4 19.Rbd1 Bxf2+ 20.Rxf2 Qa7
+ 21.Rdf1 Qxf2+ 22.Rxf2 Rb1+ 23.Rf1 Rbxf1# 0-1

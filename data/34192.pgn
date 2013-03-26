@@ -1,0 +1,13 @@
+[Event "lets vote 960 II"]
+[Site "Chess.com"]
+[Date "2012.11.17"]
+[White "Advance Of The Pawns"]
+[Black "Surreal sreknihT"]
+[Result "1-0"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnbkrnqb/pppppppp/8/8/8/8/PPPPPPPP/RNBKRNQB w KQkq - 0 1"]
+
+1.g4 g5 2.d4 Bxd4 3.c3 Bf6 4.f4 gxf4 5.Bxf4 1-0

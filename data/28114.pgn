@@ -1,0 +1,13 @@
+[Event "The knights! vs The  Knights"]
+[Site "Chess.com"]
+[Date "2012.05.22"]
+[White "The knights!"]
+[Black "The  Knights"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbnrkqnr/pppppppp/8/8/8/8/PPPPPPPP/BBNRKQNR w KQkq - 0 1"]
+
+1.e4 1-0

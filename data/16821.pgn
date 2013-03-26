@@ -1,0 +1,16 @@
+[Event "Chess960 Vote Challenge"]
+[Site "Chess.com"]
+[Date "2010.07.24"]
+[White "Chess960 Society"]
+[Black "Burning Pawns"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbnrkrbq/pppppppp/8/8/8/8/PPPPPPPP/NBNRKRBQ w KQkq - 0 1"]
+
+1.g4 c6 2.Nd3 d5 3.f4 h5 4.g5 Bh7 5.O-O-O Be4 6.Rf3 Nd6 7.Be3 Nb6 8.Qg1 Bxf3 9.exf3 Bc7 10.h4 Nf5
+ 11.Qf2 d4 12.Bxd4 Nxd4 13.c3 Nf5 14.Nc5 Nd6 15.d4 O-O-O 16.Bd3 e6 17.Nc2 Nd5 18.c4 Nxf4 19.Nb4 Nxd3+ 20.Rxd3 Nxc4
+ 21.b3 Bf4+ 22.Kc2 Nb6 23.Qe2 Qh7 24.Ne4 a5 25.Nxc6 bxc6 26.Nc5 Rxd4 27.Kc3 Rxd3+ 28.Nxd3 Nd5+ 29.Kb2 Qf5 30.Nc5 Qe5+
+ 31.Qxe5 Bxe5+ 32.Ka3 Bd6 0-1

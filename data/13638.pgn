@@ -1,0 +1,13 @@
+[Event "we win"]
+[Site "Chess.com"]
+[Date "2009.11.15"]
+[White "BobbyFishersInternational"]
+[Black "Fast Players Group"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnqbbkrn/pppppppp/8/8/8/8/PPPPPPPP/RNQBBKRN w KQkq - 0 1"]
+
+1.Nc3 d6 0-1

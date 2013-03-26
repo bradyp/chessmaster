@@ -1,0 +1,16 @@
+[Event "Russia vs. Slovakia - Chess960"]
+[Site "Chess.com"]
+[Date "2009.08.07"]
+[White "Team Russia"]
+[Black "Team Slovakia"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrnkbbrq/pppppppp/8/8/8/8/PPPPPPPP/NRNKBBRQ w KQkq - 0 1"]
+
+1.g3 e5 2.Bg2 c6 3.Nd3 g6 4.f4 d6 5.fxe5 dxe5 6.Nb3 f5 7.g4 Nc7 8.Rf1 Nd6 9.Bg3 Bg7 10.gxf5 gxf5
+ 11.Qg1 b6 12.Bh3 Bd7 13.Nxe5 Bxe5 14.Bxe5 Rxg1 15.Bxh8 Rxf1+ 16.Bxf1 O-O-O 17.Be5 Ne4 18.d3 Nf2+ 19.Kd2 Ng4 20.Bg3 c5
+ 21.Bg2 Rg8 22.Bf3 Ne6 23.Bd5 Rg6 24.Rf1 Nc7 25.Bf3 Ne6 26.e3 Ng5 27.Bd5 Nf6 28.Bc4 Kb7 29.Ke2 Kc6 30.a4 Bc8
+ 31.Nd2 Ne6 32.Nf3 Rh6 33.Ne5+ Kb7 34.Nf7 1-0

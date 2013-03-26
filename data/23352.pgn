@@ -1,0 +1,17 @@
+[Event "CrazyVC960!"]
+[Site "Chess.com"]
+[Date "2011.11.27"]
+[White "Team Kerala കേരളം"]
+[Black "Chess960 Players Group"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnrkrqnb/pppppppp/8/8/8/8/PPPPPPPP/BNRKRQNB w KQkq - 0 1"]
+
+1.g3 g6 2.d3 e6 3.e3 c5 4.Nf3 Nc6 5.Nbd2 d5 6.Qh3 Qh6 7.Bg2 Qxh3 8.Bxh3 b6 9.Ng5 Rc7 10.O-O-O h6
+ 11.Ngf3 Nf6 12.a3 O-O 13.b3 d4 14.exd4 cxd4 15.Nxd4 Nxd4 16.Bxd4 Rfc8 17.Nc4 b5 18.Ne3 Nd5 19.Bxh8 Nxe3 20.Rd2 Nxc2
+ 21.Be5 Nxe1+ 22.Bxc7 Rxc7+ 23.Kd1 Bf3+ 24.Re2 Nxd3 25.Bf1 Bxe2+ 26.Bxe2 Nxf2+ 27.Ke1 Ne4 28.Bxb5 Nc3 29.Bd3 a5 30.b4 axb4
+ 31.axb4 Nd5 32.b5 Rb7 33.Kd2 Nc7 34.h4 Nxb5 35.Ke3 Nd6 36.Ba6 Rb3+ 37.Kf4 Nf5 38.g4 Nxh4 39.Ke5 Kg7 40.Bc4 Rb4
+ 41.Kd4 Nf3+ 42.Kc3 Rxc4+ 43.Kxc4 Ne5+ 0-1

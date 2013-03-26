@@ -1,0 +1,13 @@
+[Event "Two teams enter, one team leaves"]
+[Site "Chess.com"]
+[Date "2009.11.29"]
+[White "Houston Rockets"]
+[Black "Group of Minnesota"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnqrkrbb/pppppppp/8/8/8/8/PPPPPPPP/NNQRKRBB w KQkq - 0 1"]
+
+1.e4 g6 2.f3 b6 3.Nb3 Nc6 4.Nc3 f5 5.d3 f4 0-1

@@ -1,0 +1,14 @@
+[Event "Alapinator 1.0"]
+[Site "Chess.com"]
+[Date "2012.08.03"]
+[White "Anti-Sicilians"]
+[Black "FIVE for FIGHTING"]
+[Result "1/2-1/2"]
+[TimeControl "1 in 3 days"]
+[Termination "Game drawn by agreement"]
+
+1.e4 c5 2.c3 {Thematic Game - This is the starting position.} 
+ Nc6 3.d4 cxd4 4.cxd4 d5 5.e5 Bf5 6.Bd3 Bxd3 7.Qxd3 e6 8.Nf3 Bb4+ 9.Nc3 h6 10.O-O Nge7
+ 11.a3 Bxc3 12.bxc3 Ng6 13.g3 Rc8 14.a4 Na5 15.Ba3 Nc4 16.Bb4 a5 17.Ba3 Ne7 18.Nd2 Nxa3 19.Rxa3 Nf5 20.Qb5+ Qd7
+ 21.Rb1 Qxb5 22.Rxb5 Rc7 23.Rab3 O-O 24.Rxb7 Rfc8 25.Rxc7 Rxc7 26.Kf1 h5 27.Ke2 Nh6 28.f3 g5 29.Kd3 g4 30.f4 Nf5
+ 31.Nf1 Rc4 32.Ra3 h4 33.Ne3 Nxe3 1/2-1/2

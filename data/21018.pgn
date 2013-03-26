@@ -1,0 +1,16 @@
+[Event "Random 960 Team VC"]
+[Site "Chess.com"]
+[Date "2011.06.22"]
+[White "Team 54 - Five for Fighting"]
+[Black "Rotary Chess Club"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbrkrnbq/pppppppp/8/8/8/8/PPPPPPPP/NBRKRNBQ w KQkq - 0 1"]
+
+1.Nb3 g6 2.c3 f5 3.g4 fxg4 4.Na5 c6 5.Nxb7+ Kc7 6.Nc5 Nb6 7.Ne3 h5 8.f3 gxf3 9.Qxf3 d6 10.Na6+ Kb7
+ 11.Nxb8 Kxb8 12.b3 Qf6 13.Rf1 Qxf3 14.Rxf3 Nd5 15.Nxd5 Bxd5 16.e4 Be6 17.h3 g5 18.Kc2 g4 19.hxg4 Bxg4 20.Rf7 Nd7
+ 21.Rg7 Nf6 22.Kb2 Rc7 23.e5 dxe5 24.Bh2 Kb7 25.Bxe5 Rd7 26.d4 Nd5 27.Rf1 Rdd8 28.c4 Ne3 29.Rff7 Rd7 30.Rg6 Red8
+ 31.Be4 e6 32.Rgg7 1-0

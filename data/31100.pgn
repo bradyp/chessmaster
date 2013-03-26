@@ -1,0 +1,14 @@
+[Event "Chess960 Challenge (jp)"]
+[Site "Chess.com"]
+[Date "2012.08.21"]
+[White "Chess960 RandomChess"]
+[Black "Team Puerto Rico"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nqbbrknr/pppppppp/8/8/8/8/PPPPPPPP/NQBBRKNR w KQkq - 0 1"]
+
+1.c4 Nf6 2.d4 d5 3.c5 c6 4.Nf3 b6 5.b4 bxc5 6.dxc5 a5 7.a3 Nc7 8.Ba4 Qb7 9.Ne5 Nb5 10.Qd3 axb4
+ 11.axb4 Qa6 12.Bxb5 cxb5 13.Nb3 Qe6 14.Bf4 Bc7 15.Nd4 Qa6 16.Nxb5 Bxe5 17.Bxe5 1-0

@@ -1,0 +1,17 @@
+[Event "Team Europe vs Chess960 Players Group"]
+[Site "Chess.com"]
+[Date "2009.11.16"]
+[White "Chess960 Players Group"]
+[Black "Team Europe"]
+[Result "1/2-1/2"]
+[TimeControl "1 in 2 days"]
+[Termination "Game drawn by agreement"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkqnbbnr/pppppppp/8/8/8/8/PPPPPPPP/RKQNBBNR w KQkq - 0 1"]
+
+1.d4 d5 2.Nc3 Nf6 3.f3 e6 4.e4 dxe4 5.fxe4 Bb4 6.e5 Bxc3 7.Bxc3 Nd5 8.Qd2 c5 9.Nf3 cxd4 10.Nxd4 Nc6
+ 11.O-O-O Nxe5 12.Nxe6 Qxe6 13.Qxd5 Qxd5 14.Rxd5 Nc6 15.Bxg7 Rg8 16.Be5+ Kc8 17.g3 Nxe5 18.Rxe5 Bc6 19.Bh3+ Kc7 20.Re7+ Kd6
+ 21.Rhe1 Rae8 22.Rxe8 Rxe8 23.Rxe8 Bxe8 24.Kd2 f6 25.b4 Bf7 26.a4 Ke5 27.Ke3 b6 28.Bf1 a5 29.c3 Be8 30.bxa5 bxa5
+ 31.Bb5 Bg6 32.c4 Bf5 33.c5 Be6 34.h4 Kd5 35.c6 h6 36.Kf4 Kd6 37.Ke4 Kc5 38.Kf4 Kd5 39.g4 Kd6 40.g5 fxg5+
+ 41.hxg5 hxg5+ 42.Kxg5 Bd5 43.Kf4 Bxc6 44.Bxc6 Kxc6 45.Ke4 Kc5 46.Kd3 Kb4 47.Kc2 Kxa4 1/2-1/2

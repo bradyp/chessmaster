@@ -1,0 +1,13 @@
+[Event "Lets Play!"]
+[Site "Chess.com"]
+[Date "2010.08.27"]
+[White "Central Command"]
+[Black "ChessAsia"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brqbknnr/pppppppp/8/8/8/8/PPPPPPPP/BRQBKNNR w KQkq - 0 1"]
+
+1.e4 e5 2.Nf3 Ng6 3.Ne3 1-0

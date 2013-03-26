@@ -1,0 +1,13 @@
+[Event "CR&Ecirc;PE 3. The Re-Match."]
+[Site "Chess.com"]
+[Date "2013.01.26"]
+[White "Team Italia"]
+[Black "KingFischer 64"]
+[Result "*"]
+[TimeControl "1 in 2 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkrbbnnq/pppppppp/8/8/8/8/PPPPPPPP/RKRBBNNQ w KQkq - 0 1"]
+
+1.d4 d5 2.g3 e6 3.e4 dxe4 4.Qxe4 Bc6 5.Qd3 Bf6 6.f4 g5 7.Bh5 Bxd4 8.Bc3 Bxc3 9.Qxc3 Qxc3 10.bxc3 gxf4
+ 11.Bxf7 Nh6 12.Bh5 fxg3 13.Nxg3 Ng6 14.Re1 *

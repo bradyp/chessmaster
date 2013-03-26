@@ -1,0 +1,15 @@
+[Event "Blundering^960"]
+[Site "Chess.com"]
+[Date "2011.10.23"]
+[White "The Blunderers"]
+[Black "ELECTRONIC TEAM"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnrnkbrq/pppppppp/8/8/8/8/PPPPPPPP/BNRNKBRQ w KQkq - 0 1"]
+
+1.e4 b6 2.g3 f5 3.Nbc3 fxe4 4.Nxe4 Ne6 5.Nd6+ cxd6 6.Qxa8 a5 7.Qb7 Rd8 8.b3 h5 9.Bg2 Qh6 10.Qxb6 Nc6
+ 11.Bxc6 dxc6 12.Qxc6+ Kf7 13.Ne3 g6 14.f4 Bg7 15.f5 Nd4 16.Qd5+ Kf8 17.Bxd4 Bxd4 18.Qxd4 g5 19.f6 exf6 20.Rf1 Kf7
+ 21.Qd5+ Kf8 22.O-O-O g4 23.Qe6 Kg7 24.Nf5+ Kh7 25.Nxh6 1-0

@@ -1,0 +1,16 @@
+[Event "Chess 960 Open Seek"]
+[Site "Chess.com"]
+[Date "2009.07.28"]
+[White "Fast Players Group"]
+[Black "Chess 960"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbrkqnrn/pppppppp/8/8/8/8/PPPPPPPP/BBRKQNRN w KQkq - 0 1"]
+
+1.c4 c5 2.d3 b6 3.f3 d5 4.b3 d4 5.e3 e5 6.exd4 cxd4 7.Nfg3 Ne6 8.Nf2 g6 9.Nge4 Qe7 10.g3 f5
+ 11.Nd2 Nf7 12.h4 Bd6 13.Nh3 g5 14.hxg5 Nfxg5 15.Nxg5 Nxg5 16.f4 Nf3 17.Nxf3 Bxf3+ 18.Kc2 Bb4 19.Qxe5 Qxe5 20.fxe5 O-O-O
+ 21.Rcf1 Bg4 22.Rf4 Bc5 23.a3 a5 24.b4 axb4 25.axb4 Bxb4 26.Bxd4 Bc5 27.Bxc5 bxc5 28.Kc3 h5 29.Bc2 Rge8 30.Re1 Re6
+ 31.d4 cxd4+ 32.Rxd4 Rxd4 33.Kxd4 Kc7 34.Ra1 Rb6 35.Ra7+ Kc6 36.Ba4+ Rb5 37.Bxb5+ 1-0

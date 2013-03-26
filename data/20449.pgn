@@ -1,0 +1,15 @@
+[Event "Battle of the Minds .. Chess 960"]
+[Site "Chess.com"]
+[Date "2011.05.05"]
+[White "Where Great Minds Meet ..."]
+[Black "Team 54 - Five for Fighting"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrbbknqr/pppppppp/8/8/8/8/PPPPPPPP/NRBBKNQR w KQkq - 0 1"]
+
+1.b4 e5 2.e4 Ne6 3.Nb3 Qf8 4.c3 f5 5.d3 Qd6 6.exf5 Qxd3 7.fxe6 Qxb1 8.Nfd2 Qxa2 9.Qf1 dxe6 10.Qb5+ Bd7
+ 11.Qxe5 O-O 12.O-O Bf6 13.Qe3 Qa6 14.Nc5 Qd6 15.Nde4 Qe7 16.Bb3 Nb6 17.Rd1 Bc8 18.Nxe6 Bxe6 19.Nc5 Bxb3 20.Qxe7 Bxe7
+ 21.Nxb3 Rbd8 22.Re1 Bf6 23.Bb2 Na4 24.Ba1 Bxc3 25.Bxc3 Nxc3 26.g3 Rd1 0-1

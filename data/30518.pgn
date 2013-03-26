@@ -1,0 +1,12 @@
+[Event "The Warriors vs bishop attacks"]
+[Site "Chess.com"]
+[Date "2012.08.06"]
+[White "The Warriors of Chess.com"]
+[Black "bishop attacks"]
+[Result "1-0"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 {Thematic Game - This is the starting position.} 
+ c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bg4 6.Ne5 Bf5 7.e3 e6 8.Bxc4 Bb4 9.O-O O-O 10.f3 Bg6
+ 11.e4 c5 12.Nxg6 1-0

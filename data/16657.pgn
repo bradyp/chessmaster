@@ -1,0 +1,14 @@
+[Event "Rapid Vote Chess960 (2days/move)"]
+[Site "Chess.com"]
+[Date "2010.07.10"]
+[White "Yellow-Blue Squad"]
+[Black "RAPID CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbnrkrbq/pppppppp/8/8/8/8/PPPPPPPP/NBNRKRBQ w KQkq - 0 1"]
+
+1.e4 c5 2.f4 b6 3.c3 f6 4.Bd3 c4 5.Be2 b5 6.Bc5 d6 7.Bb4 Bc7 8.f5 Bf7 9.Nc2 a5 10.Ba3 e5
+ 0-1

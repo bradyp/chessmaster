@@ -1,0 +1,10 @@
+[Event "Board #1"]
+[Site "Chess.com"]
+[Date "2011.08.11"]
+[White "Knight Crawlers"]
+[Black "EUROVISION"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.d4 c5 2.d5 e6 3.c4 exd5 4.cxd5 d6 5.Nf3 Nf6 6.Nc3 b5 7.Nxb5 Qa5+ 8.Nc3 Bb7 0-1

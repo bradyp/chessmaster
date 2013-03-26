@@ -1,0 +1,11 @@
+[Event "Computer Aided: Black vs. Italian (1)"]
+[Site "Chess.com"]
+[Date "2012.05.29"]
+[White "Chess School"]
+[Black "Computer Aided Vote Chess"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 {Thematic Game - This is the starting position.} 
+ d6 4.O-O Bg4 5.c3 Qf6 6.d3 Bxf3 7.Qxf3 Qxf3 8.gxf3 a6 9.f4 1-0

@@ -1,0 +1,13 @@
+[Event "v-9-001"]
+[Site "Chess.com"]
+[Date "2012.03.26"]
+[White "MirkoBabic"]
+[Black "The Honor"]
+[Result "1-0"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brkbrqnn/pppppppp/8/8/8/8/PPPPPPPP/BRKBRQNN w KQkq - 0 1"]
+
+1.e4 e5 2.b3 Bg5 3.Nf3 Bh6 4.Nxe5 Rxe5 5.Bxe5 Ng6 6.Bb2 b5 7.Bg4 Qd6 8.Qd3 Qxd3 9.cxd3 1-0

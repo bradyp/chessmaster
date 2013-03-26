@@ -1,0 +1,13 @@
+[Event "Friendly 960 game"]
+[Site "Chess.com"]
+[Date "2011.01.02"]
+[White "Chess960 RandomChess"]
+[Black "7thSense"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnrknqrb/pppppppp/8/8/8/8/PPPPPPPP/BNRKNQRB w KQkq - 0 1"]
+
+1.g4 Nd6 2.b3 e6 3.c4 Nc6 4.Nd3 b6 5.Nc3 1-0

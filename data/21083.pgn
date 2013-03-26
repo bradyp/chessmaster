@@ -1,0 +1,18 @@
+[Event "Bengal 960 Challenge II"]
+[Site "Chess.com"]
+[Date "2011.06.27"]
+[White "Team 54 - Five for Fighting"]
+[Black "Bengal United"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nqbrknrb/pppppppp/8/8/8/8/PPPPPPPP/NQBRKNRB w KQkq - 0 1"]
+
+1.e4 c5 2.g3 Ne6 3.Ne3 g6 4.O-O b5 5.d3 Nac7 6.c3 Bb7 7.Nb3 d5 8.Na5 d4 9.Nxb7 Qxb7 10.Nd5 Qa6
+ 11.Bd2 Rd7 12.Rc1 O-O 13.c4 Rb8 14.b4 Bg7 15.f4 bxc4 16.Rxc4 Nxd5 17.exd5 Nc7 18.Rxc5 Nb5 19.Qc2 Nc3 20.Rc4 Rdd8
+ 21.Re1 Bf6 22.a4 Rdc8 23.Qb3 Rxc4 24.dxc4 Qxa4 25.Qxa4 Nxa4 26.c5 Nc3 27.Ra1 Rxb4 28.c6 Kg7 29.Be4 Rb8 30.Bf3 Nb5
+ 31.Kf2 h5 32.Rb1 a6 33.Be2 Kf8 34.Ba5 Rc8 35.Bxb5 axb5 36.Rxb5 e6 37.c7 Ke7 38.Bb4+ Kd7 39.d6 Bg7 40.Ke2 h4
+ 41.Kd3 hxg3 42.hxg3 Bf6 43.Rb8 g5 44.Kc4 gxf4 45.Rxc8 Kxc8 46.gxf4 d3 47.Kc5 Kb7 48.Ba5 Bd4+ 49.Kb5 Bb6 50.Bxb6 d2
+ 51.d7 d1=Q 52.c8=Q# 1-0

@@ -1,0 +1,12 @@
+[Event "Our backyard"]
+[Site "Chess.com"]
+[Date "2012.12.04"]
+[White "King's Gambit Research"]
+[Black "Aspiring Champions"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.f4 {Thematic Game - This is the starting position.} 
+ exf4 3.Bc4 Nf6 4.Nc3 Nc6 5.Nf3 Bb4 6.O-O O-O 7.d3 Bxc3 8.bxc3 d5 9.exd5 Nxd5 10.Bxd5 Qxd5
+ 11.Bxf4 Qc5+ 12.Kh1 Qxc3 13.Bxc7 Bg4 14.Rb1 b6 0-1

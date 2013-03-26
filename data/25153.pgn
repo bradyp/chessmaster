@@ -1,0 +1,15 @@
+[Event "Courageous Few Open Seek"]
+[Site "Chess.com"]
+[Date "2012.03.06"]
+[White "Courageous Few"]
+[Black "Flying Chess  3rt. Team"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqknrnbb/pppppppp/8/8/8/8/PPPPPPPP/RQKNRNBB w KQkq - 0 1"]
+
+1.e4 e5 2.Nfe3 g6 3.Nc3 Nc6 4.f3 Ne6 5.a4 a6 6.b4 Ncd4 7.Ncd5 c6 8.Nb6+ Kc7 9.Nxa8+ Qxa8 10.c3 Ne2+
+ 11.Rxe2 f6 12.g3 f5 13.exf5 Ng5 14.h4 Nf7 15.Nc4 Re7 16.Bb6+ Kc8 17.Bc5 gxf5 18.Nb6+ Kb8 19.Bxe7 Qa7 20.a5 d6
+ 21.Qxf5 1-0

@@ -1,0 +1,16 @@
+[Event "Yoi Gemu ! .. Chesu960"]
+[Site "Chess.com"]
+[Date "2012.07.03"]
+[White "&gt;&gt; Utsukushii Sakura &lt;&lt;"]
+[Black "* The Dream Team *"]
+[Result "*"]
+[TimeControl "1 in 3 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkbnnrqb/pppppppp/8/8/8/8/PPPPPPPP/RKBNNRQB w KQkq - 0 1"]
+
+1.g4 Nc6 2.Nd3 g6 3.Nc3 f5 4.gxf5 gxf5 5.f4 Nd6 6.a4 a5 7.Bd5 Qxg1 8.Rxg1 Ra6 9.Nc5 Ra8 10.e3 b6
+ 11.Nd3 Bb7 12.b3 e6 13.Bf3 Ne7 14.Bxb7 Kxb7 15.Ne5 Rg8 16.Rxg8 Rxg8 17.Nxd7 Nd5 18.Ne5 Nxc3+ 19.dxc3 Bxe5 20.fxe5 Nf7
+ 21.Bb2 Nxe5 22.Ka2 Rg2 23.c4 Nc6 24.c3 Rxh2 25.Rg1 h5 26.Kb1 h4 27.Rg6 h3 28.Rxe6 Rg2 29.Rh6 h2 30.Bc1 Ne5
+ 31.Rh5 Nd3 32.Ba3 Rg1+ 33.Kc2 Ne1+ 34.Kd1 h1=Q 35.Rxh1 Rxh1 36.Be7 Nf3+ 37.Ke2 Ne5 38.Kd2 Rh2+ 39.Kd1 Ng4 40.Bg5 Rb2
+ 41.Kc1 Rxb3 42.Kc2 Ra3 43.Kd3 Ne5+ 44.Kc2 *

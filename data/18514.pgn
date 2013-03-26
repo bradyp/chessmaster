@@ -1,0 +1,11 @@
+[Event "Maiden Voyage"]
+[Site "Chess.com"]
+[Date "2010.12.05"]
+[White "Team Iowa"]
+[Black "#1 Vote chess"]
+[Result "0-1"]
+[TimeControl "1 in 0.0069444444444444 days"]
+[Termination ""]
+
+1.d4 Nf6 2.f3 d5 3.Be3 Nc6 4.a3 e5 5.Bf2 exd4 6.Bxd4 Nxd4 7.Qxd4 c5 8.Qe3+ Be6 9.g4 Bd6 10.c3 O-O
+ 11.Nd2 d4 12.cxd4 cxd4 13.Qd3 Rc8 14.Bh3 Nd5 15.Qxd4 Bc5 16.Qe4 Qh4+ 17.Kd1 Ne3+ 18.Kc1 Qe1# 0-1

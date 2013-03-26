@@ -1,0 +1,15 @@
+[Event "960 Random Ragw"]
+[Site "Chess.com"]
+[Date "2011.11.06"]
+[White "Chess960 Masters"]
+[Black "Kairav's Chess Masters"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnbbrkqr/pppppppp/8/8/8/8/PPPPPPPP/NNBBRKQR w KQkq - 0 1"]
+
+1.Nb3 d5 2.d4 Nc6 3.e4 dxe4 4.Rxe4 Nb6 5.Nc3 Nb4 6.a3 N4d5 7.Nxd5 Nxd5 8.Re1 b6 9.c4 Nf6 10.h3 Ba6
+ 11.Nd2 e6 12.Ba4 Re7 13.b3 h6 14.Qh2 Qh7 15.O-O O-O 16.Bc6 Bc8 17.Ne4 Ne8 18.a4 a5 19.Ba3 f5 20.Nc3 Nd6
+ 21.Bxd6 cxd6 22.Qxd6 g5 23.Nb5 Qf7 24.d5 e5 25.Qxh6 Qf6 26.Qxf6 Rxf6 27.d6 Ree6 28.Bd5 Kh7 29.Bxe6 1-0

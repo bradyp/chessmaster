@@ -1,0 +1,11 @@
+[Event "Dutch Treat, revisited"]
+[Site "Chess.com"]
+[Date "2010.05.21"]
+[White "Team Sri Lanka"]
+[Black "Dynamic Dutch Defense"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 f5 {Thematic Game - This is the starting position.} 
+ 2.c4 Nf6 3.Bg5 Ne4 4.Bf4 e5 5.Bxe5 Bb4+ 0-1

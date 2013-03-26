@@ -1,0 +1,12 @@
+[Event "WINNER TAKES ALL"]
+[Site "Chess.com"]
+[Date "2011.09.17"]
+[White "Flying Chess Team"]
+[Black "Chess-0-Matic"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.a3 e5 2.h3 d5 {Thematic Game - This is the starting position.} 
+ 3.d4 exd4 4.Qxd4 Nf6 5.Bg5 Be7 6.Nf3 c5 7.Qd2 Nc6 8.e3 Ne4 9.Bxe7 Nxe7 10.Bb5+ Kf8
+ 11.Qe2 1-0

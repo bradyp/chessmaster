@@ -1,0 +1,16 @@
+[Event "United Chess.com Open Seek"]
+[Site "Chess.com"]
+[Date "2009.07.30"]
+[White "Chess Empire"]
+[Black "United Chess.com"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rnbbqkrn/pppppppp/8/8/8/8/PPPPPPPP/RNBBQKRN w KQkq - 0 1"]
+
+1.e4 e5 2.Ng3 g6 3.O-O Nc6 4.d3 g5 5.Nf5 d6 6.Qe3 Rg6 7.Bh5 Rg8 8.Nc3 Ng6 9.Nd5 Bxf5 10.exf5 Nf4
+ 11.Nxf4 gxf4 12.Qh3 Nd4 13.c3 Nc6 14.b4 a6 15.Re1 Qd7 16.Bf3 Rg7 17.f6 Qxh3 18.fxg7+ Kxg7 19.gxh3 Kf6 20.Bxc6 bxc6
+ 21.Bb2 Be7 22.d4 exd4 23.cxd4 d5 24.Bc3 Bd6 25.Kg2 Rg8+ 26.Kf3 h5 27.Rg1 Re8 28.Rae1 Rxe1 29.Rxe1 h4 30.Kg4 Kg6
+ 31.Kxh4 f6 32.Kg4 f5+ 33.Kf3 c5 34.bxc5 Bf8 35.Re6+ Kg5 36.Bd2 Bg7 37.Bxf4+ Kh5 38.Be5 Bh6 39.Rxa6 1-0

@@ -1,0 +1,14 @@
+[Event "Checkmate Open Seek"]
+[Site "Chess.com"]
+[Date "2012.05.24"]
+[White "Checkmate"]
+[Black "Chess School"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkrbbnnq/pppppppp/8/8/8/8/PPPPPPPP/RKRBBNNQ w KQkq - 0 1"]
+
+1.g3 c6 2.a4 Ba5 3.Nf3 g6 4.c3 f5 5.d4 Nf6 6.N1d2 Bf7 7.Bb3 Bxb3 8.Nxb3 Bc7 9.Ng5 b6 10.Nf7 Qg8
+ 11.Ne5 Qxb3 0-1

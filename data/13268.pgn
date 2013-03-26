@@ -1,0 +1,10 @@
+[Event "Rapid Vote Chess (1day/move)"]
+[Site "Chess.com"]
+[Date "2009.10.17"]
+[White "Rapid Chess"]
+[Black "Tournament guy 1 World 10000000+"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Qf3 Qc7 7.Bd3 1-0

@@ -1,0 +1,14 @@
+[Event "chess 960"]
+[Site "Chess.com"]
+[Date "2009.08.22"]
+[White "The Brain Strainers of Chess.com!"]
+[Black "Double Check"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkqrbbnn/pppppppp/8/8/8/8/PPPPPPPP/RKQRBBNN w KQkq - 0 1"]
+
+1.d4 d5 2.f4 Ng6 3.Nf3 Nf6 4.Ng3 e6 5.e3 c5 6.c4 Qc7 7.cxd5 Nxd5 8.f5 exf5 9.Nxf5 Nde7 10.Bg3 Nxf5
+ 11.Bxc7+ Kxc7 12.e4 Nh6 13.dxc5 1-0

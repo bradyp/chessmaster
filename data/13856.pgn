@@ -1,0 +1,16 @@
+[Event "King's &amp; Thing's 960"]
+[Site "Chess.com"]
+[Date "2009.11.27"]
+[White "King's &amp; Thing's"]
+[Black "Kairav's Chess Masters"]
+[Result "1/2-1/2"]
+[TimeControl "1 in 3 days"]
+[Termination "Game drawn by agreement"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbnkrqbn/pppppppp/8/8/8/8/PPPPPPPP/RBNKRQBN w KQkq - 0 1"]
+
+1.f4 f5 2.c3 Nd6 3.Ng3 g6 4.Bc2 Nc4 5.Nd3 e5 6.fxe5 Nxe5 7.Nxe5 Rxe5 8.O-O-O Bxa2 9.Bd4 Ra5 10.Qf3 Bd5
+ 11.e4 Ra1+ 12.Bb1 Bb3 13.exf5 c6 14.fxg6 Qxf3 15.gxf3 Nxg6 16.Bf6+ Kc7 17.Be5+ Nxe5 18.Rxe5 Bxd1 19.Kxd1 Rxb1+ 20.Kc2 Ra1
+ 21.Re7 a5 22.Rxh7 a4 23.f4 a3 24.bxa3 R8xa3 25.f5 R3a2+ 26.Kd3 Ba7 27.f6 Bc5 28.f7 Rd1 29.Ne4 Be7 30.Ke2 Rg1
+ 31.Rh8 Rg6 32.Re8 Ba3 33.Ra8 Re6 34.Kd3 d5 35.Rxa3 dxe4+ 36.Ke3 Rf6 37.Rxa2 Rxf7 38.Kxe4 Rf2 39.h3 Rh2 1/2-1/2

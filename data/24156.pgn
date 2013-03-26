@@ -1,0 +1,17 @@
+[Event "Chess960 Players Group vs Queen's Guard (jp)"]
+[Site "Chess.com"]
+[Date "2012.01.20"]
+[White "Chess960 Players Group"]
+[Black "Queen's Guard"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbbqrnkr/pppppppp/8/8/8/8/PPPPPPPP/NBBQRNKR w KQkq - 0 1"]
+
+1.e4 e5 2.Ne3 Ng6 3.c3 O-O 4.d4 c6 5.d5 Nb6 6.c4 d6 7.Nb3 cxd5 8.cxd5 Nf4 9.Qf3 Qg5 10.h4 Qg6
+ 11.Bd2 Qf6 12.g3 Nd3 13.Qxf6 Nxe1 14.Qxg7+ Kxg7 15.Bxe1 Na4 16.Nd1 f5 17.Bd2 fxe4 18.Bxe4 Bg4 19.Ne3 Bf3 20.Nf5+ Rxf5
+ 21.Bxf5 Bxh1 22.Kxh1 Nxb2 23.f4 Nc4 24.Bc3 Rf8 25.Be6 Ne3 26.Nd2 Kg6 27.fxe5 dxe5 28.Ne4 Rf1+ 29.Kh2 Rd1 30.g4 Nxd5
+ 31.Bd2 Nf4 32.Bf5+ Kg7 33.g5 Ra1 34.Nc3 b5 35.Kg3 b4 36.Ne4 a5 37.Nc5 Rxa2 38.Be3 Ra3 39.Kf2 b3 40.Bc1 Ra2+
+ 41.Kf3 b2 42.Bxf4 exf4 43.Ne6+ Kf7 44.Nxf4 Ra3+ 45.Kg4 Ra4 46.Bxh7 Rxf4+ 47.Kh5 Ba7 48.Bd3 Bf2 49.g6+ Kf6 0-1

@@ -1,0 +1,12 @@
+[Event "Europe vs Australia"]
+[Site "Chess.com"]
+[Date "2011.03.05"]
+[White "Team Australia"]
+[Black "Team Europe"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 exd4 5.Bxc4 Bb4+ 6.Nbd2 Nc6 7.O-O Nf6 8.e5 Nd5 9.Nb3 O-O 10.Nbxd4 Nxd4
+ 11.Qxd4 Be6 12.Bg5 Be7 13.Bxd5 Bxg5 14.Bxe6 fxe6 15.Qg4 Rf5 16.Rad1 Qe7 17.Nd4 Rxe5 18.f4 Re4 19.Qxg5 Qxg5 20.fxg5 Rd8
+ 21.Nc6 Rxd1 22.Ne7+ Kh8 23.Rxd1 g6 24.Rd8+ Kg7 25.Ng8 Re2 26.Nh6 Rxb2 27.Rg8# 1-0

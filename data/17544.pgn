@@ -1,0 +1,13 @@
+[Event "Lets Play"]
+[Site "Chess.com"]
+[Date "2010.09.17"]
+[White "* The Dream Team *"]
+[Black "The Cool Group"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brqknbnr/pppppppp/8/8/8/8/PPPPPPPP/BRQKNBNR w KQkq - 0 1"]
+
+1.b3 g6 2.Bxh8 f6 3.h4 d5 4.h5 b6 5.hxg6 1-0

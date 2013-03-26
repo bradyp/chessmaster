@@ -1,0 +1,13 @@
+[Event "Chess960 RandomChess vs Guatechess (jp)"]
+[Site "Chess.com"]
+[Date "2012.07.14"]
+[White "Guatechess"]
+[Black "Chess960 RandomChess"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rqnknrbb/pppppppp/8/8/8/8/PPPPPPPP/RQNKNRBB w KQkq - 0 1"]
+
+ 0-1

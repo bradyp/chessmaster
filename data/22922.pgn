@@ -1,0 +1,15 @@
+[Event "Fisher Random 960"]
+[Site "Chess.com"]
+[Date "2011.11.04"]
+[White "International Rotary Chess Club"]
+[Black "Courageous Few"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qbnrnkbr/pppppppp/8/8/8/8/PPPPPPPP/QBNRNKBR w KQkq - 0 1"]
+
+1.c4 b6 2.b3 f6 3.f3 d5 4.cxd5 Bxd5 5.Ncd3 Bb7 6.Nf4 Bd5 7.Be3 c5 8.d4 cxd4 9.Rxd4 Be5 10.Ne6+ Bxe6
+ 11.Nc2 Bxd4 12.Nxd4 Bf7 13.Be4 Qb8 14.Nc6 Qd6 15.Nxd8 Qxd8 16.Qb1 Ncd6 17.Bxh7 Nb5 18.a4 Nc3 19.Qc2 Qd1+ 20.Qxd1 Nxd1
+ 0-1

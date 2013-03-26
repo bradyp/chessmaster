@@ -1,0 +1,10 @@
+[Event "3 day per move"]
+[Site "Chess.com"]
+[Date "2009.03.23"]
+[White "The Chess Fanatics"]
+[Black "Chessheads"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.d4 e6 2.e3 d5 3.Nf3 c5 4.Nc3 Nc6 5.b3 Qa5 6.Bb2 c4 7.bxc4 Qb6 8.Rb1 1-0

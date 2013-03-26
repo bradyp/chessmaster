@@ -1,0 +1,15 @@
+[Event "Team Dalmatia vs Team of the Czech Republic (960)"]
+[Site "Chess.com"]
+[Date "2012.06.02"]
+[White "Team Dalmatia"]
+[Black "Team of the Czech Republic"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nbnrbkrq/pppppppp/8/8/8/8/PPPPPPPP/NBNRBKRQ w KQkq - 0 1"]
+
+1.d4 c5 2.dxc5 d6 3.cxd6 Nxd6 4.c4 Rc8 5.b3 g6 6.Nc2 b5 7.g3 Bc6 8.f3 bxc4 9.bxc4 Nxc4 10.Nb4 Ne3+
+ 11.Kf2 Nxd1+ 12.Kg2 Qb2 13.Nxc6 Rxc6 14.Bf2 Nxf2 15.Kxf2 Qb6+ 16.Kg2 Qxb1 17.Nd3 Qxa2 18.Re1 a5 19.f4 Qd5+ 20.Kf2 Qxh1
+ 21.Rxh1 O-O 22.h4 Nb6 23.Ra1 Nc4 24.Rc1 Ba7+ 25.Kf3 Nd2+ 26.Kg2 Rxc1 27.Nxc1 a4 28.Na2 a3 0-1

@@ -1,0 +1,11 @@
+[Event "Rapid Vote Chess (2days/move)"]
+[Site "Chess.com"]
+[Date "2009.09.25"]
+[White "icelandic group"]
+[Black "Rapid Chess"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nxd4 7.cxd4 Bb4+ 8.Nc3 Bxc3+ 9.bxc3 d6 10.Bd3 g5
+ 11.f3 h5 12.Qd2 g4 13.O-O h4 14.fxg4 Qg6 15.Qf2 Qxg4 16.Qxf7+ Kd8 17.Qf8+ Kd7 18.Rf7+ Kc6 19.d5# 1-0

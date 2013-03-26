@@ -1,0 +1,13 @@
+[Event "Bengal 960 Challenge"]
+[Site "Chess.com"]
+[Date "2011.05.25"]
+[White "The AC3"]
+[Black "Bengal United"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bbnrnkqr/pppppppp/8/8/8/8/PPPPPPPP/BBNRNKQR w KQkq - 0 1"]
+
+1.b4 f6 2.a3 b6 3.Ba2 Bd5 4.Bxd5 Qxd5 5.f3 Ned6 6.Nb3 O-O 7.e4 Qh5 0-1

@@ -1,0 +1,13 @@
+[Event "THE POWER OF CHESS Open Seek"]
+[Site "Chess.com"]
+[Date "2011.10.04"]
+[White "THE POWER OF CHESS"]
+[Black "World Football Fans"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qnbrkrnb/pppppppp/8/8/8/8/PPPPPPPP/QNBRKRNB w KQkq - 0 1"]
+
+1.g3 1-0

@@ -1,0 +1,19 @@
+[Event "~~ 960 - There can be only one - 960 ~~"]
+[Site "Chess.com"]
+[Date "2013.01.06"]
+[White "THE EMPERORS OF CHESS"]
+[Black "960 ~From the dawn of time we came; moving silently down through the centuries"]
+[Result "1-0"]
+[TimeControl "1 in 0.25 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkbqnbnr/pppppppp/8/8/8/8/PPPPPPPP/RKBQNBNR w KQkq - 0 1"]
+
+1.e4 Ngf6 2.d3 e5 3.Ngf3 d6 4.Ng5 Qe7 5.Bd2 h6 6.Ngf3 Bg4 7.Be2 O-O-O 8.Be3 c5 9.Nd2 Bxe2 10.Qxe2 d5
+ 11.exd5 Rxd5 12.Ne4 Qc7 13.O-O-O Rd7 14.Nf3 Be7 15.Bd2 Nd5 16.Nc3 Nxc3 17.Bxc3 f6 18.Rhe1 Nd6 19.Nh4 Nb5 20.Bd2 Nd4
+ 21.Qg4 Bd6 22.c3 Nc6 23.Be3 Kb8 24.Ng6 Rhd8 25.f3 Qa5 26.Kb1 Qb5 27.Qc4 Qxc4 28.dxc4 b6 29.Rd5 Kc7 30.h4 a5
+ 31.h5 Re8 32.b3 e4 33.Bd2 Rdd8 34.fxe4 Rd7 35.Bf4 Bxf4 36.Rxd7+ Kxd7 37.Nxf4 Re5 38.Kc2 Kc8 39.a4 Kc7 40.Re3 Kb7
+ 41.Rg3 Re7 42.Kd3 Ne5+ 43.Ke3 Kc6 44.Nd5 Rd7 45.Kf4 Kd6 46.Kf5 Rb7 47.Nf4 Nc6 48.Rd3+ Ke7 49.Ng6+ Kf7 50.Rd6 Ne7+
+ 51.Nxe7 Kxe7 52.e5 fxe5 53.Kxe5 Kf7 54.g4 Ke7 55.Rg6 Kd8 56.Kd6 Kc8 57.Re6 Kb8 58.Re7 Ra7 59.Rxa7 Kxa7 60.Ke7 Kb7
+ 61.Kf7 Kc6 62.Kxg7 1-0

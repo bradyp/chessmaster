@@ -1,0 +1,14 @@
+[Event "King's &amp; Thing's 960"]
+[Site "Chess.com"]
+[Date "2010.01.02"]
+[White "King's &amp; Thing's"]
+[Black "THE POWER OF CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nqbbnrkr/pppppppp/8/8/8/8/PPPPPPPP/NQBBNRKR w KQkq - 0 1"]
+
+1.c4 c5 2.Nf3 e6 3.b4 d6 4.d3 Nb6 5.bxc5 dxc5 6.Be3 Be7 7.Nb3 h6 8.Nxc5 Qc7 9.Ne4 Nf6 10.c5 Nbd5
+ 11.Bd4 Bd7 12.Ne5 Nxe4 13.Nxd7 Qxd7 14.dxe4 Nf6 15.Qd3 Rd8 0-1

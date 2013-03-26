@@ -1,0 +1,13 @@
+[Event "960"]
+[Site "Chess.com"]
+[Date "2009.10.11"]
+[White "CHRISTIAN CHESS WORLD"]
+[Black "The Cool Boys &amp; Girls Chess Group"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbqnnkbr/pppppppp/8/8/8/8/PPPPPPPP/RBQNNKBR w KQkq - 0 1"]
+
+1.b4 c6 2.c4 a5 3.Nd3 Ne6 4.e4 1-0

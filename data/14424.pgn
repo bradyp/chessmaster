@@ -1,0 +1,16 @@
+[Event "Rapid Vote Chess960 (2days/move, JP)"]
+[Site "Chess.com"]
+[Date "2010.01.11"]
+[White "RAPID CHESS"]
+[Black "Chess Club Zoo"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkbnrnqb/pppppppp/8/8/8/8/PPPPPPPP/RKBNRNQB w KQkq - 0 1"]
+
+1.e4 g6 2.Re3 Nc6 3.Ng3 d6 4.Nc3 Ne6 5.Nd5 f5 6.exf5 Ned4 7.c3 Nxf5 8.Nxf5 Bxf5+ 9.d3 Qxd5 10.Qd1 Ne5
+ 11.Kc2 Bxd3+ 12.Rxd3 Nxd3 13.Qxd3 Qxd3+ 14.Kxd3 O-O-O 15.Bg5 Bf6 16.Be3 e5 17.Bxa7 b6 18.g3 d5 19.c4 e4+ 20.Kc2 dxc4
+ 21.Rd1 Rxd1 22.Kxd1 Bxb2 23.f4 Kb7 24.Kc2 c3 25.Bxb6 Kxb6 26.a4 e3 27.Kd1 e2+ 28.Ke1 c2 29.Kf2 e1=Q+ 30.Kg2 Qe2+
+ 31.Kh3 Qh5+ 32.Kg2 Re2+ 33.Kf1 c1=Q# 0-1

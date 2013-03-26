@@ -1,0 +1,10 @@
+[Event "Advance the Pawn challenge."]
+[Site "Chess.com"]
+[Date "2012.01.20"]
+[White "Chess Unlimited"]
+[Black "Advance the pawn"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 Nc6 5.Bxc4 e5 6.Qb3 Be6 7.Bxe6 1-0

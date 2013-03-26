@@ -1,0 +1,11 @@
+[Event "Computer Aided: Black after 1. e4 e5"]
+[Site "Chess.com"]
+[Date "2013.01.24"]
+[White "Powerful Pawns"]
+[Black "Computer Aided Vote Chess"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 e5 {Thematic Game - This is the starting position.} 
+ 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Bd3 d5 7.e5 Ng4 8.Bf4 g5 0-1

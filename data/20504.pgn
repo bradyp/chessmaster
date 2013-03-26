@@ -1,0 +1,16 @@
+[Event "TVC Random Cup Round II"]
+[Site "Chess.com"]
+[Date "2011.05.09"]
+[White "Chess Empire"]
+[Black "Wallyjack's Wonderful Wizards Of Oz"]
+[Result "1/2-1/2"]
+[TimeControl "1 in 2 days"]
+[Termination "Game drawn by agreement"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brnnqbkr/pppppppp/8/8/8/8/PPPPPPPP/BRNNQBKR w KQkq - 0 1"]
+
+1.e4 e5 2.b4 b5 3.Nd3 Nc6 4.Ne3 Nd6 5.Nc5 Nc4 6.Nxc4 Nxb4 7.Rxb4 Bxc5 8.Rb3 bxc4 9.Bxc4 c6 10.O-O d5
+ 11.exd5 cxd5 12.Rxb8 Qxb8 13.Bxe5 Qe8 14.Bb3 O-O 15.d4 Bb6 16.Qd2 Qd7 17.Re1 Bc6 18.h3 Re8 19.Re3 f6 20.Bg3 Rxe3
+ 21.Qxe3 a5 22.c3 a4 23.Bc2 Bb5 24.Qf4 Ba5 25.Qe3 Qc8 26.Bd6 Bxc3 27.Bc5 Ba5 28.Qe7 Qe8 29.Qxe8+ Bxe8 30.Bf5 Kf7
+ 31.f4 g6 32.Bc8 f5 33.Kf2 Bb5 1/2-1/2

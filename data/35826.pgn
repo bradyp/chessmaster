@@ -1,0 +1,14 @@
+[Event "Team Moldova /Vote960/ We are Admin"]
+[Site "Chess.com"]
+[Date "2013.01.05"]
+[White "Team Moldova"]
+[Black "WE ARE ADMIN"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brnbqnkr/pppppppp/8/8/8/8/PPPPPPPP/BRNBQNKR w KQkq - 0 1"]
+
+1.e4 b6 2.d4 e5 3.d5 Nd6 4.Ng3 c6 5.b3 cxd5 6.exd5 Bxd5 7.Qxe5 Qxe5 8.Bxe5 Be7 9.Nf5 Re8 10.Nxg7 Rc8
+ 11.Nh5 f6 12.Bxd6 Bd8 13.Bxf8 Kxf8 14.O-O 1-0

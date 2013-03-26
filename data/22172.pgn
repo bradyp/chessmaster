@@ -1,0 +1,14 @@
+[Event "Guatechess vs Cats"]
+[Site "Chess.com"]
+[Date "2011.09.07"]
+[White "Guatechess"]
+[Black "The Cats"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brnbnqkr/pppppppp/8/8/8/8/PPPPPPPP/BRNBNQKR w KQkq - 0 1"]
+
+1.e4 b5 2.Be2 Bxe4 3.Bxb5 c6 4.Ba4 Nf6 5.b3 e6 6.Qc4 Bd5 7.Qe2 Nb6 8.c4 Nxc4 9.Be5 Nxe5 10.Qxe5 Bb6
+ 11.Ncd3 d6 12.Qb2 e5 0-1

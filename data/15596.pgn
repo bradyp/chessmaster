@@ -1,0 +1,12 @@
+[Event "We push'em too"]
+[Site "Chess.com"]
+[Date "2010.04.06"]
+[White "pawnpushers"]
+[Black "Smiling Assassins"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.Bg5 h6 8.Bh4 g5 9.Bg3 Nf5 10.dxc5 Bxc5
+ 11.O-O h5 12.Nbd2 h4 13.Nb3 Bb6 14.Nbd4 hxg3 15.hxg3 g4 16.Nxf5 gxf3 17.Nd6+ Ke7 18.Bxf3 Qg8 19.g4 Qh7 20.Nf5+ exf5
+ 21.gxf5 Qh1# 0-1

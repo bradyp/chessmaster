@@ -1,0 +1,14 @@
+[Event "ninjas rule Open Seek"]
+[Site "Chess.com"]
+[Date "2009.10.27"]
+[White "ninjas rule"]
+[Black "The Brain Strainers of Chess.com!"]
+[Result "0-1"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rknbqnbr/pppppppp/8/8/8/8/PPPPPPPP/RKNBQNBR w KQkq - 0 1"]
+
+1.d4 f5 2.e4 fxe4 3.Qxe4 d5 4.Qd3 e5 5.dxe5 Qxe5 6.Qe2 Qxe2 7.Bxe2 Nb6 8.Nb3 Bf6 9.c3 h6 10.Ne3 Bh7+
+ 11.Nc2 Ne6 12.h3 Nf4 13.Bf3 Nd3 14.Nc5 Nxc5 0-1

@@ -1,0 +1,17 @@
+[Event "960 Oktoberfest Open"]
+[Site "Chess.com"]
+[Date "2010.10.20"]
+[White "Chess960 Masters"]
+[Black "Banten Group"]
+[Result "1-0"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nqnrbkrb/pppppppp/8/8/8/8/PPPPPPPP/NQNRBKRB w KQkq - 0 1"]
+
+1.Nab3 c6 2.g3 d5 3.d4 Nd6 4.Nd3 Nc7 5.Bb4 O-O 6.O-O g6 7.c3 Bd7 8.Nd2 Bg4 9.f3 Bh3 10.Rfe1 Bg7
+ 11.Nf2 Be6 12.e4 dxe4 13.fxe4 Na6 14.e5 Nxb4 15.exd6 Rxd6 16.cxb4 Rxd4 17.a3 a5 18.bxa5 Qd8 19.Nf3 Rxd1 20.Rxd1 Qxa5
+ 21.Qc1 Qb6 22.b4 Bd5 23.Rd3 e5 24.Qe3 Qxe3 25.Rxe3 Re8 26.Ne4 f5 27.Nd6 Re7 28.Nd2 e4 29.Re2 Rd7 30.N6c4 Bf7
+ 31.Ne3 Rd3 32.Nc2 Bb2 33.Kf2 Bxa3 34.Nxa3 Rxa3 35.Re1 Ra2 36.Ke3 Kg7 37.Rc1 g5 38.b5 Ra3+ 39.Ke2 Bh5+ 40.Kf1 cxb5
+ 41.Nxe4 fxe4 42.Bxe4 1-0

@@ -1,0 +1,11 @@
+[Event "Assimilate"]
+[Site "Chess.com"]
+[Date "2010.11.27"]
+[White "Galatasaray"]
+[Black "1.g4 1...g5 GroB org"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+
+1.e4 g5 {Thematic Game - This is the starting position.} 
+ 2.d4 e6 3.Nc3 Bg7 4.Be3 h6 5.h4 gxh4 6.Qg4 Nc6 7.Qxg7 1-0

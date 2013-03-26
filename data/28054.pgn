@@ -1,0 +1,17 @@
+[Event "Chess960 Players Group vs The best moves (jp)"]
+[Site "Chess.com"]
+[Date "2012.05.20"]
+[White "The  best  moves"]
+[Black "Chess960 Players Group"]
+[Result "*"]
+[TimeControl "1 in 3 days"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bnqbrknr/pppppppp/8/8/8/8/PPPPPPPP/BNQBRKNR w KQkq - 0 1"]
+
+1.d4 b5 2.Nf3 Nf6 3.b3 d5 4.Nc3 a6 5.e4 dxe4 6.Nxe4 Nxe4 7.Qf4 Nf6 8.c4 bxc4 9.bxc4 Qg4 10.Qc1 e6
+ 11.h3 Qg6 12.Bc2 Be4 13.Bxe4 Nxe4 14.Qb1 Nxf2 15.Kxf2 Be7 16.g3 c5 17.d5 exd5 18.cxd5 Rd8 19.Rhf1 Bd6 20.Qxg6 hxg6
+ 21.h4 Nd7 22.Ng5 O-O 23.Ne4 Nb6 24.Ng5 Nxd5 25.Ne4 Be7 26.Nc3 Bf6 27.Nxd5 Rxd5 28.Bxf6 gxf6 29.Re2 Rf5+ 30.Kg2 Rxf1
+ 31.Kxf1 Rc8 32.Ke1 f5 33.Kf2 Kg7 34.Kf3 c4 35.g4 fxg4+ 36.Kxg4 c3 37.Rc2 Kh6 38.Kh3 Kh5 39.Kg3 f5 40.a4 a5
+ 41.Kf4 Rc4+ 42.Ke5 Kxh4 43.Kd5 Rc8 44.Kd4 Kg3 45.Rxc3+ Rxc3 46.Kxc3 f4 47.Kc4 f3 48.Kb5 f2 49.Kxa5 f1=Q 50.Kb4 Qa6
+ 51.a5 Kf4 *

@@ -1,0 +1,15 @@
+[Event "Rapid Vote Chess960 (2days/move)"]
+[Site "Chess.com"]
+[Date "2009.12.23"]
+[White "RAPID CHESS"]
+[Black "Team Brazil"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrbbkrqn/pppppppp/8/8/8/8/PPPPPPPP/NRBBKRQN w KQkq - 0 1"]
+
+1.f4 f5 2.b3 e6 3.Qxa7 Nb6 4.Qxb8 Ng6 5.d3 Qf7 6.Be3 O-O 7.c4 d6 8.g3 Ne7 9.Bxb6 cxb6 10.Qxd6 b5
+ 11.cxb5 Nd5 12.Qb8 Ba5+ 13.Kf2 Bd7 14.Qxb7 Qe7 15.Nc2 Bb6+ 16.e3 Bxb5 17.Qxe7 Nxe7 18.Be2 Rd8 19.Nb4 Bc5 20.Nc2 Nd5
+ 21.d4 Bxe2 22.Kxe2 Nc3+ 23.Kf3 1-0

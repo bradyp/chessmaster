@@ -1,0 +1,17 @@
+[Event "Rapid Vote Chess960 (2days/move,JP)"]
+[Site "Chess.com"]
+[Date "2010.03.31"]
+[White "Chess960 Players Group"]
+[Black "RAPID CHESS"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "qbbrkrnn/pppppppp/8/8/8/8/PPPPPPPP/QBBRKRNN w KQkq - 0 1"]
+
+1.b4 b5 2.Qxg7 Nf6 3.Bb2 Rg8 4.Qh6 Rg6 5.Qe3 Qxg2 6.Nf3 Ng4 7.Qd4 f6 8.Nh4 e5 9.Nxg2 exd4 10.Bxd4 Nxh2
+ 11.Rg1 Bb7 12.Ng3 Ng4 13.c4 Rg7 14.cxb5 Kf7 15.Nf5 Rg5 16.Ngh4 Bd5 17.Rxg4 Rxg4 18.Nh6+ Ke7 19.Nxg4 c6 20.Bxf6+ Ke8
+ 21.Bxh8 Kf7 22.Nh6+ Ke7 23.N4f5+ Ke6 24.Bd4 cxb5 25.Rc1 Bf4 26.Ng7+ Ke7 27.Ng4 h6 28.Bf6+ Kf7 29.Bxd8 Kxg7 30.e3 Bg5
+ 31.Bxg5 hxg5 32.Rc5 Bc6 33.Rxg5+ Kf7 34.Ne5+ Kf6 35.Rf5+ Ke6 36.Nxc6 dxc6 37.Rc5 Kd6 38.Be4 a6 39.Rxc6+ Ke5 40.d3 a5
+ 41.f4# 1-0

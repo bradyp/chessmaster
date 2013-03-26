@@ -1,0 +1,16 @@
+[Event "Interfejs Club Open Seek"]
+[Site "Chess.com"]
+[Date "2011.04.09"]
+[White "The Knights"]
+[Black "Interfejs Club"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrkqbrnb/pppppppp/8/8/8/8/PPPPPPPP/NRKQBRNB w KQkq - 0 1"]
+
+1.d4 Nf6 2.Nf3 h6 3.e3 c6 4.Nb3 Nc7 5.Bb4 d6 6.g3 g5 7.Qd3 Bd7 8.Rd1 Ncd5 9.Bc3 Ne4 10.Be1 f5
+ 11.Ba5 b6 12.Bd2 Nxf2 13.Qa6+ Rb7 14.Rf1 Ne4 15.Qe2 e5 16.c4 Ndf6 17.dxe5 Ng4 18.exd6 c5 19.Be1 Bc6 20.h3 Ngf6
+ 21.Ne5 Qxd6 22.Nxc6 Qxc6 23.Rxf5 Qe6 24.g4 h5 25.Nd2 Nxd2 26.Bxb7+ Kxb7 27.Bxd2 hxg4 28.hxg4 Rd8 29.Bc3 Ne4 30.Bxh8 Rd2
+ 31.Qf1 Rd8 32.Rf7+ Ka6 33.b4 1-0

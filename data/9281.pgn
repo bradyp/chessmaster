@@ -1,0 +1,11 @@
+[Event "Europe vs America"]
+[Site "Chess.com"]
+[Date "2009.03.30"]
+[White "American Group"]
+[Black "Team Europe"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.e5 Ne4 6.O-O Bc5 7.Re1 d5 8.exd6 f5 9.Ng5 Bxd6 10.Nxe4 fxe4
+ 11.Rxe4+ Ne7 12.Qxd4 c5 13.Qxg7 Rf8 14.Bh6 Bf5 15.Bb5+ Bd7 16.Qxf8# 1-0

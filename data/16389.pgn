@@ -1,0 +1,15 @@
+[Event "It's Your Move ... Chess 960"]
+[Site "Chess.com"]
+[Date "2010.06.16"]
+[White "Team Ontario"]
+[Black "It's Your Move ..."]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brkbrqnn/pppppppp/8/8/8/8/PPPPPPPP/BRKBRQNN w KQkq - 0 1"]
+
+1.f4 f5 2.Ng3 e6 3.e4 fxe4 4.Nxe4 Ng6 5.g3 b6 6.Bf3 Bb7 7.b4 Be7 8.a3 Bxe4 9.Bxe4 d5 10.Qa6+ Rb7
+ 11.Bd3 Bf6 12.Bb5 Qd6 13.Bxe8 N8e7 14.Nf3 c6 15.Bf7 Nf8 16.Bxf6 gxf6 17.Qe2 Kd7 18.Nd4 c5 19.Qb5+ Kc8 20.bxc5 Qc7
+ 21.Bxe6+ Nxe6 22.Rxe6 Qd7 23.c6 Nxc6 24.Rxc6+ Kb8 25.Rxf6 Qc7 26.Rf8+ 1-0

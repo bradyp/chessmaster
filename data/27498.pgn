@@ -1,0 +1,11 @@
+[Event "The Warrriors vs Just another team"]
+[Site "Chess.com"]
+[Date "2012.05.05"]
+[White "The Warriors of Chess.com"]
+[Black "Just another team"]
+[Result "1-0"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 {Thematic Game - This is the starting position.} 
+ dxc4 3.e3 b5 4.a4 c6 5.axb5 1-0

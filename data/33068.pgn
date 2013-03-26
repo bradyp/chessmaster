@@ -1,0 +1,11 @@
+[Event "The Warriors vs ravens"]
+[Site "Chess.com"]
+[Date "2012.10.15"]
+[White "The Warriors of Chess.com"]
+[Black "ravens"]
+[Result "1-0"]
+[TimeControl "1 in 0.5 days"]
+[Termination ""]
+
+1.d4 d5 2.c4 {Thematic Game - This is the starting position.} 
+ dxc4 3.e4 b5 4.Nf3 Bg4 5.Nbd2 Qxd4 6.Be2 1-0

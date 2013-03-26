@@ -1,0 +1,13 @@
+[Event "Alekhine-Chatard-Attack"]
+[Site "Chess.com"]
+[Date "2012.09.24"]
+[White "Alekhine's Chess Club"]
+[Black "PHILIPPINES' FINEST Chess Club"]
+[Result "*"]
+[TimeControl "1 in 3 days"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 {Thematic Game - This is the starting position.} 
+ h6 7.Qh5 c5 8.Bxe7 Qxe7 9.Nb5 Na6 10.Nd6+ Kf8
+ 11.c3 c4 12.Rh3 Kg8 13.f4 Nc7 14.b3 Ne8 15.Nxe8 Qxe8 16.bxc4 g6 17.Qf3 dxc4 18.Bxc4 Nb6 19.Bb3 Bd7 20.Qxb7 Bc6
+ 21.Qc7 Bxg2 22.Rg3 Be4 23.h5 Nd5 24.Bxd5 Bxd5 25.Ne2 Rh7 26.Kf2 Rg7 27.Rag1 Be4 28.Qa5 Qc6 29.Qa3 Kh7 30.Qc1 Qc4
+ 31.Qd2 Rag8 32.hxg6+ Rxg6 33.Rxg6 fxg6 34.Ng3 Bd5 35.Qc2 Rc8 *

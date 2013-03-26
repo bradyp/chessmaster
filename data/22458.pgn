@@ -1,0 +1,14 @@
+[Event "THE POWER OF CHESS Open Seek"]
+[Site "Chess.com"]
+[Date "2011.10.04"]
+[White "THE POWER OF CHESS"]
+[Black "****World-Stars-B-Team****"]
+[Result "0-1"]
+[TimeControl "1 in 1 day"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rknqbrnb/pppppppp/8/8/8/8/PPPPPPPP/RKNQBRNB w KQkq - 0 1"]
+
+1.d4 f5 2.c4 Nf6 3.Bb4 Bh5 4.g3 Nb6 5.Qb3 a5 6.Bc5 d6 7.Bxb6 cxb6 8.Nd3 Bf7 9.O-O-O g6 10.Nf3 Qc7
+ 0-1

@@ -1,0 +1,13 @@
+[Event "Weekend vote chess 960"]
+[Site "Chess.com"]
+[Date "2011.06.11"]
+[White "THE CHESSMASTER GROUP"]
+[Black "Indian Marauders"]
+[Result "0-1"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nnrbbkrq/pppppppp/8/8/8/8/PPPPPPPP/NNRBBKRQ w KQkq - 0 1"]
+
+1.d4 Nb6 2.b3 c5 3.dxc5 Rxc5 0-1

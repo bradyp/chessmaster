@@ -1,0 +1,14 @@
+[Event "chess 960"]
+[Site "Chess.com"]
+[Date "2011.10.06"]
+[White "Balkan Chess Unity"]
+[Black "Team Paris"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbbqnknr/pppppppp/8/8/8/8/PPPPPPPP/RBBQNKNR w KQkq - 0 1"]
+
+1.d4 Ngf6 2.c4 d5 3.c5 c6 4.Ngf3 O-O 5.Qd3 Ne4 6.Nd2 N8f6 7.f3 Ng5 8.h4 Ne6 9.g4 g6 10.Nb3 b6
+ 11.g5 Nd7 12.h5 bxc5 13.hxg6 hxg6 14.f4 1-0

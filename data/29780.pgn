@@ -1,0 +1,15 @@
+[Event "Chess960 Challenge (jp)"]
+[Site "Chess.com"]
+[Date "2012.07.14"]
+[White "CHESS960 SOCIETY"]
+[Black "World Friendship"]
+[Result "0-1"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rkqnrnbb/pppppppp/8/8/8/8/PPPPPPPP/RKQNRNBB w KQkq - 0 1"]
+
+1.f4 f5 2.e4 fxe4 3.Rxe4 d5 4.Re5 Ng6 5.Re3 Nxf4 6.Ra3 Ne2 7.Bxa7+ Rxa7 8.Rxa7 Kxa7 9.g3 Nxc1 10.Kxc1 g6
+ 11.Nfe3 c6 12.Nf2 e5 13.c3 d4 14.cxd4 exd4 15.Ng2 Qf5 16.Nf4 Re1+ 17.Nd1 Rxh1 18.d3 g5 19.Kc2 Rxh2+ 20.Kc1 Qc5+
+ 21.Nc3 dxc3 22.Rb1 cxb2+ 23.Kd1 Qg1# 0-1

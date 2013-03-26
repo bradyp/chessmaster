@@ -1,0 +1,13 @@
+[Event "World Friendship Open Seek"]
+[Site "Chess.com"]
+[Date "2012.11.07"]
+[White "World Friendship"]
+[Black "SKS A Team- YL, RL and TS"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brkrqnnb/pppppppp/8/8/8/8/PPPPPPPP/BRKRQNNB w KQkq - 0 1"]
+
+1.e4 b5 2.g3 d5 3.exd5 Nf6 4.Ne3 Bxd5 5.Nxd5 Nxd5 6.b3 f6 7.Qe4 1-0

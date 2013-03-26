@@ -1,0 +1,17 @@
+[Event "Fischer's promotion"]
+[Site "Chess.com"]
+[Date "2010.12.21"]
+[White "Chess960 Players Group"]
+[Black "PromotedPawns_Rule"]
+[Result "1-0"]
+[TimeControl "1 in 3 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "brknrbnq/pppppppp/8/8/8/8/PPPPPPPP/BRKNRBNQ w KQkq - 0 1"]
+
+1.e4 g5 2.b3 Bg7 3.Nc3 Bxc3 4.Bxc3 e5 5.Nf3 g4 6.Nh4 Qf6 7.Nf5 Ne7 8.Bd3 Nxf5 9.exf5 b6 10.h3 h5
+ 11.hxg4 hxg4 12.Qh2 d6 13.Qg3 Qg5 14.f3 Rg8 15.Rf1 gxf3 16.Qxg5 Rxg5 17.gxf3 Nc6 18.f4 exf4 19.Rxf4 Ne5 20.Bxe5 dxe5
+ 21.Rh4 Kd7 22.O-O-O Rbg8 23.Rf1 Rg1 24.Kb2 Rxf1 25.Bxf1 Ke7 26.Bc4 Rd8 27.d3 Kf6 28.Rh7 Bd5 29.Kc3 c6 30.a4 Rd7
+ 31.Bxd5 cxd5 32.Rh5 Rd8 33.b4 Rg8 34.a5 bxa5 35.bxa5 Rc8+ 36.Kb3 e4 37.dxe4 dxe4 38.c3 Rc5 39.Rh6+ Kxf5 40.Rh5+ Kf4
+ 41.Rxc5 f5 42.Kc2 1-0

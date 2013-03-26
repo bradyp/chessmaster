@@ -1,0 +1,15 @@
+[Event "North by 960"]
+[Site "Chess.com"]
+[Date "2012.04.15"]
+[White "The Northwind Irregulars"]
+[Black "Flying Chess Team"]
+[Result "1-0"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bqrnkrnb/pppppppp/8/8/8/8/PPPPPPPP/BQRNKRNB w KQkq - 0 1"]
+
+1.b4 Nf6 2.Nf3 b5 3.g3 c5 4.bxc5 Rxc5 5.d4 Rc8 6.c4 Be4 7.Qb2 b4 8.a3 a5 9.axb4 Qxb4+ 10.Qxb4 axb4
+ 11.Nb2 Nc6 12.Nd3 e6 13.Nd2 Bxh1 14.Rxh1 O-O 15.e4 d5 16.cxd5 exd5 17.f3 dxe4 18.fxe4 g6 19.d5 Rfd8 20.Rxc6 Rxc6
+ 21.dxc6 Rxd3 22.c7 1-0

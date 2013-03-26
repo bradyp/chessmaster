@@ -1,0 +1,12 @@
+[Event "Chess Unlimited Open Seek"]
+[Site "Chess.com"]
+[Date "2008.07.31"]
+[White "Chess Unlimited"]
+[Black "Light Force"]
+[Result "0-1"]
+[TimeControl "1 in 7 days"]
+[Termination ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Bg4 6.h3 Bh5 7.d3 h6 8.g4 Bg6 9.Nxe5 Qf6 10.Nxg6 Qxg6
+ 11.f4 Bc5+ 12.Kg2 O-O-O 13.f5 Qd6 14.Bf4 Qd4 15.Nc3 Nf6 16.Qf3 g5 17.fxg6 fxg6 18.Rae1 h5 19.Bg5 hxg4 20.hxg4 Bd6
+ 21.Bxf6 Rh2# 0-1

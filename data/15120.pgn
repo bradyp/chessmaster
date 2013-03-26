@@ -1,0 +1,13 @@
+[Event "Rapid Vote Chess960 (2days/move)"]
+[Site "Chess.com"]
+[Date "2010.02.21"]
+[White "Mario Bros."]
+[Black "RAPID CHESS"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "bqrbnknr/pppppppp/8/8/8/8/PPPPPPPP/BQRBNKNR w KQkq - 0 1"]
+
+1.e4 e5 2.Ngf3 d6 3.Be2 Ngf6 4.Nxe5 dxe5 5.O-O Nxe4 6.Nf3 f5 7.Nxe5 N8f6 8.Bh5 Nxd2 0-1

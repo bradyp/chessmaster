@@ -1,0 +1,13 @@
+[Event "It is Jas Chess :)"]
+[Site "Chess.com"]
+[Date "2009.10.10"]
+[White "Jas CHESS"]
+[Black "The Brain Strainers of Chess.com!"]
+[Result "0-1"]
+[TimeControl "1 in 2 days"]
+[Termination ""]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "nrqbbnkr/pppppppp/8/8/8/8/PPPPPPPP/NRQBBNKR w KQkq - 0 1"]
+
+1.e4 e5 2.d3 d6 3.f4 Ng6 4.f5 Ne7 5.Nb3 Nc6 6.Qd2 h6 0-1

@@ -1,0 +1,16 @@
+[Event "960 Chess"]
+[Site "Chess.com"]
+[Date "2011.01.02"]
+[White "Adults only group"]
+[Black "Chess960 RandomChess"]
+[Result "1/2-1/2"]
+[TimeControl "1 in 2 days"]
+[Termination "Game drawn by agreement"]
+[Variant "Chess 960"]
+[SetUp "1"]
+[FEN "rbbqknrn/pppppppp/8/8/8/8/PPPPPPPP/RBBQKNRN w KQkq - 0 1"]
+
+1.c4 c5 2.Nhg3 Nhg6 3.e3 d5 4.d4 dxc4 5.Qa4+ Bd7 6.Qxc4 cxd4 7.Qxd4 Ne6 8.Qd1 Bd6 9.Nd2 Rc8 10.Bd3 O-O
+ 11.O-O Qa5 12.Nc4 Qc7 13.Nxd6 Qxd6 14.Bxg6 fxg6 15.Qxd6 exd6 16.Rd1 Rc2 17.f3 Rfc8 18.b3 d5 19.Ba3 Bc6 20.Rdc1 Bb5
+ 21.f4 Bd3 22.Rd1 Be4 23.Nxe4 dxe4 24.Rac1 Rxc1 25.Rxc1 Rxc1+ 26.Bxc1 Nc5 27.Kf1 Nd3 28.Bd2 h5 29.Ke2 Kf7 30.Bc3 b5
+ 31.Kd2 b4 32.Bd4 a6 33.Ba1 1/2-1/2
