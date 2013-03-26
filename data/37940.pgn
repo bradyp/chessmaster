@@ -1,9 +1,0 @@
-[Event "Chess Dominance vs Light Force"]
-[Site "Chess.com"]
-[Date "2013.02.18"]
-[White "Chess Dominance"]
-[Black "Light Force"]
-[Result "*"]
-[TimeControl "1 in 2 days"]
-
-1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 d6 7.Bc4 Nf6 8.f3 O-O *
