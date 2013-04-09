@@ -19,17 +19,20 @@
 Our goal is to design and implement a platform by which chess strategies can be analyzed 
 in an in-depth and visual manner. We will provide an animated heat-map based using 
 player turns as the "time" unit to show the probability distribution of specific chess 
-pieces placements on the board and how they change over time. We'll aggregate location 
-of specific pieces, over all of the games that we have on record, and will provide the 
-probability of a piece existing at any board location given the current turn in the 
-game. 
+pieces placement on the board and how it may change over time. Basically, we'll 
+aggregate location data for each piece, over all of the games that we have on record, 
+and will provide a "probability" heat-map of the piece's board location(s) at any given 
+ingame turn. The user will be able to view changes in the heat-map's probability 
+distribution using a slider.
 
 Imagine a turn-by-turn animation that shows the probability of, for example a pawn, as 
 the probability of it existing at any legal point on the board changes. If you want to 
 know the location of some pawn after say 20 turns, simply pause the animation at the 
-20th turn. We will then provide that pawn's location probability distribution, 
-visualized as a heat-map, over the entire board by analzying that pawn's location at the 
-20th turn for all 50,000 games.
+20th turn. This will show that, for example, the pawn has a 20\% probability of existing
+at some point $(x,y)$ on the board, with the other 80\% distributed through some of 
+other set of board locations. We will then provide that pawn's location probability 
+distribution, visualized as a heat-map, over the entire board by analzying that pawn's 
+location at the 20th turn for all 50,000 games.
 
 \subsection*{Extra Goals - If we have ample time...}
 Given a heat-map for any piece at any given turn, if we have time, we would like to try 
@@ -66,16 +69,18 @@ World Chess Championship tournaments in PGN format.
 
 \section{Current Design Ideas}
 \subsection{Project Tools}
-We may consider making use of the python parser library called~\href{https://
+We will modify the source-code of the python parser called~\href{https://
 pypi.python.org/pypi/pgnparser/1.0}{pgnparser} for extracting the useful information.
+This will make up the "bigdata" portion of the project, possibly on AWS, where the 
+system will distributively analyze the data from all 50,000 games and aggregate piece position histories into a useful format which we can actually use in our visualization.
 
 \subsection{Implementation}
-We've considered using D3 to produce the required visualizations for our application. We 
-are still looking into how this may be done. We have already found matplotlib 
-visualizations of chess games, but would like to provide this service as an online 
-application. This would be the frontend portion of the project. In the backend, we will 
-use a database, possibly mongodb, to store the data required to produce an animated heat-
-map. 
+We've considered using D3 to produce the required visualizations for our application. A 
+possibility that we are looking into is creating an interactive chessboard that will 
+animate the probability distribution of any given piece after $x$ turns.
+
+In the backend, we may use a database, possibly mongodb, to store the data required to 
+produce an animated heat-map. 
 
 The data needed to produce the heat-map will be processed via AWS by analyzing all the 
 chess games to capture piece location statistics and histories.
