@@ -10,15 +10,16 @@ import pgn_parser as pgn
 
 
 def print_test(filename):
-  pgn_text = open(filename).read()
-  pgn_game = pgn.PGNGame()
+    """
+    """
+    pgn_text = open(filename).read()
+    pgn_game = pgn.PGNGame()
 
-  print pgn.loads(pgn_text) # Returns a list of PGNGame
-  print '\n'
-  print pgn.dumps(pgn_game) # Returns a string with a pgn game
-  print '\n'
-  print pgn_game.moves
-  print '\n'
+    print pgn_game.loads(pgn_text)  # Returns a list of PGNGame
+    print '\n'
+    print pgn_game.dumps(pgn_game)  # Returns a string with a pgn game
+    print '\n'
+    pgn_game.print_moves()
 
 ##################################################
 # Main
