@@ -19,9 +19,6 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-# --- Modified by Juan L. Burgos for the purpose of completing
-# --- university project for my undergraduate data science course.
-
 import re
 
 '''
@@ -42,6 +39,7 @@ The basic usage::
     print pgn.dumps(pgn_game) # Returns a string with a pgn game
 
 '''
+
 
 class PGNGame(object):
     '''
@@ -76,138 +74,140 @@ class PGNGame(object):
 
         self.moves = []
 
-    def dumps(self):
-        return dumps(self)
-
     def __repr__(self):
+        """
+        """
         return '<PGNGame "%s" vs "%s">' % (self.white, self.black)
 
-def _pre_process_text(text):
-    '''
-    This function is responsible for removal of end line commentarys
-    (;commentary), blank lines and aditional spaces. Also, it converts
-    ``\\r\\n`` to ``\\n``.
-    '''
-    text = re.sub(r'\s*(\\r)?\\n\s*', '\n', text.strip())
-    lines = []
-    for line in text.split('\n'):
-        line = re.sub(r'(\s*;.*|^\s*)', '', line)
-        if line:
-            lines.append(line)
+    def print_moves(self):
+        """
+        """
+        print 'Moves: ', self.moves
 
-    return lines
+    def _pre_process_text(self, text):
+        '''
+        This function is responsible for removal of end line commentarys
+        (;commentary), blank lines and aditional spaces. Also, it converts
+        ``\\r\\n`` to ``\\n``.
+        '''
+        text = re.sub(r'\s*(\\r)?\\n\s*', '\n', text.strip())
+        lines = []
+        for line in text.split('\n'):
+            line = re.sub(r'(\s*;.*|^\s*)', '', line)
+            if line:
+                lines.append(line)
 
-def _next_token(lines):
-    '''
-    Get the next token from lines (list of text pgn file lines).
+        return lines
 
-    There is 2 kind of tokens: tags and moves. Tags tokens starts with ``[``
-    char, e.g. ``[TagName "Tag Value"]``. Moves tags follows the example:
-    ``1. e4 e5 2. d4``.
-    '''
-    if not lines:
-        return None
+    def _next_token(self, lines):
+        '''
+        Get the next token from lines (list of text pgn file lines).
 
-    token = lines.pop(0).strip()
-    if token.startswith('['):
-        return token
+        There is 2 kind of tokens: tags and moves. Tags tokens starts with ``[``
+        char, e.g. ``[TagName "Tag Value"]``. Moves tags follows the example:
+        ``1. e4 e5 2. d4``.
+        '''
+        if not lines:
+            return None
 
-    while lines and not lines[0].startswith('['):
-        token += ' '+lines.pop(0).strip()
-
-    return token.strip()
-
-def _parse_tag(token):
-    '''
-    Parse a tag token and returns a tuple with (tagName, tagValue).
-    '''
-    tag, value = re.match(r'\[(\w*)\s*(.+)', token).groups()
-    return tag.lower(), value.strip('"[] ')
-
-def _parse_moves(token):
-    '''
-    Parse a moves token and returns a list with moviments
-    '''
-    moves = []
-    while token:
-        token = re.sub(r'^\s*(\d+\.+\s*)?', '', token)
-
-        if token.startswith('{'):
-            pos = token.find('}')+1
-        else:
-            pos1 = token.find(' ')
-            pos2 = token.find('{')
-            if pos1 <= 0:
-                pos = pos2
-            elif pos2 <= 0:
-                pos = pos1
-            else:
-                pos = min([pos1, pos2])
-
-        if pos > 0:
-            moves.append(token[:pos])
-            token = token[pos:]
-        else:
-            moves.append(token)
-            token = ''
-
-    return moves
-
-def loads(text):
-    '''
-    Converts a string ``text`` into a list of PNGGames
-    '''
-    games = []
-    game = None
-    lines = _pre_process_text(text)
-
-    while True:
-        token = _next_token(lines)
-
-        if not token:
-            break
-
+        token = lines.pop(0).strip()
         if token.startswith('['):
-            tag, value = _parse_tag(token)
-            if not game or (game and game.moves):
-                game = PGNGame()
-                games.append(game)
+            return token
 
-            setattr(game, tag, value)
-        else:
-            game.moves = _parse_moves(token)
+        while lines and not lines[0].startswith('['):
+            token += ' ' + lines.pop(0).strip()
 
-    return games
+        return token.strip()
 
-def dumps(games):
-    '''
-    Serialize a list os PGNGames (or a single game) into text format.
-    '''
-    all_dumps = []
+    def _parse_tag(self, token):
+        '''
+        Parse a tag token and returns a tuple with (tagName, tagValue).
+        '''
+        tag, value = re.match(r'\[(\w*)\s*(.+)', token).groups()
+        return tag.lower(), value.strip('"[] ')
 
-    if not isinstance(games, (list, tuple)):
-        games = [games]
+    def _parse_moves(self, token):
+        '''
+        Parse a moves token and returns a list with moviments
+        '''
+        self.moves = []
+        while token:
+            token = re.sub(r'^\s*(\d+\.+\s*)?', '', token)
 
-    for game in games:
-        dump = ''
-        for i, tag in enumerate(PGNGame.TAG_ORDER):
-            if getattr(game, tag.lower()):
-                dump += '[%s "%s"]\n' % (tag, getattr(game, tag.lower()))
-            elif i <= 6:
-                dump += '[%s "?"]\n' % tag
+            if token.startswith('{'):
+                pos = token.find('}') + 1
+            else:
+                pos1 = token.find(' ')
+                pos2 = token.find('{')
+                if pos1 <= 0:
+                    pos = pos2
+                elif pos2 <= 0:
+                    pos = pos1
+                else:
+                    pos = min([pos1, pos2])
 
+            if pos > 0:
+                self.moves.append(token[:pos])
+                token = token[pos:]
+            else:
+                self.moves.append(token)
+                token = ''
 
-        dump += '\n'
-        i = 0
-        for move in game.moves:
-            if not move.startswith('{'):
-                if i%2 == 0:
-                    dump += str(i/2+1)+'. '
+        return self.moves
 
-                i += 1
+    def loads(self, text):
+        '''
+        Converts a string ``text`` into a list of PNGGames
+        '''
+        games = []
+        game = None
+        lines = self._pre_process_text(text)
 
-            dump += move + ' '
+        while True:
+            token = self._next_token(lines)
 
-        all_dumps.append(dump.strip())
+            if not token:
+                break
 
-    return '\n\n\n'.join(all_dumps)
+            if token.startswith('['):
+                tag, value = self._parse_tag(token)
+                if not game or (game and game.moves):
+                    game = PGNGame()
+                    games.append(game)
+
+                setattr(game, tag, value)
+            else:
+                game.moves = self._parse_moves(token)
+
+        return games
+
+    def dumps(self, games):
+        '''
+        Serialize a list os PGNGames (or a single game) into text format.
+        '''
+        all_dumps = []
+
+        if not isinstance(games, (list, tuple)):
+            games = [games]
+
+        for game in games:
+            dump = ''
+            for i, tag in enumerate(PGNGame.TAG_ORDER):
+                if getattr(game, tag.lower()):
+                    dump += '[%s "%s"]\n' % (tag, getattr(game, tag.lower()))
+                elif i <= 6:
+                    dump += '[%s "?"]\n' % tag
+            dump += '\n'
+            i = 0
+            for move in game.moves:
+                if not move.startswith('{'):
+                    if i % 2 == 0:
+                        dump += str(i / 2 + 1) + '. '
+
+                    i += 1
+
+                dump += move + ' '
+
+            all_dumps.append(dump.strip())
+
+        return '\n\n\n'.join(all_dumps)
