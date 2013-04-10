@@ -4,6 +4,37 @@ from itertools import izip
 import re
 import sys
 
+
+def _parse_moves(token):
+    '''                                                                                            
+    Parse a moves token and returns a list with moviments                                          
+    '''
+    moves = []
+    while token:
+        token = re.sub(r'^\s*(\d+\.+\s*)?', '', token)
+
+        if token.startswith('{'):
+            pos = token.find('}')+1
+        else:
+            pos1 = token.find(' ')
+            pos2 = token.find('{')
+            if pos1 <= 0:
+                pos = pos2
+            elif pos2 <= 0:
+                pos = pos1
+            else:
+                pos = min([pos1, pos2])
+
+        if pos > 0:
+            moves.append(token[:pos])
+            token = token[pos:]
+        else:
+            moves.append(token)
+            token = ''
+
+    return moves
+
+
 def parse_entry(entry):
     output = {'history':''}
     for elem in entry.split('\n'):
@@ -46,7 +77,8 @@ pass
 if __name__ == '__main__':
     games = parse(sys.argv[1])
     print games[0]
-    print parse_history(games[0])
+    print _parse_moves(games[0])
+#    print parse_history(games[0])
     #data = [parse_history(entry) for entry in games]
     #for entry in data:
     #    print 'New Game'

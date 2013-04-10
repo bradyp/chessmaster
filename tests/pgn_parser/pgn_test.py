@@ -4,10 +4,11 @@
 # Imports
 
 import pgn_parser as pgn
-
+import sys
 ##################################################
 # Tester
-
+def pre_parse(filename):
+  pass
 
 def print_test(filename):
   pgn_text = open(filename).read()
@@ -23,4 +24,5 @@ def print_test(filename):
 ##################################################
 # Main
 
-print_test('example.pgn')
+#print_test('example.pgn')
+pre-parse(sys.argv[1])
