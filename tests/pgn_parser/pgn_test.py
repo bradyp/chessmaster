@@ -12,9 +12,9 @@ import re
 def pre_parse(filename):
   f = open(filename)
   raw = f.read()
-  subbed = re.sub('1-0','1-0@',raw)
-  subbed = re.sub('1/2-1/2','1/2-1/2@',subbed)
-  subbed = re.sub('0-1','0-1@',subbed)
+  subbed = re.sub('1-0\s','1-0@',raw)
+  subbed = re.sub('1/2-1/2\s','1/2-1/2@',subbed)
+  subbed = re.sub('0-1\s','0-1@',subbed)
   output = subbed.split('@')
   return output
   pass
@@ -34,8 +34,7 @@ def print_test(pgn_text):
 ##################################################
 # Main
 
-games = pre_parse(sys.argv[1])
-print games
-for game in games:
-  print_test(game)
-#print_test('example.pgn')
+if __name__ == '__main__':
+  games = pre_parse(sys.argv[1])
+  for game in games:
+    print_test(game)
