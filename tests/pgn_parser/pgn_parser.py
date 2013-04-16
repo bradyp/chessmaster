@@ -87,24 +87,18 @@ class PGNGame(object):
     def json(self):
         """
         """
-        try:
-            output = {}
-            zipped = []
-            if len(self.moves)%2 == 1:
-                output['result'] = self.moves[-1]
-                del self.moves[-1]       
-            zipped = zip(self.moves[0::2], self.moves[1::2])
-        
-            for i in range(1,len(zipped)+1):
-                output[i] = zipped[i-1]
-            if 'result' in output:
-                return output
-            else:
-                output['result'] = output[len(zipped)][1]
-                output[len(zipped)] = (output[len(zipped)][0],'')
-            return output
-        except KeyError:
-            return output
+        output = {}
+        zipped = []
+        for move in self.moves:
+            if '{' in move:
+                p = re.compile('\{\{*.*?\}\}', re.DOTALL)
+                move = p.sub('', move)
+        values = [i+ ' ' + j for i,j in zip(self.moves[::2],self.moves[1::2])]
+        keys = range(1,len(values)+1)        
+        output = dict(zip(keys,values))
+        if len(self.moves)%2 == 1:
+            output[len(output)+1] = self.moves[-1]
+        return output
 
     def _pre_process_text(self, text):
         '''

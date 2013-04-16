@@ -27,10 +27,14 @@ def print_test(pgn_text):
     pgn_game.loads(pgn_text)
     pgn_game.dumps(pgn_game)
     
-    print pgn_game.json()
+#    print pgn_game.json()
+    
+      
     #if len(pgn_game.moves) == 2*len(pgn_game.json()):
     #  print pgn_game.moves
-    #  print pgn_game.json()
+    print len(pgn_game.moves)
+    print pgn_game.json()
+    print ''
 
 ##################################################
 # Main
