@@ -33,15 +33,15 @@ The basic usage::
     import pgn
 
     pgn_text = open('morphy.pgn).read()
-    pgn_game = pgn.PGNGame()
+    pgn_game = pgn.PGNParser()
 
-    print pgn.loads(pgn_text) # Returns a list of PGNGame
+    print pgn.loads(pgn_text) # Returns a list of PGNParser
     print pgn.dumps(pgn_game) # Returns a string with a pgn game
 
 '''
 
 
-class PGNGame(object):
+class PGNParser(object):
     '''
     Describes a single chess game in PGN format.
     '''
@@ -50,12 +50,15 @@ class PGNGame(object):
                  'Annotator', 'PlyCount', 'TimeControl', 'Time', 'Termination',
                  'Mode', 'FEN']
 
-    def __init__(self, event=None, site=None, date=None, round=None,
-                                                         white=None,
-                                                         black=None,
-                                                         result=None):
+    def __init__(self,  event=None,
+                        site=None,
+                        date=None,
+                        round=None,
+                        white=None,
+                        black=None,
+                        result=None):
         '''
-        Initializes the PGNGame, receiving the requireds tags.
+        Initializes the PGNParser, receiving the requireds tags.
         '''
         self.event = event
         self.site = site
@@ -77,13 +80,13 @@ class PGNGame(object):
     def __repr__(self):
         """
         """
-        return '<PGNGame "%s" vs "%s">' % (self.white, self.black)
+        return '<PGNParser "%s" vs "%s">' % (self.white, self.black)
 
     def print_moves(self):
         """
         """
         print 'Moves: ', self.moves
-    
+
     def json(self):
         """
         """
@@ -94,7 +97,7 @@ class PGNGame(object):
                 p = re.compile('\{\{*.*?\}\}', re.DOTALL)
                 move = p.sub('', move)
         values = [i+ ' ' + j for i,j in zip(self.moves[::2],self.moves[1::2])]
-        keys = range(1,len(values)+1)        
+        keys = range(1,len(values)+1)
         output = dict(zip(keys,values))
         if len(self.moves)%2 == 1:
             output[len(output)+1] = self.moves[-1]
@@ -188,7 +191,7 @@ class PGNGame(object):
             if token.startswith('['):
                 tag, value = self._parse_tag(token)
                 if not game or (game and game.moves):
-                    game = PGNGame()
+                    game = PGNParser()
                     games.append(game)
 
                 setattr(game, tag, value)
@@ -199,7 +202,7 @@ class PGNGame(object):
 
     def dumps(self, games):
         '''
-        Serialize a list os PGNGames (or a single game) into text format.
+        Serialize a list of PGNParsers (or a single game) into text format.
         '''
         all_dumps = []
 
@@ -208,7 +211,7 @@ class PGNGame(object):
 
         for game in games:
             dump = ''
-            for i, tag in enumerate(PGNGame.TAG_ORDER):
+            for i, tag in enumerate(PGNParser.TAG_ORDER):
                 if getattr(game, tag.lower()):
                     dump += '[%s "%s"]\n' % (tag, getattr(game, tag.lower()))
                 elif i <= 6:
