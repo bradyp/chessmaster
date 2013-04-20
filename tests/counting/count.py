@@ -42,35 +42,31 @@ def count(games):
     states = []
     holder = copy.deepcopy(games[0][0])
     for entry in holder:
-        holder[entry] = defaultdict(int)
+        holder[entry] = copy.deepcopy(defaultdict(int))
     longest = max([len(game) for game in games])
     for i in range(longest):
-        states.append(holder)
+        states.append(copy.deepcopy(holder))
     
 
-    for state, i  in zip(states, range(len(states))):
-        for game in games:
-            for pos in game[i]:
-                if not game[i][pos].isspace():
-                    piece = game[i][pos]
-                    print states[i][pos][piece] = 0
-#                    print states[i][pos][piece] += 1
-
-#                    state[i][pos][piece] += 1
-    """
     for game in games:
         for state, i in zip(game,range(len(game))):
             for pos in state:
                 if not state[pos].isspace():
                     states[i][pos][state[pos]] += 1
-    """
+    return states
+    pass
 
-    for state, i in zip(states, range(len(states))):
+def display(states):
+    print 'stateID pos pieceID #occurances'
+    for state, i in zip(states,range(len(states))):
         print 'STATE: ', i
         for pos in state:
-            print pos, state[pos]
+            print '\t', pos
+            for piece in state[pos]:
+                print  '\t\t', piece, state[pos][piece]
     pass
 
 if __name__ == '__main__':
     games = readfile(sys.argv[1])
-    count(games)
+    states = count(games)
+    display(states)
