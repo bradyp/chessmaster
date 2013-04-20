@@ -46,21 +46,29 @@ def count(games):
     longest = max([len(game) for game in games])
     for i in range(longest):
         states.append(holder)
-        
+    
 
+    for state, i  in zip(states, range(len(states))):
+        for game in games:
+            for pos in game[i]:
+                if not game[i][pos].isspace():
+                    piece = game[i][pos]
+                    print states[i][pos][piece] = 0
+#                    print states[i][pos][piece] += 1
+
+#                    state[i][pos][piece] += 1
+    """
     for game in games:
         for state, i in zip(game,range(len(game))):
             for pos in state:
-                if state[pos].isspace():
+                if not state[pos].isspace():
                     states[i][pos][state[pos]] += 1
-    
+    """
 
-    for state in states:
+    for state, i in zip(states, range(len(states))):
+        print 'STATE: ', i
         for pos in state:
-            print pos
-            for piece in state[pos]:
-                print piece, state[pos][piece]
-        print '---NEW STATE---'
+            print pos, state[pos]
     pass
 
 if __name__ == '__main__':
