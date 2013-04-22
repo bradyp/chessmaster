@@ -1,0 +1,181 @@
+<!-- 
+    http://processing.org/learning/2darray/
+ -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            *{
+                margin: 0px 0px 0px 0px;
+                padding: 0px 0px 0px 0px;
+            }
+        </style>
+        <script src="processing-1.4.1.js"></script>
+        <body>
+            <script type="application/processing">
+                // 2D Array of objects
+                Cell[][] grid;
+                HScrollbar Hbar;
+                // Number of columns and rows in the grid
+                int cols = 8;
+                int rows = 8;
+                
+                void setup() {
+                    size(screen.height - 200,screen.height - 150);
+                    background(0);
+                    grid = new Cell[cols][rows];
+                    for (int i = 0; i < cols; i++) {
+                        for (int j = 0; j < rows; j++) {
+                            Color c = 0;
+                            if (i%2 == j%2){c = 0;}
+                            else {c=255;}
+
+                            scale = width /8;
+                            grid[i][j] = new Cell(i * scale,j * scale,scale,scale,c);
+                        }
+                    }
+                    Hbar = new HScrollbar(0, width, width, 100, 5);
+                }
+                
+                void draw() {
+                    for (int i = 0; i < cols; i++) {
+                        for (int j = 0; j < rows; j++) {
+                            grid[i][j].display();
+                        }
+                    }
+                    Hbar.update();
+                    Hbar.display();
+                }
+                
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+                class Cell {
+                    // A cell object knows about its location in the grid as well as its size with the variables x,y,w,h.
+                    float x,y;   // x,y location
+                    float w,h;   // width and height
+                    Color primary,secondary, active; // angle for oscillating brightness
+                    boolean toggle = false;
+                    
+                    // Cell Constructor
+                    Cell(float tempX, float tempY, float tempW, float tempH, Color tempC) {
+                        x = tempX;
+                        y = tempY;
+                        w = tempW;
+                        h = tempH;
+                        primary = tempC;
+                        if (primary == 0){secondary = primary + 50;}
+                        else {secondary = primary - 50;}
+                        active = tempC;
+                    } 
+                    
+                    void display() {
+                        active = toggle ? secondary : primary;
+                        fill(active);
+                        rect(x,y,w,h);
+                    }
+                    void Toggle(){toggle = !toggle;}
+                    void Primary(){toggle = false;}
+                    void Secondary() {toggle = true;}
+                }
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+               class HScrollbar{
+                    int swidth, sheight;    // width and height of bar
+                    int xpos, ypos;         // x and y position of bar
+                    float spos, newspos;    // x position of slider
+                    int sposMin, sposMax;   // max and min values of slider
+                    int loose;              // how loose/heavy
+                    boolean over;           // is the mouse over the slider?
+                    boolean locked;
+                    float ratio;
+                
+                    HScrollbar (int xp, int yp, int sw, int sh, int l) {
+                        swidth = sw;
+                        sheight = sh;
+                        int widthtoheight = sw - sh;
+                        ratio = (float)sw / (float)widthtoheight;
+                        xpos = xp;
+                        ypos = yp-sheight/2;
+                        spos = xpos + swidth/2 - sheight/2;
+                        newspos = spos;
+                        sposMin = xpos;
+                        sposMax = xpos + swidth - sheight;
+                        loose = l;
+                    }
+                   void update() {
+                       if(over()) {
+                           over = true;
+                       } else {
+                           over = false;
+                       }
+                       if(mousePressed && over) {
+                           locked = true;
+                       }
+                       if(!mousePressed) {
+                           locked = false;
+                       }
+                       if(locked) {
+                           newspos = constrain(mouseX-sheight/2, sposMin, sposMax);
+                       }
+                       if(abs(newspos - spos) > 1) {
+                           spos = spos + (newspos-spos)/loose;
+                       }
+                   }
+                   
+                   int constrain(int val, int minv, int maxv) {
+                       
+                       return min(max(val, minv), maxv);
+                       
+                   }
+                   
+                   boolean over() {
+                       if(mouseX > xpos && mouseX < xpos+swidth &&
+                          mouseY > ypos && mouseY < ypos+sheight) {
+                           return true;
+                       } else {
+                           return false;
+                       }
+                   }
+                   
+                   void display() {
+                       fill(255);
+                       rect(xpos, ypos, swidth, sheight);
+                       if(over || locked) {
+                           fill(153, 102, 0);
+                       } else {
+                           fill(102, 102, 102);
+                       }
+                       rect(spos, ypos, sheight, sheight);
+                   }
+                   
+                   float getPos() {
+                       // Convert spos to be values between
+                       // 0 and the total width of the scrollbar
+                       return spos * ratio;
+                   }
+               }
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+                void mouseClicked() {
+                    i_ = find(mouseX);
+                    j_ = find(mouseY);
+                    grid[i_][j_].Toggle();
+                    for (int i=0; i<8; i++){
+                        for (int j=0; j<8; j++){
+                            if (i == i_ && j == j_) {continue;}
+                            grid[i][j].Primary();
+                        }
+                    }
+                }
+                
+                int find(pos){
+                    scale = width/8;
+                    for (int i=1; i<8; i++){
+                        if ((pos < scale * i) && (pos >= scale * (i-1))){
+                            return i-1;
+                        }
+                    }
+                    return 7;
+                }
+
+            </script>
+            <canvas width="500" height="500"></canvas>
+    </body>
+</html>
