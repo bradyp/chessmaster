@@ -34,7 +34,7 @@
                             grid[i][j] = new Cell(i * scale,j * scale,scale,scale,c);
                         }
                     }
-                    Hbar = new HScrollbar(0, width, width, 100, 5);
+                    Hbar = new HScrollbar(0, width+25, width, 50, 5);
                 }
                 
                 void draw() {
@@ -54,6 +54,7 @@
                     float w,h;   // width and height
                     Color primary,secondary, active; // angle for oscillating brightness
                     boolean toggle = false;
+                    int shade = 80;
                     
                     // Cell Constructor
                     Cell(float tempX, float tempY, float tempW, float tempH, Color tempC) {
@@ -62,32 +63,38 @@
                         w = tempW;
                         h = tempH;
                         primary = tempC;
-                        if (primary == 0){secondary = primary + 50;}
-                        else {secondary = primary - 50;}
+                        secondary = tempC;
                         active = tempC;
                     } 
                     
                     void display() {
-                        active = toggle ? secondary : primary;
+                        if (primary == 0){
+                            active = toggle ? secondary + shade : primary;
+                        }
+                        else {active = toggle ? secondary - shade : primary;}
                         fill(active);
                         rect(x,y,w,h);
                     }
                     void Toggle(){toggle = !toggle;}
                     void Primary(){toggle = false;}
                     void Secondary() {toggle = true;}
+                    void Shade() {
+                        if (shade <= 255 && shade >= 0) {shade += 10;}
+                    }
+                    void Shade_reset(){shade = 0;}
                 }
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-               class HScrollbar{
+                class HScrollbar {
                     int swidth, sheight;    // width and height of bar
-                    int xpos, ypos;         // x and y position of bar
+                    float xpos, ypos;       // x and y position of bar
                     float spos, newspos;    // x position of slider
-                    int sposMin, sposMax;   // max and min values of slider
+                    float sposMin, sposMax; // max and min values of slider
                     int loose;              // how loose/heavy
                     boolean over;           // is the mouse over the slider?
                     boolean locked;
                     float ratio;
-                
-                    HScrollbar (int xp, int yp, int sw, int sh, int l) {
+                    
+                    HScrollbar (float xp, float yp, int sw, int sh, int l) {
                         swidth = sw;
                         sheight = sh;
                         int widthtoheight = sw - sh;
@@ -100,79 +107,81 @@
                         sposMax = xpos + swidth - sheight;
                         loose = l;
                     }
-                   void update() {
-                       if(over()) {
-                           over = true;
-                       } else {
-                           over = false;
-                       }
-                       if(mousePressed && over) {
-                           locked = true;
-                       }
-                       if(!mousePressed) {
-                           locked = false;
-                       }
-                       if(locked) {
-                           newspos = constrain(mouseX-sheight/2, sposMin, sposMax);
-                       }
-                       if(abs(newspos - spos) > 1) {
-                           spos = spos + (newspos-spos)/loose;
-                       }
-                   }
-                   
-                   int constrain(int val, int minv, int maxv) {
-                       
-                       return min(max(val, minv), maxv);
-                       
-                   }
-                   
-                   boolean over() {
-                       if(mouseX > xpos && mouseX < xpos+swidth &&
-                          mouseY > ypos && mouseY < ypos+sheight) {
-                           return true;
-                       } else {
-                           return false;
-                       }
-                   }
-                   
-                   void display() {
-                       fill(255);
-                       rect(xpos, ypos, swidth, sheight);
-                       if(over || locked) {
-                           fill(153, 102, 0);
-                       } else {
-                           fill(102, 102, 102);
-                       }
-                       rect(spos, ypos, sheight, sheight);
-                   }
-                   
-                   float getPos() {
-                       // Convert spos to be values between
-                       // 0 and the total width of the scrollbar
-                       return spos * ratio;
-                   }
-               }
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+                    
+                    void update() {
+                        if (overEvent()) {
+                            over = true;
+                        } else {
+                            over = false;
+                        }
+                        if (mousePressed && over) {
+                            locked = true;
+                        }
+                        if (!mousePressed) {
+                            locked = false;
+                        }
+                        if (locked) {
+                            newspos = constrain(mouseX-sheight/2, sposMin, sposMax);
+                        }
+                        if (abs(newspos - spos) > 1) {
+                            spos = spos + (newspos-spos)/loose;
+                        }
+                    }
+                    
+                    float constrain(float val, float minv, float maxv) {
+                        return min(max(val, minv), maxv);
+                    }
+                    
+                    boolean overEvent() {
+                        if (mouseX > xpos && mouseX < xpos+swidth &&
+                            mouseY > ypos && mouseY < ypos+sheight) {
+                            return true;
+                        } else {
+                            return false;
+                        }
+                    }
+                    
+                    void display() {
+                        noStroke();
+                        fill(204);
+                        rect(xpos, ypos, swidth, sheight);
+                        if (over || locked) {
+                            fill(0, 0, 0);
+                        } else {
+                            fill(102, 102, 102);
+                        }
+                        rect(spos, ypos, sheight, sheight);
+                    }
+                    
+                    float getPos() {
+                        // Convert spos to be values between
+                        // 0 and the total width of the scrollbar
+                        return spos * ratio;
+                    }
+                }/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                 void mouseClicked() {
                     i_ = find(mouseX);
                     j_ = find(mouseY);
-                    grid[i_][j_].Toggle();
+                    if (i_ == -1 || j_ == -1) {return;} //doesn't do anything if click isn't on board
+                    if (grid[i_][j_].toggle){grid[i_][j_].Shade();}
+                    else {grid[i_][j_].Toggle();}
                     for (int i=0; i<8; i++){
                         for (int j=0; j<8; j++){
                             if (i == i_ && j == j_) {continue;}
                             grid[i][j].Primary();
+                            grid[i][j].Shade_reset();
                         }
                     }
                 }
                 
                 int find(pos){
                     scale = width/8;
-                    for (int i=1; i<8; i++){
+                    for (int i=1; i<=8; i++){
                         if ((pos < scale * i) && (pos >= scale * (i-1))){
                             return i-1;
                         }
                     }
-                    return 7;
+                    return -1;
                 }
 
             </script>
