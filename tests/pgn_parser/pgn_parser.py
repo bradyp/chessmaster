@@ -20,7 +20,7 @@
 # SOFTWARE.
 
 import re
-import sys
+
 '''
 A simple PGN parser.
 
@@ -50,13 +50,13 @@ class PGNParser(object):
                  'Annotator', 'PlyCount', 'TimeControl', 'Time', 'Termination',
                  'Mode', 'FEN']
 
-    def __init__(self,  event=None,
-                        site=None,
-                        date=None,
-                        round=None,
-                        white=None,
-                        black=None,
-                        result=None):
+    def __init__(self, event=None,
+                       site=None,
+                       date=None,
+                       round=None,
+                       white=None,
+                       black=None,
+                       result=None):
         '''
         Initializes the PGNParser, receiving the requireds tags.
         '''
@@ -91,16 +91,16 @@ class PGNParser(object):
         """
         """
         output = {}
-        zipped = []
         for move in self.moves:
             if '{' in move:
                 p = re.compile('\{\{*.*?\}\}', re.DOTALL)
                 move = p.sub('', move)
-        values = [i+ ' ' + j for i,j in zip(self.moves[::2],self.moves[1::2])]
-        keys = range(1,len(values)+1)
-        output = dict(zip(keys,values))
-        if len(self.moves)%2 == 1:
-            output[len(output)+1] = self.moves[-1]
+        values = [i + ' ' + j for i, j in zip(self.moves[::2],
+                    self.moves[1::2])]
+        keys = range(1, len(values) + 1)
+        output = dict(zip(keys, values))
+        if len(self.moves) % 2 == 1:
+            output[len(output) + 1] = self.moves[-1]
         return output
 
     def _pre_process_text(self, text):
