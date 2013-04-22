@@ -134,12 +134,6 @@ class Game(object):
         move = move.replace('#', '')
         # Note, we will keep the '=' symbol indicating pawn promotion
 
-        # If any unknown symbols still appear, throw an exception
-        error = re.match('^[\w]+$', move)
-        if(error is not None):
-            if(error.group() != move):
-                raise Exception('Unknown symbol(s) detected in (%s)' % move)
-
         # Special Moves require identifiers
         # Castling Queen-side
         if('O-O-O' in move):
