@@ -3,7 +3,7 @@ Notes:
 http://stackoverflow.com/questions/1894269/convert-string-list-to-list-in-python (parsing file)
 
 """
-import ast, sys, copy
+import ast, sys, copy, json
 from collections import defaultdict
 
 def readfile(filename):
@@ -33,40 +33,37 @@ def readfile(filename):
     return output
     pass
 
-def count(games):
+def count(games, piece):
     """
-    INPUT:
+    INPUT: list of games where a game is a list of states where a state is a list of moves where a move is a character of the form color/piece/numerical identifier, and piece identifier
     OUTPUT: list states, each state is a dict with id for key and a dict for the value, the dict will have keys of unique pieceid and values of how many occured there
+    NEW_OUTPUT:dictionary of states with ints for keys and dicts for values, the values 
+
+    Ex: output: {0:{A1:0,A2:0.03,...G8:0.05}, 1:{...}, ...}
     """
     #prepare
-    states = []
-    holder = copy.deepcopy(games[0][0])
-    for entry in holder:
-        holder[entry] = copy.deepcopy(defaultdict(int))
+    record = defaultdict(float) #this is an instance of the lowest most 
     longest = max([len(game) for game in games])
+    output = {}
     for i in range(longest):
-        states.append(copy.deepcopy(holder))
+        output[i] = copy.deepcopy(record)
     
-
     for game in games:
-        for state, i in zip(game,range(len(game))):
-            for pos in state:
-                if not state[pos].isspace():
-                    states[i][pos][state[pos]] += 1
-    return states
-    pass
-
-def display(states):
-    print 'stateID pos pieceID #occurances'
-    for state, i in zip(states,range(len(states))):
-        print 'STATE: ', i
-        for pos in state:
-            print '\t', pos
-            for piece in state[pos]:
-                print  '\t\t', piece, state[pos][piece]
+        for state, i in zip(game, range(len(game))):
+            if piece in state.values():
+                for pos in state:
+                    if state[pos] == piece:
+                        output[i][pos] += 1
+                        break
+    for state in output:
+        total = sum(output[state].values()) #total possible places of a piece at any given state
+        output[state] = dict(output[state])
+        for pos in output[state]:
+            output[state][pos] /= total
+    return output
     pass
 
 if __name__ == '__main__':
     games = readfile(sys.argv[1])
-    states = count(games)
-    display(states)
+    states = count(games,'bKK')
+    print states
