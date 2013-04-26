@@ -70,14 +70,13 @@ class Game(object):
         Used to avoid twisting around the board.
         """
         # Left or right border of the game board
-        if(curIndex in range(0, 65, 8) or curIndex in range(7, 65, 8)):
-            if(self.getRow(curIndex) != self.getRow(nextIndex)):
-                return True
+        if(curIndex in range(0, 65, 8) and nextIndex in range(7, 65, 8)):
+            return True
+        if(nextIndex in range(0, 65, 8) and curIndex in range(7, 65, 8)):
+            return True
         # Top or bottom border of the game board
-        if(curIndex in range(0, 8) or curIndex in range(56, 64)):
-            if(self.getRow(curIndex) != self.getRow(nextIndex) or
-                nextIndex > 63 or nextIndex < 0):
-                return True
+        if(nextIndex > 63 or nextIndex < 0):
+            return True
         # Inner part of the game board
         return False
 
@@ -125,7 +124,7 @@ class Game(object):
         move = newmove
 
         # Display current board state
-        self.prettyPrintBoard(self.games.state)
+        #self.prettyPrintBoard(self.games.state)
 
         # Remove useless symbols
         move = move.replace('+', '')
@@ -353,7 +352,7 @@ class Game(object):
                         bmove += 8
                         locs.append(bmove)
 
-            if(len(move) >= 3):
+            if(len(move) == 3):
                 oldloc = None
                 for loc in locs:
                     if(player == 'W' and 'wR' in self.games.state[loc]):
@@ -604,8 +603,8 @@ class Game(object):
                 locs.append(newloc - 8 - 1)
             if(not self.inBorder(newloc, newloc - 8 - 0)):
                 locs.append(newloc - 8 - 0)
-            if(not self.inBorder(newloc, newloc + 8 + 1)):
-                locs.append(newloc + 8 + 1)
+            if(not self.inBorder(newloc, newloc - 8 + 1)):
+                locs.append(newloc - 8 + 1)
             if(not self.inBorder(newloc, newloc - 1)):
                 locs.append(newloc - 1)
             if(not self.inBorder(newloc, newloc + 1)):
@@ -627,8 +626,8 @@ class Game(object):
             # for the position back in b8, the inBorder() method counts such
             # a position as invalid. Consider using the getCol() method to
             # fix this situation!
-            print locs
-            print locs2
+            print 'locs:',locs
+            print 'locs2:',locs2
             if(player == 'W' and 'wKK' in locs2):
                 oldloc = locs[locs2.index('wKK')]
                 self.games.state[newloc] = self.games.state[oldloc]
@@ -732,3 +731,4 @@ if __name__ == '__main__':
             print 'Exception occurred during game #%d' % count
             print 'Game data is as follows:\n', game
             exit()
+
