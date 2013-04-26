@@ -10,12 +10,15 @@
                 padding: 0px 0px 0px 0px;
             }
         </style>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
         <script src="processing-1.4.1.js"></script>
         <body>
             <script type="application/processing">
                 // 2D Array of objects
                 Cell[][] grid;
                 HScrollbar Hbar;
+                var history;
+                
                 // Number of columns and rows in the grid
                 int cols = 8;
                 int rows = 8;
@@ -27,12 +30,8 @@
                     stroke(0);
                     for (int i = 0; i < cols; i++) {
                         for (int j = 0; j < rows; j++) {
-                            Color c = 0;
-                            if (i%2 == j%2){c = 0;}
-                            else {c=255;}
-
                             scale = width /8;
-                            grid[i][j] = new Cell(i * scale,j * scale,scale,scale,255);
+                            grid[i][j] = new Cell(i * scale,j * scale,scale,scale,0);
                         }
                     }
                     Hbar = new HScrollbar(0, width+25, width, 50, 5);
@@ -66,7 +65,7 @@
                     } 
                     
                     void display() {
-                        fill(c);
+                        fill(255 - c);
                         rect(x,y,w,h);
                     }
                    
@@ -148,7 +147,9 @@
                     }
                 }/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                 void mouseClicked() {
-                    if (Hbar.getPos()) {
+                    if (Hbar.getPos() == 0 ) {
+                        $.getJSON( "../counting/bKK.json", function(data){history = data;});
+                        alert(history["0"]["E8"]);
                         i_ = find(mouseX);
                         j_ = find(mouseY);
                         if (i_ == -1 || j_ == -1) {return;} //doesn't do anything if click isn't on board
