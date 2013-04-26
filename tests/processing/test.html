@@ -1,13 +1,75 @@
 <!-- 
-    http://processing.org/learning/2darray/
- -->
+http://processing.org/learning/2darray/
+-->
 <!DOCTYPE html>
 <html>
-    <head>
-        <style>
-            *{
-                margin: 0px 0px 0px 0px;
-                padding: 0px 0px 0px 0px;
+  <head>
+    <style>
+      *{
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+      }
+    </style>
+    <script src="processing-1.4.1.js"></script>
+    <body>
+      <script type="application/processing">
+        // 2D Array of objects
+        Cell[][] grid;
+        HScrollbar Hbar;
+        // Number of columns and rows in the grid
+        int cols = 8;
+        int rows = 8;
+
+        void setup() {
+          size(screen.height - 200,screen.height - 150);
+          background(0);
+          grid = new Cell[cols][rows];
+          for (int i = 0; i < cols; i++) {
+            for (int j = 0; j < rows; j++) {
+              Color c = 0;
+              if (i%2 == j%2){c = 0;}
+              else {c=255;}
+
+              scale = width /8;
+              grid[i][j] = new Cell(i * scale,j * scale,scale,scale,c);
+            }
+          }
+          Hbar = new HScrollbar(0, width+25, width, 50, 5);
+        }
+
+        void draw() {
+          for (int i = 0; i < cols; i++) {
+            for (int j = 0; j < rows; j++) {
+              grid[i][j].display();
+            }
+          }
+          Hbar.update();
+          Hbar.display();
+        }
+
+        /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        class Cell {
+          // A cell object knows about its location in the grid as well as its size with the variables x,y,w,h.
+          float x,y;   // x,y location
+          float w,h;   // width and height
+          Color primary,secondary, active; // angle for oscillating brightness
+          boolean toggle = false;
+          int shade = 80;
+
+          // Cell Constructor
+          Cell(float tempX, float tempY, float tempW, float tempH, Color tempC) {
+            x = tempX;
+            y = tempY;
+            w = tempW;
+            h = tempH;
+            primary = tempC;
+            secondary = tempC;
+            active = tempC;
+          } 
+
+          void display() {
+            if (primary == 0){
+              active = toggle ? secondary + shade : primary;
             }
         </style>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
@@ -172,7 +234,7 @@
                     return -1;
                 }
 
-            </script>
-            <canvas width="500" height="500"></canvas>
+      </script>
+      <canvas width="500" height="500"></canvas>
     </body>
-</html>
+  </html>
