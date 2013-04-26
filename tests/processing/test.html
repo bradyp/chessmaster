@@ -24,6 +24,7 @@
                     size(screen.height - 200,screen.height - 150);
                     background(0);
                     grid = new Cell[cols][rows];
+                    stroke(0);
                     for (int i = 0; i < cols; i++) {
                         for (int j = 0; j < rows; j++) {
                             Color c = 0;
@@ -31,13 +32,14 @@
                             else {c=255;}
 
                             scale = width /8;
-                            grid[i][j] = new Cell(i * scale,j * scale,scale,scale,c);
+                            grid[i][j] = new Cell(i * scale,j * scale,scale,scale,255);
                         }
                     }
                     Hbar = new HScrollbar(0, width+25, width, 50, 5);
                 }
                 
                 void draw() {
+                    stroke(0);
                     for (int i = 0; i < cols; i++) {
                         for (int j = 0; j < rows; j++) {
                             grid[i][j].display();
@@ -52,9 +54,7 @@
                     // A cell object knows about its location in the grid as well as its size with the variables x,y,w,h.
                     float x,y;   // x,y location
                     float w,h;   // width and height
-                    Color primary,secondary, active; // angle for oscillating brightness
-                    boolean toggle = false;
-                    int shade = 80;
+                    Color c; // angle for oscillating brightness
                     
                     // Cell Constructor
                     Cell(float tempX, float tempY, float tempW, float tempH, Color tempC) {
@@ -62,26 +62,14 @@
                         y = tempY;
                         w = tempW;
                         h = tempH;
-                        primary = tempC;
-                        secondary = tempC;
-                        active = tempC;
+                        c = tempC;
                     } 
                     
                     void display() {
-                        if (primary == 0){
-                            active = toggle ? secondary + shade : primary;
-                        }
-                        else {active = toggle ? secondary - shade : primary;}
-                        fill(active);
+                        fill(c);
                         rect(x,y,w,h);
                     }
-                    void Toggle(){toggle = !toggle;}
-                    void Primary(){toggle = false;}
-                    void Secondary() {toggle = true;}
-                    void Shade() {
-                        if (shade <= 255 && shade >= 0) {shade += 10;}
-                    }
-                    void Shade_reset(){shade = 0;}
+                   
                 }
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                 class HScrollbar {
@@ -153,23 +141,22 @@
                         rect(spos, ypos, sheight, sheight);
                     }
                     
-                    float getPos() {
+                    int getPos() {
                         // Convert spos to be values between
                         // 0 and the total width of the scrollbar
-                        return spos * ratio;
+                        return int(spos * ratio);
                     }
                 }/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                 void mouseClicked() {
-                    i_ = find(mouseX);
-                    j_ = find(mouseY);
-                    if (i_ == -1 || j_ == -1) {return;} //doesn't do anything if click isn't on board
-                    if (grid[i_][j_].toggle){grid[i_][j_].Shade();}
-                    else {grid[i_][j_].Toggle();}
-                    for (int i=0; i<8; i++){
-                        for (int j=0; j<8; j++){
-                            if (i == i_ && j == j_) {continue;}
-                            grid[i][j].Primary();
-                            grid[i][j].Shade_reset();
+                    if (Hbar.getPos()) {
+                        i_ = find(mouseX);
+                        j_ = find(mouseY);
+                        if (i_ == -1 || j_ == -1) {return;} //doesn't do anything if click isn't on board
+                        
+                        for (int i=0; i<8; i++){
+                            for (int j=0; j<8; j++){
+                                break;
+                            }
                         }
                     }
                 }
