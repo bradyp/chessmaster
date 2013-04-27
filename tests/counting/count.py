@@ -3,6 +3,8 @@ Notes:
 http://stackoverflow.com/questions/1894269/convert-string-list-to-list-in-python (parsing file)
 
 """
+import string
+import ast, sys, copy
 import ast, sys, copy
 import simplejson as json
 
@@ -11,7 +13,7 @@ from collections import defaultdict
 def readfile(filename):
     """
     INPUT:filename for processed data file containing board states deliminated with '@'
-    OUTPUT:list of games where a game is a list of states where a state is a list of moves where a move is a character of the form color/piece/numerical identifier 
+    OUTPUT:list of games where a game is a list of states where a state is a list of moves where a move is a character of the form color/piece/numerical identifier
     """
     f = open(filename)
     games = f.read().split('@')
@@ -39,17 +41,17 @@ def count(games, piece):
     """
     INPUT: list of games where a game is a list of states where a state is a list of moves where a move is a character of the form color/piece/numerical identifier, and piece identifier
     OUTPUT: list states, each state is a dict with id for key and a dict for the value, the dict will have keys of unique pieceid and values of how many occured there
-    NEW_OUTPUT:dictionary of states with ints for keys and dicts for values, the values 
+    NEW_OUTPUT:dictionary of states with ints for keys and dicts for values, the values
 
     Ex: output: {0:{A1:0,A2:0.03,...G8:0.05}, 1:{...}, ...}
     """
     #prepare
-    record = defaultdict(float) #this is an instance of the lowest most 
+    record = defaultdict(float) #this is an instance of the lowest most
     longest = max([len(game) for game in games])
     output = {}
     for i in range(longest):
         output[i] = copy.deepcopy(record)
-    
+
     for game in games:
         for state, i in zip(game, range(len(game))):
             if piece in state.values():
@@ -62,11 +64,11 @@ def count(games, piece):
         output[state] = dict(output[state])
         for pos in output[state]:
             output[state][pos] /= total
-    
+
     return json.dumps(output)
     pass
 
 if __name__ == '__main__':
     games = readfile(sys.argv[1])
-    states = count(games,'bKK')
+    states = count(games,string.lower('wP1'))
     print states
