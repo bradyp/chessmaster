@@ -4,7 +4,10 @@ http://stackoverflow.com/questions/1894269/convert-string-list-to-list-in-python
 
 """
 import string
-import ast, sys, copy, json
+import ast, sys, copy
+import ast, sys, copy
+import simplejson as json
+
 from collections import defaultdict
 
 def readfile(filename):
@@ -61,7 +64,8 @@ def count(games, piece):
         output[state] = dict(output[state])
         for pos in output[state]:
             output[state][pos] /= total
-    return output
+
+    return json.dumps(output)
     pass
 
 if __name__ == '__main__':
