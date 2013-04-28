@@ -5,59 +5,112 @@ http://processing.org/learning/2darray/
 <html>
   <head>
     <style>
-      *{
-        margin: 0px 0px 0px 0px;
-        padding: 0px 0px 0px 0px;
-      }
+        *{
+            margin: 0px 0px 0px 0px;
+            padding: 0px 0px 0px 0px;
+        }
+        canvas {
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+        }
     </style>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
     <script src="processing-1.4.1.js"></script>
         <body>
+            <select id="pieces">
+                <option>Black Rook L</option>
+                <option>Black Rook R</option>
+                <option>Black Knight L</option>
+                <option>Black Knight R</option>
+                <option>Black Bishop L</option>
+                <option>Black Bishop R</option>
+                <option>Black Queen</option>
+                <option>Black King</option>
+                <option>Black Pawn 1</option>
+                <option>Black Pawn 2</option>
+                <option>Black Pawn 3</option>
+                <option>Black Pawn 4</option>
+                <option>Black Pawn 5</option>
+                <option>Black Pawn 6</option>
+                <option>Black Pawn 7</option>
+                <option>Black Pawn 8</option>
+
+                <option>White Rook L</option>
+                <option>White Rook R</option>
+                <option>White Knight L</option>
+                <option>White Knight R</option>
+                <option>White Bishop L</option>
+                <option>White Bishop R</option>
+                <option>White Queen</option>
+                <option>White King</option>
+                <option>White Pawn 1</option>
+                <option>White Pawn 2</option>
+                <option>White Pawn 3</option>
+                <option>White Pawn 4</option>
+                <option>White Pawn 5</option>
+                <option>White Pawn 6</option>
+                <option>White Pawn 7</option>
+                <option>White Pawn 8</option>
+
+            </select>
+            
             <script type="application/processing">
                 // 2D Array of objects
                 Cell[][] grid;
                 HScrollbar Hbar;
-                var history;
+                var history = {};
                 int states_length = 0;
                 int inc_width = 0;
                 int current_state = 0;
+                string piece = "";
                 // Number of columns and rows in the grid
                 int cols = 8;
                 int rows = 8;
                 
                 void setup() {
-                    size(screen.height - 200,screen.height - 150);
+                    size(screen.height - 199 - screen.height% 8,screen.height - 149 - screen.height % 8);
                     background(0);
                     grid = new Cell[cols][rows];
                     stroke(0);
                     for (int i = 0; i < cols; i++) {
                         for (int j = 0; j < rows; j++) {
-                            scale = width /8;
+                            scale = int(width / 8);
                             grid[i][j] = new Cell(i * scale,j * scale,scale,scale,0);
                         }
                     }
                     Hbar = new HScrollbar(0, width+25, width, 50, 10);
+                    piece = "bR1";
+                    load_file(piece);
+                    
                 }
                 
-                void draw() {
+                void update(){
                     stroke(0);
-                    inc_width = width / states_length;
                     for (int i = 0; i < cols; i++) {
                         for (int j = 0; j < rows; j++) {
-                    
                             grid[i][j].display();
                         }
                     }
-                    
-                    /*for (var entry in history[current_state.toString()]){
-                        place = map(entry);
-                        grid[place[0]][place[1]].setColor(255 * history[current_state.toString()][entry]);
-                        grid[place[0]][place[1]].display();
-                    }*/
-                    
+                    if (states_length > 0){//changes color for each square according to probs known
+                        for (var entry in history[current_state.toString()]){
+                            place = map(entry);
+                            grid[place[0]][place[1]].setColor(255 * history[current_state.toString()][entry]);
+                            grid[place[0]][place[1]].display();
+                        }
+                    }
+                }
+                void draw() {
+                    inc_width = width / states_length;
                     Hbar.update();
                     Hbar.display();
                     Hbar.setPos(current_state * inc_width);
+                    update();
+                    
+                    if (piece != get_id(pieces.options[pieces.selectedIndex].text)){ //new piece selected
+                        piece = get_id(pieces.options[pieces.selectedIndex].text);
+                        load_file(piece);
+                    }
                 }
                 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -153,13 +206,9 @@ http://processing.org/learning/2darray/
                             fill(102, 102, 102);
                         }
                         rect(spos, ypos, sheight, sheight);
-                        
-                        
                     }
                     
                     int getPos() {
-                        // Convert spos to be values between
-                        // 0 and the total width of the scrollbar
                         return int(spos * ratio);
                     }
                     
@@ -170,19 +219,8 @@ http://processing.org/learning/2darray/
                 void mouseClicked() {
                     i_ = find(mouseX);
                     j_ = find(mouseY);
-                    if (i_ == -1 || j_ == -1) {return;} //doesn't do anything if click isn't on board
-                    if (Hbar.getPos() == 0 && (j_ < 2 || j_ > 5)) {
-                        $.getJSON( "../counting/bKK.json", function(data){history = data;});
-                        states_length = Object.keys(history).length;
-                        current_state = 1;
-
-                        for (int i=0; i<8; i++){
-                            for (int j=0; j<8; j++){
-                                break;
-                            }
-                        }
-                    }
-                    else if (states_length > 0){
+                    if (i_ == -1 || j_ == -1) {return;} //doesn't do anything if click isn't on board                    
+                    if (states_length >= 0){
                         if (mouseButton == LEFT) {
                             if (current_state < states_length){
                                 current_state += 1;
@@ -195,6 +233,12 @@ http://processing.org/learning/2darray/
                                 Hbar.setPos(current_state * inc_width);
                             }
                         }
+                    }
+                    else{
+                        alert("invalid data for " + piece);
+                        alert("stored " + piece);
+                        alert("actual " + get_id(pieces.options[pieces.selectedIndex].text));
+                        alert(piece != get_id(pieces.options[pieces.selectedIndex].text));
                     }
                 }
                 
@@ -213,8 +257,30 @@ http://processing.org/learning/2darray/
                     y = 8 - parseInt(position[1],10);
                     return [x,y]
                 }
-
+                string get_id(string id){
+                    output = '';
+                    output += id.charAt(0).toLowerCase();
+                    last = id.charAt(id.length - 1);
+                    if (id[6] == "K" && (last == "L" || last == "R")){output += "N";}
+                    else {output += id[6]}
+                    
+                    if (last == "n" || last == "g"){output += output[1];}
+                    else if (last == "L"){output += "1";}
+                    else if (last == "R"){output += "2";}
+                    else {output += last;}
+                    
+                    return output;
+                }
+                void load_file(piece_id){
+                    alert("File Loaded");
+                    $.getJSON( "../counting/" + piece_id + ".json", function(data){
+                              history = data;
+                              states_length = Object.keys(data).length;
+                              });
+                    current_state = 0;
+                    Hbar.setPos(0);
+                }
       </script>
-            <canvas width="500" height="500" ></canvas>
+            <canvas>Please update your browser</canvas>
     </body>
   </html>
