@@ -51,6 +51,13 @@ class Game(object):
                        'h': 7
                        }
 
+    def isInteger(self, symbol):
+        try:
+            int(symbol)
+            return True
+        except ValueError:
+            return False
+
     def getRow(self, index):
         """
         Find the row of a given tile.
@@ -64,7 +71,14 @@ class Game(object):
         Is the index in column col?
         """
         # Return true if the index is in the given column
-        return (index in range(self.mapper[col], 65, 8))
+        return (index in xrange(self.mapper[col], 65, 8))
+
+    def isInRow(self, row, index):
+        """
+        Is the idnex in row 'row'?
+        """
+        # return true if the index is in the given row
+        return (index in xrange(8*(8-row),8*(8-row+1)))
 
     def inBorder(self, curIndex, nextIndex):
         """
@@ -89,6 +103,7 @@ class Game(object):
 
     def prettyPrintBoard(self, board):
         """
+        Debug method.
         Pretty print the current board state to the console.
         """
         horizontal = [' a ', ' b ', ' c ', ' d ', ' e ', ' f ', ' g ', ' h ']
@@ -114,12 +129,12 @@ class Game(object):
         Updates the current board state depending on the player and move
         that's being played.
         """
-
+        print 'MAKING MOVE'
         # Create copy of the new move
         move = newmove
 
         # Display current board state
-        #self.prettyPrintBoard(self.state)
+        self.prettyPrintBoard(self.state)
 
         # Remove useless symbols
         move = move.replace('+', '')
@@ -157,10 +172,18 @@ class Game(object):
                 self.state[61] = 'wR2'
             return 'O-O'
 
+        print 'MAKING MOVE2 = \"%s\"' % move
+
         # Normal Moves require that we base updates on piece movement rules
         # A normal move has been made, identify the piece's new location
-        newloc = self.getLoc(move[-1], move[-2])
+        if('=' not in move):
+            newloc = self.getLoc(move[-1], move[-2])
+        else:
+            newloc = self.getLoc(move[-3], move[-4])
 
+        print 'HERE WE GO'
+
+        print 'SO I SURVIVED'
         # Pawn is being moved
         if(move[0] in self.mapper.keys()):
             print 'Moving Pawn'
@@ -190,17 +213,33 @@ class Game(object):
             #       none are performed in our corpus.
             #TODO :: Handle en passante!
             else:
-                if(player == 'W'):
-                    l1 = self.getLoc(move[-1], move[0]) + 8
-                    self.state[newloc] = self.state[l1]
-                    self.state[l1] = self.empty_tile
+                row, col = None, None
+                if('=' in move):
+                    print 'promotion'
+                    col, row = -3, -4
                 else:
-                    l1 = self.getLoc(move[-1], move[0]) - 8
-                    self.state[newloc] = self.state[l1]
-                    self.state[l1] = self.empty_tile
+                    print 'no promotion'
+                    col, row = -1, -2
+                oldloc = self.getLoc(move[col], move[row])
+                if(player == 'W'):
+                    oldloc += 8
+                else:
+                    oldloc -= 8
+                if(self.isInColumn(move[0], newloc-1)):
+                    oldloc -= 1
+                else:
+                    oldloc += 1
+
+                self.state[newloc] = self.state[oldloc]
+                self.state[oldloc] = self.empty_tile
+                if(move == 'cxd5'):
+                    print 'wtf'
+                    print 'oldloc =',oldloc
+                    print 'newloc =',newloc
 
             # Handle pawn promotion
             if('=' in move):
+                print 'PROMOTION'
                 if(player == 'W'):
                     self.state[newloc] = 'w'
                 else:
@@ -236,24 +275,24 @@ class Game(object):
                'd' != move[-2] and
                'e' != move[-2] and
                'f' != move[-2]):
-                if(self.mapper['a'] == move[-2]):
+                if('a' == move[-2]):
                     locs.pop(locs.index(newloc + 8 * 2 - 1))
                     locs.pop(locs.index(newloc + 8 - 2))
                     locs.pop(locs.index(newloc - 8 - 2))
                     locs.pop(locs.index(newloc - 8 * 2 - 1))
-                elif(self.mapper['b'] == move[-2]):
+                elif('b' == move[-2]):
                     locs.pop(locs.index(newloc + 8 - 2))
                     locs.pop(locs.index(newloc - 8 - 2))
-                elif(self.mapper['g'] == move[-2]):
+                elif('g' == move[-2]):
                     locs.pop(locs.index(newloc + 8 + 2))
                     locs.pop(locs.index(newloc - 8 + 2))
-                elif(self.mapper['h'] == move[-2]):
+                elif('h' == move[-2]):
                     locs.pop(locs.index(newloc + 8 * 2 + 1))
                     locs.pop(locs.index(newloc + 8 + 2))
                     locs.pop(locs.index(newloc - 8 + 2))
                     locs.pop(locs.index(newloc - 8 * 2 + 1))
                 else:
-                    msg = 'Unknown file for knight move (%s)' % move
+                    msg = 'Unknown file for knight move (%s)' % move[-2]
                     raise Exception(msg)
 
             # Gather possible previous knight locations
@@ -266,6 +305,9 @@ class Game(object):
 
             # One knight is move/capturing
             if(len(move) == 3):
+                print 'knight 3'
+                print 'newloc = ',newloc
+                print 'locs = ',locs
                 self.state[newloc] = self.state[locs2[0]]
                 self.state[locs2[0]] = self.empty_tile
 
@@ -274,26 +316,29 @@ class Game(object):
             #      there exist more than two knights due to
             #      time constraints.
             #FIX LATER!
-            elif(len(move == 4)):
-                c1 = self.mapper[move[1]]
-                c2 = self.mapper[move[2]]
-                row = move[-1]
-                if(c1 - c2 == 1):
-                    if(locs[0] < newloc):
-                        row -= 2
-                    else:
-                        row += 2
+            elif(len(move) == 4):
+                print 'knight 4'
+                self.isInteger(move[1])
+                print 'passed'
+                oldloc = None
+                if(self.isInteger(move[1])):
+                    for loc in locs2:
+                        if(self.isInRow(int(move[1]),loc)):
+                            oldloc = loc
                 else:
-                    if(locs[0] < newloc):
-                        row -= 1
-                    else:
-                        row += 1
-                oldloc = 8 * row + self.mapper[move[1]]
+                    for loc in locs2:
+                        if(self.isInColumn(move[1],loc)):
+                            oldloc = loc
+                            break
+                print 'newloc:',newloc
+                print 'locs2:',locs2
+                print 'oldloc:',oldloc
                 self.state[newloc] = self.state[oldloc]
                 self.state[oldloc] = self.empty_tile
 
             # Two knights on the same file
-            elif(len(move == 5)):
+            elif(len(move) == 5):
+                print 'knight 5'
                 oldloc = self.getLoc(move[1], move[2])
                 self.state[newloc] = self.state[oldloc]
                 self.state[oldloc] = self.empty_tile
@@ -322,30 +367,54 @@ class Game(object):
                     if(self.inBorder(lmove, lmove - 1)):
                         left = False
                     else:
-                        lmove -= 1
-                        locs.append(lmove)
+                        if(self.state[lmove - 1] == self.empty_tile):
+                            lmove -= 1
+                        elif('R' in self.state[lmove-1]):
+                            lmove -= 1
+                            locs.append(lmove)
+                            left = False
+                        else:
+                            left = False
 
                 # Find all possible positions to the right
                 if(right):
                     if(self.inBorder(rmove, rmove + 1)):
                         right = False
                     else:
-                        rmove += 1
-                        locs.append(rmove)
+                        if(self.state[rmove + 1] == self.empty_tile):
+                            rmove += 1
+                        elif('R' in self.state[rmove + 1]):
+                            rmove += 1
+                            locs.append(rmove)
+                            right = False
+                        else:
+                            right = False
                 # Find all possible positions to the top
                 if(top):
                     if(self.inBorder(tmove, tmove - 8)):
                         top = False
                     else:
-                        tmove -= 8
-                        locs.append(tmove)
+                        if(self.state[tmove - 8] == self.empty_tile):
+                            tmove -= 8
+                        elif('R' in self.state[tmove - 8]):
+                            tmove -= 8
+                            locs.append(tmove)
+                            top = False
+                        else:
+                            top = False
                 # Find all possible positions to the bottom
                 if(bottom):
                     if(self.inBorder(bmove, bmove + 8)):
                         bottom = False
                     else:
-                        bmove += 8
-                        locs.append(bmove)
+                        if(self.state[bmove + 8] == self.empty_tile):
+                            bmove += 8
+                        elif('R' in self.state[bmove + 8]):
+                            bmove += 8
+                            locs.append(bmove)
+                            bottom = False
+                        else:
+                            bottom = False
 
             if(len(move) == 3):
                 oldloc = None
@@ -363,17 +432,30 @@ class Game(object):
                     self.state[oldloc] = self.empty_tile
             elif(len(move) == 4):
                 oldloc = None
-                for loc in locs:
-                    if(player == 'W' and
-                        'wR' in self.state[loc] and
-                        self.isInColumn(move[1], loc)):
-                        oldloc = loc
-                        break
-                    elif(player == 'B' and
-                        'bR' in self.state[loc] and
-                        self.isInColumn(move[1], loc)):
-                        oldloc = loc
-                        break
+                if(self.isInteger(move[1])):
+                    for loc in locs:
+                        if(player == 'W' and
+                            'wR' in self.state[loc] and
+                            self.isInRow(int(move[1]), loc)):
+                            oldloc = loc
+                            break
+                        elif(player == 'B' and
+                            'bR' in self.state[loc] and
+                            self.isInRow(int(move[1]), loc)):
+                            oldloc = loc
+                            break
+                else:
+                    for loc in locs:
+                        if(player == 'W' and
+                            'wR' in self.state[loc] and
+                            self.isInColumn(move[1], loc)):
+                            oldloc = loc
+                            break
+                        elif(player == 'B' and
+                            'bR' in self.state[loc] and
+                            self.isInColumn(move[1], loc)):
+                            oldloc = loc
+                            break
                 if(oldloc is None):
                     raise Exception('Could not find rook for move2: %s' % move)
                 else:
@@ -406,33 +488,58 @@ class Game(object):
                     if(self.inBorder(lumove, lumove - 9)):
                         lu = False
                     else:
-                        lumove -= 9
-                        locs.append(lumove)
+                        if(self.state[lumove - 9] == self.empty_tile):
+                            lumove -= 9
+                        elif('B' in self.state[lumove - 9]):
+                            lumove -= 9
+                            locs.append(lumove)
+                            lu = False
+                        else:
+                            lu = False
 
                 # Find all possible positions to the upper-right diagonal
                 if(ru):
                     if(self.inBorder(rumove, rumove - 7)):
                         ru = False
                     else:
-                        rumove -= 7
-                        locs.append(rumove)
+                        if(self.state[rumove - 7] == self.empty_tile):
+                            rumove -= 7
+                        elif('B' in self.state[rumove - 7]):
+                            rumove -= 7
+                            locs.append(rumove)
+                            ru = False
+                        else:
+                            ru = False
+                            asdfjkl
                 # Find all possible positions to the lower-left diagonal
                 if(ld):
                     if(self.inBorder(ldmove, ldmove + 7)):
                         ld = False
                     else:
-                        ldmove += 7
-                        locs.append(ldmove)
+                      if(self.state[ldmove + 7] == self.empty_tile):
+                          ldmove += 7
+                      elif('B' in self.state[ldmove + 7]):
+                          ldmove += 7
+                          locs.append(ldmove)
+                          ld = False
+                      else:
+                          ld = False
                 # Find all possible positions to the lower-right diagonal
                 if(rd):
                     if(self.inBorder(rdmove, rdmove + 9)):
                         rd = False
                     else:
-                        rdmove += 9
-                        locs.append(rdmove)
+                        if(self.state[rdmove + 9] == self.empty_tile):
+                            rdmove += 9
+                        elif('B' in self.state[rdmove + 9]):
+                            rdmove += 9
+                            locs.append(rdmove)
+                            rd = False
+                        else:
+                            rd = False
 
             print 'p2'
-            if(len(move) >= 3):
+            if(len(move) == 3):
                 oldloc = None
                 for loc in locs:
                     print 'piece in loc(%d) = %s' % (loc, self.state[loc])
@@ -450,17 +557,30 @@ class Game(object):
                     self.state[oldloc] = self.empty_tile
             elif(len(move) == 4):
                 oldloc = None
-                for loc in locs:
-                    if(player == 'W' and
-                        'wB' in self.state[loc] and
-                        self.isInColumn(move[1], loc)):
-                        oldloc = loc
-                        break
-                    elif(player == 'B' and
-                        'bB' in self.state[loc] and
-                        self.isInColumn(move[1], loc)):
-                        oldloc = loc
-                        break
+                if(self.isInteger(move[1])):
+                    for loc in locs:
+                        if(player == 'W' and
+                            'wB' in self.state[loc] and
+                            self.isInRow(int(move[1]), loc)):
+                            oldloc = loc
+                            break
+                        elif(player == 'B' and
+                            'bB' in self.state[loc] and
+                            self.isInRow(int(move[1]), loc)):
+                            oldloc = loc
+                            break
+                else:
+                    for loc in locs:
+                        if(player == 'W' and
+                            'wB' in self.state[loc] and
+                            self.isInColumn(move[1], loc)):
+                            oldloc = loc
+                            break
+                        elif(player == 'B' and
+                            'bB' in self.state[loc] and
+                            self.isInColumn(move[1], loc)):
+                            oldloc = loc
+                            break
                 if(oldloc is None):
                     msg = 'Could not find bishop for move2: %s' % move
                     raise Exception(msg)
@@ -494,59 +614,107 @@ class Game(object):
                     if(self.inBorder(lmove, lmove - 1)):
                         left = False
                     else:
-                        lmove -= 1
-                        locs.append(lmove)
+                        if(self.state[lmove - 1] == self.empty_tile):
+                            lmove -= 1
+                        elif('Q' in self.state[lmove-1]):
+                            lmove -= 1
+                            locs.append(lmove)
+                            left = False
+                        else:
+                            left = False
 
                 # Find all possible positions to the right
                 if(right):
                     if(self.inBorder(rmove, rmove + 1)):
                         right = False
                     else:
-                        rmove += 1
-                        locs.append(rmove)
+                        if(self.state[rmove + 1] == self.empty_tile):
+                            rmove += 1
+                        elif('Q' in self.state[rmove + 1]):
+                            rmove += 1
+                            locs.append(rmove)
+                            right = False
+                        else:
+                            right = False
                 # Find all possible positions to the top
                 if(top):
                     if(self.inBorder(tmove, tmove - 8)):
                         top = False
                     else:
-                        tmove -= 8
-                        locs.append(tmove)
+                        if(self.state[tmove - 8] == self.empty_tile):
+                            tmove -= 8
+                        elif('Q' in self.state[tmove - 8]):
+                            tmove -= 8
+                            locs.append(tmove)
+                            top = False
+                        else:
+                            top = False
                 # Find all possible positions to the bottom
                 if(bottom):
                     if(self.inBorder(bmove, bmove + 8)):
                         bottom = False
                     else:
-                        bmove += 8
-                        locs.append(bmove)
+                        if(self.state[bmove + 8] == self.empty_tile):
+                            bmove += 8
+                        elif('Q' in self.state[bmove + 8]):
+                            bmove += 8
+                            locs.append(bmove)
+                            bottom = False
+                        else:
+                            bottom = False
                 # Find all possible positions to the upper-left diagonal
                 if(lu):
                     if(self.inBorder(lumove, lumove - 9)):
                         lu = False
                     else:
-                        lumove -= 9
-                        locs.append(lumove)
+                        if(self.state[lumove - 9] == self.empty_tile):
+                            lumove -= 9
+                        elif('Q' in self.state[lumove - 9]):
+                            lumove -= 9
+                            locs.append(lumove)
+                            lu = False
+                        else:
+                            lu = False
 
                 # Find all possible positions to the upper-right diagonal
                 if(ru):
                     if(self.inBorder(rumove, rumove - 7)):
                         ru = False
                     else:
-                        rumove -= 7
-                        locs.append(rumove)
+                        if(self.state[rumove - 7] == self.empty_tile):
+                            rumove -= 7
+                        elif('Q' in self.state[rumove - 7]):
+                            rumove -= 7
+                            locs.append(rumove)
+                            ru = False
+                        else:
+                            ru = False
                 # Find all possible positions to the lower-left diagonal
                 if(ld):
                     if(self.inBorder(ldmove, ldmove + 7)):
                         ld = False
                     else:
-                        ldmove += 7
-                        locs.append(ldmove)
+                      if(self.state[ldmove + 7] == self.empty_tile):
+                          ldmove += 7
+                      elif('Q' in self.state[ldmove + 7]):
+                          ldmove += 7
+                          locs.append(ldmove)
+                          ld = False
+                      else:
+                          ld = False
                 # Find all possible positions to the lower-right diagonal
                 if(rd):
                     if(self.inBorder(rdmove, rdmove + 9)):
                         rd = False
                     else:
-                        rdmove += 9
-                        locs.append(rdmove)
+                        if(self.state[rdmove + 9] == self.empty_tile):
+                            rdmove += 9
+                        elif('Q' in self.state[rdmove + 9]):
+                            rdmove += 9
+                            locs.append(rdmove)
+                            rd = False
+                        else:
+                            rd = False
 
             print 'len of locs = %d' % len(locs)
             if(len(move) >= 3):
@@ -567,17 +735,30 @@ class Game(object):
                     self.state[oldloc] = self.empty_tile
             elif(len(move) == 4):
                 oldloc = None
-                for loc in locs:
-                    if(player == 'W' and
-                        'wQ' in self.state[loc]
-                        and self.isInColumn(move[1], loc)):
-                        oldloc = loc
-                        break
-                    if(player == 'B' and
-                        'bQ' in self.state[loc]
-                        and self.isInColumn(move[1], loc)):
-                        oldloc = loc
-                        break
+                if(self.isInteger(move[1])):
+                    for loc in locs:
+                        if(player == 'W' and
+                            'wQ' in self.state[loc]
+                            and self.isInRow(int(move[1]), loc)):
+                            oldloc = loc
+                            break
+                        if(player == 'B' and
+                            'bQ' in self.state[loc]
+                            and self.isInRow(int(move[1]), loc)):
+                            oldloc = loc
+                            break
+                else:
+                    for loc in locs:
+                        if(player == 'W' and
+                            'wQ' in self.state[loc]
+                            and self.isInColumn(move[1], loc)):
+                            oldloc = loc
+                            break
+                        if(player == 'B' and
+                            'bQ' in self.state[loc]
+                            and self.isInColumn(move[1], loc)):
+                            oldloc = loc
+                            break
                 if(oldloc is None):
                     msg = 'Could not find queen for move2: %s' % move
                     raise Exception(msg)
@@ -680,28 +861,34 @@ class Game(object):
                 ]
         self.state = init
         self.games.all_states.append(self.state)
-        print init
+        print '[',init
 
         # For each (turn,move) in the game, record the board state for turn, moves in move_list:
         for turn,moves in move_list:
             #Endgame detected, return
             if(len(moves) == 1):
-                print 'ENDGAME: %s' % moves
+                print '1. ENDGAME: %s' % moves
                 break
 
             # Update for white's turn
             self.new_state('W', turn, moves[0])
             self.games.all_states.append(copy.deepcopy(self.state))
 
+            if('-' in moves[1]):
+                print '2. ENDGAME: %s' % moves
+                break
+
             # Update for black's turn
             self.new_state('B', turn, moves[1])
             self.games.all_states.append(copy.deepcopy(self.state))
 
         # Display final board staet
-        self.prettyPrintBoard(self.state)
-        for state in self.games.all_states:
-            print state
-        print 'num turns = %d' % len(self.games.all_states)
+        num_states = len(self.games.all_states)
+        for i in xrange(num_states):
+            print self.games.all_states[i],
+            if(i != num_states - 1):
+              print ','
+        print ']\n'
 
         # Reset containers
         self.games.all_states = []
@@ -721,6 +908,6 @@ if __name__ == '__main__':
         except AttributeError, e:  # AttributeError:
             print '\n\nAttribute Exception caught: %s' % e
             print 'Exception occurred during game #%d' % count
-            print 'Game data is as follows:\n', game
+            print 'Failed game data is as follows:\n', game
             exit()
 
