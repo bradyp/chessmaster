@@ -3,6 +3,7 @@
 ##################################################
 # Imports
 
+import os
 import pgn_parser as pgn
 import copy
 import sys
@@ -39,7 +40,7 @@ class Game(object):
         # Current game board state
         self.state = []
         # no piece exists
-        self.empty_tile = '   '
+        self.empty_tile = ''
         # board file mapping
         self.mapper = {'a': 0,
                        'b': 1,
@@ -842,18 +843,21 @@ class Game(object):
         self.games.all_states.append(copy.deepcopy(self.state))
 
         # For each (turn,move) in the game, record the board state for turn, moves in move_list:
+        outcome = None
         for turn,moves in move_list:
             #Endgame detected, return
             if(len(moves) == 1):
-                #print '1. ENDGAME: %s' % moves
+                outcome = moves[0]
                 break
 
             # Update for white's turn
             self.new_state('W', turn, moves[0])
             self.games.all_states.append(copy.deepcopy(self.state))
 
-            if('-' in moves[1]):
-                #print '2. ENDGAME: %s' % moves
+            if('1-0' in moves[1] or
+                '0-1' in moves[1] or
+                '1/2-1/2' in moves[1]):
+                outcome = moves[1]
                 break
 
             # Update for black's turn
@@ -861,15 +865,17 @@ class Game(object):
             self.games.all_states.append(copy.deepcopy(self.state))
 
         # Display final board state
-        print '['
+        print '[',
         num_states = len(self.games.all_states)
         for i in xrange(num_states):
-            print self.games.all_states[i],
-            if(i != num_states - 1):
-                print ','
-            else:
-                print ''
-        print ']\n\n@\n'
+            print self.games.all_states[i],','
+        if(outcome == '1-0'):
+            outcome = 'w'
+        elif(outcome == '0-1'):
+            outcome = 'b'
+        else:
+            outcome = 't'
+        print [outcome],']\n\n@\n'
 
         # Reset containers
         self.games.all_states = []
