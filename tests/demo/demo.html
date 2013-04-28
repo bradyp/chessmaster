@@ -52,18 +52,20 @@ http://processing.org/learning/2darray/
                 <option>White Pawn 6</option>
                 <option>White Pawn 7</option>
                 <option>White Pawn 8</option>
-
             </select>
-            
+            <p id="tcounter">Turn: 0</p>
             <script type="application/processing">
                 // 2D Array of objects
                 Cell[][] grid;
                 HScrollbar Hbar;
                 var history = {};
+                HashMap piece_shapes = new HashMap(6);
+                //var piece_shapes = {"P": "\u2659", "R":"\u2656", "N":"\u2658", "B":"\u2657", "Q":"\u2655", "K","\u2654"};
                 int states_length = 0;
                 int inc_width = 0;
                 int current_state = 0;
                 string piece = "";
+                
                 // Number of columns and rows in the grid
                 int cols = 8;
                 int rows = 8;
@@ -79,10 +81,15 @@ http://processing.org/learning/2darray/
                             grid[i][j] = new Cell(i * scale,j * scale,scale,scale,0);
                         }
                     }
+                    piece_shapes.put("K","\u2654");
+                    piece_shapes.put("Q","\u2655");
+                    piece_shapes.put("R","\u2656");
+                    piece_shapes.put("B","\u2657");
+                    piece_shapes.put("N","\u2658");
+                    piece_shapes.put("P","\u2659");
                     Hbar = new HScrollbar(0, width+25, width, 50, 10);
                     piece = "bR1";
                     load_file(piece);
-                    
                 }
                 
                 void update(){
@@ -96,7 +103,10 @@ http://processing.org/learning/2darray/
                         for (var entry in history[current_state.toString()]){
                             place = map(entry);
                             grid[place[0]][place[1]].setColor(255 * history[current_state.toString()][entry]);
+                            grid[place[0]][place[1]].setProb(history[current_state.toString()][entry]);
+                            grid[place[0]][place[1]].setPiece(piece_shapes.get(piece[1]));
                             grid[place[0]][place[1]].display();
+                            
                         }
                     }
                 }
@@ -119,6 +129,8 @@ http://processing.org/learning/2darray/
                     float x,y;   // x,y location
                     float w,h;   // width and height
                     Color c; // angle for oscillating brightness
+                    string piece_shape;
+                    float prob;
                     
                     // Cell Constructor
                     Cell(float tempX, float tempY, float tempW, float tempH, Color tempC) {
@@ -127,15 +139,24 @@ http://processing.org/learning/2darray/
                         w = tempW;
                         h = tempH;
                         c = tempC;
+                        piece_shape = "";
+                        prob = 0;
                     } 
                     
                     void display() {
                         fill(255 - c);
                         rect(x,y,w,h);
+                        if (prob < 0.5) {fill(0);}
+                        else {fill(255);}
+                        textSize(16);
+                        text(prob * 100,x+5,y+15);
+                        textSize(64);
+                        text(piece_shape,x + w/2 -32 ,y + h/2 +24);
                     }
                     
                     void setColor(int c_){c =c_;}
-                   
+                    void setProb(float p_){prob = p_;}
+                    void setPiece(string _piece){piece_shape = _piece;}
                 }
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                 class HScrollbar {
@@ -219,11 +240,12 @@ http://processing.org/learning/2darray/
                 void mouseClicked() {
                     i_ = find(mouseX);
                     j_ = find(mouseY);
-                    if (i_ == -1 || j_ == -1) {return;} //doesn't do anything if click isn't on board                    
+                    if (i_ == -1 || j_ == -1) {return;} //doesn't do anything if click isn't on board
                     if (states_length >= 0){
                         if (mouseButton == LEFT) {
-                            if (current_state < states_length){
+                            if (current_state < states_length -1){
                                 current_state += 1;
+                                $("#tcounter").text("Turn: " + current_state.toString());
                                 Hbar.setPos(current_state * inc_width);
                                 reset_grid();
                             }
@@ -231,6 +253,7 @@ http://processing.org/learning/2darray/
                         else if (mouseButton == RIGHT){
                             if (current_state > 0) {
                                 current_state -= 1;
+                                $("#tcounter").text("Turn: " + current_state.toString());
                                 Hbar.setPos(current_state * inc_width);
                                 reset_grid();
                             }
@@ -270,7 +293,7 @@ http://processing.org/learning/2darray/
                     else if (last == "L"){output += "1";}
                     else if (last == "R"){output += "2";}
                     else {output += last;}
-                    //println("HOLA!");
+                    
                     return output;
                 }
                 void load_file(piece_id){
@@ -286,7 +309,9 @@ http://processing.org/learning/2darray/
                 void reset_grid(){
                     for (int i = 0; i < 8; i++) {
                         for (int j = 0; j < 8; j++) {
-                           grid[i][j].setColor(0);//problem here
+                            grid[i][j].setColor(0);
+                            grid[i][j].setProb(0);
+                            grid[i][j].setPiece("");
                         }
                     }
                 }
