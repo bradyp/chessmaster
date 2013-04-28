@@ -69,12 +69,24 @@ def count(games, piece):
         for pos in output[state]:
             output[state][pos] /= total
 
+    for k in list(output.keys()):
+        if output[k] == {}:
+            del output[k]
     return json.dumps(output)
 
 if __name__ == '__main__':
+    print 'Starting program...'
     games = readfile(sys.argv[1])
-    #pieces=['bR1','bR2','bN1','bN2','bB1','bB2','bQQ','bKK',
-    #
-    #        'wR1','wR1','wN1','wN2','wB1','wB2','wQQ','wKK',
-    states = count(games,'wP5')
-    print states
+    pieces=['bR1','bR2','bN1','bN2','bB1','bB2','bQQ','bKK',
+            'bP1','bP2','bP3','bP4','bP5','bP6','bP7','bP8',
+            'wP1','wP2','wP3','wP4','wP5','wP6','wP7','wP8',
+            'wR1','wR1','wN1','wN2','wB1','wB2','wQQ','wKK',
+            ]
+    for piece in pieces:
+      states = count(games,piece)
+      print 'Writing piece %s to file...' % piece
+      with open(piece+'.json', 'w') as log:
+        print >>log, states
+      print 'Successfully wrote %s to file!' % piece
+    print 'Finished!'
+
