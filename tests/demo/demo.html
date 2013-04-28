@@ -70,7 +70,7 @@ http://processing.org/learning/2darray/
                 
                 void setup() {
                     size(screen.height - 199 - screen.height% 8,screen.height - 149 - screen.height % 8);
-                    background(0);
+                    background(50);
                     grid = new Cell[cols][rows];
                     stroke(0);
                     for (int i = 0; i < cols; i++) {
@@ -101,7 +101,7 @@ http://processing.org/learning/2darray/
                     }
                 }
                 void draw() {
-                    inc_width = width / states_length;
+                    inc_width = width / (states_length - 1 );
                     Hbar.update();
                     Hbar.display();
                     Hbar.setPos(current_state * inc_width);
@@ -134,7 +134,7 @@ http://processing.org/learning/2darray/
                         rect(x,y,w,h);
                     }
                     
-                    void setColor(c_){c = c_;}
+                    void setColor(int c_){c =c_;}
                    
                 }
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -225,12 +225,14 @@ http://processing.org/learning/2darray/
                             if (current_state < states_length){
                                 current_state += 1;
                                 Hbar.setPos(current_state * inc_width);
+                                reset_grid();
                             }
                         }
                         else if (mouseButton == RIGHT){
                             if (current_state > 0) {
                                 current_state -= 1;
                                 Hbar.setPos(current_state * inc_width);
+                                reset_grid();
                             }
                         }
                     }
@@ -272,17 +274,21 @@ http://processing.org/learning/2darray/
                     return output;
                 }
                 void load_file(piece_id){
-                    alert("File Loaded");
-                    $.getJSON( "../counting/" + piece_id + ".json", function(data){
+                    $.getJSON("data/" + piece_id + ".json", function(data){
                               history = data;
                               states_length = Object.keys(data).length;
-//                              })
-//                    .error(function(){
-//                           console.log("debug2 - error");
                            });
 
                     current_state = 0;
                     Hbar.setPos(0);
+                    reset_grid();
+                }
+                void reset_grid(){
+                    for (int i = 0; i < 8; i++) {
+                        for (int j = 0; j < 8; j++) {
+                           grid[i][j].setColor(0);//problem here
+                        }
+                    }
                 }
       </script>
             <canvas>Please update your browser</canvas>
