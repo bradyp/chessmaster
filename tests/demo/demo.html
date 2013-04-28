@@ -72,7 +72,7 @@ http://processing.org/learning/2darray/
                 
                 void setup() {
                     size(screen.height - 199 - screen.height% 8,screen.height - 149 - screen.height % 8);
-                    background(50);
+                    background(0);
                     grid = new Cell[cols][rows];
                     stroke(0);
                     for (int i = 0; i < cols; i++) {
@@ -114,7 +114,10 @@ http://processing.org/learning/2darray/
                     inc_width = width / (states_length - 1 );
                     Hbar.update();
                     Hbar.display();
-                    Hbar.setPos(current_state * inc_width);
+                    current_state = int(Hbar.getPos()/inc_width);
+                    Hbar.setPos(current_state* inc_width);
+                    reset_grid();
+                    $("#tcounter").text("Turn: " + current_state.toString());
                     update();
                     
                     if (piece != get_id(pieces.options[pieces.selectedIndex].text)){ //new piece selected
@@ -241,7 +244,7 @@ http://processing.org/learning/2darray/
                     i_ = find(mouseX);
                     j_ = find(mouseY);
                     if (i_ == -1 || j_ == -1) {return;} //doesn't do anything if click isn't on board
-                    if (states_length >= 0){
+                    /*if (states_length >= 0){
                         if (mouseButton == LEFT) {
                             if (current_state < states_length -1){
                                 current_state += 1;
@@ -264,7 +267,7 @@ http://processing.org/learning/2darray/
                         alert("stored " + piece);
                         alert("actual " + get_id(pieces.options[pieces.selectedIndex].text));
                         alert(piece != get_id(pieces.options[pieces.selectedIndex].text));
-                    }
+                    }*/
                 }
                 
                 int find(pos){
