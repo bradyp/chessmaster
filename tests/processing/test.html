@@ -276,7 +276,11 @@ http://processing.org/learning/2darray/
                     $.getJSON( "../counting/" + piece_id + ".json", function(data){
                               history = data;
                               states_length = Object.keys(data).length;
-                              });
+//                              })
+//                    .error(function(){
+//                           console.log("debug2 - error");
+                           });
+
                     current_state = 0;
                     Hbar.setPos(0);
                 }
