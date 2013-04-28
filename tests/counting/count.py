@@ -53,16 +53,19 @@ def count(games, piece):
     record = defaultdict(float) #this is an instance of the lowest most
     longest = max([len(game) for game in games])-1
     output = {}
+    helper = {}
     for i in range(longest):
         output[i] = copy.deepcopy(record)
+        helper[i] = copy.deepcopy(record)
 
     for game in games:
         game_length = len(game)-1
-        outcome = game[-1]['A8']
+        outcome = game[-1].values()[0]
         for state, i in zip(game, range(game_length)):
             if piece in state.values():
                 for pos in state:
                     if state[pos] == piece:
+                        helper[i][pos] += 1
                         output[i][pos+'P'] += 1 #inc existence score
                         if('w' in piece): #white piece
                             if(outcome == 'w'):
@@ -82,7 +85,7 @@ def count(games, piece):
 
     for game in games:
         game_length = len(game)-1
-        outcome = game[-1]['A8']
+        outcome = game[-1].values()[0]
         for state, i in zip(game, range(game_length)):
             if piece in state.values():
                 for pos in state:
@@ -94,8 +97,8 @@ def count(games, piece):
                         if(not output[i].has_key(pos+'T')):
                             output[i][pos+'T'] = 0
 
-    for state in output:
-        total = sum(output[state].values()) #total possible places of a piece at any given state
+    for state in helper:
+        total = sum(helper[state].values()) #total possible places of a piece at any given state
         output[state] = dict(output[state])
         for pos in output[state]:
             output[state][pos] /= total
