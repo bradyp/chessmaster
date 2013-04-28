@@ -14,6 +14,7 @@ http://processing.org/learning/2darray/
             margin-right: auto;
             display: block;
         }
+        body {background-image:url('bg.jpg');}
     </style>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
     <script src="processing-1.4.1.js"></script>
@@ -53,14 +54,13 @@ http://processing.org/learning/2darray/
                 <option>White Pawn 7</option>
                 <option>White Pawn 8</option>
             </select>
-            <p id="tcounter">Turn: 0</p>
+            <p id="tcounter" style="color:white;">Turn: 0</p>
             <script type="application/processing">
                 // 2D Array of objects
                 Cell[][] grid;
                 HScrollbar Hbar;
                 var history = {};
                 HashMap piece_shapes = new HashMap(6);
-                //var piece_shapes = {"P": "\u2659", "R":"\u2656", "N":"\u2658", "B":"\u2657", "Q":"\u2655", "K","\u2654"};
                 int states_length = 0;
                 int inc_width = 0;
                 int current_state = 0;
@@ -106,20 +106,27 @@ http://processing.org/learning/2darray/
                             grid[place[0]][place[1]].setProb(history[current_state.toString()][entry]);
                             grid[place[0]][place[1]].setPiece(piece_shapes.get(piece[1]));
                             grid[place[0]][place[1]].display();
-                            
                         }
                     }
                 }
                 void draw() {
-                    inc_width = width / (states_length - 1 );
+                    inc_width = ceil(width / (states_length));
                     Hbar.update();
                     Hbar.display();
-                    current_state = int(Hbar.getPos()/inc_width);
-                    Hbar.setPos(current_state* inc_width);
-                    reset_grid();
+                    if (current_state != floor(Hbar.getPos()/inc_width)){
+                        current_state = floor(Hbar.getPos()/inc_width);
+                    }
                     $("#tcounter").text("Turn: " + current_state.toString());
+                    reset_grid();
                     update();
-                    
+                    for (int i = 0; i < cols; i++) {
+                        for (int j = 0; j < rows; j++) {
+                            if (grid[i][j].mouseOver() && grid[i][j].piece_shape != ""){
+                                grid[i][j].stats();//setColor(255 - grid[i][j].c);
+                            }
+                            //grid[i][j].display();
+                        }
+                    }
                     if (piece != get_id(pieces.options[pieces.selectedIndex].text)){ //new piece selected
                         piece = get_id(pieces.options[pieces.selectedIndex].text);
                         load_file(piece);
@@ -152,9 +159,28 @@ http://processing.org/learning/2darray/
                         if (prob < 0.5) {fill(0);}
                         else {fill(255);}
                         textSize(16);
-                        text(prob * 100,x+5,y+15);
+                        string value = (prob * 100).toString();
+                        text("P: " + value.substring(0,7),x+5,y+15);
                         textSize(64);
                         text(piece_shape,x + w/2 -32 ,y + h/2 +24);
+                    }
+                    
+                    void stats(){
+                        textSize(16);
+                        fill( color(0, 94, 149) );//should be blue
+                        rect(x,y,w,h);
+                        fill(255);//font color
+                        string value = (prob * 100).toString();
+                        text("P: " + value.substring(0,7),x+5,y+15);
+                        
+                    }
+                    boolean mouseOver(){
+                        if (mouseX > x && mouseX < x + w){
+                            if (mouseY > y && mouseY < y+h){
+                                return true;
+                            }
+                        }
+                        return false;
                     }
                     
                     void setColor(int c_){c =c_;}
@@ -240,34 +266,11 @@ http://processing.org/learning/2darray/
                         newspos = len/ratio;
                     }
                 }/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+                                
                 void mouseClicked() {
                     i_ = find(mouseX);
                     j_ = find(mouseY);
                     if (i_ == -1 || j_ == -1) {return;} //doesn't do anything if click isn't on board
-                    /*if (states_length >= 0){
-                        if (mouseButton == LEFT) {
-                            if (current_state < states_length -1){
-                                current_state += 1;
-                                $("#tcounter").text("Turn: " + current_state.toString());
-                                Hbar.setPos(current_state * inc_width);
-                                reset_grid();
-                            }
-                        }
-                        else if (mouseButton == RIGHT){
-                            if (current_state > 0) {
-                                current_state -= 1;
-                                $("#tcounter").text("Turn: " + current_state.toString());
-                                Hbar.setPos(current_state * inc_width);
-                                reset_grid();
-                            }
-                        }
-                    }
-                    else{
-                        alert("invalid data for " + piece);
-                        alert("stored " + piece);
-                        alert("actual " + get_id(pieces.options[pieces.selectedIndex].text));
-                        alert(piece != get_id(pieces.options[pieces.selectedIndex].text));
-                    }*/
                 }
                 
                 int find(pos){
