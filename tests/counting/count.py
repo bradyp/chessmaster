@@ -73,5 +73,8 @@ def count(games, piece):
 
 if __name__ == '__main__':
     games = readfile(sys.argv[1])
-    states = count(games,'wKK')
+    #pieces=['bR1','bR2','bN1','bN2','bB1','bB2','bQQ','bKK',
+    #
+    #        'wR1','wR1','wN1','wN2','wB1','wB2','wQQ','wKK',
+    states = count(games,'wP5')
     print states
