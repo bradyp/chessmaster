@@ -71,7 +71,10 @@ class Game(object):
         Is the index in column col?
         """
         # Return true if the index is in the given column
-        return (index in xrange(self.mapper[col], 65, 8))
+        if(type(col) != type(0)):
+            return (index in xrange(self.mapper[col], 65, 8))
+        else:
+            return (index in xrange(col, 65, 8))
 
     def isInRow(self, row, index):
         """
@@ -129,12 +132,11 @@ class Game(object):
         Updates the current board state depending on the player and move
         that's being played.
         """
-        print 'MAKING MOVE'
         # Create copy of the new move
         move = newmove
 
         # Display current board state
-        self.prettyPrintBoard(self.state)
+        #self.prettyPrintBoard(self.state)
 
         # Remove useless symbols
         move = move.replace('+', '')
@@ -172,8 +174,6 @@ class Game(object):
                 self.state[61] = 'wR2'
             return 'O-O'
 
-        print 'MAKING MOVE2 = \"%s\"' % move
-
         # Normal Moves require that we base updates on piece movement rules
         # A normal move has been made, identify the piece's new location
         if('=' not in move):
@@ -181,12 +181,9 @@ class Game(object):
         else:
             newloc = self.getLoc(move[-3], move[-4])
 
-        print 'HERE WE GO'
-
-        print 'SO I SURVIVED'
         # Pawn is being moved
         if(move[0] in self.mapper.keys()):
-            print 'Moving Pawn'
+            #print 'Moving Pawn'
             # If pawn is not capturing, move it
             if('x' not in move):
                 if(player == 'W'):
@@ -208,19 +205,17 @@ class Game(object):
                         self.state[newloc] = self.state[l2]
                         self.state[l2] = self.empty_tile
 
-            # Else, pawn is capturing a piece
-            # Note: We ignore en passante moves since
-            #       none are performed in our corpus.
-            #TODO :: Handle en passante!
+            # Handle capturing
             else:
                 row, col = None, None
+                oldloc = None
+                enpassante = None
                 if('=' in move):
-                    print 'promotion'
-                    col, row = -3, -4
+                    col, row = -4, -3
                 else:
-                    print 'no promotion'
-                    col, row = -1, -2
-                oldloc = self.getLoc(move[col], move[row])
+                    col, row = -2, -1
+                oldloc = self.getLoc(move[row], move[col])
+
                 if(player == 'W'):
                     oldloc += 8
                 else:
@@ -230,16 +225,21 @@ class Game(object):
                 else:
                     oldloc += 1
 
+                if(self.state[newloc] == self.empty_tile):
+                    if('P' in self.state[oldloc-1] and
+                        self.isInColumn(move[col],oldloc-1)):
+                        enpassante = oldloc - 1;
+                    elif('P' in self.state[oldloc+1] and
+                        self.isInColumn(move[col],oldloc+1)):
+                        enpassante = oldloc + 1;
+
                 self.state[newloc] = self.state[oldloc]
                 self.state[oldloc] = self.empty_tile
-                if(move == 'cxd5'):
-                    print 'wtf'
-                    print 'oldloc =',oldloc
-                    print 'newloc =',newloc
+                if(enpassante is not None):
+                    self.state[enpassante] = self.empty_tile
 
             # Handle pawn promotion
             if('=' in move):
-                print 'PROMOTION'
                 if(player == 'W'):
                     self.state[newloc] = 'w'
                 else:
@@ -257,7 +257,7 @@ class Game(object):
 
         # Knight is being moved
         elif(move[0] == 'N'):
-            print 'Moving Knight'
+            #print 'Moving Knight'
             move = move.replace('x', '')
             locs = [newloc - 8 * 2 + 1,
                     newloc - 8 + 2,
@@ -305,9 +305,6 @@ class Game(object):
 
             # One knight is move/capturing
             if(len(move) == 3):
-                print 'knight 3'
-                print 'newloc = ',newloc
-                print 'locs = ',locs
                 self.state[newloc] = self.state[locs2[0]]
                 self.state[locs2[0]] = self.empty_tile
 
@@ -317,9 +314,7 @@ class Game(object):
             #      time constraints.
             #FIX LATER!
             elif(len(move) == 4):
-                print 'knight 4'
                 self.isInteger(move[1])
-                print 'passed'
                 oldloc = None
                 if(self.isInteger(move[1])):
                     for loc in locs2:
@@ -330,15 +325,11 @@ class Game(object):
                         if(self.isInColumn(move[1],loc)):
                             oldloc = loc
                             break
-                print 'newloc:',newloc
-                print 'locs2:',locs2
-                print 'oldloc:',oldloc
                 self.state[newloc] = self.state[oldloc]
                 self.state[oldloc] = self.empty_tile
 
             # Two knights on the same file
             elif(len(move) == 5):
-                print 'knight 5'
                 oldloc = self.getLoc(move[1], move[2])
                 self.state[newloc] = self.state[oldloc]
                 self.state[oldloc] = self.empty_tile
@@ -352,7 +343,7 @@ class Game(object):
         #      time constraints.
         #FIX LATER!
         elif(move[0] == 'R'):
-            print 'Moving Rook'
+            #print 'Moving Rook'
             move = move.replace('x', '')
             locs = []
             left, right, top, bottom = True, True, True, True
@@ -472,14 +463,13 @@ class Game(object):
         #      time constraints.
         #FIX LATER!
         elif(move[0] == 'B'):
-            print 'Moving Bishop'
+            #print 'Moving Bishop'
             move = move.replace('x', '')
             locs = []
             lu, ru, ld, rd = True, True, True, True
             lumove, rumove = newloc, newloc
             ldmove, rdmove = newloc, newloc
 
-            print 'p1'
             # Find all possible rook locations along the
             # new locations rank and file.
             while(lu or ru or ld or rd):
@@ -510,7 +500,6 @@ class Game(object):
                             ru = False
                         else:
                             ru = False
-                            asdfjkl
                 # Find all possible positions to the lower-left diagonal
                 if(ld):
                     if(self.inBorder(ldmove, ldmove + 7)):
@@ -538,11 +527,9 @@ class Game(object):
                         else:
                             rd = False
 
-            print 'p2'
             if(len(move) == 3):
                 oldloc = None
                 for loc in locs:
-                    print 'piece in loc(%d) = %s' % (loc, self.state[loc])
                     if(player == 'W' and 'wB' in self.state[loc]):
                         oldloc = loc
                         break
@@ -594,7 +581,7 @@ class Game(object):
 
         # Queen is being moved
         elif(move[0] == 'Q'):
-            print 'Moving Queen'
+            #print 'Moving Queen'
             move = move.replace('x', '')
             locs = []
 
@@ -716,11 +703,9 @@ class Game(object):
                         else:
                             rd = False
 
-            print 'len of locs = %d' % len(locs)
             if(len(move) >= 3):
                 oldloc = None
                 for loc in locs:
-                    print 'Loc(%d) has piece %s' % (loc, self.state[loc])
                     if(player == 'W' and 'wQ' in self.state[loc]):
                         oldloc = loc
                         break
@@ -772,7 +757,7 @@ class Game(object):
 
         # King is being moved
         elif(move[0] == 'K'):
-            print 'Moving King'
+            #print 'Moving King'
             move = move.replace('x', '')
             locs = []
             if(not self.inBorder(newloc, newloc - 8 - 1)):
@@ -814,26 +799,20 @@ class Game(object):
             raise Exception('Invalid move detected: (%s)' % move)
 
         # Display updated board state
-        self.prettyPrintBoard(self.state)
+        #self.prettyPrintBoard(self.state)
 
         # Return the piece's new location
         return newloc
 
-    #TODO :: Deprecate this when we no longer need it!
     def new_state(self, player, turn, move):
         """
         Wrapper method for the updateBoard() method.
         """
-        print '--------------------------------------------'
-        print 'player = ', player
-        print 'turn = ', turn
-        print 'move = ', move
         try:
             self.updateBoard(player, move)
         except Exception, e:
-            print 'Exception caught: %s' % e
-            exit()
-        print '--------------------------------------------'
+            #print 'Exception caught: %s' % e
+            raise('Ignore game.')
         return self.state
 
     def process_games(self, pgn_text):
@@ -860,14 +839,13 @@ class Game(object):
                 'wR1', 'wN1', 'wB1', 'wQQ', 'wKK', 'wB2', 'wN2', 'wR2'
                 ]
         self.state = init
-        self.games.all_states.append(self.state)
-        print '[',init
+        self.games.all_states.append(copy.deepcopy(self.state))
 
         # For each (turn,move) in the game, record the board state for turn, moves in move_list:
         for turn,moves in move_list:
             #Endgame detected, return
             if(len(moves) == 1):
-                print '1. ENDGAME: %s' % moves
+                #print '1. ENDGAME: %s' % moves
                 break
 
             # Update for white's turn
@@ -875,20 +853,23 @@ class Game(object):
             self.games.all_states.append(copy.deepcopy(self.state))
 
             if('-' in moves[1]):
-                print '2. ENDGAME: %s' % moves
+                #print '2. ENDGAME: %s' % moves
                 break
 
             # Update for black's turn
             self.new_state('B', turn, moves[1])
             self.games.all_states.append(copy.deepcopy(self.state))
 
-        # Display final board staet
+        # Display final board state
+        print '['
         num_states = len(self.games.all_states)
         for i in xrange(num_states):
             print self.games.all_states[i],
             if(i != num_states - 1):
-              print ','
-        print ']\n'
+                print ','
+            else:
+                print ''
+        print ']\n\n@\n'
 
         # Reset containers
         self.games.all_states = []
@@ -901,13 +882,13 @@ if __name__ == '__main__':
     controller = Game()
     controller.preParse(sys.argv[1])
     count = 0
+    fails = 0
     for game in controller.games.game_data:
         try:
             controller.process_games(game)
             count += 1
-        except AttributeError, e:  # AttributeError:
-            print '\n\nAttribute Exception caught: %s' % e
-            print 'Exception occurred during game #%d' % count
-            print 'Failed game data is as follows:\n', game
-            exit()
+        except Exception:  # AttributeError:
+            fails += 1
+            #print 'ERROR on game %d\n' % count
+            continue
 

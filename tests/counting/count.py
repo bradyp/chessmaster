@@ -29,13 +29,17 @@ def readfile(filename):
           'A1','B1','C1','D1','E1','F1','G1','H1',
           ]
     for entry in games:
-        game = ast.literal_eval(entry)
+        try:
+          game = ast.literal_eval(entry)
+        except Exception, e:
+          print 'Exception:',e
+          print 'Error occurred on entry:',entry
+          exit()
         refined_game = []
         for state in game:
             refined_game.append(dict(zip(id,state)))
         output.append(refined_game)
     return output
-    pass
 
 def count(games, piece):
     """
@@ -66,9 +70,8 @@ def count(games, piece):
             output[state][pos] /= total
 
     return json.dumps(output)
-    pass
 
 if __name__ == '__main__':
     games = readfile(sys.argv[1])
-    states = count(games,string.lower('wP1'))
+    states = count(games,'wKK')
     print states
