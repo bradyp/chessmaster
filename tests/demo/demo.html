@@ -99,13 +99,20 @@ http://processing.org/learning/2darray/
                             grid[i][j].display();
                         }
                     }
-                    if (states_length > 0){//changes color for each square according to probs known
+                    if (states_length >= 0){//changes color for each square according to probs known
                         for (var entry in history[current_state.toString()]){
-                            place = map(entry);
-                            grid[place[0]][place[1]].setColor(255 * history[current_state.toString()][entry]);
-                            grid[place[0]][place[1]].setProb(history[current_state.toString()][entry]);
-                            grid[place[0]][place[1]].setPiece(piece_shapes.get(piece[1]));
-                            grid[place[0]][place[1]].display();
+                            place = map(entry[0] + entry[1]);
+                            i = place[0];j = place[1]
+                            
+                            grid[i][j].setColor(255 * history[current_state.toString()][entry[0] + entry[1] + "P"]);
+                            grid[i][j].setPiece(piece_shapes.get(piece[1]));
+                            
+                            if (entry[2] == "P"){grid[i][j].setProb(history[current_state.toString()][entry]);}
+                            if (entry[2] == "W"){grid[i][j].setWin(history[current_state.toString()][entry]);}
+                            if (entry[2] == "L"){grid[i][j].setLoss(history[current_state.toString()][entry]);}
+                            if (entry[2] == "T"){grid[i][j].setTie(history[current_state.toString()][entry]);}
+                            
+                            grid[i][j].display();
                         }
                     }
                 }
@@ -122,9 +129,8 @@ http://processing.org/learning/2darray/
                     for (int i = 0; i < cols; i++) {
                         for (int j = 0; j < rows; j++) {
                             if (grid[i][j].mouseOver() && grid[i][j].piece_shape != ""){
-                                grid[i][j].stats();//setColor(255 - grid[i][j].c);
+                                grid[i][j].stats();
                             }
-                            //grid[i][j].display();
                         }
                     }
                     if (piece != get_id(pieces.options[pieces.selectedIndex].text)){ //new piece selected
@@ -140,7 +146,7 @@ http://processing.org/learning/2darray/
                     float w,h;   // width and height
                     Color c; // angle for oscillating brightness
                     string piece_shape;
-                    float prob;
+                    float prob, win, loss, tie;
                     
                     // Cell Constructor
                     Cell(float tempX, float tempY, float tempW, float tempH, Color tempC) {
@@ -151,18 +157,24 @@ http://processing.org/learning/2darray/
                         c = tempC;
                         piece_shape = "";
                         prob = 0;
+                        win = 0;
+                        loss = 0;
+                        tie = 0;
                     } 
                     
                     void display() {
                         fill(255 - c);
                         rect(x,y,w,h);
+                        
                         if (prob < 0.5) {fill(0);}
                         else {fill(255);}
+                        
                         textSize(16);
                         string value = (prob * 100).toString();
                         text("P: " + value.substring(0,7),x+5,y+15);
+                        
                         textSize(64);
-                        text(piece_shape,x + w/2 -32 ,y + h/2 +24);
+                        text(piece_shape,x + w/2 - 32 ,y + h/2 +24);
                     }
                     
                     void stats(){
@@ -170,9 +182,14 @@ http://processing.org/learning/2darray/
                         fill( color(0, 94, 149) );//should be blue
                         rect(x,y,w,h);
                         fill(255);//font color
-                        string value = (prob * 100).toString();
-                        text("P: " + value.substring(0,7),x+5,y+15);
-                        
+                        string pvalue = (prob * 100).toString();
+                        string wvalue = (win  * 100).toString();
+                        string lvalue = (loss * 100).toString();
+                        string tvalue = (tie  * 100).toString();
+                        text("P: " + pvalue.substring(0,7),x+5,y+15);
+                        text("W: " + wvalue.substring(0,7),x+5,y+35);
+                        text("L: " + lvalue.substring(0,7),x+5,y+55);
+                        text("T: " + tvalue.substring(0,7),x+5,y+75);
                     }
                     boolean mouseOver(){
                         if (mouseX > x && mouseX < x + w){
@@ -186,6 +203,9 @@ http://processing.org/learning/2darray/
                     void setColor(int c_){c =c_;}
                     void setProb(float p_){prob = p_;}
                     void setPiece(string _piece){piece_shape = _piece;}
+                    void setWin(float w_){win = w_;}
+                    void setLoss(float l_){loss = l_;}
+                    void setTie(float t_){tie = t_;}
                 }
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
                 class HScrollbar {
@@ -305,7 +325,7 @@ http://processing.org/learning/2darray/
                 void load_file(piece_id){
                     $.getJSON("data/" + piece_id + ".json", function(data){
                               history = data;
-                              states_length = Object.keys(data).length;
+                              states_length = Object.keys(data).length / 4;
                            });
 
                     current_state = 0;
