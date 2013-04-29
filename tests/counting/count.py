@@ -28,6 +28,8 @@ def readfile(filename):
           'A2','B2','C2','D2','E2','F2','G2','H2',
           'A1','B1','C1','D1','E1','F1','G1','H1',
           ]
+    maxlen = 0
+    minlen = 1e6
     for entry in games:
         try:
           game = ast.literal_eval(entry)
@@ -38,7 +40,14 @@ def readfile(filename):
         refined_game = []
         for state in game:
             refined_game.append(dict(zip(id,state)))
+            if len(refined_game[-1]) > maxlen:
+                maxlen = len(refined_game[-1])
+            if len(refined_game[-1]) < minlen:
+                minlen = len(refined_game[-1])
         output.append(refined_game)
+
+    print 'maxlen = ',maxlen
+    print 'minlen = ',minlen
     return output
 
 def count(games, piece):
@@ -52,6 +61,9 @@ def count(games, piece):
     #prepare
     record = defaultdict(float) #this is an instance of the lowest most
     longest = max([len(game) for game in games])-1
+    print '---------------------------------------'
+    print 'longest game for %s had %d turns.' % (piece,longest)
+    print '---------------------------------------'
     output = {}
     helper = {}
     for i in range(longest):
@@ -100,8 +112,24 @@ def count(games, piece):
     for state in helper:
         total = sum(helper[state].values()) #total possible places of a piece at any given state
         output[state] = dict(output[state])
+        score = 0
+        print output[state]
         for pos in output[state]:
-            output[state][pos] /= total
+            if('P' in pos):
+                output[state][pos] /= total
+            elif('W' in pos):
+                score += output[state][pos]
+            elif('L' in pos):
+                score += output[state][pos]
+            elif('T' in pos):
+                score += output[state][pos]
+        for pos in output[state]:
+            if('W' in pos):
+                output[state][pos] /= score
+            elif('L' in pos):
+                output[state][pos] /= score
+            elif('T' in pos):
+                output[state][pos] /= score
 
     #delete empty records that may appear for some reason
     for k in list(output.keys()):
@@ -118,6 +146,7 @@ if __name__ == '__main__':
             'wP1','wP2','wP3','wP4','wP5','wP6','wP7','wP8',
             'wR1','wR1','wN1','wN2','wB1','wB2','wQQ','wKK',
             ]
+    print 'About to count pieces...'
     for piece in pieces:
       states = count(games,piece)
       print 'Writing piece %s to file...' % piece
